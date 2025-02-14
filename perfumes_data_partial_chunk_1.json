@@ -1,0 +1,289 @@
+[
+  {
+    "name": "Spicebomb  Viktor & Rolf 2012",
+    "brand": "Viktor & Rolf",
+    "year": "2012",
+    "detailed_ratings": {
+      "Duft": {
+        "rating": "7.8",
+        "number_of_ratings": "1851"
+      },
+      "Haltbarkeit": {
+        "rating": "7.5",
+        "number_of_ratings": "1559"
+      },
+      "Sillage": {
+        "rating": "7.4",
+        "number_of_ratings": "1561"
+      },
+      "Flakon": {
+        "rating": "7.9",
+        "number_of_ratings": "1614"
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": "8.0",
+        "number_of_ratings": "892"
+      }
+    },
+    "scent_strength": {
+      "Würzig": "l",
+      "Süß": "l",
+      "Orientalisch": "m",
+      "Holzig": "s",
+      "Gourmand": "s"
+    },
+    "top_notes": [
+      "rosa Pfeffer",
+      "Bergamotte",
+      "Grapefruit"
+    ],
+    "middle_notes": [
+      "Zimt",
+      "Chili",
+      "Safran"
+    ],
+    "base_notes": [
+      "Tabak",
+      "Leder",
+      "Vetiver"
+    ],
+    "all_notes": null,
+    "ratings": {},
+    "scent_types": {
+      "scent_type": {},
+      "style": {},
+      "season": {},
+      "occasion": {}
+    },
+    "url": "https://www.parfumo.de/Parfums/Viktor_Rolf/Spicebomb"
+  },
+  {
+    "name": "Eau Sauvage Parfum  Dior 2012",
+    "brand": "Dior",
+    "year": "2012",
+    "detailed_ratings": {
+      "Duft": {
+        "rating": "8.3",
+        "number_of_ratings": "514"
+      },
+      "Haltbarkeit": {
+        "rating": "8.5",
+        "number_of_ratings": "419"
+      },
+      "Sillage": {
+        "rating": "7.9",
+        "number_of_ratings": "420"
+      },
+      "Flakon": {
+        "rating": "8.3",
+        "number_of_ratings": "426"
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": "7.8",
+        "number_of_ratings": "118"
+      }
+    },
+    "scent_strength": {
+      "Würzig": "m",
+      "Holzig": "m",
+      "Zitrus": "m",
+      "Harzig": "s",
+      "Rauchig": "s"
+    },
+    "top_notes": [
+      "kalabrische Bergamotte"
+    ],
+    "middle_notes": [
+      "somalische Myrrhe"
+    ],
+    "base_notes": [
+      "haitianisches Vetiver"
+    ],
+    "all_notes": null,
+    "ratings": {},
+    "scent_types": {
+      "scent_type": {},
+      "style": {},
+      "season": {},
+      "occasion": {}
+    },
+    "url": "https://www.parfumo.de/Parfums/Dior/Eau_Sauvage_Parfum"
+  },
+  {
+    "name": "A*Men Pure Shot  Pure Energy Mugler 2012",
+    "brand": "Mugler",
+    "year": "2012",
+    "detailed_ratings": {
+      "Duft": {
+        "rating": "7.3",
+        "number_of_ratings": "208"
+      },
+      "Haltbarkeit": {
+        "rating": "6.6",
+        "number_of_ratings": "155"
+      },
+      "Sillage": {
+        "rating": "6.2",
+        "number_of_ratings": "157"
+      },
+      "Flakon": {
+        "rating": "7.1",
+        "number_of_ratings": "174"
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": "7.4",
+        "number_of_ratings": "26"
+      }
+    },
+    "scent_strength": {
+      "Frisch": "l",
+      "Würzig": "l",
+      "Holzig": "m",
+      "Zitrus": "s",
+      "Aquatisch": "s"
+    },
+    "top_notes": [
+      "Wacholderbeere",
+      "Minze"
+    ],
+    "middle_notes": [
+      "weißer Pfeffer",
+      "Kardamom"
+    ],
+    "base_notes": [
+      "Mammutbaum",
+      "Patchouli"
+    ],
+    "all_notes": null,
+    "ratings": {},
+    "scent_types": {
+      "scent_type": {},
+      "style": {},
+      "season": {},
+      "occasion": {}
+    },
+    "url": "https://www.parfumo.de/Parfums/mugler/AMen_Pure_Shot"
+  },
+  {
+    "name": "Dior Homme Sport Dior 2012 Eau de Toilette",
+    "brand": "Dior",
+    "year": "2012",
+    "detailed_ratings": {
+      "Duft": {
+        "rating": "7.6",
+        "number_of_ratings": "475"
+      },
+      "Haltbarkeit": {
+        "rating": "6.6",
+        "number_of_ratings": "351"
+      },
+      "Sillage": {
+        "rating": "6.3",
+        "number_of_ratings": "358"
+      },
+      "Flakon": {
+        "rating": "8.4",
+        "number_of_ratings": "381"
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": "6.9",
+        "number_of_ratings": "111"
+      }
+    },
+    "scent_strength": {
+      "Frisch": "l",
+      "Zitrus": "l",
+      "Holzig": "m",
+      "Würzig": "m",
+      "Grün": "s"
+    },
+    "top_notes": [
+      "Zitronatzitrone",
+      "Ingwer"
+    ],
+    "middle_notes": [
+      "Iris"
+    ],
+    "base_notes": [
+      "Zeder",
+      "grüne Noten"
+    ],
+    "all_notes": null,
+    "ratings": {},
+    "scent_types": {
+      "scent_type": {},
+      "style": {},
+      "season": {},
+      "occasion": {}
+    },
+    "url": "https://www.parfumo.de/Parfums/Dior/Dior_Homme_Sport_2012_Eau_de_Toilette"
+  },
+  {
+    "name": "Chypre Palatin  Parfums MDCI 2012",
+    "brand": "Parfums MDCI",
+    "year": "2012",
+    "detailed_ratings": {
+      "Duft": {
+        "rating": "8.3",
+        "number_of_ratings": "642"
+      },
+      "Haltbarkeit": {
+        "rating": "8.4",
+        "number_of_ratings": "524"
+      },
+      "Sillage": {
+        "rating": "7.5",
+        "number_of_ratings": "526"
+      },
+      "Flakon": {
+        "rating": "8.4",
+        "number_of_ratings": "469"
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": "6.9",
+        "number_of_ratings": "216"
+      }
+    },
+    "scent_strength": {
+      "Chypre": "l",
+      "Würzig": "m",
+      "Blumig": "s",
+      "Orientalisch": "s",
+      "Animalisch": "s"
+    },
+    "top_notes": [
+      "Galbanum",
+      "Hyazinthe",
+      "Mandarine",
+      "Zistrose",
+      "Lavendel",
+      "Thymian"
+    ],
+    "middle_notes": [
+      "Pflaume",
+      "Rose",
+      "Gardenie",
+      "Iris",
+      "Jasmin"
+    ],
+    "base_notes": [
+      "Benzoe",
+      "Eichenmoos",
+      "Styrax",
+      "Tolubalsam",
+      "Immortelle",
+      "Leder",
+      "Vanille Absolue",
+      "Bibergeil"
+    ],
+    "all_notes": null,
+    "ratings": {},
+    "scent_types": {
+      "scent_type": {},
+      "style": {},
+      "season": {},
+      "occasion": {}
+    },
+    "url": "https://www.parfumo.de/Parfums/Parfums_MDCI/Chypre_Palatin"
+  }
+]

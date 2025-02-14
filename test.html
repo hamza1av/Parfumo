@@ -1,0 +1,270 @@
+
+    
+    
+    <script>
+        require.config({
+            baseUrl: "https://www.parfumo.de/js/plugins/",
+            shim: {
+                'amcharts4/core': {
+                    init: function () {
+                        return window.am4core;
+                    }
+                },
+                'amcharts4/charts': {
+                    deps: ['amcharts4/core'],
+                    exports: 'amcharts4/charts',
+                    init: function () {
+                        return window.am4charts;
+                    }
+                },
+                'amcharts4/themes/animated': {
+                    deps: ['amcharts4/core'],
+                    exports: 'amcharts4/themes/animated',
+                    init: function () {
+                        return window.am4themes_animated;
+                    }
+                }
+            }
+        });
+    </script>
+
+    <script>
+
+		require([
+			'amcharts4/core',
+			'amcharts4/charts',
+			'amcharts4/themes/animated'
+		], function (am4core, am4charts, am4themes_animated) {
+				
+			am4core.addLicense("CH59076979");
+			am4core.useTheme(am4themes_animated);
+
+			var chart4 = am4core.create("chartdiv4", am4charts.PieChart);
+
+			chart4.data = [{"ct_name":"W\u00fcrzig","votes":"1118"},{"ct_name":"S\u00fc\u00df","votes":"970"},{"ct_name":"Orientalisch","votes":"563"},{"ct_name":"Holzig","votes":"378"},{"ct_name":"Gourmand","votes":"420"}];
+			chart4.radius = am4core.percent(60);
+
+			var pieSeries4 = chart4.series.push(new am4charts.PieSeries());
+			pieSeries4.labels.template.text = "{category} {value.percent.formatNumber('#.')}%";
+			pieSeries4.labels.template.fill = am4core.color("#aaaaaa"); 
+			pieSeries4.colors.list = [am4core.color("#9bbcb7"),am4core.color("#d1a2ff"),am4core.color("#c16692"),am4core.color("#d79785"),am4core.color("#ffa0ab")];
+			pieSeries4.dataFields.value = "votes";
+			pieSeries4.dataFields.category = "ct_name";
+			pieSeries4.fontSize = 11;
+			pieSeries4.hiddenState.properties.endAngle = -90;
+			pieSeries4.hiddenState.properties.startAngle = -90;
+			pieSeries4.ticks.template.stroke = am4core.color("#aaaaaa");
+							
+        });
+
+    </script>
+    <div class="col mb-2">
+        <span class="black bold">Dufttyp</span>
+            <span class="text-sm lightgrey">(3449 Stimmen)</span>
+        <div id="chartdiv4" class="chart_placeholder" style="position: relative;"><div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all; width: 358px; height: 240px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all; width: 200%; height: 200%;"></div></div></div><div style="width: 100%; height: 100%; position: relative; top: 0.333313px;"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="group" style="width: 100%; height: 100%; overflow: visible;"><desc>JavaScript chart by amCharts</desc><defs><clipPath id="id-46"><rect width="348" height="230"></rect></clipPath><clipPath id="id-71"></clipPath><filter id="filter-id-51" width="200%" height="200%" x="-50%" y="-50%"><feGaussianBlur result="blurOut" in="SourceGraphic" stdDeviation="1.5"></feGaussianBlur><feOffset result="offsetBlur" dx="1" dy="1"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="offsetBlur" operator="in"></feComposite><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter><filter id="filter-id-76" width="200%" height="200%" x="-50%" y="-50%"><feGaussianBlur result="blurOut" in="SourceGraphic" stdDeviation="1.5"></feGaussianBlur><feOffset result="offsetBlur" dx="1" dy="1"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="offsetBlur" operator="in"></feComposite><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs><g><g fill="#ffffff" fill-opacity="0"><rect width="348" height="230"></rect></g><g><g role="widget" clip-path="url(&quot;#id-46&quot;)" opacity="1" aria-describedby="id-22-description"><g><g><g><g><g><g transform="translate(174,115)"><g><g role="menu" font-size="11" opacity="1" aria-describedby="id-66-description"><g><g clip-path="url(&quot;#id-71&quot;)"><g></g></g><g></g><g><g><g stroke-opacity="1" role="menuitem" focusable="true" fill="#9bbcb7" stroke="#9bbcb7" id="id-296" transform="translate(0,0)"><g><g><path d=" M0,0  L0,-69  a69,69,0,0,1,61.6455,99.9973 L0,0 "></path></g><g></g></g></g><g stroke-opacity="1" role="menuitem" focusable="true" fill="#d1a2ff" stroke="#d1a2ff" id="id-314" transform="translate(0,0)"><g><g><path d=" M0,0  L61.6455,30.9973  a69,69,0,0,1,-104.0705,23.4188 L0,0 "></path></g><g></g></g></g><g stroke-opacity="1" role="menuitem" focusable="true" fill="#c16692" stroke="#c16692" id="id-331" transform="translate(0,0)"><g><g><path d=" M0,0  L-42.425,54.4161  a69,69,0,0,1,-26.1029,-62.4739 L0,0 "></path></g><g></g></g></g><g stroke-opacity="1" role="menuitem" focusable="true" fill="#d79785" stroke="#d79785" id="id-348" transform="translate(0,0)"><g><g><path d=" M0,0  L-68.5279,-8.0578  a69,69,0,0,1,20.7363,-41.7113 L0,0 "></path></g><g></g></g></g><g stroke-opacity="1" role="menuitem" focusable="true" fill="#ffa0ab" stroke="#ffa0ab" id="id-365" transform="translate(0,0)"><g><g><path d=" M0,0  L-47.7916,-49.7691  a69,69,0,0,1,47.7916,-19.2309 L0,0 "></path></g><g></g></g></g></g></g><g><g><g fill-opacity="0" stroke-opacity="0.2" stroke="#aaaaaa" stroke-width="1"><polyline points="58.735908360299995,-36.2090191653,72.45,-41.168080485764996,78.45,-41.168080485764996"></polyline></g><g fill-opacity="0" stroke-opacity="0.2" stroke="#aaaaaa" stroke-width="1"><polyline points="15.148166436,67.3166625243,72.45,76.536118478715,78.45,76.536118478715"></polyline></g><g fill-opacity="0" stroke-opacity="0.2" stroke="#aaaaaa" stroke-width="1"><polyline points="-63.666212218199995,26.6010041448,-72.45,30.244185147240003,-78.45,30.244185147240003"></polyline></g><g fill-opacity="0" stroke-opacity="0.2" stroke="#aaaaaa" stroke-width="1"><polyline points="-61.786029410400005,-30.716226493199997,-72.45,-34.92301403466,-78.45,-34.92301403466"></polyline></g><g fill-opacity="0" stroke-opacity="0.2" stroke="#aaaaaa" stroke-width="1"><polyline points="-25.7578291059,-64.0119851286,-72.45,-72.77884396143,-78.45,-72.77884396143"></polyline></g></g></g><g><g><g fill="#aaaaaa" transform="translate(78.45,-41.168080485764996)"><g transform="translate(5,-7.75)" style="user-select: none;"><text x="0" y="15.5" dy="-4.185"><tspan>Würzig 32%</tspan></text></g></g><g fill="#aaaaaa" transform="translate(78.45,76.536118478715)"><g transform="translate(5,-7.75)" style="user-select: none;"><text x="0" y="15.5" dy="-4.185"><tspan>Süß 28%</tspan></text></g></g><g fill="#aaaaaa" transform="translate(-78.45,30.244185147240003)"><g transform="translate(-94,-7.75)" style="user-select: none;"><text x="0" y="15.5" dy="-4.185"><tspan>Orientalisch 16%</tspan></text></g></g><g fill="#aaaaaa" transform="translate(-78.45,-34.92301403466)"><g transform="translate(-63,-7.75)" style="user-select: none;"><text x="0" y="15.5" dy="-4.185"><tspan>Holzig 11%</tspan></text></g></g><g fill="#aaaaaa" transform="translate(-78.45,-72.77884396143)"><g transform="translate(-88,-7.75)" style="user-select: none;"><text x="0" y="15.5" dy="-4.185"><tspan>Gourmand 12%</tspan></text></g></g></g></g></g><desc id="id-66-description">Series</desc></g></g></g><g transform="translate(183,115)"><g><g><g></g></g></g></g></g></g></g></g></g><desc id="id-22-description">Chart</desc></g><g><g><g role="tooltip" visibility="hidden" opacity="0"><g fill="#ffffff" style="pointer-events: none;" fill-opacity="0.9" stroke-width="1" stroke-opacity="1" stroke="#ffffff" filter="url(&quot;#filter-id-51&quot;)" transform="translate(0,6)"><path d="M3,0 L3,0 L0,-6 L13,0 L21,0 a3,3 0 0 1 3,3 L24,8 a3,3 0 0 1 -3,3 L3,11 a3,3 0 0 1 -3,-3 L0,3 a3,3 0 0 1 3,-3"></path></g><g><g fill="#ffffff" style="pointer-events: none;" transform="translate(12,6)"><g transform="translate(0,7)" display="none"></g></g></g></g><g visibility="hidden" style="pointer-events: none;" display="none"><g fill="#ffffff" opacity="1"><rect width="366" height="230"></rect></g><g><g transform="translate(183,115)"><g><g stroke-opacity="1" fill="#f3f3f3" fill-opacity="0.8"><g><g><path d=" M53,0  a53,53,0,0,1,-106,0 a53,53,0,0,1,106,0 M42,0  a42,42,0,0,0,-84,0 a42,42,0,0,0,84,0 L42,0 "></path></g></g></g><g stroke-opacity="1" fill="#000000" fill-opacity="0.2"><g><g><path d=" M50,0  a50,50,0,0,1,-100,0 a50,50,0,0,1,100,0 M45,0  a45,45,0,0,0,-90,0 a45,45,0,0,0,90,0 L45,0 "></path></g></g></g><g fill="#000000" fill-opacity="0.4"><g style="user-select: none;" transform="translate(-20.5,-10.5)"><text x="0" y="21" dy="-5.67"><tspan>100%</tspan></text></g></g></g></g></g></g><g role="tooltip" opacity="0" aria-describedby="id-296" transform="translate(223.868,96.8955)" aria-hidden="true" visibility="hidden"><g fill="#9bbcb7" style="pointer-events: none;" fill-opacity="0.9" stroke-width="1" stroke-opacity="1" stroke="#ffffff" filter="url(&quot;#filter-id-76&quot;)" transform="translate(-88,-38)"><path d="M3,0 L173,0 a3,3 0 0 1 3,3 L176,29 a3,3 0 0 1 -3,3 L173,32 L93,32 L88,38 L83,32 L3,32 a3,3 0 0 1 -3,-3 L0,3 a3,3 0 0 1 3,-3"></path></g><g><g fill="#000000" style="pointer-events: none;" transform="translate(0,-38)"><g transform="translate(-76,7)" style="user-select: none;"><text x="0" y="21" dy="-5.67"><tspan>Würzig: 32.4% (1,118)</tspan></text></g></g></g></g></g></g></g></g></svg></div></div>
+    </div>
+	<script>
+		$('.action_show_chart').removeClass('hide');
+	</script>
+
+
+    <script>
+        require.config({
+            baseUrl: "https://www.parfumo.de/js/plugins/",
+            shim: {
+                'amcharts4/core': {
+                    init: function () {
+                        return window.am4core;
+                    }
+                },
+                'amcharts4/charts': {
+                    deps: ['amcharts4/core'],
+                    exports: 'amcharts4/charts',
+                    init: function () {
+                        return window.am4charts;
+                    }
+                },
+                'amcharts4/themes/animated': {
+                    deps: ['amcharts4/core'],
+                    exports: 'amcharts4/themes/animated',
+                    init: function () {
+                        return window.am4themes_animated;
+                    }
+                }
+            }
+        });
+    </script>
+
+    <script>
+
+		require([
+			'amcharts4/core',
+			'amcharts4/charts',
+			'amcharts4/themes/animated'
+		], function (am4core, am4charts, am4themes_animated) {
+				
+			am4core.addLicense("CH59076979");
+			am4core.useTheme(am4themes_animated);
+
+			var chart1 = am4core.create("chartdiv1", am4charts.PieChart);
+
+			chart1.data = [{"ct_name":"Herren","votes":"1152"},{"ct_name":"Damen","votes":"118"},{"ct_name":"Klassisch","votes":"317"},{"ct_name":"Modern","votes":"652"}];
+			chart1.radius = am4core.percent(60);
+
+			var pieSeries1 = chart1.series.push(new am4charts.PieSeries());
+			pieSeries1.labels.template.text = "{category} {value.percent.formatNumber('#.')}%";
+			pieSeries1.labels.template.fill = am4core.color("#aaaaaa"); 
+			pieSeries1.colors.list = [am4core.color("#8aafee"),am4core.color("#f1a1f1"),am4core.color("#aaafc8"),am4core.color("#cbd5ea")];
+			pieSeries1.dataFields.value = "votes";
+			pieSeries1.dataFields.category = "ct_name";
+			pieSeries1.fontSize = 11;
+			pieSeries1.hiddenState.properties.endAngle = -90;
+			pieSeries1.hiddenState.properties.startAngle = -90;
+			pieSeries1.ticks.template.stroke = am4core.color("#aaaaaa");
+							
+        });
+
+    </script>
+    <div class="col mb-2">
+        <span class="black bold">Stil</span>
+            <span class="text-sm lightgrey">(2239 Stimmen)</span>
+        <div id="chartdiv1" class="chart_placeholder" style="position: relative;"><div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all; width: 358px; height: 240px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all; width: 200%; height: 200%;"></div></div></div><div style="width: 100%; height: 100%; position: relative; left: 0.466675px; top: 0.333313px;"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="group" style="width: 100%; height: 100%; overflow: visible;"><desc>JavaScript chart by amCharts</desc><defs><clipPath id="id-109"><rect width="348" height="230"></rect></clipPath><clipPath id="id-134"></clipPath><filter id="filter-id-114" width="200%" height="200%" x="-50%" y="-50%"><feGaussianBlur result="blurOut" in="SourceGraphic" stdDeviation="1.5"></feGaussianBlur><feOffset result="offsetBlur" dx="1" dy="1"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="offsetBlur" operator="in"></feComposite><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter><filter id="filter-id-139" width="200%" height="200%" x="-50%" y="-50%"><feGaussianBlur result="blurOut" in="SourceGraphic" stdDeviation="1.5"></feGaussianBlur><feOffset result="offsetBlur" dx="1" dy="1"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="offsetBlur" operator="in"></feComposite><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs><g><g fill="#ffffff" fill-opacity="0"><rect width="348" height="230"></rect></g><g><g role="widget" clip-path="url(&quot;#id-109&quot;)" opacity="1" aria-describedby="id-85-description"><g><g><g><g><g><g transform="translate(174,115)"><g><g role="menu" font-size="11" opacity="1" aria-describedby="id-129-description"><g><g clip-path="url(&quot;#id-134&quot;)"><g></g></g><g></g><g><g><g stroke-opacity="1" role="menuitem" focusable="true" fill="#8aafee" stroke="#8aafee" id="id-389" transform="translate(0,0)"><g><g><path d=" M0,0  L0,-69  a69,69,0,0,1,68.9283,72.1454 a69,69,0,0,1,-75.2126,65.5678 L0,0 "></path></g><g></g></g></g><g stroke-opacity="1" role="menuitem" focusable="true" fill="#f1a1f1" stroke="#f1a1f1"><g><g><path d=" M0,0  L-6.2843,68.7132  a69,69,0,0,1,-21.9985,-5.7761 L0,0 "></path></g><g></g></g></g><g stroke-opacity="1" role="menuitem" focusable="true" fill="#aaafc8" stroke="#aaafc8"><g><g><path d=" M0,0  L-28.2828,62.9371  a69,69,0,0,1,-38.418,-45.2735 L0,0 "></path></g><g></g></g></g><g stroke-opacity="1" role="menuitem" focusable="true" fill="#cbd5ea" stroke="#cbd5ea" id="id-441" transform="translate(0,0)"><g><g><path d=" M0,0  L-66.7008,17.6636  a69,69,0,0,1,66.7008,-86.6636 L0,0 "></path></g><g></g></g></g></g></g><g><g><g fill-opacity="0" stroke-opacity="0.2" stroke="#aaaaaa" stroke-width="1"><polyline points="68.9282697873,3.1454131758,72.45,3.57619802379,78.45,3.57619802379"></polyline></g><g fill-opacity="0" stroke-opacity="0.2" stroke="#aaaaaa" stroke-width="1"><polyline points="-17.5231886985,66.7378292868,-72.45,76.259,-78.45,76.259"></polyline></g><g fill-opacity="0" stroke-opacity="0.2" stroke="#aaaaaa" stroke-width="1"><polyline points="-52.6107884136,44.6442039051,-72.45,50.75851878775501,-78.45,50.75851878775501"></polyline></g><g fill-opacity="0" stroke-opacity="0.2" stroke="#aaaaaa" stroke-width="1"><polyline points="-54.679928763300005,-42.084502977,-72.45,-47.84825012385001,-78.45,-47.84825012385001"></polyline></g></g></g><g><g><g fill="#aaaaaa" transform="translate(78.45,3.57619802379)"><g transform="translate(5,-7.75)" style="user-select: none;"><text x="0" y="15.5" dy="-4.185"><tspan>Herren 51%</tspan></text></g></g><g fill="#aaaaaa" transform="translate(-78.45,76.259)"><g transform="translate(-63,-7.75)" style="user-select: none;"><text x="0" y="15.5" dy="-4.185"><tspan>Damen 5%</tspan></text></g></g><g fill="#aaaaaa" transform="translate(-78.45,50.75851878775501)"><g transform="translate(-78,-7.75)" style="user-select: none;"><text x="0" y="15.5" dy="-4.185"><tspan>Klassisch 14%</tspan></text></g></g><g fill="#aaaaaa" transform="translate(-78.45,-47.84825012385001)"><g transform="translate(-73,-7.75)" style="user-select: none;"><text x="0" y="15.5" dy="-4.185"><tspan>Modern 29%</tspan></text></g></g></g></g></g><desc id="id-129-description">Series</desc></g></g></g><g transform="translate(183,115)"><g><g><g></g></g></g></g></g></g></g></g></g><desc id="id-85-description">Chart</desc></g><g><g><g role="tooltip" visibility="hidden" opacity="0"><g fill="#ffffff" style="pointer-events: none;" fill-opacity="0.9" stroke-width="1" stroke-opacity="1" stroke="#ffffff" filter="url(&quot;#filter-id-114&quot;)" transform="translate(0,6)"><path d="M3,0 L3,0 L0,-6 L13,0 L21,0 a3,3 0 0 1 3,3 L24,8 a3,3 0 0 1 -3,3 L3,11 a3,3 0 0 1 -3,-3 L0,3 a3,3 0 0 1 3,-3"></path></g><g><g fill="#ffffff" style="pointer-events: none;" transform="translate(12,6)"><g transform="translate(0,7)" display="none"></g></g></g></g><g visibility="hidden" style="pointer-events: none;" display="none"><g fill="#ffffff" opacity="1"><rect width="366" height="230"></rect></g><g><g transform="translate(183,115)"><g><g stroke-opacity="1" fill="#f3f3f3" fill-opacity="0.8"><g><g><path d=" M53,0  a53,53,0,0,1,-106,0 a53,53,0,0,1,106,0 M42,0  a42,42,0,0,0,-84,0 a42,42,0,0,0,84,0 L42,0 "></path></g></g></g><g stroke-opacity="1" fill="#000000" fill-opacity="0.2"><g><g><path d=" M50,0  a50,50,0,0,1,-100,0 a50,50,0,0,1,100,0 M45,0  a45,45,0,0,0,-90,0 a45,45,0,0,0,90,0 L45,0 "></path></g></g></g><g fill="#000000" fill-opacity="0.4"><g style="user-select: none;" transform="translate(-20.5,-10.5)"><text x="0" y="21" dy="-5.67"><tspan>100%</tspan></text></g></g></g></g></g></g><g role="tooltip" opacity="0" aria-describedby="id-389" transform="translate(228.96413489365,116.5727065879)" aria-hidden="true" visibility="hidden"><g fill="#8aafee" style="pointer-events: none;" fill-opacity="0.9" stroke-width="1" stroke-opacity="1" stroke="#ffffff" filter="url(&quot;#filter-id-139&quot;)" transform="translate(-88.5,-38)"><path d="M3,0 L174,0 a3,3 0 0 1 3,3 L177,29 a3,3 0 0 1 -3,3 L174,32 L93.5,32 L88.5,38 L83.5,32 L3,32 a3,3 0 0 1 -3,-3 L0,3 a3,3 0 0 1 3,-3"></path></g><g><g fill="#000000" style="pointer-events: none;" transform="translate(0,-38)"><g transform="translate(-76.5,7)" style="user-select: none;"><text x="0" y="21" dy="-5.67"><tspan>Herren: 51.5% (1,152)</tspan></text></g></g></g></g></g></g></g></g></svg></div></div>
+    </div>
+	<script>
+		$('.action_show_chart').removeClass('hide');
+	</script>
+
+
+    <script>
+        require.config({
+            baseUrl: "https://www.parfumo.de/js/plugins/",
+            shim: {
+                'amcharts4/core': {
+                    init: function () {
+                        return window.am4core;
+                    }
+                },
+                'amcharts4/charts': {
+                    deps: ['amcharts4/core'],
+                    exports: 'amcharts4/charts',
+                    init: function () {
+                        return window.am4charts;
+                    }
+                },
+                'amcharts4/themes/animated': {
+                    deps: ['amcharts4/core'],
+                    exports: 'amcharts4/themes/animated',
+                    init: function () {
+                        return window.am4themes_animated;
+                    }
+                }
+            }
+        });
+    </script>
+
+    <script>
+
+		require([
+			'amcharts4/core',
+			'amcharts4/charts',
+			'amcharts4/themes/animated'
+		], function (am4core, am4charts, am4themes_animated) {
+				
+			am4core.addLicense("CH59076979");
+			am4core.useTheme(am4themes_animated);
+
+			var chart3 = am4core.create("chartdiv3", am4charts.PieChart);
+
+			chart3.data = [{"ct_name":"Winter","votes":"1204"},{"ct_name":"Herbst","votes":"964"},{"ct_name":"Fr\u00fchling","votes":"174"}];
+			chart3.radius = am4core.percent(60);
+
+			var pieSeries3 = chart3.series.push(new am4charts.PieSeries());
+			pieSeries3.labels.template.text = "{category} {value.percent.formatNumber('#.')}%";
+			pieSeries3.labels.template.fill = am4core.color("#aaaaaa"); 
+			pieSeries3.colors.list = [am4core.color("#a2cbff"),am4core.color("#d9b1be"),am4core.color("#badc82")];
+			pieSeries3.dataFields.value = "votes";
+			pieSeries3.dataFields.category = "ct_name";
+			pieSeries3.fontSize = 11;
+			pieSeries3.hiddenState.properties.endAngle = -90;
+			pieSeries3.hiddenState.properties.startAngle = -90;
+			pieSeries3.ticks.template.stroke = am4core.color("#aaaaaa");
+							
+        });
+
+    </script>
+    <div class="col mb-2">
+        <span class="black bold">Jahreszeit</span>
+            <span class="text-sm lightgrey">(2342 Stimmen)</span>
+        <div id="chartdiv3" class="chart_placeholder" style="position: relative;"><div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all; width: 358px; height: 240px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all; width: 200%; height: 200%;"></div></div></div><div style="width: 100%; height: 100%; position: relative; top: 0.333313px;"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="group" style="width: 100%; height: 100%; overflow: visible;"><desc>JavaScript chart by amCharts</desc><defs><clipPath id="id-172"><rect width="348" height="230"></rect></clipPath><clipPath id="id-197"></clipPath><filter id="filter-id-177" width="200%" height="200%" x="-50%" y="-50%"><feGaussianBlur result="blurOut" in="SourceGraphic" stdDeviation="1.5"></feGaussianBlur><feOffset result="offsetBlur" dx="1" dy="1"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="offsetBlur" operator="in"></feComposite><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter><filter id="filter-id-202" width="200%" height="200%" x="-50%" y="-50%"><feGaussianBlur result="blurOut" in="SourceGraphic" stdDeviation="1.5"></feGaussianBlur><feOffset result="offsetBlur" dx="1" dy="1"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="offsetBlur" operator="in"></feComposite><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs><g><g fill="#ffffff" fill-opacity="0"><rect width="348" height="230"></rect></g><g><g role="widget" clip-path="url(&quot;#id-172&quot;)" opacity="1" aria-describedby="id-148-description"><g><g><g><g><g><g transform="translate(174,115)"><g><g role="menu" font-size="11" opacity="1" aria-describedby="id-192-description"><g><g clip-path="url(&quot;#id-197&quot;)"><g></g></g><g></g><g><g><g stroke-opacity="1" role="menuitem" focusable="true" fill="#a2cbff" stroke="#a2cbff"><g><g><path d=" M0,0  L0,-69  a69,69,0,0,1,68.9324,72.0534 a69,69,0,0,1,-75.0332,65.6764 L0,0 "></path></g><g></g></g></g><g stroke-opacity="1" role="menuitem" focusable="true" fill="#d9b1be" stroke="#d9b1be"><g><g><path d=" M0,0  L-6.1008,68.7298  a69,69,0,0,1,-24.9521,-130.3473 L0,0 "></path></g><g></g></g></g><g stroke-opacity="1" role="menuitem" focusable="true" fill="#badc82" stroke="#badc82"><g><g><path d=" M0,0  L-31.0529,-61.6175  a69,69,0,0,1,31.0529,-7.3825 L0,0 "></path></g><g></g></g></g></g></g><g><g><g fill-opacity="0" stroke-opacity="0.2" stroke="#aaaaaa" stroke-width="1"><polyline points="68.9324069514,3.0534032766,72.45,3.47158676883,78.45,3.47158676883"></polyline></g><g fill-opacity="0" stroke-opacity="0.2" stroke="#aaaaaa" stroke-width="1"><polyline points="-67.7694813378,12.9729487362,-72.45,14.749678671809999,-78.45,14.749678671809999"></polyline></g><g fill-opacity="0" stroke-opacity="0.2" stroke="#aaaaaa" stroke-width="1"><polyline points="-15.959190400499999,-67.1290119252,-72.45,-76.32276790626,-78.45,-76.32276790626"></polyline></g></g></g><g><g><g fill="#aaaaaa" transform="translate(78.45,3.47158676883)"><g transform="translate(5,-7.75)" style="user-select: none;"><text x="0" y="15.5" dy="-4.185"><tspan>Winter 51%</tspan></text></g></g><g fill="#aaaaaa" transform="translate(-78.45,14.749678671809999)"><g transform="translate(-67,-7.75)" style="user-select: none;"><text x="0" y="15.5" dy="-4.185"><tspan>Herbst 41%</tspan></text></g></g><g fill="#aaaaaa" transform="translate(-78.45,-76.32276790626)"><g transform="translate(-68,-7.75)" style="user-select: none;"><text x="0" y="15.5" dy="-4.185"><tspan>Frühling 7%</tspan></text></g></g></g></g></g><desc id="id-192-description">Series</desc></g></g></g><g transform="translate(183,115)"><g><g><g></g></g></g></g></g></g></g></g></g><desc id="id-148-description">Chart</desc></g><g><g><g role="tooltip" visibility="hidden" opacity="0"><g fill="#ffffff" style="pointer-events: none;" fill-opacity="0.9" stroke-width="1" stroke-opacity="1" stroke="#ffffff" filter="url(&quot;#filter-id-177&quot;)" transform="translate(0,6)"><path d="M3,0 L3,0 L0,-6 L13,0 L21,0 a3,3 0 0 1 3,3 L24,8 a3,3 0 0 1 -3,3 L3,11 a3,3 0 0 1 -3,-3 L0,3 a3,3 0 0 1 3,-3"></path></g><g><g fill="#ffffff" style="pointer-events: none;" transform="translate(12,6)"><g transform="translate(0,7)" display="none"></g></g></g></g><g visibility="hidden" style="pointer-events: none;" display="none"><g fill="#ffffff" opacity="1"><rect width="366" height="230"></rect></g><g><g transform="translate(183,115)"><g><g stroke-opacity="1" fill="#f3f3f3" fill-opacity="0.8"><g><g><path d=" M53,0  a53,53,0,0,1,-106,0 a53,53,0,0,1,106,0 M42,0  a42,42,0,0,0,-84,0 a42,42,0,0,0,84,0 L42,0 "></path></g></g></g><g stroke-opacity="1" fill="#000000" fill-opacity="0.2"><g><g><path d=" M50,0  a50,50,0,0,1,-100,0 a50,50,0,0,1,100,0 M45,0  a45,45,0,0,0,-90,0 a45,45,0,0,0,90,0 L45,0 "></path></g></g></g><g fill="#000000" fill-opacity="0.4"><g style="user-select: none;" transform="translate(-20.5,-10.5)"><text x="0" y="21" dy="-5.67"><tspan>100%</tspan></text></g></g></g></g></g></g><g role="tooltip" visibility="hidden" opacity="0"><g fill="#ffffff" style="pointer-events: none;" fill-opacity="0.9" stroke-width="1" stroke-opacity="1" stroke="#ffffff" filter="url(&quot;#filter-id-202&quot;)" transform="translate(0,6)"><path d="M3,0 L3,0 L0,-6 L13,0 L21,0 a3,3 0 0 1 3,3 L24,8 a3,3 0 0 1 -3,3 L3,11 a3,3 0 0 1 -3,-3 L0,3 a3,3 0 0 1 3,-3"></path></g><g><g fill="#ffffff" style="pointer-events: none;" transform="translate(12,6)"><g transform="translate(0,7)" display="none"></g></g></g></g></g></g></g></g></svg></div></div>
+    </div>
+	<script>
+		$('.action_show_chart').removeClass('hide');
+	</script>
+
+
+    <script>
+        require.config({
+            baseUrl: "https://www.parfumo.de/js/plugins/",
+            shim: {
+                'amcharts4/core': {
+                    init: function () {
+                        return window.am4core;
+                    }
+                },
+                'amcharts4/charts': {
+                    deps: ['amcharts4/core'],
+                    exports: 'amcharts4/charts',
+                    init: function () {
+                        return window.am4charts;
+                    }
+                },
+                'amcharts4/themes/animated': {
+                    deps: ['amcharts4/core'],
+                    exports: 'amcharts4/themes/animated',
+                    init: function () {
+                        return window.am4themes_animated;
+                    }
+                }
+            }
+        });
+    </script>
+
+    <script>
+
+		require([
+			'amcharts4/core',
+			'amcharts4/charts',
+			'amcharts4/themes/animated'
+		], function (am4core, am4charts, am4themes_animated) {
+				
+			am4core.addLicense("CH59076979");
+			am4core.useTheme(am4themes_animated);
+
+			var chart2 = am4core.create("chartdiv2", am4charts.PieChart);
+
+			chart2.data = [{"ct_name":"T\u00e4glich","votes":"305"},{"ct_name":"Freizeit","votes":"534"},{"ct_name":"Ausgehen","votes":"1048"},{"ct_name":"Arbeit","votes":"170"},{"ct_name":"Abend","votes":"1078"}];
+			chart2.radius = am4core.percent(60);
+
+			var pieSeries2 = chart2.series.push(new am4charts.PieSeries());
+			pieSeries2.labels.template.text = "{category} {value.percent.formatNumber('#.')}%";
+			pieSeries2.labels.template.fill = am4core.color("#aaaaaa"); 
+			pieSeries2.colors.list = [am4core.color("#a7dcf3"),am4core.color("#f6ea86"),am4core.color("#a096e8"),am4core.color("#c1c1c1"),am4core.color("#f480ac")];
+			pieSeries2.dataFields.value = "votes";
+			pieSeries2.dataFields.category = "ct_name";
+			pieSeries2.fontSize = 11;
+			pieSeries2.hiddenState.properties.endAngle = -90;
+			pieSeries2.hiddenState.properties.startAngle = -90;
+			pieSeries2.ticks.template.stroke = am4core.color("#aaaaaa");
+							
+        });
+
+    </script>
+    <div class="col mb-2">
+        <span class="black bold">Anlass</span>
+            <span class="text-sm lightgrey">(3135 Stimmen)</span>
+        <div id="chartdiv2" class="chart_placeholder" style="position: relative;"><div dir="ltr" class="resize-sensor" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div class="resize-sensor-expand" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all; width: 358px; height: 240px;"></div></div><div class="resize-sensor-shrink" style="pointer-events: none; position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; max-width: 100%;"><div style="position: absolute; left: 0px; top: 0px; transition: all; width: 200%; height: 200%;"></div></div></div><div style="width: 100%; height: 100%; position: relative; left: 0.466675px; top: 0.333374px;"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="group" style="width: 100%; height: 100%; overflow: visible;"><desc>JavaScript chart by amCharts</desc><defs><clipPath id="id-235"><rect width="348" height="230"></rect></clipPath><clipPath id="id-260"></clipPath><filter id="filter-id-240" width="200%" height="200%" x="-50%" y="-50%"><feGaussianBlur result="blurOut" in="SourceGraphic" stdDeviation="1.5"></feGaussianBlur><feOffset result="offsetBlur" dx="1" dy="1"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="offsetBlur" operator="in"></feComposite><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter><filter id="filter-id-265" width="200%" height="200%" x="-50%" y="-50%"><feGaussianBlur result="blurOut" in="SourceGraphic" stdDeviation="1.5"></feGaussianBlur><feOffset result="offsetBlur" dx="1" dy="1"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="offsetBlur" operator="in"></feComposite><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs><g><g fill="#ffffff" fill-opacity="0"><rect width="348" height="230"></rect></g><g><g role="widget" clip-path="url(&quot;#id-235&quot;)" opacity="1" aria-describedby="id-211-description"><g><g><g><g><g><g transform="translate(174,115)"><g><g role="menu" font-size="11" opacity="1" aria-describedby="id-255-description"><g><g clip-path="url(&quot;#id-260&quot;)"><g></g></g><g></g><g><g><g stroke-opacity="1" role="menuitem" focusable="true" fill="#a7dcf3" stroke="#a7dcf3"><g><g><path d=" M0,0  L0,-69  a69,69,0,0,1,39.6004,12.495 L0,0 "></path></g><g></g></g></g><g stroke-opacity="1" role="menuitem" focusable="true" fill="#f6ea86" stroke="#f6ea86"><g><g><path d=" M0,0  L39.6004,-56.505  a69,69,0,0,1,28.977,64.1299 L0,0 "></path></g><g></g></g></g><g stroke-opacity="1" role="menuitem" focusable="true" fill="#a096e8" stroke="#a096e8"><g><g><path d=" M0,0  L68.5774,7.6249  a69,69,0,0,1,-109.8029,47.7055 L0,0 "></path></g><g></g></g></g><g stroke-opacity="1" role="menuitem" focusable="true" fill="#c1c1c1" stroke="#c1c1c1"><g><g><path d=" M0,0  L-41.2255,55.3304  a69,69,0,0,1,-16.1195,-16.9566 L0,0 "></path></g><g></g></g></g><g stroke-opacity="1" role="menuitem" focusable="true" fill="#f480ac" stroke="#f480ac"><g><g><path d=" M0,0  L-57.345,38.3739  a69,69,0,0,1,57.345,-107.3739 L0,0 "></path></g><g></g></g></g></g></g><g><g><g fill-opacity="0" stroke-opacity="0.2" stroke="#aaaaaa" stroke-width="1"><polyline points="20.7624382242,-65.8021364328,72.45,-74.81416816164,78.45,-74.81416816164"></polyline></g><g fill-opacity="0" stroke-opacity="0.2" stroke="#aaaaaa" stroke-width="1"><polyline points="62.878998794400005,-28.4118199071,72.45,-32.303003937855,78.45,-32.303003937855"></polyline></g><g fill-opacity="0" stroke-opacity="0.2" stroke="#aaaaaa" stroke-width="1"><polyline points="27.4951899384,63.285184130400005,72.45,71.95250282652,78.45,71.95250282652"></polyline></g><g fill-opacity="0" stroke-opacity="0.2" stroke="#aaaaaa" stroke-width="1"><polyline points="-50.0091655626,47.5403340327,-72.45,54.051292824135004,-78.45,54.051292824135004"></polyline></g><g fill-opacity="0" stroke-opacity="0.2" stroke="#aaaaaa" stroke-width="1"><polyline points="-60.863768082600004,-32.5054108521,-72.45,-36.957238860105,-78.45,-36.957238860105"></polyline></g></g></g><g><g><g fill="#aaaaaa" transform="translate(78.45,-74.81416816164)"><g transform="translate(5,-7.75)" style="user-select: none;"><text x="0" y="15.5" dy="-4.185"><tspan>Täglich 10%</tspan></text></g></g><g fill="#aaaaaa" transform="translate(78.45,-32.303003937855)"><g transform="translate(5,-7.75)" style="user-select: none;"><text x="0" y="15.5" dy="-4.185"><tspan>Freizeit 17%</tspan></text></g></g><g fill="#aaaaaa" transform="translate(78.45,71.95250282652)"><g transform="translate(5,-7.75)" style="user-select: none;"><text x="0" y="15.5" dy="-4.185"><tspan>Ausgehen 33%</tspan></text></g></g><g fill="#aaaaaa" transform="translate(-78.45,54.051292824135004)"><g transform="translate(-57,-7.75)" style="user-select: none;"><text x="0" y="15.5" dy="-4.185"><tspan>Arbeit 5%</tspan></text></g></g><g fill="#aaaaaa" transform="translate(-78.45,-36.957238860105)"><g transform="translate(-65,-7.75)" style="user-select: none;"><text x="0" y="15.5" dy="-4.185"><tspan>Abend 34%</tspan></text></g></g></g></g></g><desc id="id-255-description">Series</desc></g></g></g><g transform="translate(183,115)"><g><g><g></g></g></g></g></g></g></g></g></g><desc id="id-211-description">Chart</desc></g><g><g><g role="tooltip" visibility="hidden" opacity="0"><g fill="#ffffff" style="pointer-events: none;" fill-opacity="0.9" stroke-width="1" stroke-opacity="1" stroke="#ffffff" filter="url(&quot;#filter-id-240&quot;)" transform="translate(0,6)"><path d="M3,0 L3,0 L0,-6 L13,0 L21,0 a3,3 0 0 1 3,3 L24,8 a3,3 0 0 1 -3,3 L3,11 a3,3 0 0 1 -3,-3 L0,3 a3,3 0 0 1 3,-3"></path></g><g><g fill="#ffffff" style="pointer-events: none;" transform="translate(12,6)"><g transform="translate(0,7)" display="none"></g></g></g></g><g visibility="hidden" style="pointer-events: none;" display="none"><g fill="#ffffff" opacity="1"><rect width="366" height="230"></rect></g><g><g transform="translate(183,115)"><g><g stroke-opacity="1" fill="#f3f3f3" fill-opacity="0.8"><g><g><path d=" M53,0  a53,53,0,0,1,-106,0 a53,53,0,0,1,106,0 M42,0  a42,42,0,0,0,-84,0 a42,42,0,0,0,84,0 L42,0 "></path></g></g></g><g stroke-opacity="1" fill="#000000" fill-opacity="0.2"><g><g><path d=" M50,0  a50,50,0,0,1,-100,0 a50,50,0,0,1,100,0 M45,0  a45,45,0,0,0,-90,0 a45,45,0,0,0,90,0 L45,0 "></path></g></g></g><g fill="#000000" fill-opacity="0.4"><g style="user-select: none;" transform="translate(-20.5,-10.5)"><text x="0" y="21" dy="-5.67"><tspan>100%</tspan></text></g></g></g></g></g></g><g role="tooltip" visibility="hidden" opacity="0"><g fill="#ffffff" style="pointer-events: none;" fill-opacity="0.9" stroke-width="1" stroke-opacity="1" stroke="#ffffff" filter="url(&quot;#filter-id-265&quot;)" transform="translate(0,6)"><path d="M3,0 L3,0 L0,-6 L13,0 L21,0 a3,3 0 0 1 3,3 L24,8 a3,3 0 0 1 -3,3 L3,11 a3,3 0 0 1 -3,-3 L0,3 a3,3 0 0 1 3,-3"></path></g><g><g fill="#ffffff" style="pointer-events: none;" transform="translate(12,6)"><g transform="translate(0,7)" display="none"></g></g></g></g></g></g></g></g></svg></div></div>
+    </div>
+	<script>
+		$('.action_show_chart').removeClass('hide');
+	</script>
+
