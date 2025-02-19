@@ -3,6 +3,8 @@ import time
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
+import re
+import subprocess
 
 class ParfumoScraper:
     def __init__(self, cookie_file='cookies.json', header_file='headers.json', links_file='links.json'):
@@ -10,35 +12,147 @@ class ParfumoScraper:
         self.header_file = header_file
         self.links_file = links_file
         self.session = requests.Session()
-        self.setup_session()
 
-    def setup_session(self):
-        """Set up requests session with custom headers"""
-        default_headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-            'Accept-Language': 'en-US,en;q=0.5',
-            'Connection': 'keep-alive'
+    def get_classification_pie(self, referrer):
+        curl_command = [
+            "curl", "-X", "POST", "https://www.parfumo.de/action/perfume/get_classification_pie.php",
+            "-H", "Content-Type: application/x-www-form-urlencoded; charset=UTF-8",
+            "-H", "Cookie: PHPSESSID=h1ug0djf4v2603la1ai6t8ic1e; _ga=GA1.1.297718056.1739031516; _sp_su=false; _sp_enable_dfp_personalized_ads=true; euconsent-v2=CQMgjEAQMgjEAAGABCENBbFsAP_gAAAAAAYgIzAB5C7cTWFhcHhXAaMAaIwc1xABJkAAAhKAAaABSBIAcIQEkiACMAyAAAACAAAAIABAAAAgAABAAQAAAIgAAAAEAAAEAAAIICAEAAERQgAACAAICAAAAQAIAAABAgEAiACAQQKERFgAgIAgBAAAAIAgAIABAgMAAAAAAAAAAAAAAgAAgQAAAAAAAAACABAAAAeEgNAALAAqABwADwAIIAZABqADwAIgATAA3gB-AEJAIYAiQBHACaAGGAO6AfgB-gG0AUeAvMBkgDLgGsANzAgmEAEgAkACOAH8Ac4BKQCdgI9AXUAyEQABABIKAAgI9GAAQEejoDoACwAKgAcABBADIANQAeABEACYAF0AMQAbwA_QCGAIkATQAw4B-AH6ARYAjoBtAEXgJkAUeAvMBkkDLAMuAaaA1gBxYEARwBAAC4AJAAjgBQAD-AI6AcgBzgDuAIQASkAnYCPQExALqAZCA3MhAIAAWADUAMQAbwBHADuAJSAbQgAFAD_AOQA5wEegJiAiySgHgALAA4ADwAIgATAAxQCGAIkARwA_AEXgKPAXmAyQBrAEASQAcAC4ARwB3AHbAR6AmIBlhSAsAAsACoAHAAQQAyADQAHgARAAmABSADEAH6AQwBEwD8AP0AiwBHQDaAIvAXmAySBlgGXANYAgmUAJAAKAAuACQAI4AWwA2gCOgHIAc4A7gCUgF1ANeAdsBHoCYgFZANzAiyWgBAA1AHcWABAI9ATE.YAAAAAAAAAAA; consentUUID=1d2e9edf-2585-4ab3-9484-05914090a08d_40; consentDate=2025-02-08T16:18:39.046Z; uniqueUser=e4d729908c0c5217dd4073f78b9f6805c2d283c97809576dda6c2b21d2151d5c; _ga_DVZQF4Y622=GS1.1.1739482214.5.1.1739482214.0.0.0"
+            "-H", "DNT: 1",
+            "-H", "Origin: https://www.parfumo.de",
+            "-H", f"Referer: {referrer}",
+            "-H", "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+            "--data-urlencode", f"p={self.p}",
+            "--data-urlencode", f"h={self.h_pie}",
+            "--data-urlencode", f"csrf_key={self.csrf_token}",
+            "--write-out", "HTTP Status: %{http_code}",
+            "--silent", "--show-error"
+        ]
+
+        result = subprocess.run(curl_command, capture_output=True, text=True)
+        response_body, _, status_code = result.stdout.rpartition("HTTP Status: ")
+
+        self.classification_response_body = response_body.strip()
+        self.classification_status_code = status_code.strip()
+
+    def get_ratings_details_request(self, referrer, type):
+        url = "https://www.parfumo.de/action/_get_ratings_details.php"
+
+        payload = {'type': type,
+        'p_id': self.p,
+        'dist': self.dist_token_dic[type],
+        'csrf_key': self.csrf_token,
+        'h': self.h_ratings}
+        files=[
+
+        ]
+        headers = {
+        'accept': '*/*',
+        'content-type': 'application/x-www-form-urlencoded; charset=UTF-8',
+        'cookie': 'PHPSESSID=h1ug0djf4v2603la1ai6t8ic1e; _ga=GA1.1.297718056.1739031516; _sp_su=false; _sp_enable_dfp_personalized_ads=true; euconsent-v2=CQMgjEAQMgjEAAGABCENBbFsAP_gAAAAAAYgIzAB5C7cTWFhcHhXAaMAaIwc1xABJkAAAhKAAaABSBIAcIQEkiACMAyAAAACAAAAIABAAAAgAABAAQAAAIgAAAAEAAAEAAAIICAEAAERQgAACAAICAAAAQAIAAABAgEAi ACAQQKERFgAgIAgBAAAAIAgAIABAgMAAAAAAAAAAAAAAgAAgQAAAAAAAAACABAAAAeEgNAALAAqABwADwAIIAZABqADwAIgATAA3gB-AEJAIYAiQBHACaAGGAO6AfgB-gG0AUeAvMBkgDLgGsANzAgmEAEgAkACOAH8Ac4BKQCdgI9AXUAyEQABABIKAAgI9GAAQEejoDoACwAKgAcABBADIANQAeABEACYAF0AMQAbwA_QCGAIkATQAw4B-AH6ARYAjoBtAEXgJkAUeAvMBkkDLAMuAaaA1gBxYEARwBAAC4AJAAjgBQAD-AI6AcgBzgDuAIQASkAnYCPQExALqAZCA3MhAIAAWADUAMQAbwBHADuAJSAbQgAFAD_AOQA5wEegJiAiySgHgALAA4ADwAIgATAAxQCGAIkARwA_AEXgKPAXmAyQBrAEASQAcAC4ARwB3AHbAR6AmIBlhSAsAAsACoAHAAQQAyADQAHgARAAmABSADEAH6AQwBEwD8AP0AiwBHQDaAIvAXmAySBlgGXANYAgmUAJAAKAAuACQAI4AWwA2gCOgHIAc4A7gCUgF1ANeAdsBHoCYgFZANzAiyWgBAA1AHcWABAI9ATE.YAAAAAAAAAAA; consentUUID=1d2e9edf-2585-4ab3-9484-05914090a08d_40; consentDate=2025-02-08T16:18:39.046Z; uniqueUser=e4d729908c0c5217dd4073f78b9f6805c2d283c97809576dda6c2b21d2151d5c; _ga_DVZQF4Y622=GS1.1.1739570633.10.1.1739572293.0.0.0; PHPSESSID=m1tlk8lfac5kmoqjtb2j2j4kor',
+        'dnt': '1',
+        'origin': 'https://www.parfumo.de',
+        'referer': referrer,
+        'sec-ch-ua': '"Chromium";v="133", "Not(A:Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-origin',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36',
+        'x-requested-with': 'XMLHttpRequest'
         }
-        default_headers = {
-            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-            }
-        
-        try:
-            with open(self.header_file, 'r') as f:
-                headers = json.load(f)
-        except FileNotFoundError:
-            print("Using default headers.")
-            headers = default_headers
 
-        self.session.headers.update(headers)
+        response = requests.request("POST", url, headers=headers, data=payload, files=files) 
+        return response.text, response.status_code
+    
+    def get_classification_dict(self):
+        # Regex pattern to extract chart data
+        pattern = re.compile(r'chart(\d+)\.data\s*=\s*(\[.*?\]);', re.DOTALL)
+
+        # Dictionary to store parsed data
+        charts_dict = {}
+
+        # Extract matches
+        for match in pattern.finditer(self.classification_response_body):
+            chart_number = match.group(1)
+            chart_data = json.loads(match.group(2))  # Convert JSON string to Python object
+            
+            if chart_number == "1":
+                # Separate "Herren" & "Damen" and "Klassisch" & "Modern"
+                group1 = ["Herren", "Damen"]
+                group2 = ["Klassisch", "Modern"]
+                
+                total1 = sum(int(item["votes"]) for item in chart_data if item["ct_name"] in group1)
+                total2 = sum(int(item["votes"]) for item in chart_data if item["ct_name"] in group2)
+
+                for item in chart_data:
+                    if item["ct_name"] in group1:
+                        charts_dict[item["ct_name"]] = round((int(item["votes"]) / total1) * 100, 2)
+                    elif item["ct_name"] in group2:
+                        charts_dict[item["ct_name"]] = round((int(item["votes"]) / total2) * 100, 2)
+            
+            else:
+                # Compute the total votes for normalization
+                total_votes = sum(int(item["votes"]) for item in chart_data)
+                
+                # Convert to relative percentages
+                for item in chart_data:
+                    charts_dict[item["ct_name"]] = round((int(item["votes"]) / total_votes) * 100, 2)  # Round to 2 decimals
+        
+        return charts_dict
+
+    def get_tokens(self):
+
+        p = re.search(r"getClassificationChart\('([^']+)',(\d+),'([^']+)'\)", self.main_html).group(2)
+        h_pie = re.search(r"getClassificationChart\('([^']+)',(\d+),'([^']+)'\)", self.main_html).group(3)
+        csrf_token = re.search(r"csrf_key:'(.*?)'", self.main_html).group(1)
+
+        # Extract key-value pairs
+        matches = re.findall(r'data-type=\"([^\"]+)\"[^>]+data-voting_distribution=\"([^\"]+)\"', self.main_html)
+        dic = {}
+        for pair in matches:
+            dic[pair[0]] = pair[1]
+
+        match = re.search(r'data-h="([^"]+)"', self.main_html)
+        if match:
+            h_ratings = match.group(1)
+        else:
+            print(r"data-h that is needed for the 'get_ratings_details.php' request not found")
+
+        self.dist_token_dic = dic
+        self.h_ratings = h_ratings
+        self.p, self.h_pie, self.csrf_token = p, h_pie, csrf_token
+
+    
+    def get_base_response(self, url):
+        headers = {
+            "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+            "dnt": "1",
+            "origin": "https://www.parfumo.de",
+            "referer": f"{url}",
+            "sec-ch-ua": '"Chromium";v="133", "Not(A:Brand";v="99"',
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": '"macOS"',
+            "sec-fetch-dest": "empty",
+            "sec-fetch-mode": "cors",
+            "sec-fetch-site": "same-origin",
+            "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+            "x-requested-with": "XMLHttpRequest",
+            "cookie": "PHPSESSID=h1ug0djf4v2603la1ai6t8ic1e; _ga=GA1.1.297718056.1739031516; _sp_su=false; _sp_enable_dfp_personalized_ads=true; euconsent-v2=CQMgjEAQMgjEAAGABCENBbFsAP_gAAAAAAYgIzAB5C7cTWFhcHhXAaMAaIwc1xABJkAAAhKAAaABSBIAcIQEkiACMAyAAAACAAAAIABAAAAgAABAAQAAAIgAAAAEAAAEAAAIICAEAAERQgAACAAICAAAAQAIAAABAgEAiACAQQKERFgAgIAgBAAAAIAgAIABAgMAAAAAAAAAAAAAAgAAgQAAAAAAAAACABAAAAeEgNAALAAqABwADwAIIAZABqADwAIgATAA3gB-AEJAIYAiQBHACaAGGAO6AfgB-gG0AUeAvMBkgDLgGsANzAgmEAEgAkACOAH8Ac4BKQCdgI9AXUAyEQABABIKAAgI9GAAQEejoDoACwAKgAcABBADIANQAeABEACYAF0AMQAbwA_QCGAIkATQAw4B-AH6ARYAjoBtAEXgJkAUeAvMBkkDLAMuAaaA1gBxYEARwBAAC4AJAAjgBQAD-AI6AcgBzgDuAIQASkAnYCPQExALqAZCA3MhAIAAWADUAMQAbwBHADuAJSAbQgAFAD_AOQA5wEegJiAiySgHgALAA4ADwAIgATAAxQCGAIkARwA_AEXgKPAXmAyQBrAEASQAcAC4ARwB3AHbAR6AmIBlhSAsAAsACoAHAAQQAyADQAHgARAAmABSADEAH6AQwBEwD8AP0AiwBHQDaAIvAXmAySBlgGXANYAgmUAJAAKAAuACQAI4AWwA2gCOgHIAc4A7gCUgF1ANeAdsBHoCYgFZANzAiyWgBAA1AHcWABAI9ATE.YAAAAAAAAAAA; consentUUID=1d2e9edf-2585-4ab3-9484-05914090a08d_40; consentDate=2025-02-08T16:18:39.046Z; uniqueUser=e4d729908c0c5217dd4073f78b9f6805c2d283c97809576dda6c2b21d2151d5c; _ga_DVZQF4Y622=GS1.1.1739490354.7.1.1739490554.0.0.0",
+            "cache-control": "no-cache",
+            "pragma": "no-cache"
+        }
+
+        self.main_response = requests.get(url=url, headers=headers)
+        # return response
 
     def get_soup(self, url):
         """Make request and return BeautifulSoup object"""
         try:
-            response = self.session.get(url)
-            response.raise_for_status()
-            return BeautifulSoup(response.text, 'html.parser')
+            self.get_base_response(url)
+            self.main_html = self.main_response.text
+            return BeautifulSoup(self.main_html, 'html.parser')
         except Exception as e:
             print(f"Error fetching {url}: {e}")
             return None
@@ -62,24 +176,6 @@ class ParfumoScraper:
             print(f"Error extracting basic info: {e}")
             return {}
 
-    def get_ratings(self, soup):
-        """Extract ratings information"""
-        if not soup:
-            return {}
-            
-        try:
-            rating_section = soup.select_one("div.rating_summary")
-            if rating_section:
-                rating_spans = rating_section.select("span")
-                if len(rating_spans) >= 2:
-                    return {
-                        "rating": rating_spans[0].text.strip(),
-                        "number_of_ratings": rating_spans[1].text.strip().split(" ")[0]
-                    }
-            return {}
-        except Exception as e:
-            print(f"Error extracting ratings: {e}")
-            return {}
 
     def extract_scent_notes(self, soup, category_class):
         """Extract scent notes for a specific category"""
@@ -122,7 +218,7 @@ class ParfumoScraper:
             print(f"Error extracting scent strength: {e}")
             return {}
 
-    def get_detailed_ratings(self, soup):
+    def get_ratings(self, soup):
         """Extract detailed ratings information"""
         if not soup:
             return {}
@@ -151,120 +247,58 @@ class ParfumoScraper:
             print(f"Error extracting detailed ratings: {e}")
             return {}
 
-    # def get_scent_types(self, soup):
-    #     """Extract scent types from diagram section"""
-    #     if not soup:
-    #         return {}
-            
-    #     try:
-    #         scents = {}
-    #         scent_elements = soup.select("svg tspan")
-            
-    #         for element in scent_elements:
-    #             text = element.text.strip()
-    #             if text and '%' in text:
-    #                 try:
-    #                     name, percentage = text.rsplit(' ', 1)
-    #                     percentage = float(percentage.replace('%', ''))
-    #                     scents[name] = percentage
-    #                 except ValueError:
-    #                     continue
-                    
-    #         return scents
-    #     except Exception as e:
-    #         print(f"Error extracting scent types: {e}")
-    #         return {}
+    def get_rating_details(self, referrer, type):
 
-    def get_scent_types(self, soup):
-        """Extract all fragrance characteristics from the pie charts"""
-        if not soup:
-            return {}
-            
-        try:
-            characteristics = {
-                'scent_type': {},  # Dufttyp - chart4
-                'style': {},       # Stil - chart1
-                'season': {},      # Jahreszeit - chart3
-                'occasion': {}     # Anlass - chart2
-            }
-            
-            # Find all script tags containing chart data
-            scripts = soup.find_all('script')
-            for script in scripts:
-                if not script.string:
-                    continue
-                    
-                # Process each chart's data
-                for chart_id, category in [
-                    ('chart4.data', 'scent_type'),
-                    ('chart1.data', 'style'),
-                    ('chart3.data', 'season'),
-                    ('chart2.data', 'occasion')
-                ]:
-                    if chart_id in script.string:
-                        # Extract the data array
-                        data_start = script.string.find(f'{chart_id} = ') + len(f'{chart_id} = ')
-                        data_end = script.string.find('];', data_start) + 1
-                        data_str = script.string[data_start:data_end]
-                        
-                        try:
-                            # Parse the JSON data
-                            import json
-                            chart_data = json.loads(data_str)
-                            
-                            # Create dictionary of characteristics and their vote counts
-                            for item in chart_data:
-                                name = item['ct_name']
-                                votes = int(item['votes'])
-                                characteristics[category][name] = votes
-                        except json.JSONDecodeError:
-                            print(f"Error parsing JSON for {category}")
-                            continue
-                        
-            return characteristics
-        except Exception as e:
-            print(f"Error extracting fragrance characteristics: {e}")
-            return {}
+        response_string, reponse_status = self.get_ratings_details_request(referrer, type) 
+        response_dict = json.loads(response_string)
+        return response_dict["dist"]
 
 
     def scrape_perfume(self, url):
         """Scrape all information for a single perfume"""
         try:
             print(f"\nScraping: {url}")
+            self.get_base_response(url)
             
             # Get main page
             main_soup = self.get_soup(url)
             if not main_soup:
                 return None
 
+            self.get_tokens()
+
             # Extract data from main page
             basic_info = self.get_basic_info(main_soup)
-            detailed_ratings = self.get_detailed_ratings(main_soup)
-            scent_strength = self.get_scent_strength(main_soup)
+            detailed_ratings = {
+                "scent": self.get_rating_details(url, type="scent"),
+                "durability": self.get_rating_details(url, type="durability"),
+                "sillage": self.get_rating_details(url, type="sillage"),
+                "bottle": self.get_rating_details(url, type="bottle"),
+                "pricing": self.get_rating_details(url, type="pricing")
+            }
+            ratings = self.get_ratings(main_soup)
+            # scent_strength = self.get_scent_strength(main_soup)
             top_notes = self.extract_scent_notes(main_soup, 'nb_t')
             middle_notes = self.extract_scent_notes(main_soup, 'nb_m')
             base_notes = self.extract_scent_notes(main_soup, 'nb_b')
-            ratings = self.get_ratings(main_soup)
 
             # Get all notes if structured notes fail
             all_notes = None
             if not (top_notes or middle_notes or base_notes):
                 all_notes = [el.text.strip() for el in main_soup.select('span.clickable_note_img span.nowrap.pointer') if el.text.strip()]
 
-            # Get diagram page
-            # diagram_url = urljoin(url, '/diagram')
-            # diagram_soup = self.get_soup(diagram_url)
-            scent_types = self.get_scent_types(main_soup) if main_soup else {}
+            self.get_classification_pie(referrer = url)
+            scent_types = self.get_classification_dict() if self.classification_response_body else {}
 
             return {
                 **basic_info,
+                "ratings": ratings,
                 "detailed_ratings": detailed_ratings,
-                "scent_strength": scent_strength,
+                # "scent_strength": scent_strength,
                 "top_notes": top_notes if top_notes else None,
                 "middle_notes": middle_notes if middle_notes else None,
                 "base_notes": base_notes if base_notes else None,
                 "all_notes": all_notes,
-                "ratings": ratings,
                 "scent_types": scent_types,
                 "url": url
             }
@@ -300,7 +334,7 @@ class ParfumoScraper:
                     results.append(perfume_data)
                     self.save_results(results, f'perfumes_data_partial_chunk_{index}.json')
                 # time.sleep(2)
-                if i == 5:
+                if i == 10:
                     break
                     
             return results
@@ -320,9 +354,12 @@ class ParfumoScraper:
 def main():
     scraper = ParfumoScraper()
     try:
-        test_url = "https://www.parfumo.de/Parfums/Kilian/Amber_Oud"
+        # test_url = "https://www.parfumo.de/Parfums/Kilian/Amber_Oud"
+        # result = scraper.scrape_perfume(url =test_url)
+        # print(result)
         results = scraper.scrape_all_perfumes()
-        scraper.save_results(results, output_file='test.json')
+        # scraper.save_results(result, output_file='test.json')
+        scraper.save_results(results, output_file='test_10.json')
     except Exception as e:
         print(f"An error occurred: {e}")
 
