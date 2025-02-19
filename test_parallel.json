@@ -1,0 +1,4550 @@
+[
+  {
+    "name": "Acqua di Giò Essenza",
+    "brand": "Giorgio Armani",
+    "year": 2012,
+    "collection": null,
+    "flakon_designer": null,
+    "perfumer": "Alberto Morillas",
+    "ratings": {
+      "Duft": {
+        "rating": 7.8,
+        "number_of_ratings": 378
+      },
+      "Haltbarkeit": {
+        "rating": 7.7,
+        "number_of_ratings": 308
+      },
+      "Sillage": {
+        "rating": 7.2,
+        "number_of_ratings": 308
+      },
+      "Flakon": {
+        "rating": 7.9,
+        "number_of_ratings": 336
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": 7.4,
+        "number_of_ratings": 93
+      }
+    },
+    "detailed_ratings": {
+      "scent": [
+        {
+          "r": "0",
+          "v": 1
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 1
+        },
+        {
+          "r": "3",
+          "v": 2
+        },
+        {
+          "r": "4",
+          "v": 7
+        },
+        {
+          "r": "5",
+          "v": 16
+        },
+        {
+          "r": "6",
+          "v": 24
+        },
+        {
+          "r": "7",
+          "v": 92
+        },
+        {
+          "r": "8",
+          "v": 123
+        },
+        {
+          "r": "9",
+          "v": 75
+        },
+        {
+          "r": "10",
+          "v": 35
+        }
+      ],
+      "durability": [
+        {
+          "r": "0",
+          "v": 3
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 7
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 10
+        },
+        {
+          "r": "5",
+          "v": 75
+        },
+        {
+          "r": "6",
+          "v": 97
+        },
+        {
+          "r": "7",
+          "v": 568
+        },
+        {
+          "r": "8",
+          "v": 570
+        },
+        {
+          "r": "9",
+          "v": 151
+        },
+        {
+          "r": "10",
+          "v": 86
+        }
+      ],
+      "sillage": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 6
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 11
+        },
+        {
+          "r": "5",
+          "v": 94
+        },
+        {
+          "r": "6",
+          "v": 102
+        },
+        {
+          "r": "7",
+          "v": 645
+        },
+        {
+          "r": "8",
+          "v": 476
+        },
+        {
+          "r": "9",
+          "v": 159
+        },
+        {
+          "r": "10",
+          "v": 74
+        }
+      ],
+      "bottle": [
+        {
+          "r": "0",
+          "v": 14
+        },
+        {
+          "r": "1",
+          "v": 15
+        },
+        {
+          "r": "2",
+          "v": 28
+        },
+        {
+          "r": "3",
+          "v": 10
+        },
+        {
+          "r": "4",
+          "v": 27
+        },
+        {
+          "r": "5",
+          "v": 68
+        },
+        {
+          "r": "6",
+          "v": 85
+        },
+        {
+          "r": "7",
+          "v": 320
+        },
+        {
+          "r": "8",
+          "v": 428
+        },
+        {
+          "r": "9",
+          "v": 272
+        },
+        {
+          "r": "10",
+          "v": 357
+        }
+      ],
+      "pricing": [
+        {
+          "r": "0",
+          "v": 1
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 2
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 9
+        },
+        {
+          "r": "5",
+          "v": 15
+        },
+        {
+          "r": "6",
+          "v": 59
+        },
+        {
+          "r": "7",
+          "v": 175
+        },
+        {
+          "r": "8",
+          "v": 369
+        },
+        {
+          "r": "9",
+          "v": 169
+        },
+        {
+          "r": "10",
+          "v": 99
+        }
+      ]
+    },
+    "top_notes": [
+      "Cascalone®",
+      "Bergamotte",
+      "Grapefruit"
+    ],
+    "middle_notes": [
+      "Basilikum",
+      "Salbei",
+      "Jasmin",
+      "Paradisone®"
+    ],
+    "base_notes": [
+      "Ambrox",
+      "Atlaszeder",
+      "Patchouli",
+      "Vetiver"
+    ],
+    "all_notes": null,
+    "scent_types": {
+      "Würzig": 26.28,
+      "Synthetisch": 6.2,
+      "Süß": 21.92,
+      "Orientalisch": 12.62,
+      "Ledrig": 5.22,
+      "Holzig": 9.93,
+      "Gourmand": 7.69,
+      "Fruchtig": 4.82,
+      "Frisch": 5.34,
+      "Herren": 81.98,
+      "Damen": 18.02,
+      "Klassisch": 29.86,
+      "Modern": 70.14,
+      "Winter": 35.9,
+      "Herbst": 37.43,
+      "Sommer": 7.28,
+      "Frühling": 19.39,
+      "Täglich": 14.91,
+      "Freizeit": 20.67,
+      "Ausgehen": 26.84,
+      "Arbeit": 10.54,
+      "Abend": 27.05
+    },
+    "url": "https://www.parfumo.de/Parfums/Giorgio_Armani/Acqua_di_Gio_Essenza"
+  },
+  {
+    "name": "A*Men Pure Shot",
+    "brand": "Mugler",
+    "year": 2012,
+    "collection": null,
+    "flakon_designer": "Flakondesign Thierry Mugler",
+    "perfumer": "Jacques Huclier",
+    "ratings": {
+      "Duft": {
+        "rating": 7.3,
+        "number_of_ratings": 208
+      },
+      "Haltbarkeit": {
+        "rating": 6.6,
+        "number_of_ratings": 155
+      },
+      "Sillage": {
+        "rating": 6.2,
+        "number_of_ratings": 157
+      },
+      "Flakon": {
+        "rating": 7.1,
+        "number_of_ratings": 174
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": 7.4,
+        "number_of_ratings": 26
+      }
+    },
+    "detailed_ratings": {
+      "scent": [
+        {
+          "r": "0",
+          "v": 1
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 1
+        },
+        {
+          "r": "3",
+          "v": 2
+        },
+        {
+          "r": "4",
+          "v": 7
+        },
+        {
+          "r": "5",
+          "v": 16
+        },
+        {
+          "r": "6",
+          "v": 24
+        },
+        {
+          "r": "7",
+          "v": 92
+        },
+        {
+          "r": "8",
+          "v": 123
+        },
+        {
+          "r": "9",
+          "v": 75
+        },
+        {
+          "r": "10",
+          "v": 35
+        }
+      ],
+      "durability": [
+        {
+          "r": "0",
+          "v": 3
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 7
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 10
+        },
+        {
+          "r": "5",
+          "v": 75
+        },
+        {
+          "r": "6",
+          "v": 97
+        },
+        {
+          "r": "7",
+          "v": 568
+        },
+        {
+          "r": "8",
+          "v": 570
+        },
+        {
+          "r": "9",
+          "v": 151
+        },
+        {
+          "r": "10",
+          "v": 86
+        }
+      ],
+      "sillage": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 6
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 11
+        },
+        {
+          "r": "5",
+          "v": 94
+        },
+        {
+          "r": "6",
+          "v": 102
+        },
+        {
+          "r": "7",
+          "v": 645
+        },
+        {
+          "r": "8",
+          "v": 476
+        },
+        {
+          "r": "9",
+          "v": 159
+        },
+        {
+          "r": "10",
+          "v": 74
+        }
+      ],
+      "bottle": [
+        {
+          "r": "0",
+          "v": 14
+        },
+        {
+          "r": "1",
+          "v": 15
+        },
+        {
+          "r": "2",
+          "v": 28
+        },
+        {
+          "r": "3",
+          "v": 10
+        },
+        {
+          "r": "4",
+          "v": 27
+        },
+        {
+          "r": "5",
+          "v": 68
+        },
+        {
+          "r": "6",
+          "v": 85
+        },
+        {
+          "r": "7",
+          "v": 320
+        },
+        {
+          "r": "8",
+          "v": 428
+        },
+        {
+          "r": "9",
+          "v": 272
+        },
+        {
+          "r": "10",
+          "v": 357
+        }
+      ],
+      "pricing": [
+        {
+          "r": "0",
+          "v": 1
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 2
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 9
+        },
+        {
+          "r": "5",
+          "v": 15
+        },
+        {
+          "r": "6",
+          "v": 59
+        },
+        {
+          "r": "7",
+          "v": 175
+        },
+        {
+          "r": "8",
+          "v": 369
+        },
+        {
+          "r": "9",
+          "v": 169
+        },
+        {
+          "r": "10",
+          "v": 99
+        }
+      ]
+    },
+    "top_notes": [
+      "Wacholderbeere",
+      "Minze"
+    ],
+    "middle_notes": [
+      "weißer Pfeffer",
+      "Kardamom"
+    ],
+    "base_notes": [
+      "Mammutbaum",
+      "Patchouli"
+    ],
+    "all_notes": null,
+    "scent_types": {
+      "Würzig": 26.28,
+      "Synthetisch": 6.2,
+      "Süß": 21.92,
+      "Orientalisch": 12.62,
+      "Ledrig": 5.22,
+      "Holzig": 9.93,
+      "Gourmand": 7.69,
+      "Fruchtig": 4.82,
+      "Frisch": 5.34,
+      "Herren": 81.98,
+      "Damen": 18.02,
+      "Klassisch": 29.86,
+      "Modern": 70.14,
+      "Winter": 35.9,
+      "Herbst": 37.43,
+      "Sommer": 7.28,
+      "Frühling": 19.39,
+      "Täglich": 14.91,
+      "Freizeit": 20.67,
+      "Ausgehen": 26.84,
+      "Arbeit": 10.54,
+      "Abend": 27.05
+    },
+    "url": "https://www.parfumo.de/Parfums/mugler/AMen_Pure_Shot"
+  },
+  {
+    "name": "Joop! Homme Wild",
+    "brand": "Joop!",
+    "year": 2012,
+    "collection": null,
+    "flakon_designer": "Flakondesign Peter Schmidt",
+    "perfumer": "Aliénor Massenet",
+    "ratings": {
+      "Duft": {
+        "rating": 6.7,
+        "number_of_ratings": 438
+      },
+      "Haltbarkeit": {
+        "rating": 7.3,
+        "number_of_ratings": 343
+      },
+      "Sillage": {
+        "rating": 7.1,
+        "number_of_ratings": 348
+      },
+      "Flakon": {
+        "rating": 6.0,
+        "number_of_ratings": 367
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": 7.5,
+        "number_of_ratings": 123
+      }
+    },
+    "detailed_ratings": {
+      "scent": [
+        {
+          "r": "0",
+          "v": 1
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 1
+        },
+        {
+          "r": "3",
+          "v": 2
+        },
+        {
+          "r": "4",
+          "v": 7
+        },
+        {
+          "r": "5",
+          "v": 16
+        },
+        {
+          "r": "6",
+          "v": 24
+        },
+        {
+          "r": "7",
+          "v": 92
+        },
+        {
+          "r": "8",
+          "v": 123
+        },
+        {
+          "r": "9",
+          "v": 75
+        },
+        {
+          "r": "10",
+          "v": 35
+        }
+      ],
+      "durability": [
+        {
+          "r": "0",
+          "v": 3
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 7
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 10
+        },
+        {
+          "r": "5",
+          "v": 75
+        },
+        {
+          "r": "6",
+          "v": 97
+        },
+        {
+          "r": "7",
+          "v": 568
+        },
+        {
+          "r": "8",
+          "v": 570
+        },
+        {
+          "r": "9",
+          "v": 151
+        },
+        {
+          "r": "10",
+          "v": 86
+        }
+      ],
+      "sillage": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 6
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 11
+        },
+        {
+          "r": "5",
+          "v": 94
+        },
+        {
+          "r": "6",
+          "v": 102
+        },
+        {
+          "r": "7",
+          "v": 645
+        },
+        {
+          "r": "8",
+          "v": 476
+        },
+        {
+          "r": "9",
+          "v": 159
+        },
+        {
+          "r": "10",
+          "v": 74
+        }
+      ],
+      "bottle": [
+        {
+          "r": "0",
+          "v": 14
+        },
+        {
+          "r": "1",
+          "v": 15
+        },
+        {
+          "r": "2",
+          "v": 28
+        },
+        {
+          "r": "3",
+          "v": 10
+        },
+        {
+          "r": "4",
+          "v": 27
+        },
+        {
+          "r": "5",
+          "v": 68
+        },
+        {
+          "r": "6",
+          "v": 85
+        },
+        {
+          "r": "7",
+          "v": 320
+        },
+        {
+          "r": "8",
+          "v": 428
+        },
+        {
+          "r": "9",
+          "v": 272
+        },
+        {
+          "r": "10",
+          "v": 357
+        }
+      ],
+      "pricing": [
+        {
+          "r": "0",
+          "v": 1
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 2
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 9
+        },
+        {
+          "r": "5",
+          "v": 15
+        },
+        {
+          "r": "6",
+          "v": 59
+        },
+        {
+          "r": "7",
+          "v": 175
+        },
+        {
+          "r": "8",
+          "v": 369
+        },
+        {
+          "r": "9",
+          "v": 169
+        },
+        {
+          "r": "10",
+          "v": 99
+        }
+      ]
+    },
+    "top_notes": [
+      "rosa Pfeffer"
+    ],
+    "middle_notes": [
+      "Rum",
+      "Fougère-Noten"
+    ],
+    "base_notes": [
+      "heller Tabak",
+      "Hölzer"
+    ],
+    "all_notes": null,
+    "scent_types": {
+      "Würzig": 26.28,
+      "Synthetisch": 6.2,
+      "Süß": 21.92,
+      "Orientalisch": 12.62,
+      "Ledrig": 5.22,
+      "Holzig": 9.93,
+      "Gourmand": 7.69,
+      "Fruchtig": 4.82,
+      "Frisch": 5.34,
+      "Herren": 81.98,
+      "Damen": 18.02,
+      "Klassisch": 29.86,
+      "Modern": 70.14,
+      "Winter": 35.9,
+      "Herbst": 37.43,
+      "Sommer": 7.28,
+      "Frühling": 19.39,
+      "Täglich": 14.91,
+      "Freizeit": 20.67,
+      "Ausgehen": 26.84,
+      "Arbeit": 10.54,
+      "Abend": 27.05
+    },
+    "url": "https://www.parfumo.de/Parfums/Joop/Joop_Homme_Wild"
+  },
+  {
+    "name": "Acqua di Giò Essenza",
+    "brand": "Giorgio Armani",
+    "year": 2012,
+    "collection": null,
+    "flakon_designer": null,
+    "perfumer": "Alberto Morillas",
+    "ratings": {
+      "Duft": {
+        "rating": 7.8,
+        "number_of_ratings": 378
+      },
+      "Haltbarkeit": {
+        "rating": 7.7,
+        "number_of_ratings": 308
+      },
+      "Sillage": {
+        "rating": 7.2,
+        "number_of_ratings": 308
+      },
+      "Flakon": {
+        "rating": 7.9,
+        "number_of_ratings": 336
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": 7.4,
+        "number_of_ratings": 93
+      }
+    },
+    "detailed_ratings": {
+      "scent": [
+        {
+          "r": "0",
+          "v": 1
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 1
+        },
+        {
+          "r": "3",
+          "v": 2
+        },
+        {
+          "r": "4",
+          "v": 7
+        },
+        {
+          "r": "5",
+          "v": 16
+        },
+        {
+          "r": "6",
+          "v": 24
+        },
+        {
+          "r": "7",
+          "v": 92
+        },
+        {
+          "r": "8",
+          "v": 123
+        },
+        {
+          "r": "9",
+          "v": 75
+        },
+        {
+          "r": "10",
+          "v": 35
+        }
+      ],
+      "durability": [
+        {
+          "r": "0",
+          "v": 3
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 7
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 10
+        },
+        {
+          "r": "5",
+          "v": 75
+        },
+        {
+          "r": "6",
+          "v": 97
+        },
+        {
+          "r": "7",
+          "v": 568
+        },
+        {
+          "r": "8",
+          "v": 570
+        },
+        {
+          "r": "9",
+          "v": 151
+        },
+        {
+          "r": "10",
+          "v": 86
+        }
+      ],
+      "sillage": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 6
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 11
+        },
+        {
+          "r": "5",
+          "v": 94
+        },
+        {
+          "r": "6",
+          "v": 102
+        },
+        {
+          "r": "7",
+          "v": 645
+        },
+        {
+          "r": "8",
+          "v": 476
+        },
+        {
+          "r": "9",
+          "v": 159
+        },
+        {
+          "r": "10",
+          "v": 74
+        }
+      ],
+      "bottle": [
+        {
+          "r": "0",
+          "v": 14
+        },
+        {
+          "r": "1",
+          "v": 15
+        },
+        {
+          "r": "2",
+          "v": 28
+        },
+        {
+          "r": "3",
+          "v": 10
+        },
+        {
+          "r": "4",
+          "v": 27
+        },
+        {
+          "r": "5",
+          "v": 68
+        },
+        {
+          "r": "6",
+          "v": 85
+        },
+        {
+          "r": "7",
+          "v": 320
+        },
+        {
+          "r": "8",
+          "v": 428
+        },
+        {
+          "r": "9",
+          "v": 272
+        },
+        {
+          "r": "10",
+          "v": 357
+        }
+      ],
+      "pricing": [
+        {
+          "r": "0",
+          "v": 1
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 2
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 9
+        },
+        {
+          "r": "5",
+          "v": 15
+        },
+        {
+          "r": "6",
+          "v": 59
+        },
+        {
+          "r": "7",
+          "v": 175
+        },
+        {
+          "r": "8",
+          "v": 369
+        },
+        {
+          "r": "9",
+          "v": 169
+        },
+        {
+          "r": "10",
+          "v": 99
+        }
+      ]
+    },
+    "top_notes": [
+      "Cascalone®",
+      "Bergamotte",
+      "Grapefruit"
+    ],
+    "middle_notes": [
+      "Basilikum",
+      "Salbei",
+      "Jasmin",
+      "Paradisone®"
+    ],
+    "base_notes": [
+      "Ambrox",
+      "Atlaszeder",
+      "Patchouli",
+      "Vetiver"
+    ],
+    "all_notes": null,
+    "scent_types": {
+      "Würzig": 26.28,
+      "Synthetisch": 6.2,
+      "Süß": 21.92,
+      "Orientalisch": 12.62,
+      "Ledrig": 5.22,
+      "Holzig": 9.93,
+      "Gourmand": 7.69,
+      "Fruchtig": 4.82,
+      "Frisch": 5.34,
+      "Herren": 81.98,
+      "Damen": 18.02,
+      "Klassisch": 29.86,
+      "Modern": 70.14,
+      "Winter": 35.9,
+      "Herbst": 37.43,
+      "Sommer": 7.28,
+      "Frühling": 19.39,
+      "Täglich": 14.91,
+      "Freizeit": 20.67,
+      "Ausgehen": 26.84,
+      "Arbeit": 10.54,
+      "Abend": 27.05
+    },
+    "url": "https://www.parfumo.de/Parfums/Guerlain/Homme_L_Eau_Boisee"
+  },
+  {
+    "name": "Eau Sauvage Parfum",
+    "brand": "Dior",
+    "year": 2012,
+    "collection": null,
+    "flakon_designer": null,
+    "perfumer": "François Demachy",
+    "ratings": {
+      "Duft": {
+        "rating": 8.3,
+        "number_of_ratings": 516
+      },
+      "Haltbarkeit": {
+        "rating": 8.5,
+        "number_of_ratings": 421
+      },
+      "Sillage": {
+        "rating": 7.9,
+        "number_of_ratings": 422
+      },
+      "Flakon": {
+        "rating": 8.3,
+        "number_of_ratings": 428
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": 7.8,
+        "number_of_ratings": 120
+      }
+    },
+    "detailed_ratings": {
+      "scent": [
+        {
+          "r": "0",
+          "v": 1
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 1
+        },
+        {
+          "r": "3",
+          "v": 2
+        },
+        {
+          "r": "4",
+          "v": 7
+        },
+        {
+          "r": "5",
+          "v": 16
+        },
+        {
+          "r": "6",
+          "v": 24
+        },
+        {
+          "r": "7",
+          "v": 92
+        },
+        {
+          "r": "8",
+          "v": 123
+        },
+        {
+          "r": "9",
+          "v": 75
+        },
+        {
+          "r": "10",
+          "v": 35
+        }
+      ],
+      "durability": [
+        {
+          "r": "0",
+          "v": 3
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 7
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 10
+        },
+        {
+          "r": "5",
+          "v": 75
+        },
+        {
+          "r": "6",
+          "v": 97
+        },
+        {
+          "r": "7",
+          "v": 568
+        },
+        {
+          "r": "8",
+          "v": 570
+        },
+        {
+          "r": "9",
+          "v": 151
+        },
+        {
+          "r": "10",
+          "v": 86
+        }
+      ],
+      "sillage": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 6
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 11
+        },
+        {
+          "r": "5",
+          "v": 94
+        },
+        {
+          "r": "6",
+          "v": 102
+        },
+        {
+          "r": "7",
+          "v": 645
+        },
+        {
+          "r": "8",
+          "v": 476
+        },
+        {
+          "r": "9",
+          "v": 159
+        },
+        {
+          "r": "10",
+          "v": 74
+        }
+      ],
+      "bottle": [
+        {
+          "r": "0",
+          "v": 14
+        },
+        {
+          "r": "1",
+          "v": 15
+        },
+        {
+          "r": "2",
+          "v": 28
+        },
+        {
+          "r": "3",
+          "v": 10
+        },
+        {
+          "r": "4",
+          "v": 27
+        },
+        {
+          "r": "5",
+          "v": 68
+        },
+        {
+          "r": "6",
+          "v": 85
+        },
+        {
+          "r": "7",
+          "v": 320
+        },
+        {
+          "r": "8",
+          "v": 428
+        },
+        {
+          "r": "9",
+          "v": 272
+        },
+        {
+          "r": "10",
+          "v": 357
+        }
+      ],
+      "pricing": [
+        {
+          "r": "0",
+          "v": 1
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 2
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 9
+        },
+        {
+          "r": "5",
+          "v": 15
+        },
+        {
+          "r": "6",
+          "v": 59
+        },
+        {
+          "r": "7",
+          "v": 175
+        },
+        {
+          "r": "8",
+          "v": 369
+        },
+        {
+          "r": "9",
+          "v": 169
+        },
+        {
+          "r": "10",
+          "v": 99
+        }
+      ]
+    },
+    "top_notes": [
+      "kalabrische Bergamotte"
+    ],
+    "middle_notes": [
+      "somalische Myrrhe"
+    ],
+    "base_notes": [
+      "haitianisches Vetiver"
+    ],
+    "all_notes": null,
+    "scent_types": {
+      "Würzig": 26.28,
+      "Synthetisch": 6.2,
+      "Süß": 21.92,
+      "Orientalisch": 12.62,
+      "Ledrig": 5.22,
+      "Holzig": 9.93,
+      "Gourmand": 7.69,
+      "Fruchtig": 4.82,
+      "Frisch": 5.34,
+      "Herren": 81.98,
+      "Damen": 18.02,
+      "Klassisch": 29.86,
+      "Modern": 70.14,
+      "Winter": 35.9,
+      "Herbst": 37.43,
+      "Sommer": 7.28,
+      "Frühling": 19.39,
+      "Täglich": 14.91,
+      "Freizeit": 20.67,
+      "Ausgehen": 26.84,
+      "Arbeit": 10.54,
+      "Abend": 27.05
+    },
+    "url": "https://www.parfumo.de/Parfums/Dior/Eau_Sauvage_Parfum"
+  },
+  {
+    "name": "Chypre Palatin",
+    "brand": "Parfums MDCI",
+    "year": 2012,
+    "collection": null,
+    "flakon_designer": null,
+    "perfumer": "Bertrand Duchaufour",
+    "ratings": {
+      "Duft": {
+        "rating": 8.3,
+        "number_of_ratings": 644
+      },
+      "Haltbarkeit": {
+        "rating": 8.4,
+        "number_of_ratings": 526
+      },
+      "Sillage": {
+        "rating": 7.5,
+        "number_of_ratings": 528
+      },
+      "Flakon": {
+        "rating": 8.4,
+        "number_of_ratings": 471
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": 6.9,
+        "number_of_ratings": 217
+      }
+    },
+    "detailed_ratings": {
+      "scent": [
+        {
+          "r": "0",
+          "v": 1
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 1
+        },
+        {
+          "r": "3",
+          "v": 2
+        },
+        {
+          "r": "4",
+          "v": 7
+        },
+        {
+          "r": "5",
+          "v": 16
+        },
+        {
+          "r": "6",
+          "v": 24
+        },
+        {
+          "r": "7",
+          "v": 92
+        },
+        {
+          "r": "8",
+          "v": 123
+        },
+        {
+          "r": "9",
+          "v": 75
+        },
+        {
+          "r": "10",
+          "v": 35
+        }
+      ],
+      "durability": [
+        {
+          "r": "0",
+          "v": 3
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 7
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 10
+        },
+        {
+          "r": "5",
+          "v": 75
+        },
+        {
+          "r": "6",
+          "v": 97
+        },
+        {
+          "r": "7",
+          "v": 568
+        },
+        {
+          "r": "8",
+          "v": 570
+        },
+        {
+          "r": "9",
+          "v": 151
+        },
+        {
+          "r": "10",
+          "v": 86
+        }
+      ],
+      "sillage": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 6
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 11
+        },
+        {
+          "r": "5",
+          "v": 94
+        },
+        {
+          "r": "6",
+          "v": 102
+        },
+        {
+          "r": "7",
+          "v": 645
+        },
+        {
+          "r": "8",
+          "v": 476
+        },
+        {
+          "r": "9",
+          "v": 159
+        },
+        {
+          "r": "10",
+          "v": 74
+        }
+      ],
+      "bottle": [
+        {
+          "r": "0",
+          "v": 14
+        },
+        {
+          "r": "1",
+          "v": 15
+        },
+        {
+          "r": "2",
+          "v": 28
+        },
+        {
+          "r": "3",
+          "v": 10
+        },
+        {
+          "r": "4",
+          "v": 27
+        },
+        {
+          "r": "5",
+          "v": 68
+        },
+        {
+          "r": "6",
+          "v": 85
+        },
+        {
+          "r": "7",
+          "v": 320
+        },
+        {
+          "r": "8",
+          "v": 428
+        },
+        {
+          "r": "9",
+          "v": 272
+        },
+        {
+          "r": "10",
+          "v": 357
+        }
+      ],
+      "pricing": [
+        {
+          "r": "0",
+          "v": 1
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 2
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 9
+        },
+        {
+          "r": "5",
+          "v": 15
+        },
+        {
+          "r": "6",
+          "v": 59
+        },
+        {
+          "r": "7",
+          "v": 175
+        },
+        {
+          "r": "8",
+          "v": 369
+        },
+        {
+          "r": "9",
+          "v": 169
+        },
+        {
+          "r": "10",
+          "v": 99
+        }
+      ]
+    },
+    "top_notes": [
+      "Galbanum",
+      "Hyazinthe",
+      "Mandarine",
+      "Zistrose",
+      "Lavendel",
+      "Thymian"
+    ],
+    "middle_notes": [
+      "Pflaume",
+      "Rose",
+      "Gardenie",
+      "Iris",
+      "Jasmin"
+    ],
+    "base_notes": [
+      "Benzoe",
+      "Eichenmoos",
+      "Styrax",
+      "Tolubalsam",
+      "Immortelle",
+      "Leder",
+      "Vanille Absolue",
+      "Bibergeil"
+    ],
+    "all_notes": null,
+    "scent_types": {
+      "Würzig": 26.28,
+      "Synthetisch": 6.2,
+      "Süß": 21.92,
+      "Orientalisch": 12.62,
+      "Ledrig": 5.22,
+      "Holzig": 9.93,
+      "Gourmand": 7.69,
+      "Fruchtig": 4.82,
+      "Frisch": 5.34,
+      "Herren": 81.98,
+      "Damen": 18.02,
+      "Klassisch": 29.86,
+      "Modern": 70.14,
+      "Winter": 35.9,
+      "Herbst": 37.43,
+      "Sommer": 7.28,
+      "Frühling": 19.39,
+      "Täglich": 14.91,
+      "Freizeit": 20.67,
+      "Ausgehen": 26.84,
+      "Arbeit": 10.54,
+      "Abend": 27.05
+    },
+    "url": "https://www.parfumo.de/Parfums/Parfums_MDCI/Chypre_Palatin"
+  },
+  {
+    "name": "Spicebomb",
+    "brand": "Viktor & Rolf",
+    "year": 2012,
+    "collection": null,
+    "flakon_designer": "Fabien Baron",
+    "perfumer": "Olivier Polge",
+    "ratings": {
+      "Duft": {
+        "rating": 7.8,
+        "number_of_ratings": 1863
+      },
+      "Haltbarkeit": {
+        "rating": 7.5,
+        "number_of_ratings": 1570
+      },
+      "Sillage": {
+        "rating": 7.4,
+        "number_of_ratings": 1572
+      },
+      "Flakon": {
+        "rating": 7.9,
+        "number_of_ratings": 1624
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": 7.9,
+        "number_of_ratings": 901
+      }
+    },
+    "detailed_ratings": {
+      "scent": [
+        {
+          "r": "0",
+          "v": 10
+        },
+        {
+          "r": "1",
+          "v": 8
+        },
+        {
+          "r": "2",
+          "v": 10
+        },
+        {
+          "r": "3",
+          "v": 22
+        },
+        {
+          "r": "4",
+          "v": 29
+        },
+        {
+          "r": "5",
+          "v": 66
+        },
+        {
+          "r": "6",
+          "v": 132
+        },
+        {
+          "r": "7",
+          "v": 439
+        },
+        {
+          "r": "8",
+          "v": 631
+        },
+        {
+          "r": "9",
+          "v": 343
+        },
+        {
+          "r": "10",
+          "v": 173
+        }
+      ],
+      "durability": [
+        {
+          "r": "0",
+          "v": 3
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 7
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 10
+        },
+        {
+          "r": "5",
+          "v": 75
+        },
+        {
+          "r": "6",
+          "v": 97
+        },
+        {
+          "r": "7",
+          "v": 568
+        },
+        {
+          "r": "8",
+          "v": 570
+        },
+        {
+          "r": "9",
+          "v": 151
+        },
+        {
+          "r": "10",
+          "v": 86
+        }
+      ],
+      "sillage": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 6
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 11
+        },
+        {
+          "r": "5",
+          "v": 94
+        },
+        {
+          "r": "6",
+          "v": 102
+        },
+        {
+          "r": "7",
+          "v": 645
+        },
+        {
+          "r": "8",
+          "v": 476
+        },
+        {
+          "r": "9",
+          "v": 159
+        },
+        {
+          "r": "10",
+          "v": 74
+        }
+      ],
+      "bottle": [
+        {
+          "r": "0",
+          "v": 14
+        },
+        {
+          "r": "1",
+          "v": 15
+        },
+        {
+          "r": "2",
+          "v": 28
+        },
+        {
+          "r": "3",
+          "v": 10
+        },
+        {
+          "r": "4",
+          "v": 27
+        },
+        {
+          "r": "5",
+          "v": 68
+        },
+        {
+          "r": "6",
+          "v": 85
+        },
+        {
+          "r": "7",
+          "v": 320
+        },
+        {
+          "r": "8",
+          "v": 428
+        },
+        {
+          "r": "9",
+          "v": 272
+        },
+        {
+          "r": "10",
+          "v": 357
+        }
+      ],
+      "pricing": [
+        {
+          "r": "0",
+          "v": 1
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 2
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 9
+        },
+        {
+          "r": "5",
+          "v": 15
+        },
+        {
+          "r": "6",
+          "v": 59
+        },
+        {
+          "r": "7",
+          "v": 175
+        },
+        {
+          "r": "8",
+          "v": 369
+        },
+        {
+          "r": "9",
+          "v": 169
+        },
+        {
+          "r": "10",
+          "v": 99
+        }
+      ]
+    },
+    "top_notes": [
+      "rosa Pfeffer",
+      "Bergamotte",
+      "Grapefruit"
+    ],
+    "middle_notes": [
+      "Zimt",
+      "Safran",
+      "Chili"
+    ],
+    "base_notes": [
+      "Tabak",
+      "Leder",
+      "Vetiver"
+    ],
+    "all_notes": null,
+    "scent_types": {
+      "Würzig": 26.28,
+      "Synthetisch": 6.2,
+      "Süß": 21.92,
+      "Orientalisch": 12.62,
+      "Ledrig": 5.22,
+      "Holzig": 9.93,
+      "Gourmand": 7.69,
+      "Fruchtig": 4.82,
+      "Frisch": 5.34,
+      "Herren": 81.98,
+      "Damen": 18.02,
+      "Klassisch": 29.86,
+      "Modern": 70.14,
+      "Winter": 35.9,
+      "Herbst": 37.43,
+      "Sommer": 7.28,
+      "Frühling": 19.39,
+      "Täglich": 14.91,
+      "Freizeit": 20.67,
+      "Ausgehen": 26.84,
+      "Arbeit": 10.54,
+      "Abend": 27.05
+    },
+    "url": "https://www.parfumo.de/Parfums/Viktor_Rolf/Spicebomb"
+  },
+  {
+    "name": "Dior Homme Sport Dior 2012 Eau de Toilette",
+    "brand": "Dior",
+    "year": 2012,
+    "collection": null,
+    "flakon_designer": null,
+    "perfumer": "François Demachy",
+    "ratings": {
+      "Duft": {
+        "rating": 7.6,
+        "number_of_ratings": 475
+      },
+      "Haltbarkeit": {
+        "rating": 6.6,
+        "number_of_ratings": 351
+      },
+      "Sillage": {
+        "rating": 6.3,
+        "number_of_ratings": 358
+      },
+      "Flakon": {
+        "rating": 8.4,
+        "number_of_ratings": 381
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": 6.9,
+        "number_of_ratings": 111
+      }
+    },
+    "detailed_ratings": {
+      "scent": [
+        {
+          "r": "0",
+          "v": 1
+        },
+        {
+          "r": "1",
+          "v": 0
+        },
+        {
+          "r": "2",
+          "v": 5
+        },
+        {
+          "r": "3",
+          "v": 10
+        },
+        {
+          "r": "4",
+          "v": 8
+        },
+        {
+          "r": "5",
+          "v": 22
+        },
+        {
+          "r": "6",
+          "v": 52
+        },
+        {
+          "r": "7",
+          "v": 122
+        },
+        {
+          "r": "8",
+          "v": 145
+        },
+        {
+          "r": "9",
+          "v": 68
+        },
+        {
+          "r": "10",
+          "v": 42
+        }
+      ],
+      "durability": [
+        {
+          "r": "0",
+          "v": 3
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 7
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 10
+        },
+        {
+          "r": "5",
+          "v": 75
+        },
+        {
+          "r": "6",
+          "v": 97
+        },
+        {
+          "r": "7",
+          "v": 568
+        },
+        {
+          "r": "8",
+          "v": 570
+        },
+        {
+          "r": "9",
+          "v": 151
+        },
+        {
+          "r": "10",
+          "v": 86
+        }
+      ],
+      "sillage": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 6
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 11
+        },
+        {
+          "r": "5",
+          "v": 94
+        },
+        {
+          "r": "6",
+          "v": 102
+        },
+        {
+          "r": "7",
+          "v": 645
+        },
+        {
+          "r": "8",
+          "v": 476
+        },
+        {
+          "r": "9",
+          "v": 159
+        },
+        {
+          "r": "10",
+          "v": 74
+        }
+      ],
+      "bottle": [
+        {
+          "r": "0",
+          "v": 14
+        },
+        {
+          "r": "1",
+          "v": 15
+        },
+        {
+          "r": "2",
+          "v": 28
+        },
+        {
+          "r": "3",
+          "v": 10
+        },
+        {
+          "r": "4",
+          "v": 27
+        },
+        {
+          "r": "5",
+          "v": 68
+        },
+        {
+          "r": "6",
+          "v": 85
+        },
+        {
+          "r": "7",
+          "v": 320
+        },
+        {
+          "r": "8",
+          "v": 428
+        },
+        {
+          "r": "9",
+          "v": 272
+        },
+        {
+          "r": "10",
+          "v": 357
+        }
+      ],
+      "pricing": [
+        {
+          "r": "0",
+          "v": 1
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 2
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 9
+        },
+        {
+          "r": "5",
+          "v": 15
+        },
+        {
+          "r": "6",
+          "v": 59
+        },
+        {
+          "r": "7",
+          "v": 175
+        },
+        {
+          "r": "8",
+          "v": 369
+        },
+        {
+          "r": "9",
+          "v": 169
+        },
+        {
+          "r": "10",
+          "v": 99
+        }
+      ]
+    },
+    "top_notes": [
+      "Zitronatzitrone",
+      "Ingwer"
+    ],
+    "middle_notes": [
+      "Iris"
+    ],
+    "base_notes": [
+      "Zeder",
+      "grüne Noten"
+    ],
+    "all_notes": null,
+    "scent_types": {
+      "Würzig": 26.28,
+      "Synthetisch": 6.2,
+      "Süß": 21.92,
+      "Orientalisch": 12.62,
+      "Ledrig": 5.22,
+      "Holzig": 9.93,
+      "Gourmand": 7.69,
+      "Fruchtig": 4.82,
+      "Frisch": 5.34,
+      "Herren": 81.98,
+      "Damen": 18.02,
+      "Klassisch": 29.86,
+      "Modern": 70.14,
+      "Winter": 35.9,
+      "Herbst": 37.43,
+      "Sommer": 7.28,
+      "Frühling": 19.39,
+      "Täglich": 14.91,
+      "Freizeit": 20.67,
+      "Ausgehen": 26.84,
+      "Arbeit": 10.54,
+      "Abend": 27.05
+    },
+    "url": "https://www.parfumo.de/Parfums/Dior/Dior_Homme_Sport_2012_Eau_de_Toilette"
+  },
+  {
+    "name": "Interlude Man",
+    "brand": "Amouage",
+    "year": 2012,
+    "collection": "Main",
+    "flakon_designer": null,
+    "perfumer": "Pierre Negrin",
+    "ratings": {
+      "Duft": {
+        "rating": 7.8,
+        "number_of_ratings": 1781
+      },
+      "Haltbarkeit": {
+        "rating": 9.3,
+        "number_of_ratings": 1622
+      },
+      "Sillage": {
+        "rating": 9.1,
+        "number_of_ratings": 1623
+      },
+      "Flakon": {
+        "rating": 8.8,
+        "number_of_ratings": 1553
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": 6.9,
+        "number_of_ratings": 846
+      }
+    },
+    "detailed_ratings": {
+      "scent": [
+        {
+          "r": "0",
+          "v": 15
+        },
+        {
+          "r": "1",
+          "v": 12
+        },
+        {
+          "r": "2",
+          "v": 18
+        },
+        {
+          "r": "3",
+          "v": 37
+        },
+        {
+          "r": "4",
+          "v": 48
+        },
+        {
+          "r": "5",
+          "v": 78
+        },
+        {
+          "r": "6",
+          "v": 141
+        },
+        {
+          "r": "7",
+          "v": 301
+        },
+        {
+          "r": "8",
+          "v": 476
+        },
+        {
+          "r": "9",
+          "v": 391
+        },
+        {
+          "r": "10",
+          "v": 264
+        }
+      ],
+      "durability": [
+        {
+          "r": "0",
+          "v": 1
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 5
+        },
+        {
+          "r": "3",
+          "v": 11
+        },
+        {
+          "r": "4",
+          "v": 25
+        },
+        {
+          "r": "5",
+          "v": 82
+        },
+        {
+          "r": "6",
+          "v": 292
+        },
+        {
+          "r": "7",
+          "v": 1219
+        },
+        {
+          "r": "8",
+          "v": 1230
+        },
+        {
+          "r": "9",
+          "v": 237
+        },
+        {
+          "r": "10",
+          "v": 104
+        }
+      ],
+      "sillage": [
+        {
+          "r": "0",
+          "v": 3
+        },
+        {
+          "r": "1",
+          "v": 1
+        },
+        {
+          "r": "2",
+          "v": 0
+        },
+        {
+          "r": "3",
+          "v": 0
+        },
+        {
+          "r": "4",
+          "v": 1
+        },
+        {
+          "r": "5",
+          "v": 3
+        },
+        {
+          "r": "6",
+          "v": 10
+        },
+        {
+          "r": "7",
+          "v": 101
+        },
+        {
+          "r": "8",
+          "v": 254
+        },
+        {
+          "r": "9",
+          "v": 570
+        },
+        {
+          "r": "10",
+          "v": 680
+        }
+      ],
+      "bottle": [
+        {
+          "r": "0",
+          "v": 4
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 2
+        },
+        {
+          "r": "3",
+          "v": 3
+        },
+        {
+          "r": "4",
+          "v": 3
+        },
+        {
+          "r": "5",
+          "v": 15
+        },
+        {
+          "r": "6",
+          "v": 18
+        },
+        {
+          "r": "7",
+          "v": 130
+        },
+        {
+          "r": "8",
+          "v": 378
+        },
+        {
+          "r": "9",
+          "v": 433
+        },
+        {
+          "r": "10",
+          "v": 565
+        }
+      ],
+      "pricing": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 7
+        },
+        {
+          "r": "2",
+          "v": 10
+        },
+        {
+          "r": "3",
+          "v": 12
+        },
+        {
+          "r": "4",
+          "v": 36
+        },
+        {
+          "r": "5",
+          "v": 71
+        },
+        {
+          "r": "6",
+          "v": 145
+        },
+        {
+          "r": "7",
+          "v": 252
+        },
+        {
+          "r": "8",
+          "v": 193
+        },
+        {
+          "r": "9",
+          "v": 70
+        },
+        {
+          "r": "10",
+          "v": 48
+        }
+      ]
+    },
+    "top_notes": [
+      "Oregano",
+      "Piment",
+      "Bergamotte"
+    ],
+    "middle_notes": [
+      "Weihrauch",
+      "Opoponax",
+      "Amber",
+      "Zistrose"
+    ],
+    "base_notes": [
+      "Leder",
+      "Oud",
+      "Patchouli",
+      "Sandelholz"
+    ],
+    "all_notes": null,
+    "scent_types": {
+      "Würzig": 18.11,
+      "Süß": 5.99,
+      "Rauchig": 19.24,
+      "Orientalisch": 16.02,
+      "Ledrig": 6.82,
+      "Holzig": 14.63,
+      "Harzig": 14.2,
+      "Erdig": 4.99,
+      "Herren": 87.63,
+      "Damen": 12.37,
+      "Klassisch": 74.06,
+      "Modern": 25.94,
+      "Winter": 44.27,
+      "Herbst": 38.59,
+      "Sommer": 4.87,
+      "Frühling": 12.26,
+      "Täglich": 5.67,
+      "Freizeit": 16.75,
+      "Ausgehen": 34.5,
+      "Arbeit": 6.33,
+      "Abend": 36.75
+    },
+    "url": "https://www.parfumo.de/Parfums/Cartier/Declaration_dun_Soir"
+  },
+  {
+    "name": "Luna Rossa Prada 2012 Eau de Toilette",
+    "brand": "Prada",
+    "year": 2012,
+    "collection": null,
+    "flakon_designer": null,
+    "perfumer": "Daniela Andrier",
+    "ratings": {
+      "Duft": {
+        "rating": 7.4,
+        "number_of_ratings": 782
+      },
+      "Haltbarkeit": {
+        "rating": 6.6,
+        "number_of_ratings": 637
+      },
+      "Sillage": {
+        "rating": 6.2,
+        "number_of_ratings": 635
+      },
+      "Flakon": {
+        "rating": 7.0,
+        "number_of_ratings": 647
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": 7.2,
+        "number_of_ratings": 333
+      }
+    },
+    "detailed_ratings": {
+      "scent": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 3
+        },
+        {
+          "r": "3",
+          "v": 9
+        },
+        {
+          "r": "4",
+          "v": 20
+        },
+        {
+          "r": "5",
+          "v": 51
+        },
+        {
+          "r": "6",
+          "v": 108
+        },
+        {
+          "r": "7",
+          "v": 246
+        },
+        {
+          "r": "8",
+          "v": 203
+        },
+        {
+          "r": "9",
+          "v": 90
+        },
+        {
+          "r": "10",
+          "v": 48
+        }
+      ],
+      "durability": [
+        {
+          "r": "0",
+          "v": 1
+        },
+        {
+          "r": "1",
+          "v": 0
+        },
+        {
+          "r": "2",
+          "v": 4
+        },
+        {
+          "r": "3",
+          "v": 1
+        },
+        {
+          "r": "4",
+          "v": 4
+        },
+        {
+          "r": "5",
+          "v": 29
+        },
+        {
+          "r": "6",
+          "v": 42
+        },
+        {
+          "r": "7",
+          "v": 114
+        },
+        {
+          "r": "8",
+          "v": 42
+        },
+        {
+          "r": "9",
+          "v": 8
+        },
+        {
+          "r": "10",
+          "v": 4
+        }
+      ],
+      "sillage": [
+        {
+          "r": "0",
+          "v": 3
+        },
+        {
+          "r": "1",
+          "v": 1
+        },
+        {
+          "r": "2",
+          "v": 0
+        },
+        {
+          "r": "3",
+          "v": 0
+        },
+        {
+          "r": "4",
+          "v": 1
+        },
+        {
+          "r": "5",
+          "v": 3
+        },
+        {
+          "r": "6",
+          "v": 10
+        },
+        {
+          "r": "7",
+          "v": 101
+        },
+        {
+          "r": "8",
+          "v": 254
+        },
+        {
+          "r": "9",
+          "v": 570
+        },
+        {
+          "r": "10",
+          "v": 680
+        }
+      ],
+      "bottle": [
+        {
+          "r": "0",
+          "v": 4
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 2
+        },
+        {
+          "r": "3",
+          "v": 3
+        },
+        {
+          "r": "4",
+          "v": 3
+        },
+        {
+          "r": "5",
+          "v": 15
+        },
+        {
+          "r": "6",
+          "v": 18
+        },
+        {
+          "r": "7",
+          "v": 130
+        },
+        {
+          "r": "8",
+          "v": 378
+        },
+        {
+          "r": "9",
+          "v": 433
+        },
+        {
+          "r": "10",
+          "v": 565
+        }
+      ],
+      "pricing": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 7
+        },
+        {
+          "r": "2",
+          "v": 10
+        },
+        {
+          "r": "3",
+          "v": 12
+        },
+        {
+          "r": "4",
+          "v": 36
+        },
+        {
+          "r": "5",
+          "v": 71
+        },
+        {
+          "r": "6",
+          "v": 145
+        },
+        {
+          "r": "7",
+          "v": 252
+        },
+        {
+          "r": "8",
+          "v": 193
+        },
+        {
+          "r": "9",
+          "v": 70
+        },
+        {
+          "r": "10",
+          "v": 48
+        }
+      ]
+    },
+    "top_notes": [
+      "Lavendel Absolue",
+      "Bitterorange"
+    ],
+    "middle_notes": [
+      "Nanaminze",
+      "Muskatellersalbei"
+    ],
+    "base_notes": [
+      "Ambroxan",
+      "Ambrettesamen Absolue"
+    ],
+    "all_notes": null,
+    "scent_types": {
+      "Würzig": 18.11,
+      "Süß": 5.99,
+      "Rauchig": 19.24,
+      "Orientalisch": 16.02,
+      "Ledrig": 6.82,
+      "Holzig": 14.63,
+      "Harzig": 14.2,
+      "Erdig": 4.99,
+      "Herren": 87.63,
+      "Damen": 12.37,
+      "Klassisch": 74.06,
+      "Modern": 25.94,
+      "Winter": 44.27,
+      "Herbst": 38.59,
+      "Sommer": 4.87,
+      "Frühling": 12.26,
+      "Täglich": 5.67,
+      "Freizeit": 16.75,
+      "Ausgehen": 34.5,
+      "Arbeit": 6.33,
+      "Abend": 36.75
+    },
+    "url": "https://www.parfumo.de/Parfums/Prada/Luna_Rossa_Eau_de_Toilette"
+  },
+  {
+    "name": "Armani Code Ultimate pour Homme",
+    "brand": "Giorgio Armani",
+    "year": 2012,
+    "collection": null,
+    "flakon_designer": null,
+    "perfumer": "Antoine Maisondieu",
+    "ratings": {
+      "Duft": {
+        "rating": 7.6,
+        "number_of_ratings": 227
+      },
+      "Haltbarkeit": {
+        "rating": 7.6,
+        "number_of_ratings": 164
+      },
+      "Sillage": {
+        "rating": 7.2,
+        "number_of_ratings": 167
+      },
+      "Flakon": {
+        "rating": 7.2,
+        "number_of_ratings": 179
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": 7.6,
+        "number_of_ratings": 34
+      }
+    },
+    "detailed_ratings": {
+      "scent": [
+        {
+          "r": "0",
+          "v": 1
+        },
+        {
+          "r": "1",
+          "v": 1
+        },
+        {
+          "r": "2",
+          "v": 0
+        },
+        {
+          "r": "3",
+          "v": 5
+        },
+        {
+          "r": "4",
+          "v": 5
+        },
+        {
+          "r": "5",
+          "v": 8
+        },
+        {
+          "r": "6",
+          "v": 25
+        },
+        {
+          "r": "7",
+          "v": 51
+        },
+        {
+          "r": "8",
+          "v": 85
+        },
+        {
+          "r": "9",
+          "v": 33
+        },
+        {
+          "r": "10",
+          "v": 13
+        }
+      ],
+      "durability": [
+        {
+          "r": "0",
+          "v": 1
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 5
+        },
+        {
+          "r": "3",
+          "v": 11
+        },
+        {
+          "r": "4",
+          "v": 25
+        },
+        {
+          "r": "5",
+          "v": 82
+        },
+        {
+          "r": "6",
+          "v": 292
+        },
+        {
+          "r": "7",
+          "v": 1219
+        },
+        {
+          "r": "8",
+          "v": 1230
+        },
+        {
+          "r": "9",
+          "v": 237
+        },
+        {
+          "r": "10",
+          "v": 104
+        }
+      ],
+      "sillage": [
+        {
+          "r": "0",
+          "v": 3
+        },
+        {
+          "r": "1",
+          "v": 1
+        },
+        {
+          "r": "2",
+          "v": 0
+        },
+        {
+          "r": "3",
+          "v": 0
+        },
+        {
+          "r": "4",
+          "v": 1
+        },
+        {
+          "r": "5",
+          "v": 3
+        },
+        {
+          "r": "6",
+          "v": 10
+        },
+        {
+          "r": "7",
+          "v": 101
+        },
+        {
+          "r": "8",
+          "v": 254
+        },
+        {
+          "r": "9",
+          "v": 570
+        },
+        {
+          "r": "10",
+          "v": 680
+        }
+      ],
+      "bottle": [
+        {
+          "r": "0",
+          "v": 4
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 2
+        },
+        {
+          "r": "3",
+          "v": 3
+        },
+        {
+          "r": "4",
+          "v": 3
+        },
+        {
+          "r": "5",
+          "v": 15
+        },
+        {
+          "r": "6",
+          "v": 18
+        },
+        {
+          "r": "7",
+          "v": 130
+        },
+        {
+          "r": "8",
+          "v": 378
+        },
+        {
+          "r": "9",
+          "v": 433
+        },
+        {
+          "r": "10",
+          "v": 565
+        }
+      ],
+      "pricing": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 7
+        },
+        {
+          "r": "2",
+          "v": 10
+        },
+        {
+          "r": "3",
+          "v": 12
+        },
+        {
+          "r": "4",
+          "v": 36
+        },
+        {
+          "r": "5",
+          "v": 71
+        },
+        {
+          "r": "6",
+          "v": 145
+        },
+        {
+          "r": "7",
+          "v": 252
+        },
+        {
+          "r": "8",
+          "v": 193
+        },
+        {
+          "r": "9",
+          "v": 70
+        },
+        {
+          "r": "10",
+          "v": 48
+        }
+      ]
+    },
+    "top_notes": [
+      "Sternanis",
+      "Mandarine",
+      "Grapefruit"
+    ],
+    "middle_notes": [
+      "Zeder",
+      "Heliotrop",
+      "Zypresse",
+      "Olivenblüte"
+    ],
+    "base_notes": [
+      "Guajakholz",
+      "Tonkabohne",
+      "Vanille"
+    ],
+    "all_notes": null,
+    "scent_types": {
+      "Würzig": 18.11,
+      "Süß": 5.99,
+      "Rauchig": 19.24,
+      "Orientalisch": 16.02,
+      "Ledrig": 6.82,
+      "Holzig": 14.63,
+      "Harzig": 14.2,
+      "Erdig": 4.99,
+      "Herren": 87.63,
+      "Damen": 12.37,
+      "Klassisch": 74.06,
+      "Modern": 25.94,
+      "Winter": 44.27,
+      "Herbst": 38.59,
+      "Sommer": 4.87,
+      "Frühling": 12.26,
+      "Täglich": 5.67,
+      "Freizeit": 16.75,
+      "Ausgehen": 34.5,
+      "Arbeit": 6.33,
+      "Abend": 36.75
+    },
+    "url": "https://www.parfumo.de/Parfums/Giorgio_Armani/Armani_Code_Ultimate"
+  },
+  {
+    "name": "La Nuit de L'Homme Frozen Cologne",
+    "brand": "Yves Saint Laurent",
+    "year": 2012,
+    "collection": null,
+    "flakon_designer": null,
+    "perfumer": null,
+    "ratings": {
+      "Duft": {
+        "rating": 8.1,
+        "number_of_ratings": 307
+      },
+      "Haltbarkeit": {
+        "rating": 6.8,
+        "number_of_ratings": 249
+      },
+      "Sillage": {
+        "rating": 6.5,
+        "number_of_ratings": 255
+      },
+      "Flakon": {
+        "rating": 8.2,
+        "number_of_ratings": 263
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": 7.3,
+        "number_of_ratings": 76
+      }
+    },
+    "detailed_ratings": {
+      "scent": [
+        {
+          "r": "0",
+          "v": 0
+        },
+        {
+          "r": "1",
+          "v": 0
+        },
+        {
+          "r": "2",
+          "v": 0
+        },
+        {
+          "r": "3",
+          "v": 2
+        },
+        {
+          "r": "4",
+          "v": 2
+        },
+        {
+          "r": "5",
+          "v": 9
+        },
+        {
+          "r": "6",
+          "v": 16
+        },
+        {
+          "r": "7",
+          "v": 68
+        },
+        {
+          "r": "8",
+          "v": 101
+        },
+        {
+          "r": "9",
+          "v": 75
+        },
+        {
+          "r": "10",
+          "v": 34
+        }
+      ],
+      "durability": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 1
+        },
+        {
+          "r": "2",
+          "v": 0
+        },
+        {
+          "r": "3",
+          "v": 0
+        },
+        {
+          "r": "4",
+          "v": 1
+        },
+        {
+          "r": "5",
+          "v": 0
+        },
+        {
+          "r": "6",
+          "v": 6
+        },
+        {
+          "r": "7",
+          "v": 48
+        },
+        {
+          "r": "8",
+          "v": 180
+        },
+        {
+          "r": "9",
+          "v": 507
+        },
+        {
+          "r": "10",
+          "v": 877
+        }
+      ],
+      "sillage": [
+        {
+          "r": "0",
+          "v": 3
+        },
+        {
+          "r": "1",
+          "v": 1
+        },
+        {
+          "r": "2",
+          "v": 0
+        },
+        {
+          "r": "3",
+          "v": 0
+        },
+        {
+          "r": "4",
+          "v": 1
+        },
+        {
+          "r": "5",
+          "v": 3
+        },
+        {
+          "r": "6",
+          "v": 10
+        },
+        {
+          "r": "7",
+          "v": 101
+        },
+        {
+          "r": "8",
+          "v": 254
+        },
+        {
+          "r": "9",
+          "v": 570
+        },
+        {
+          "r": "10",
+          "v": 680
+        }
+      ],
+      "bottle": [
+        {
+          "r": "0",
+          "v": 4
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 2
+        },
+        {
+          "r": "3",
+          "v": 3
+        },
+        {
+          "r": "4",
+          "v": 3
+        },
+        {
+          "r": "5",
+          "v": 15
+        },
+        {
+          "r": "6",
+          "v": 18
+        },
+        {
+          "r": "7",
+          "v": 130
+        },
+        {
+          "r": "8",
+          "v": 378
+        },
+        {
+          "r": "9",
+          "v": 433
+        },
+        {
+          "r": "10",
+          "v": 565
+        }
+      ],
+      "pricing": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 7
+        },
+        {
+          "r": "2",
+          "v": 10
+        },
+        {
+          "r": "3",
+          "v": 12
+        },
+        {
+          "r": "4",
+          "v": 36
+        },
+        {
+          "r": "5",
+          "v": 71
+        },
+        {
+          "r": "6",
+          "v": 145
+        },
+        {
+          "r": "7",
+          "v": 252
+        },
+        {
+          "r": "8",
+          "v": 193
+        },
+        {
+          "r": "9",
+          "v": 70
+        },
+        {
+          "r": "10",
+          "v": 48
+        }
+      ]
+    },
+    "top_notes": [
+      "Bergamotte",
+      "Mandarine",
+      "Zitrone"
+    ],
+    "middle_notes": [
+      "Rosengeranie",
+      "schwarzer Pfeffer"
+    ],
+    "base_notes": [
+      "Tonkabohne",
+      "Zeder",
+      "Kaschmirholz",
+      "Vetiver"
+    ],
+    "all_notes": null,
+    "scent_types": {
+      "Würzig": 18.11,
+      "Süß": 5.99,
+      "Rauchig": 19.24,
+      "Orientalisch": 16.02,
+      "Ledrig": 6.82,
+      "Holzig": 14.63,
+      "Harzig": 14.2,
+      "Erdig": 4.99,
+      "Herren": 87.63,
+      "Damen": 12.37,
+      "Klassisch": 74.06,
+      "Modern": 25.94,
+      "Winter": 44.27,
+      "Herbst": 38.59,
+      "Sommer": 4.87,
+      "Frühling": 12.26,
+      "Täglich": 5.67,
+      "Freizeit": 16.75,
+      "Ausgehen": 34.5,
+      "Arbeit": 6.33,
+      "Abend": 36.75
+    },
+    "url": "https://www.parfumo.de/Parfums/Yves_Saint_Laurent/La_Nuit_de_Homme_Frozen_Cologne"
+  },
+  {
+    "name": "Allure Homme Sport Eau Extrême",
+    "brand": "Chanel",
+    "year": 2012,
+    "collection": null,
+    "flakon_designer": null,
+    "perfumer": "Jacques Polge",
+    "ratings": {
+      "Duft": {
+        "rating": 8.3,
+        "number_of_ratings": 3447
+      },
+      "Haltbarkeit": {
+        "rating": 7.4,
+        "number_of_ratings": 3208
+      },
+      "Sillage": {
+        "rating": 7.3,
+        "number_of_ratings": 3194
+      },
+      "Flakon": {
+        "rating": 7.4,
+        "number_of_ratings": 3176
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": 7.2,
+        "number_of_ratings": 2190
+      }
+    },
+    "detailed_ratings": {
+      "scent": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 10
+        },
+        {
+          "r": "2",
+          "v": 9
+        },
+        {
+          "r": "3",
+          "v": 14
+        },
+        {
+          "r": "4",
+          "v": 19
+        },
+        {
+          "r": "5",
+          "v": 59
+        },
+        {
+          "r": "6",
+          "v": 171
+        },
+        {
+          "r": "7",
+          "v": 533
+        },
+        {
+          "r": "8",
+          "v": 1277
+        },
+        {
+          "r": "9",
+          "v": 948
+        },
+        {
+          "r": "10",
+          "v": 405
+        }
+      ],
+      "durability": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 1
+        },
+        {
+          "r": "2",
+          "v": 0
+        },
+        {
+          "r": "3",
+          "v": 0
+        },
+        {
+          "r": "4",
+          "v": 1
+        },
+        {
+          "r": "5",
+          "v": 0
+        },
+        {
+          "r": "6",
+          "v": 6
+        },
+        {
+          "r": "7",
+          "v": 48
+        },
+        {
+          "r": "8",
+          "v": 180
+        },
+        {
+          "r": "9",
+          "v": 507
+        },
+        {
+          "r": "10",
+          "v": 877
+        }
+      ],
+      "sillage": [
+        {
+          "r": "0",
+          "v": 3
+        },
+        {
+          "r": "1",
+          "v": 1
+        },
+        {
+          "r": "2",
+          "v": 0
+        },
+        {
+          "r": "3",
+          "v": 0
+        },
+        {
+          "r": "4",
+          "v": 1
+        },
+        {
+          "r": "5",
+          "v": 3
+        },
+        {
+          "r": "6",
+          "v": 10
+        },
+        {
+          "r": "7",
+          "v": 101
+        },
+        {
+          "r": "8",
+          "v": 254
+        },
+        {
+          "r": "9",
+          "v": 570
+        },
+        {
+          "r": "10",
+          "v": 680
+        }
+      ],
+      "bottle": [
+        {
+          "r": "0",
+          "v": 4
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 2
+        },
+        {
+          "r": "3",
+          "v": 3
+        },
+        {
+          "r": "4",
+          "v": 3
+        },
+        {
+          "r": "5",
+          "v": 15
+        },
+        {
+          "r": "6",
+          "v": 18
+        },
+        {
+          "r": "7",
+          "v": 130
+        },
+        {
+          "r": "8",
+          "v": 378
+        },
+        {
+          "r": "9",
+          "v": 433
+        },
+        {
+          "r": "10",
+          "v": 565
+        }
+      ],
+      "pricing": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 7
+        },
+        {
+          "r": "2",
+          "v": 10
+        },
+        {
+          "r": "3",
+          "v": 12
+        },
+        {
+          "r": "4",
+          "v": 36
+        },
+        {
+          "r": "5",
+          "v": 71
+        },
+        {
+          "r": "6",
+          "v": 145
+        },
+        {
+          "r": "7",
+          "v": 252
+        },
+        {
+          "r": "8",
+          "v": 193
+        },
+        {
+          "r": "9",
+          "v": 70
+        },
+        {
+          "r": "10",
+          "v": 48
+        }
+      ]
+    },
+    "top_notes": [
+      "Mandarine",
+      "Minze",
+      "Zypresse"
+    ],
+    "middle_notes": [
+      "Muskatellersalbei",
+      "schwarzer Pfeffer"
+    ],
+    "base_notes": [
+      "Tonkabohne",
+      "weißer Moschus",
+      "Sandelholz",
+      "Zeder"
+    ],
+    "all_notes": null,
+    "scent_types": {
+      "Würzig": 18.11,
+      "Süß": 5.99,
+      "Rauchig": 19.24,
+      "Orientalisch": 16.02,
+      "Ledrig": 6.82,
+      "Holzig": 14.63,
+      "Harzig": 14.2,
+      "Erdig": 4.99,
+      "Herren": 87.63,
+      "Damen": 12.37,
+      "Klassisch": 74.06,
+      "Modern": 25.94,
+      "Winter": 44.27,
+      "Herbst": 38.59,
+      "Sommer": 4.87,
+      "Frühling": 12.26,
+      "Täglich": 5.67,
+      "Freizeit": 16.75,
+      "Ausgehen": 34.5,
+      "Arbeit": 6.33,
+      "Abend": 36.75
+    },
+    "url": "https://www.parfumo.de/Parfums/Chanel/Allure_Homme_Sport_Eau_Extrme"
+  },
+  {
+    "name": "Interlude Man",
+    "brand": "Amouage",
+    "year": 2012,
+    "collection": "Main",
+    "flakon_designer": null,
+    "perfumer": "Pierre Negrin",
+    "ratings": {
+      "Duft": {
+        "rating": 7.8,
+        "number_of_ratings": 1781
+      },
+      "Haltbarkeit": {
+        "rating": 9.3,
+        "number_of_ratings": 1622
+      },
+      "Sillage": {
+        "rating": 9.1,
+        "number_of_ratings": 1623
+      },
+      "Flakon": {
+        "rating": 8.8,
+        "number_of_ratings": 1553
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": 6.9,
+        "number_of_ratings": 846
+      }
+    },
+    "detailed_ratings": {
+      "scent": [
+        {
+          "r": "0",
+          "v": 15
+        },
+        {
+          "r": "1",
+          "v": 12
+        },
+        {
+          "r": "2",
+          "v": 18
+        },
+        {
+          "r": "3",
+          "v": 37
+        },
+        {
+          "r": "4",
+          "v": 48
+        },
+        {
+          "r": "5",
+          "v": 78
+        },
+        {
+          "r": "6",
+          "v": 141
+        },
+        {
+          "r": "7",
+          "v": 301
+        },
+        {
+          "r": "8",
+          "v": 476
+        },
+        {
+          "r": "9",
+          "v": 391
+        },
+        {
+          "r": "10",
+          "v": 264
+        }
+      ],
+      "durability": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 1
+        },
+        {
+          "r": "2",
+          "v": 0
+        },
+        {
+          "r": "3",
+          "v": 0
+        },
+        {
+          "r": "4",
+          "v": 1
+        },
+        {
+          "r": "5",
+          "v": 0
+        },
+        {
+          "r": "6",
+          "v": 6
+        },
+        {
+          "r": "7",
+          "v": 48
+        },
+        {
+          "r": "8",
+          "v": 180
+        },
+        {
+          "r": "9",
+          "v": 507
+        },
+        {
+          "r": "10",
+          "v": 877
+        }
+      ],
+      "sillage": [
+        {
+          "r": "0",
+          "v": 3
+        },
+        {
+          "r": "1",
+          "v": 1
+        },
+        {
+          "r": "2",
+          "v": 0
+        },
+        {
+          "r": "3",
+          "v": 0
+        },
+        {
+          "r": "4",
+          "v": 1
+        },
+        {
+          "r": "5",
+          "v": 3
+        },
+        {
+          "r": "6",
+          "v": 10
+        },
+        {
+          "r": "7",
+          "v": 101
+        },
+        {
+          "r": "8",
+          "v": 254
+        },
+        {
+          "r": "9",
+          "v": 570
+        },
+        {
+          "r": "10",
+          "v": 680
+        }
+      ],
+      "bottle": [
+        {
+          "r": "0",
+          "v": 4
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 2
+        },
+        {
+          "r": "3",
+          "v": 3
+        },
+        {
+          "r": "4",
+          "v": 3
+        },
+        {
+          "r": "5",
+          "v": 15
+        },
+        {
+          "r": "6",
+          "v": 18
+        },
+        {
+          "r": "7",
+          "v": 130
+        },
+        {
+          "r": "8",
+          "v": 378
+        },
+        {
+          "r": "9",
+          "v": 433
+        },
+        {
+          "r": "10",
+          "v": 565
+        }
+      ],
+      "pricing": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 7
+        },
+        {
+          "r": "2",
+          "v": 10
+        },
+        {
+          "r": "3",
+          "v": 12
+        },
+        {
+          "r": "4",
+          "v": 36
+        },
+        {
+          "r": "5",
+          "v": 71
+        },
+        {
+          "r": "6",
+          "v": 145
+        },
+        {
+          "r": "7",
+          "v": 252
+        },
+        {
+          "r": "8",
+          "v": 193
+        },
+        {
+          "r": "9",
+          "v": 70
+        },
+        {
+          "r": "10",
+          "v": 48
+        }
+      ]
+    },
+    "top_notes": [
+      "Oregano",
+      "Piment",
+      "Bergamotte"
+    ],
+    "middle_notes": [
+      "Weihrauch",
+      "Opoponax",
+      "Amber",
+      "Zistrose"
+    ],
+    "base_notes": [
+      "Leder",
+      "Oud",
+      "Patchouli",
+      "Sandelholz"
+    ],
+    "all_notes": null,
+    "scent_types": {
+      "Würzig": 18.11,
+      "Süß": 5.99,
+      "Rauchig": 19.24,
+      "Orientalisch": 16.02,
+      "Ledrig": 6.82,
+      "Holzig": 14.63,
+      "Harzig": 14.2,
+      "Erdig": 4.99,
+      "Herren": 87.63,
+      "Damen": 12.37,
+      "Klassisch": 74.06,
+      "Modern": 25.94,
+      "Winter": 44.27,
+      "Herbst": 38.59,
+      "Sommer": 4.87,
+      "Frühling": 12.26,
+      "Täglich": 5.67,
+      "Freizeit": 16.75,
+      "Ausgehen": 34.5,
+      "Arbeit": 6.33,
+      "Abend": 36.75
+    },
+    "url": "https://www.parfumo.de/Parfums/Amouage/Interlude_Man"
+  },
+  {
+    "name": "Noir Tom Ford 2012 Eau de Parfum",
+    "brand": "Tom Ford",
+    "year": 2012,
+    "collection": null,
+    "flakon_designer": null,
+    "perfumer": "Olivier Gillotin",
+    "ratings": {
+      "Duft": {
+        "rating": 7.7,
+        "number_of_ratings": 838
+      },
+      "Haltbarkeit": {
+        "rating": 7.6,
+        "number_of_ratings": 696
+      },
+      "Sillage": {
+        "rating": 7.1,
+        "number_of_ratings": 703
+      },
+      "Flakon": {
+        "rating": 7.3,
+        "number_of_ratings": 703
+      },
+      "Preis-Leistungs-Verhältnis": {
+        "rating": 6.8,
+        "number_of_ratings": 375
+      }
+    },
+    "detailed_ratings": {
+      "scent": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 6
+        },
+        {
+          "r": "2",
+          "v": 2
+        },
+        {
+          "r": "3",
+          "v": 7
+        },
+        {
+          "r": "4",
+          "v": 21
+        },
+        {
+          "r": "5",
+          "v": 34
+        },
+        {
+          "r": "6",
+          "v": 75
+        },
+        {
+          "r": "7",
+          "v": 225
+        },
+        {
+          "r": "8",
+          "v": 264
+        },
+        {
+          "r": "9",
+          "v": 141
+        },
+        {
+          "r": "10",
+          "v": 61
+        }
+      ],
+      "durability": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 1
+        },
+        {
+          "r": "2",
+          "v": 0
+        },
+        {
+          "r": "3",
+          "v": 0
+        },
+        {
+          "r": "4",
+          "v": 1
+        },
+        {
+          "r": "5",
+          "v": 0
+        },
+        {
+          "r": "6",
+          "v": 6
+        },
+        {
+          "r": "7",
+          "v": 48
+        },
+        {
+          "r": "8",
+          "v": 180
+        },
+        {
+          "r": "9",
+          "v": 507
+        },
+        {
+          "r": "10",
+          "v": 877
+        }
+      ],
+      "sillage": [
+        {
+          "r": "0",
+          "v": 3
+        },
+        {
+          "r": "1",
+          "v": 1
+        },
+        {
+          "r": "2",
+          "v": 0
+        },
+        {
+          "r": "3",
+          "v": 0
+        },
+        {
+          "r": "4",
+          "v": 1
+        },
+        {
+          "r": "5",
+          "v": 3
+        },
+        {
+          "r": "6",
+          "v": 10
+        },
+        {
+          "r": "7",
+          "v": 101
+        },
+        {
+          "r": "8",
+          "v": 254
+        },
+        {
+          "r": "9",
+          "v": 570
+        },
+        {
+          "r": "10",
+          "v": 680
+        }
+      ],
+      "bottle": [
+        {
+          "r": "0",
+          "v": 4
+        },
+        {
+          "r": "1",
+          "v": 2
+        },
+        {
+          "r": "2",
+          "v": 2
+        },
+        {
+          "r": "3",
+          "v": 3
+        },
+        {
+          "r": "4",
+          "v": 3
+        },
+        {
+          "r": "5",
+          "v": 15
+        },
+        {
+          "r": "6",
+          "v": 18
+        },
+        {
+          "r": "7",
+          "v": 130
+        },
+        {
+          "r": "8",
+          "v": 378
+        },
+        {
+          "r": "9",
+          "v": 433
+        },
+        {
+          "r": "10",
+          "v": 565
+        }
+      ],
+      "pricing": [
+        {
+          "r": "0",
+          "v": 2
+        },
+        {
+          "r": "1",
+          "v": 7
+        },
+        {
+          "r": "2",
+          "v": 10
+        },
+        {
+          "r": "3",
+          "v": 12
+        },
+        {
+          "r": "4",
+          "v": 36
+        },
+        {
+          "r": "5",
+          "v": 71
+        },
+        {
+          "r": "6",
+          "v": 145
+        },
+        {
+          "r": "7",
+          "v": 252
+        },
+        {
+          "r": "8",
+          "v": 193
+        },
+        {
+          "r": "9",
+          "v": 70
+        },
+        {
+          "r": "10",
+          "v": 48
+        }
+      ]
+    },
+    "top_notes": [
+      "Veilchen",
+      "rosa Pfeffer",
+      "Eisenkraut",
+      "italienische Bergamotte",
+      "Kümmel"
+    ],
+    "middle_notes": [
+      "bulgarische Rose",
+      "Iris",
+      "ägyptische Rosengeranie",
+      "schwarzer Pfeffer Orpur®",
+      "Muskat",
+      "Muskatellersalbei"
+    ],
+    "base_notes": [
+      "indonesisches Patchouli",
+      "Opoponax",
+      "Siam-Benzoe",
+      "Leder",
+      "Styrax",
+      "Vanille",
+      "Amber",
+      "Vetiver",
+      "Zibet"
+    ],
+    "all_notes": null,
+    "scent_types": {
+      "Würzig": 18.11,
+      "Süß": 5.99,
+      "Rauchig": 19.24,
+      "Orientalisch": 16.02,
+      "Ledrig": 6.82,
+      "Holzig": 14.63,
+      "Harzig": 14.2,
+      "Erdig": 4.99,
+      "Herren": 87.63,
+      "Damen": 12.37,
+      "Klassisch": 74.06,
+      "Modern": 25.94,
+      "Winter": 44.27,
+      "Herbst": 38.59,
+      "Sommer": 4.87,
+      "Frühling": 12.26,
+      "Täglich": 5.67,
+      "Freizeit": 16.75,
+      "Ausgehen": 34.5,
+      "Arbeit": 6.33,
+      "Abend": 36.75
+    },
+    "url": "https://www.parfumo.de/Parfums/Tom_Ford/Noir_Eau_de_Parfum"
+  }
+]

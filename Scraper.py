@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 import re
 import subprocess
+import concurrent.futures
 
 class ParfumoScraper:
     def __init__(self, cookie_file='cookies.json', header_file='headers.json', links_file='links.json'):
@@ -163,14 +164,21 @@ class ParfumoScraper:
             return {}
             
         try:
+            collection_element = soup.select_one("div.text-sm.grey.upper.mb-0-5")
             name_element = soup.select_one("h1.p_name_h1")
             brand_element = soup.select_one("span.p_brand_name span[itemprop='name']")
             year_element = soup.select_one("span.label_a")
+            flakon_designer_element = soup.find("div", class_="text-xs lightgrey pt-1 pb-1")
+            perfumer_element = soup.select_one("div.w-100.mt-0-5.mb-3 a")
+
             
             return {
-                "name": name_element.text.strip() if name_element else None,
+                "name": name_element.text.strip().split("  ")[0] if name_element else None,
                 "brand": brand_element.text.strip() if brand_element else None,
-                "year": year_element.text.strip() if year_element else None
+                "year": int(year_element.text.strip()) if year_element else None,
+                "collection": collection_element.text.strip() if collection_element else None,
+                "flakon_designer": flakon_designer_element.text.strip().removeprefix("Flakondesign  ") if flakon_designer_element else None,
+                "perfumer": perfumer_element.text.strip() if perfumer_element else None
             }
         except Exception as e:
             print(f"Error extracting basic info: {e}")
@@ -235,8 +243,8 @@ class ParfumoScraper:
                     num_ratings = num_ratings_element.text.strip().split()[0] if num_ratings_element else None
 
                     detailed_ratings[category] = {
-                        "rating": rating_value,
-                        "number_of_ratings": num_ratings,
+                        "rating": float(rating_value),
+                        "number_of_ratings": int(num_ratings),
                     }
                 except Exception as e:
                     print(f"Error extracting ratings for category {category}: {e}")
@@ -307,36 +315,75 @@ class ParfumoScraper:
             print(f"Error scraping perfume {url}: {e}")
             return None
 
-    def scrape_all_perfumes(self):
-        """Scrape all perfumes with chunking support"""
+    # def scrape_all_perfumes(self):
+    #     """Scrape all perfumes with chunking support"""
+    #     results = []
+    #     try:
+    #         with open(self.links_file, 'r') as file:
+    #             links = json.load(file)
+            
+    #         chunk_size = len(links) // 8
+    #         chunks = [links[i:i + chunk_size] for i in range(0, len(links), chunk_size)]
+            
+    #         while True:
+    #             try:
+    #                 # index = int(input("Enter an index between 1 and 8: "))
+    #                 index = 1
+    #                 if 1 <= index <= 8:
+    #                     break
+    #                 print("Index must be between 1 and 8.")
+    #             except ValueError:
+    #                 print("Please enter a valid integer.")
+            
+    #         selected_chunk = chunks[index - 1]
+    #         for i, link in enumerate(selected_chunk, 1):
+    #             print(f"\nProcessing perfume {i} of {len(selected_chunk)}")
+    #             perfume_data = self.scrape_perfume(link)
+    #             if perfume_data:
+    #                 results.append(perfume_data)
+    #                 self.save_results(results, f'perfumes_data_partial_chunk_{index}.json')
+    #             # time.sleep(2)
+    #             if i == 3:
+    #                 break
+                    
+    #         return results
+    #     except Exception as e:
+    #         print(f"Error scraping all perfumes: {e}")
+    #         return results
+
+    def scrape_chunk(self, chunk, index):
+        """Scrape a single chunk of perfumes."""
+        results = []
+        print(f"Starting chunk {index} with {len(chunk)} perfumes...")
+
+        for i, link in enumerate(chunk, 1):
+            print(f"\n[Chunk {index}] Processing perfume {i} of {len(chunk)}")
+            perfume_data = self.scrape_perfume(link)
+            if perfume_data:
+                results.append(perfume_data)
+                self.save_results(results, f'perfumes_data_partial_chunk_{index}.json')
+
+        return results
+
+    def scrape_all_perfumes(self, num_chunks):
+        """Scrape all perfumes in parallel across 8 chunks."""
         results = []
         try:
             with open(self.links_file, 'r') as file:
                 links = json.load(file)
-            
-            chunk_size = len(links) // 8
+
+            chunk_size = len(links) // num_chunks
             chunks = [links[i:i + chunk_size] for i in range(0, len(links), chunk_size)]
-            
-            while True:
-                try:
-                    index = int(input("Enter an index between 1 and 8: "))
-                    if 1 <= index <= 8:
-                        break
-                    print("Index must be between 1 and 8.")
-                except ValueError:
-                    print("Please enter a valid integer.")
-            
-            selected_chunk = chunks[index - 1]
-            for i, link in enumerate(selected_chunk, 1):
-                print(f"\nProcessing perfume {i} of {len(selected_chunk)}")
-                perfume_data = self.scrape_perfume(link)
-                if perfume_data:
-                    results.append(perfume_data)
-                    self.save_results(results, f'perfumes_data_partial_chunk_{index}.json')
-                # time.sleep(2)
-                if i == 10:
-                    break
-                    
+
+            with concurrent.futures.ThreadPoolExecutor(max_workers=num_chunks) as executor:
+                futures = {executor.submit(self.scrape_chunk, chunks[i], i + 1): i for i in range(len(chunks))}
+
+                for future in concurrent.futures.as_completed(futures):
+                    try:
+                        results.extend(future.result())
+                    except Exception as e:
+                        print(f"Error in chunk {futures[future] + 1}: {e}")
+
             return results
         except Exception as e:
             print(f"Error scraping all perfumes: {e}")
@@ -353,13 +400,14 @@ class ParfumoScraper:
 
 def main():
     scraper = ParfumoScraper()
+    scraper.links_file = 'short_list.json'
     try:
         # test_url = "https://www.parfumo.de/Parfums/Kilian/Amber_Oud"
         # result = scraper.scrape_perfume(url =test_url)
         # print(result)
-        results = scraper.scrape_all_perfumes()
+        results = scraper.scrape_all_perfumes(num_chunks=8)
         # scraper.save_results(result, output_file='test.json')
-        scraper.save_results(results, output_file='test_10.json')
+        scraper.save_results(results, output_file='test_parallel.json')
     except Exception as e:
         print(f"An error occurred: {e}")
 
