@@ -13,5 +13,23 @@
     "https://www.parfumo.de/Parfums/Prada/Luna_Rossa_Eau_de_Toilette",
     "https://www.parfumo.de/Parfums/Amouage/Interlude_Man",
     "https://www.parfumo.de/Parfums/Tom_Ford/Noir_Eau_de_Parfum",
-    "https://www.parfumo.de/Parfums/Yves_Saint_Laurent/La_Nuit_de_Homme_Frozen_Cologne"
+    "https://www.parfumo.de/Parfums/Yves_Saint_Laurent/La_Nuit_de_Homme_Frozen_Cologne",
+
+    {
+        "id": 6,
+        "name": "Charlie"
+    },
+    {
+        "id": 7,
+        "name": "David"
+    },
+
+    {
+        "id": 6,
+        "name": "Charlie"
+    },
+    {
+        "id": 7,
+        "name": "David"
+    }
 ]
