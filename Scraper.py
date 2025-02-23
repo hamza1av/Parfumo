@@ -445,53 +445,53 @@ class ParfumoScraper:
         diff = list(set(input_list) - set(compare_list))
         return diff[:self.num_elements2scrape] if len(diff) > self.num_elements2scrape else diff
 
-    # def save_results(self, results):
-    #     """Save results to JSON file"""
-    #     # try:
-    #     #     with open(self.output_file, 'w', encoding='utf-8') as f:
-    #     #         json.dump(results, f, ensure_ascii=False, indent=2)
-    #     #     print(f"Results saved to {self.output_file}")
-    #     # except Exception as e:
-    #     #     print(f"Error saving results: {e}")
-
-    #     with open(self.output_file, "r+", encoding="utf-8") as file:
-    #         file.seek(0, 2)  # Move to the end of the file
-    #         position = file.tell()
-            
-    #         if position > 2:  # If file is not empty, remove the last ']'
-    #             file.seek(position - 2)
-    #             file.truncate()
-    #             file.write(",\n" + json.dumps(results, indent=4)[1:])  # Append new items
-    #         else:
-    #             file.write(json.dumps(results, indent=4)) 
-
     def save_results(self, results):
-        """Save results to JSON file without adding trailing commas"""
+        """Save results to JSON file"""
+        # try:
+        #     with open(self.output_file, 'w', encoding='utf-8') as f:
+        #         json.dump(results, f, ensure_ascii=False, indent=2)
+        #     print(f"Results saved to {self.output_file}")
+        # except Exception as e:
+        #     print(f"Error saving results: {e}")
 
-        if not os.path.exists(self.output_file):  # Handle case where file doesn't exist
-            with open(self.output_file, "w", encoding="utf-8") as file:
-                json.dump([results], file, indent=4)
-            return
+        with open(self.output_file, "r+", encoding="utf-8") as file:
+            file.seek(0, 2)  # Move to the end of the file
+            position = file.tell()
+            
+            if position > 2:  # If file is not empty, remove the last ']'
+                file.seek(position - 2)
+                file.truncate()
+                file.write(",\n" + json.dumps(results, indent=4)[1:])  # Append new items
+            else:
+                file.write(json.dumps(results, indent=4)) 
 
-        try:
-            with open(self.output_file, "r+", encoding="utf-8") as file:
-                try:
-                    data = json.load(file)  # Load existing JSON data
-                    if not isinstance(data, list):  # Ensure it's a list
-                        print(f"Error: Expected a list in {self.output_file}, but found {type(data).__name__}.")
-                        return  # Don't write anything if the structure is invalid
-                except json.JSONDecodeError:
-                    print(f"Error: Corrupted JSON file {self.output_file}. Skipping save.")
-                    return  # Exit without modifying the file
+    # def save_results(self, results):
+    #     """Save results to JSON file without adding trailing commas"""
 
-                if results not in data:  # Prevent duplicate entries
-                    data.append(results)
-                    file.seek(0)  # Move to the start of the file
-                    json.dump(data, file, indent=4)  # Overwrite with updated list
-                    file.truncate()  # Ensure old content is removed
+    #     if not os.path.exists(self.output_file):  # Handle case where file doesn't exist
+    #         with open(self.output_file, "w", encoding="utf-8") as file:
+    #             json.dump([results], file, indent=4)
+    #         return
 
-        except Exception as e:
-            print(f"Error saving results: {e}")
+    #     try:
+    #         with open(self.output_file, "r+", encoding="utf-8") as file:
+    #             try:
+    #                 data = json.load(file)  # Load existing JSON data
+    #                 if not isinstance(data, list):  # Ensure it's a list
+    #                     print(f"Error: Expected a list in {self.output_file}, but found {type(data).__name__}.")
+    #                     return  # Don't write anything if the structure is invalid
+    #             except json.JSONDecodeError:
+    #                 print(f"Error: Corrupted JSON file {self.output_file}. Skipping save.")
+    #                 return  # Exit without modifying the file
+
+    #             if results not in data:  # Prevent duplicate entries
+    #                 data.append(results)
+    #                 file.seek(0)  # Move to the start of the file
+    #                 json.dump(data, file, indent=4)  # Overwrite with updated list
+    #                 file.truncate()  # Ensure old content is removed
+
+    #     except Exception as e:
+    #         print(f"Error saving results: {e}")
 
 
     def get_proxies(self):
