@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 import re
 import subprocess
+import time
 import concurrent.futures
 
 class ParfumoScraper:
@@ -298,6 +299,7 @@ class ParfumoScraper:
         try:
             print(f"\nScraping: {url}")
             self.get_base_response(url)
+            time.sleep(2)
             
             # Get main page
             main_soup = self.get_soup(url)
@@ -327,7 +329,13 @@ class ParfumoScraper:
                 all_notes = [el.text.strip() for el in main_soup.select('span.clickable_note_img span.nowrap.pointer') if el.text.strip()]
 
             self.get_classification_pie(referrer = url)
-            scent_types = self.get_classification_dict() if self.classification_response_body else {}
+
+            try:
+                scent_types = self.get_classification_dict() 
+            except:
+                scent_types = {}
+
+            time.sleep(2)
 
             return {
                 **basic_info,
@@ -459,15 +467,15 @@ def main():
     scraper = ParfumoScraper()
     # scraper.links_file = 'short_list.json'
     scraper.links_file = 'links.json'
-    scraper.output_file = 'test_parallel.json'
-    scraper.num_elements2scrape = 512
+    scraper.output_file = 'completed_perfumes.json'
+    scraper.num_elements2scrape = 4500
     try:
         # test_url = "https://www.parfumo.de/Parfums/Kilian/Amber_Oud"
         # test_url = "https://www.parfumo.de/Parfums/George_Gina__Lucy/Night_Star"
         # test_url = "https://www.parfumo.de/Parfums/Viktor_Rolf/flowerbomb-tiger-lily"
         # result = scraper.scrape_perfume(url =test_url)
         # print(result)
-        results = scraper.scrape_all_perfumes(num_chunks=11)
+        results = scraper.scrape_all_perfumes(num_chunks=1)
         # scraper.save_results(result, output_file='test.json')
         scraper.save_results(results)
     except Exception as e:
