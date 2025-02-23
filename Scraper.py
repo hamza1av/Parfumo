@@ -7,13 +7,12 @@ import subprocess
 import time
 import concurrent.futures
 import argparse
-import random
+import os
+# import random
 
 class ParfumoScraper:
-    def __init__(self, links_file='links.json', output_file='output.json'):
-        self.links_file = links_file
-        self.output_file = output_file 
-        self.session = requests.Session()
+    def __init__(self):
+        return
 
     def get_classification_pie(self, referrer):
         curl_command = [
@@ -37,6 +36,38 @@ class ParfumoScraper:
         self.classification_response_body = response_body.strip()
         self.classification_status_code = status_code.strip()
 
+    def get_classification_pie_req(self, referrer):
+
+        url = "https://www.parfumo.de/action/perfume/get_classification_pie.php"
+
+        payload = {'p': self.p,
+        'h': self.h_pie,
+        'csrf_key': self.csrf_token}
+        files=[
+
+        ]
+        headers = {
+        'content-type': ' application/x-www-form-urlencoded; charset=UTF-8',
+        'cookie': ' PHPSESSID=h1ug0djf4v2603la1ai6t8ic1e; _ga=GA1.1.297718056.1739031516; _sp_su=false; _sp_enable_dfp_personalized_ads=true; euconsent-v2=CQMgjEAQMgjEAAGABCENBbFsAP_gAAAAAAYgIzAB5C7cTWFhcHhXAaMAaIwc1xABJkAAAhKAAaABSBIAcIQEkiACMAyAAAACAAAAIABAAAAgAABAAQAAAIgAAAAEAAAEAAAIICAEAAERQgAACAAICAAAAQAIAAABAgEAiACAQQKERFgAgIAgBAAAAIAgAIABAgMAAAAAAAAAAAAAAgAAgQAAAAAAAAACABAAAAeEgNAALAAqABwADwAIIAZABqADwAIgATAA3gB-AEJAIYAiQBHACaAGGAO6AfgB-gG0AUeAvMBkgDLgGsANzAgmEAEgAkACOAH8Ac4BKQCdgI9AXUAyEQABABIKAAgI9GAAQEejoDoACwAKgAcABBADIANQAeABEACYAF0AMQAbwA_QCGAIkATQAw4B-AH6ARYAjoBtAEXgJkAUeAvMBkkDLAMuAaaA1gBxYEARwBAAC4AJAAjgBQAD-AI6AcgBzgDuAIQASkAnYCPQExALqAZCA3MhAIAAWADUAMQAbwBHADuAJSAbQgAFAD_AOQA5wEegJiAiySgHgALAA4ADwAIgATAAxQCGAIkARwA_AEXgKPAXmAyQBrAEASQAcAC4ARwB3AHbAR6AmIBlhSAsAAsACoAHAAQQAyADQAHgARAAmABSADEAH6AQwBEwD8AP0AiwBHQDaAIvAXmAySBlgGXANYAgmUAJAAKAAuACQAI4AWwA2gCOgHIAc4A7gCUgF1ANeAdsBHoCYgFZANzAiyWgBAA1AHcWABAI9ATE.YAAAAAAAAAAA; consentUUID=1d2e9edf-2585-4ab3-9484-05914090a08d_40; consentDate=2025-02-08T16:18:39.046Z; uniqueUser=e4d729908c0c5217dd4073f78b9f6805c2d283c97809576dda6c2b21d2151d5c; _ga_DVZQF4Y622=GS1.1.1739482214.5.1.1739482214.0.0.0; PHPSESSID=m1tlk8lfac5kmoqjtb2j2j4kor',
+        'dnt': ' 1',
+        'origin': ' https://www.parfumo.de',
+        'referer': f'{referrer}',
+        'sec-ch-ua': ' "Chromium";v="133", "Not(A:Brand";v="99"',
+        'sec-ch-ua-mobile': ' ?0',
+        'sec-ch-ua-platform': ' "macOS"',
+        'sec-fetch-dest': ' empty',
+        'sec-fetch-mode': ' cors',
+        'sec-fetch-site': ' same-origin',
+        'user-agent': ' Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36',
+        'x-requested-with': ' XMLHttpRequest',
+        'cache-control': ' no-cache',
+        'pragma': ' no-cache'
+        }
+
+        response = requests.request("POST", url, headers=headers, data=payload, files=files)
+
+        self.classification_response_body = response.text()
+        self.classification_status_code = response.status_code()
 
     def get_ratings_details_request(self, referrer, type):
         url = "https://www.parfumo.de/action/_get_ratings_details.php"
@@ -414,28 +445,56 @@ class ParfumoScraper:
         diff = list(set(input_list) - set(compare_list))
         return diff[:self.num_elements2scrape] if len(diff) > self.num_elements2scrape else diff
 
-    def save_results(self, results):
-        """Save results to JSON file"""
-        # try:
-        #     with open(self.output_file, 'w', encoding='utf-8') as f:
-        #         json.dump(results, f, ensure_ascii=False, indent=2)
-        #     print(f"Results saved to {self.output_file}")
-        # except Exception as e:
-        #     print(f"Error saving results: {e}")
+    # def save_results(self, results):
+    #     """Save results to JSON file"""
+    #     # try:
+    #     #     with open(self.output_file, 'w', encoding='utf-8') as f:
+    #     #         json.dump(results, f, ensure_ascii=False, indent=2)
+    #     #     print(f"Results saved to {self.output_file}")
+    #     # except Exception as e:
+    #     #     print(f"Error saving results: {e}")
 
-        with open(self.output_file, "r+", encoding="utf-8") as file:
-            file.seek(0, 2)  # Move to the end of the file
-            position = file.tell()
+    #     with open(self.output_file, "r+", encoding="utf-8") as file:
+    #         file.seek(0, 2)  # Move to the end of the file
+    #         position = file.tell()
             
-            if position > 2:  # If file is not empty, remove the last ']'
-                file.seek(position - 2)
-                file.truncate()
-                file.write(",\n" + json.dumps(results, indent=4)[1:])  # Append new items
-            else:
-                file.write(json.dumps(results, indent=4)) 
+    #         if position > 2:  # If file is not empty, remove the last ']'
+    #             file.seek(position - 2)
+    #             file.truncate()
+    #             file.write(",\n" + json.dumps(results, indent=4)[1:])  # Append new items
+    #         else:
+    #             file.write(json.dumps(results, indent=4)) 
+
+    def save_results(self, results):
+        """Save results to JSON file without adding trailing commas"""
+
+        if not os.path.exists(self.output_file):  # Handle case where file doesn't exist
+            with open(self.output_file, "w", encoding="utf-8") as file:
+                json.dump([results], file, indent=4)
+            return
+
+        try:
+            with open(self.output_file, "r+", encoding="utf-8") as file:
+                try:
+                    data = json.load(file)  # Load existing JSON data
+                    if not isinstance(data, list):  # Ensure it's a list
+                        print(f"Error: Expected a list in {self.output_file}, but found {type(data).__name__}.")
+                        return  # Don't write anything if the structure is invalid
+                except json.JSONDecodeError:
+                    print(f"Error: Corrupted JSON file {self.output_file}. Skipping save.")
+                    return  # Exit without modifying the file
+
+                if results not in data:  # Prevent duplicate entries
+                    data.append(results)
+                    file.seek(0)  # Move to the start of the file
+                    json.dump(data, file, indent=4)  # Overwrite with updated list
+                    file.truncate()  # Ensure old content is removed
+
+        except Exception as e:
+            print(f"Error saving results: {e}")
+
 
     def get_proxies(self):
-
         return
 
 def main():
@@ -450,24 +509,17 @@ def main():
     args = parser.parse_args()
 
     scraper = ParfumoScraper()
-    # scraper.links_file = 'short_list.json'
     scraper.links_file = args.input
     scraper.output_file = args.output
     scraper.num_elements2scrape = args.num_elements
-
     scraper.proxies = [line.strip() for line in open(args.proxies) if line.strip()]
 
     try:
-        # test_url = "https://www.parfumo.de/Parfums/Kilian/Amber_Oud"
-        # test_url = "https://www.parfumo.de/Parfums/George_Gina__Lucy/Night_Star"
-        # test_url = "https://www.parfumo.de/Parfums/Viktor_Rolf/flowerbomb-tiger-lily"
-        # result = scraper.scrape_perfume(url =test_url)
-        # print(result)
         results = scraper.scrape_all_perfumes(num_chunks=args.num_chunks)
-        # scraper.save_results(result, output_file='test.json')
         scraper.save_results(results)
     except Exception as e:
         print(f"An error occurred: {e}")
 
 if __name__ == "__main__":
     main()
+
