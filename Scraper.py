@@ -7,6 +7,7 @@ import subprocess
 import time
 import concurrent.futures
 import argparse
+import random
 
 class ParfumoScraper:
     def __init__(self, links_file='links.json', output_file='output.json'):
@@ -433,6 +434,10 @@ class ParfumoScraper:
             else:
                 file.write(json.dumps(results, indent=4)) 
 
+    def get_proxies(self):
+
+        return
+
 def main():
 
     parser = argparse.ArgumentParser()
@@ -440,6 +445,7 @@ def main():
     parser.add_argument("--input", "-i", type=str, default="links.json")    
     parser.add_argument("--output", "-o", type=str, default='completed_perfumes.json')    
     parser.add_argument("--num_elements", "-n", type=int, default=250)    
+    parser.add_argument("--proxies", "-p", type=str, default='valid_proxies.txt')    
 
     args = parser.parse_args()
 
@@ -448,6 +454,8 @@ def main():
     scraper.links_file = args.input
     scraper.output_file = args.output
     scraper.num_elements2scrape = args.num_elements
+
+    scraper.proxies = [line.strip() for line in open(args.proxies) if line.strip()]
 
     try:
         # test_url = "https://www.parfumo.de/Parfums/Kilian/Amber_Oud"
