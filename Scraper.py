@@ -6,6 +6,7 @@ import re
 import subprocess
 import time
 import concurrent.futures
+import argparse
 
 class ParfumoScraper:
     def __init__(self, links_file='links.json', output_file='output.json'):
@@ -35,37 +36,6 @@ class ParfumoScraper:
         self.classification_response_body = response_body.strip()
         self.classification_status_code = status_code.strip()
 
-
-    # def get_ratings_details_request(self, referrer, type):
-    #     curl_command = [
-    #         "curl",
-    #         "--location", "https://www.parfumo.de/action/_get_ratings_details.php",
-    #         "--header", "accept: */*",
-    #         "--header", "content-type: application/x-www-form-urlencoded; charset=UTF-8",
-    #         "--header", "cookie: PHPSESSID=h1ug0djf4v2603la1ai6t8ic1e; _ga=GA1.1.297718056.1739031516; _sp_su=false; _sp_enable_dfp_personalized_ads=true; euconsent-v2=CQMgjEAQMgjEAAGABCENBbFsAP_gAAAAAAYgIzAB5C7cTWFhcHhXAaMAaIwc1xABJkAAAhKAAaABSBIAcIQEkiACMAyAAAACAAAAIABAAAAgAABAAQAAAIgAAAAEAAAEAAAIICAEAAERQgAACAAICAAAAQAIAAABAgEAi ACAQQKERFgAgIAgBAAAAIAgAIABAgMAAAAAAAAAAAAAAgAAgQAAAAAAAAACABAAAAeEgNAALAAqABwADwAIIAZABqADwAIgATAA3gB-AEJAIYAiQBHACaAGGAO6AfgB-gG0AUeAvMBkgDLgGsANzAgmEAEgAkACOAH8Ac4BKQCdgI9AXUAyEQABABIKAAgI9GAAQEejoDoACwAKgAcABBADIANQAeABEACYAF0AMQAbwA_QCGAIkATQAw4B-AH6ARYAjoBtAEXgJkAUeAvMBkkDLAMuAaaA1gBxYEARwBAAC4AJAAjgBQAD-AI6AcgBzgDuAIQASkAnYCPQExALqAZCA3MhAIAAWADUAMQAbwBHADuAJSAbQgAFAD_AOQA5wEegJiAiySgHgALAA4ADwAIgATAAxQCGAIkARwA_AEXgKPAXmAyQBrAEASQAcAC4ARwB3AHbAR6AmIBlhSAsAAsACoAHAAQQAyADQAHgARAAmABSADEAH6AQwBEwD8AP0AiwBHQDaAIvAXmAySBlgGXANYAgmUAJAAKAAuACQAI4AWwA2gCOgHIAc4A7gCUgF1ANeAdsBHoCYgFZANzAiyWgBAA1AHcWABAI9ATE.YAAAAAAAAAAA; consentUUID=1d2e9edf-2585-4ab3-9484-05914090a08d_40; consentDate=2025-02-08T16:18:39.046Z; uniqueUser=e4d729908c0c5217dd4073f78b9f6805c2d283c97809576dda6c2b21d2151d5c; _ga_DVZQF4Y622=GS1.1.1739570633.10.1.1739572293.0.0.0; PHPSESSID=m1tlk8lfac5kmoqjtb2j2j4kor",
-    #         "--header", "dnt: 1",
-    #         "--header", "origin: https://www.parfumo.de",
-    #         "--header", f"referer: {referrer}",
-    #         "--header", "sec-ch-ua: \"Chromium\";v=\"133\", \"Not(A:Brand\";v=\"99\"",
-    #         "--header", "sec-ch-ua-mobile: ?0",
-    #         "--header", "sec-ch-ua-platform: \"macOS\"",
-    #         "--header", "sec-fetch-dest: empty",
-    #         "--header", "sec-fetch-mode: cors",
-    #         "--header", "sec-fetch-site: same-origin",
-    #         "--header", "user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-    #         "--header", "x-requested-with: XMLHttpRequest",
-    #         "--form", f'type="{type}"',
-    #         "--form", f'p_id="{self.p}"',
-    #         "--form", f'dist="{self.dist_token_dic[type]}"',
-    #         "--form", f'csrf_key="{self.csrf_token}"',
-    #         "--form", f'h="{self.h_ratings}"'
-    #     ]
-    #     result = subprocess.run(curl_command, capture_output=True, text=True)
-    #     response_body, _, status_code = result.stdout.rpartition("HTTP Status: ")
-
-    #     # self.classification_response_body = response_body.strip()
-    #     # self.classification_status_code = status_code.strip()
-    #     return response_body.strip(), status_code.strip()
 
     def get_ratings_details_request(self, referrer, type):
         url = "https://www.parfumo.de/action/_get_ratings_details.php"
@@ -464,18 +434,28 @@ class ParfumoScraper:
                 file.write(json.dumps(results, indent=4)) 
 
 def main():
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--num_chunks", type=int, default=1)    
+    parser.add_argument("--input", "-i", type=str, default="links.json")    
+    parser.add_argument("--output", "-o", type=str, default='completed_perfumes.json')    
+    parser.add_argument("--num_elements", "-n", type=int, default=250)    
+
+    args = parser.parse_args()
+
     scraper = ParfumoScraper()
     # scraper.links_file = 'short_list.json'
-    scraper.links_file = 'links.json'
-    scraper.output_file = 'completed_perfumes.json'
-    scraper.num_elements2scrape = 250
+    scraper.links_file = args.input
+    scraper.output_file = args.output
+    scraper.num_elements2scrape = args.num_elements
+
     try:
         # test_url = "https://www.parfumo.de/Parfums/Kilian/Amber_Oud"
         # test_url = "https://www.parfumo.de/Parfums/George_Gina__Lucy/Night_Star"
         # test_url = "https://www.parfumo.de/Parfums/Viktor_Rolf/flowerbomb-tiger-lily"
         # result = scraper.scrape_perfume(url =test_url)
         # print(result)
-        results = scraper.scrape_all_perfumes(num_chunks=1)
+        results = scraper.scrape_all_perfumes(num_chunks=args.num_chunks)
         # scraper.save_results(result, output_file='test.json')
         scraper.save_results(results)
     except Exception as e:
