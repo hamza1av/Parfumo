@@ -299,7 +299,7 @@ class ParfumoScraper:
         try:
             print(f"\nScraping: {url}")
             self.get_base_response(url)
-            time.sleep(2)
+            time.sleep(1)
             
             # Get main page
             main_soup = self.get_soup(url)
@@ -335,7 +335,7 @@ class ParfumoScraper:
             except:
                 scent_types = {}
 
-            time.sleep(2)
+            time.sleep(1)
 
             return {
                 **basic_info,
@@ -468,7 +468,7 @@ def main():
     # scraper.links_file = 'short_list.json'
     scraper.links_file = 'links.json'
     scraper.output_file = 'completed_perfumes.json'
-    scraper.num_elements2scrape = 4500
+    scraper.num_elements2scrape = 250
     try:
         # test_url = "https://www.parfumo.de/Parfums/Kilian/Amber_Oud"
         # test_url = "https://www.parfumo.de/Parfums/George_Gina__Lucy/Night_Star"
