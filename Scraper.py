@@ -301,7 +301,7 @@ class ParfumoScraper:
         try:
             print(f"\nScraping: {url}")
             self.get_base_response(url)
-            time.sleep(1)
+            time.sleep(self.timer)
             
             # Get main page
             main_soup = self.get_soup(url)
@@ -337,7 +337,7 @@ class ParfumoScraper:
             except:
                 scent_types = {}
 
-            time.sleep(1)
+            time.sleep(self.timer)
 
             return {
                 **basic_info,
@@ -505,6 +505,7 @@ def main():
     parser.add_argument("--output", "-o", type=str, default='completed_perfumes.json')    
     parser.add_argument("--num_elements", "-n", type=int, default=250)    
     parser.add_argument("--proxies", "-p", type=str, default='valid_proxies.txt')    
+    parser.add_argument("--timer", "-t", type=int, default=2)
 
     args = parser.parse_args()
 
@@ -513,6 +514,7 @@ def main():
     scraper.output_file = args.output
     scraper.num_elements2scrape = args.num_elements
     scraper.proxies = [line.strip() for line in open(args.proxies) if line.strip()]
+    scraper.timer = args.timer
 
     try:
         results = scraper.scrape_all_perfumes(num_chunks=args.num_chunks)
