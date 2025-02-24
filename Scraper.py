@@ -30,11 +30,17 @@ class ParfumoScraper:
             "--silent", "--show-error"
         ]
 
-        result = subprocess.run(curl_command, capture_output=True, text=True)
-        response_body, _, status_code = result.stdout.rpartition("HTTP Status: ")
+        try:
+            result = subprocess.run(curl_command, capture_output=True, text=True)
+            response_body, _, status_code = result.stdout.rpartition("HTTP Status: ")
 
-        self.classification_response_body = response_body.strip()
-        self.classification_status_code = status_code.strip()
+            self.classification_response_body = response_body.strip()
+            self.classification_status_code = status_code.strip()
+        except:
+            print(f'Failed get_classification_pie() for {referrer}')
+            self.classification_response_body = None
+            self.classification_status_code = None
+
 
     def get_classification_pie_req(self, referrer):
 
@@ -106,7 +112,6 @@ class ParfumoScraper:
 
         # Dictionary to store parsed data
         charts_dict = {}
-
         # Extract matches
         for match in pattern.finditer(self.classification_response_body):
             chart_number = match.group(1)
@@ -138,8 +143,13 @@ class ParfumoScraper:
 
     def get_tokens(self):
 
-        p = re.search(r"getClassificationChart\('([^']+)',(\d+),'([^']+)'\)", self.main_html).group(2)
-        h_pie = re.search(r"getClassificationChart\('([^']+)',(\d+),'([^']+)'\)", self.main_html).group(3)
+        try:
+            p = re.search(r"getClassificationChart\('([^']+)',(\d+),'([^']+)'\)", self.main_html).group(2)
+            h_pie = re.search(r"getClassificationChart\('([^']+)',(\d+),'([^']+)'\)", self.main_html).group(3)
+        except:
+            p = re.search(r'data-p_id="([\d.]+)"', self.main_html).group(1)
+            h_pie = None
+
         csrf_token = re.search(r"csrf_key:'(.*?)'", self.main_html).group(1)
 
         matches = re.findall(r'data-type=\"([^\"]+)\"[^>]+data-voting_distribution=\"([^\"]+)\"', self.main_html)
@@ -330,6 +340,7 @@ class ParfumoScraper:
             if not (top_notes or middle_notes or base_notes):
                 all_notes = [el.text.strip() for el in main_soup.select('span.clickable_note_img span.nowrap.pointer') if el.text.strip()]
 
+
             self.get_classification_pie(referrer = url)
 
             try:
@@ -416,7 +427,8 @@ class ParfumoScraper:
             with open(self.links_file, 'r') as file:
                 links = json.load(file)
             
-            links = self.get_list2scrape()
+            # links = self.get_list2scrape()
+            links = ['https://www.parfumo.de/Parfums/Issey_Miyake/L_Eau_d_Issey_Eau_d_Ete_Summer_Edition_2016']
 
             chunk_size = len(links) // num_chunks
             chunks = [links[i:i + chunk_size] for i in range(0, len(links), chunk_size)]
