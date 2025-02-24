@@ -12,6 +12,7 @@ import os
 
 class ParfumoScraper:
     def __init__(self):
+        self.error_list = []
         return
 
     def get_classification_pie(self, referrer):
@@ -146,11 +147,12 @@ class ParfumoScraper:
         try:
             p = re.search(r"getClassificationChart\('([^']+)',(\d+),'([^']+)'\)", self.main_html).group(2)
             h_pie = re.search(r"getClassificationChart\('([^']+)',(\d+),'([^']+)'\)", self.main_html).group(3)
+            csrf_token = re.search(r"csrf_key:'(.*?)'", self.main_html).group(1)
         except:
             p = re.search(r'data-p_id="([\d.]+)"', self.main_html).group(1)
             h_pie = None
+            csrf_token = re.search(r'<meta name="csrf-token" content="([^"]+)"', self.main_html).group(1)
 
-        csrf_token = re.search(r"csrf_key:'(.*?)'", self.main_html).group(1)
 
         matches = re.findall(r'data-type=\"([^\"]+)\"[^>]+data-voting_distribution=\"([^\"]+)\"', self.main_html)
         dic = {}
@@ -365,6 +367,7 @@ class ParfumoScraper:
 
         except Exception as e:
             print(f"Error scraping perfume {url}: {e}")
+            self.error_list.append(url)
             return None
 
     # def scrape_all_perfumes(self):
@@ -411,6 +414,7 @@ class ParfumoScraper:
         for i, link in enumerate(chunk, 1):
             print(f"\n[Chunk {index}] Processing perfume {i} of {len(chunk)}")
             perfume_data = self.scrape_perfume(link)
+
             if perfume_data:
                 results.append(perfume_data)
                 # self.save_results(results, f'perfumes_data_partial_chunk_{index}.json')
@@ -427,8 +431,9 @@ class ParfumoScraper:
             with open(self.links_file, 'r') as file:
                 links = json.load(file)
             
-            # links = self.get_list2scrape()
-            links = ['https://www.parfumo.de/Parfums/Issey_Miyake/L_Eau_d_Issey_Eau_d_Ete_Summer_Edition_2016']
+            links = self.get_list2scrape()
+            # links = ['https://www.parfumo.de/Parfums/Issey_Miyake/L_Eau_d_Issey_Eau_d_Ete_Summer_Edition_2016']
+            # links = ['https://www.parfumo.de/Parfums/Jean_Paul_Gaultier/Le_Male_Gladiateur']
 
             chunk_size = len(links) // num_chunks
             chunks = [links[i:i + chunk_size] for i in range(0, len(links), chunk_size)]
@@ -452,9 +457,11 @@ class ParfumoScraper:
             input_list = json.load(f)
         with open(self.output_file, 'r') as f:
             compare_list = json.load(f)
+        with open(self.error_file, 'r') as f:
+            error_list = json.load(f)
 
         compare_list = [element['url'] for element in compare_list]
-        diff = list(set(input_list) - set(compare_list))
+        diff = list(set(input_list) - set(compare_list) - set(error_list))
         return diff[:self.num_elements2scrape] if len(diff) > self.num_elements2scrape else diff
 
     def save_results(self, results):
@@ -465,17 +472,30 @@ class ParfumoScraper:
         #     print(f"Results saved to {self.output_file}")
         # except Exception as e:
         #     print(f"Error saving results: {e}")
+        if len(results) > 0:
+            with open(self.output_file, "r+", encoding="utf-8") as file:
+                file.seek(0, 2)  # Move to the end of the file
+                position = file.tell()
+                
+                if position > 2:  # If file is not empty, remove the last ']'
+                    file.seek(position - 2)
+                    file.truncate()
+                    file.write(",\n" + json.dumps(results, indent=4)[1:])  # Append new items
+                else:
+                    file.write(json.dumps(results, indent=4)) 
 
-        with open(self.output_file, "r+", encoding="utf-8") as file:
-            file.seek(0, 2)  # Move to the end of the file
-            position = file.tell()
-            
-            if position > 2:  # If file is not empty, remove the last ']'
-                file.seek(position - 2)
-                file.truncate()
-                file.write(",\n" + json.dumps(results, indent=4)[1:])  # Append new items
-            else:
-                file.write(json.dumps(results, indent=4)) 
+        if len(self.error_list) > 0:
+            with open(self.error_file, "r+", encoding="utf-8") as file:
+                file.seek(0, 2)  # Move to the end of the file
+                position = file.tell()
+                
+                if position > 2:  # If file is not empty, remove the last ']'
+                    file.seek(position - 2)
+                    file.truncate()
+                    file.write(",\n" + json.dumps(self.error_list, indent=4)[1:])  # Append new items
+                else:
+                    file.write(json.dumps(self.error_list, indent=4)) 
+        
 
     # def save_results(self, results):
     #     """Save results to JSON file without adding trailing commas"""
@@ -527,12 +547,15 @@ def main():
     scraper.num_elements2scrape = args.num_elements
     scraper.proxies = [line.strip() for line in open(args.proxies) if line.strip()]
     scraper.timer = args.timer
+    scraper.error_file = 'error_list.json'
 
     try:
         results = scraper.scrape_all_perfumes(num_chunks=args.num_chunks)
         scraper.save_results(results)
     except Exception as e:
         print(f"An error occurred: {e}")
+
+    print('everything done successfully')
 
 if __name__ == "__main__":
     main()
