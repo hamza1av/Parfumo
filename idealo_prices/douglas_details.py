@@ -51,6 +51,5 @@ def process_json_files(source_dir: str, output_dir: str):
                 json.dump(results, f, indent=4, ensure_ascii=False)
 
             print(f"Processed {filename} -> {output_path}")
-            break
 if __name__ == "__main__":
     process_json_files(SOURCE_DIR, OUTPUT_DIR)
