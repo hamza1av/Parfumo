@@ -1,0 +1,5 @@
+outs:
+- md5: 4bfd7a4727e9e0aba0856f79be88eef9
+  size: 402251792
+  hash: md5
+  path: encoded_perfumes.pkl
