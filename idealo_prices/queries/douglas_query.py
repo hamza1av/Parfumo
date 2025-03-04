@@ -14,20 +14,163 @@ def get_first_relevant_link(query: str, url_prefix: str) -> str | None:
 
     return None  # Return None if no matching link is found
 
+# def extract_douglas_prices(html: str) -> dict:
+#     soup = BeautifulSoup(html, "html.parser")
+#     size_price_dict = {}
+
+#     for variant in soup.find_all("div", class_="product-detail__variant"):
+#         size_element = variant.find("div", class_="product-detail__variant-name")
+#         price_element = variant.find("span", class_="product-price__price")
+
+#         if size_element and price_element:
+#             size = size_element.get_text(strip=True)
+#             price = price_element.get_text(strip=True).replace("\u00a0", " ")  # Replace non-breaking spaces
+#             size_price_dict[size] = price
+
+#     return size_price_dict
+
+# def extract_douglas_prices(html: str) -> dict:
+#     soup = BeautifulSoup(html, "html.parser")
+#     size_price_dict = {}
+    
+#     # Extract perfume name
+#     brand = soup.select_one(".brand-name__seo-only")
+#     line = soup.select_one(".brand-line")
+#     header_name = soup.select_one(".header-name")
+    
+#     perfume_name = " ".join(filter(None, [
+#         brand.get_text(strip=True) if brand else "",
+#         line.get_text(strip=True) if line else "",
+#         header_name.get_text(strip=True) if header_name else ""
+#     ])).strip()
+    
+#     for variant in soup.find_all("div", class_="product-detail__variant"):
+#         size_element = variant.find("div", class_="product-detail__variant-name")
+#         price_element = variant.find("span", class_="product-price__price")
+
+#         if size_element and price_element:
+#             size = size_element.get_text(strip=True)
+#             price = price_element.get_text(strip=True).replace("\u00a0", " ")  # Replace non-breaking spaces
+#             size_price_dict[size] = price
+    
+#     return {"perfume_name": perfume_name, "sizes": size_price_dict}
+
+# def extract_douglas_prices(html):
+#     soup = BeautifulSoup(html, 'html.parser')
+#     perfume_data = []
+    
+#     for variant in soup.find_all('div', class_='radio-item'):
+#         size = variant.find('div', class_='product-detail__variant-name')
+#         original_price = variant.find('div', class_='product-price__original')
+#         reduced_price = variant.find('div', class_='product-price__discount')
+        
+#         size_text = size.get_text(strip=True) if size else None
+#         original_price_text = original_price.find('span', class_='product-price__price').get_text(strip=True) if original_price else None
+#         reduced_price_text = reduced_price.find('span', class_='product-price__price').get_text(strip=True) if reduced_price else None
+        
+#         # Convert prices to floats
+#         def convert_price(price_text):
+#             if price_text:
+#                 return float(price_text.replace('\u00a0€', '').replace(',', '.'))
+#             return None
+        
+#         original_price_value = convert_price(original_price_text)
+#         reduced_price_value = convert_price(reduced_price_text)
+        
+#         # Ensure reduced price is less than original price
+#         if reduced_price_value is not None and original_price_value is not None:
+#             if reduced_price_value >= original_price_value:
+#                 reduced_price_value = None
+        
+#         perfume_data.append({
+#             'size': size_text,
+#             'original_price': original_price_value,
+#             'reduced_price': reduced_price_value
+#         })
+    
+#     return perfume_data
+
+from bs4 import BeautifulSoup
+
+# def extract_douglas_prices(html: str) -> dict:
+#     soup = BeautifulSoup(html, "html.parser")
+#     size_price_dict = {}
+
+#     # Extract perfume name
+#     brand = soup.select_one(".brand-name__seo-only")
+#     line = soup.select_one(".brand-line")
+#     header_name = soup.select_one(".header-name")
+
+#     perfume_name = " ".join(filter(None, [
+#         brand.get_text(strip=True) if brand else "",
+#         line.get_text(strip=True) if line else "",
+#         header_name.get_text(strip=True) if header_name else ""
+#     ])).strip()
+
+#     for variant in soup.find_all("div", class_="radio-item"):
+#         size_element = variant.select_one(".product-detail__variant-name")
+#         original_price_element = variant.select_one(".product-price__original .product-price__price")
+#         discounted_price_element = variant.select_one(".product-price__discount .product-price__price")
+#         normal_price_element = variant.select_one(".product-price__base .product-price__price")
+
+#         size = size_element.get_text(strip=True) if size_element else None
+#         original_price = None
+#         reduced_price = None
+
+#         if original_price_element:
+#             original_price = float(original_price_element.get_text(strip=True).replace("€", "").replace(",", "."))
+#         elif normal_price_element:
+#             original_price = float(normal_price_element.get_text(strip=True).replace("€", "").replace(",", "."))
+
+#         if discounted_price_element:
+#             reduced_price = float(discounted_price_element.get_text(strip=True).replace("€", "").replace(",", "."))
+        
+#         if size:
+#             size_price_dict[size] = {
+#                 "original_price": original_price,
+#                 "reduced_price": reduced_price if reduced_price and reduced_price < original_price else None
+#             }
+
+#     return {"perfume_name": perfume_name, "prices": size_price_dict}
+
 def extract_douglas_prices(html: str) -> dict:
     soup = BeautifulSoup(html, "html.parser")
     size_price_dict = {}
 
+    # Extract perfume name
+    brand = soup.select_one(".brand-name__seo-only")
+    line = soup.select_one(".brand-line")
+    header_name = soup.select_one(".header-name")
+
+    perfume_name = " ".join(filter(None, [
+        brand.get_text(strip=True) if brand else "",
+        line.get_text(strip=True) if line else "",
+        header_name.get_text(strip=True) if header_name else ""
+    ])).strip()
+
     for variant in soup.find_all("div", class_="product-detail__variant"):
         size_element = variant.find("div", class_="product-detail__variant-name")
-        price_element = variant.find("span", class_="product-price__price")
+        price_elements = variant.find_all("span", class_="product-price__price")
 
-        if size_element and price_element:
+        if size_element and price_elements:
             size = size_element.get_text(strip=True)
-            price = price_element.get_text(strip=True).replace("\u00a0", " ")  # Replace non-breaking spaces
-            size_price_dict[size] = price
+            
+            if len(price_elements) == 2:
+                # Both original and reduced prices are present
+                original_price = float(price_elements[0].get_text(strip=True).replace("€", "").replace(",", "."))
+                reduced_price = float(price_elements[1].get_text(strip=True).replace("€", "").replace(",", "."))
+            else:
+                # Only original price is present, no discount
+                original_price = float(price_elements[0].get_text(strip=True).replace("€", "").replace(",", "."))
+                reduced_price = None
 
-    return size_price_dict
+            size_price_dict[size] = {
+                "original_price": original_price,
+                "reduced_price": reduced_price
+            }
+
+    return {"perfume_name": perfume_name, "prices": size_price_dict}
+
 
 def extract_flaconi_prices(html):
     soup = BeautifulSoup(html, "html.parser")
@@ -78,7 +221,6 @@ def fetch_douglas_page(url):
         # "Cookie": "_abck=11DDF2720A6ADC99C2E572E46C3F0009~0~YAAQOVITAuJvZEmVAQAAmxajXA2Vzya5YgnQCFFg..."  # Truncated for security
     # }
 
-    print(url) 
     response = requests.get(url, headers=headers)
     return response.text
 
@@ -133,7 +275,9 @@ if __name__ == "__main__":
     # url_prefix: str = "https://www.flaconi.de/parfum"
 
 
-    url: str = get_first_relevant_link(query, url_prefix)
+    # url: str = get_first_relevant_link(query, url_prefix)
+    url = "https://www.douglas.de/de/p/5011174565"
+    url = 'https://www.douglas.de/de/p/5011701001'
     html = fetch_douglas_page(url)
     # html: str = fetch_flaconi_content(url)
     result = extract_douglas_prices(html)
