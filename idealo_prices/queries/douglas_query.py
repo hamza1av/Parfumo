@@ -1,18 +1,18 @@
-from duckduckgo_search import DDGS
+# from duckduckgo_search import DDGS
 from bs4 import BeautifulSoup
 import requests
 import re
 
-def get_first_relevant_link(query: str, url_prefix: str) -> str | None:
-    with DDGS() as ddgs:
-        results = ddgs.text(query, max_results=50)  # Fetch up to 10 results
-
-    for result in results:
-        url = result.get("href") or result.get("url")  # Handle possible key variations
-        if url and url.startswith(url_prefix):
-            return url
-
-    return None  # Return None if no matching link is found
+# def get_first_relevant_link(query: str, url_prefix: str) -> str | None:
+#     with DDGS() as ddgs:
+#         results = ddgs.text(query, max_results=50)  # Fetch up to 10 results
+#
+#     for result in results:
+#         url = result.get("href") or result.get("url")  # Handle possible key variations
+#         if url and url.startswith(url_prefix):
+#             return url
+#
+#     return None  # Return None if no matching link is found
 
 # def extract_douglas_prices(html: str) -> dict:
 #     soup = BeautifulSoup(html, "html.parser")
