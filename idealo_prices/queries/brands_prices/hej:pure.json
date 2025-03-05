@@ -1,0 +1,42 @@
+[
+    {
+        "perfume_name": "hej:pure Eau de Parfum pure water",
+        "url": "https://www.douglas.de/de/p/5011028008",
+        "prices": {
+            "50 ml": {
+                "original_price": 34.95,
+                "reduced_price": 27.96
+            }
+        }
+    },
+    {
+        "perfume_name": "hej:pure Eau de Parfum pure wood",
+        "url": "https://www.douglas.de/de/p/5011028007",
+        "prices": {
+            "50 ml": {
+                "original_price": 34.95,
+                "reduced_price": 27.96
+            }
+        }
+    },
+    {
+        "perfume_name": "hej:pure Eau de Parfum pure flower",
+        "url": "https://www.douglas.de/de/p/5011028009",
+        "prices": {
+            "50 ml": {
+                "original_price": 34.95,
+                "reduced_price": 27.96
+            }
+        }
+    },
+    {
+        "perfume_name": "hej:pure Eau de Parfum pure lemon",
+        "url": "https://www.douglas.de/de/p/5011028010",
+        "prices": {
+            "50 ml": {
+                "original_price": 34.95,
+                "reduced_price": 27.96
+            }
+        }
+    }
+]

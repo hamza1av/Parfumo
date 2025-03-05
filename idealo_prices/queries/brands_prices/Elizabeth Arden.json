@@ -1,0 +1,306 @@
+[
+    {
+        "perfume_name": "Elizabeth Arden Eau de Toilette White Tea Wild Rose",
+        "url": "https://www.douglas.de/de/p/5010049001",
+        "prices": {
+            "30 ml": {
+                "original_price": 25.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Toilette Green Tea Coconut Breeze",
+        "url": "https://www.douglas.de/de/p/5011511005",
+        "prices": {
+            "50 ml": {
+                "original_price": 22.5,
+                "reduced_price": 18.0
+            },
+            "100 ml": {
+                "original_price": 32.5,
+                "reduced_price": 26.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Parfum Untold Untold",
+        "url": "https://www.douglas.de/de/p/5011534079",
+        "prices": {
+            "100 ml": {
+                "original_price": 49.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Parfum 5th Avenue NYC Pulse",
+        "url": "https://www.douglas.de/de/p/5011488036",
+        "prices": {
+            "75 ml": {
+                "original_price": 43.0,
+                "reduced_price": 34.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Toilette White Tea Mandarin Blossom",
+        "url": "https://www.douglas.de/de/p/5009730073",
+        "prices": {
+            "30 ml": {
+                "original_price": 26.0,
+                "reduced_price": 20.8
+            },
+            "50 ml": {
+                "original_price": 36.0,
+                "reduced_price": 24.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Toilette Green Tea Citron Freesia",
+        "url": "https://www.douglas.de/de/p/5011511004",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.5,
+                "reduced_price": 26.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Parfum Green Tea Gesicht",
+        "url": "https://www.douglas.de/de/p/1000126304?variant=053303",
+        "prices": {
+            "30 ml": {
+                "original_price": 16.5,
+                "reduced_price": 13.2
+            },
+            "50 ml": {
+                "original_price": 22.5,
+                "reduced_price": 18.47
+            },
+            "100 ml": {
+                "original_price": 32.5,
+                "reduced_price": 26.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau Fraiche White Tea",
+        "url": "https://www.douglas.de/de/p/5011037091?variant=1110483",
+        "prices": {
+            "30 ml": {
+                "original_price": 26.0,
+                "reduced_price": 20.8
+            },
+            "50 ml": {
+                "original_price": 36.0,
+                "reduced_price": 28.8
+            },
+            "100 ml": {
+                "original_price": 56.0,
+                "reduced_price": 44.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Parfum 5th Avenue NYC LOVE",
+        "url": "https://www.douglas.de/de/p/5011488034",
+        "prices": {
+            "75 ml": {
+                "original_price": 43.0,
+                "reduced_price": 34.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Parfum 5th Avenue",
+        "url": "https://www.douglas.de/de/p/2001003400?variant=966606",
+        "prices": {
+            "75 ml": {
+                "original_price": 43.0,
+                "reduced_price": 34.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Toilette Sunflowers Sunrise",
+        "url": "https://www.douglas.de/de/p/5010024032",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.5,
+                "reduced_price": 26.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Toilette White Tea Edt",
+        "url": "https://www.douglas.de/de/p/5009228017?variant=959543",
+        "prices": {
+            "30 ml": {
+                "original_price": 26.0,
+                "reduced_price": 20.8
+            },
+            "50 ml": {
+                "original_price": 36.0,
+                "reduced_price": 28.8
+            },
+            "100 ml": {
+                "original_price": 56.0,
+                "reduced_price": 42.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Toilette White Tea Florale",
+        "url": "https://www.douglas.de/de/p/5011390140",
+        "prices": {
+            "30 ml": {
+                "original_price": 26.0,
+                "reduced_price": 20.8
+            },
+            "50 ml": {
+                "original_price": 36.0,
+                "reduced_price": 28.8
+            },
+            "100 ml": {
+                "original_price": 56.0,
+                "reduced_price": 44.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Bodylotion Green Tea Refreshing Body Lotion",
+        "url": "https://www.douglas.de/de/p/3000030025?variant=342472",
+        "prices": {
+            "500 ml": {
+                "original_price": 25.5,
+                "reduced_price": 20.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Bodyspray Green Tea",
+        "url": "https://www.douglas.de/de/p/3001045744",
+        "prices": {
+            "236 ml": {
+                "original_price": 10.5,
+                "reduced_price": 8.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Toilette Sunflowers HoneyDaze",
+        "url": "https://www.douglas.de/de/p/5011488035",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.5,
+                "reduced_price": 26.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Parfum 5th Avenue NYC Dream",
+        "url": "https://www.douglas.de/de/p/5011548037",
+        "prices": {
+            "75 ml": {
+                "original_price": 43.0,
+                "reduced_price": 34.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Toilette Always Red",
+        "url": "https://www.douglas.de/de/p/5011534076",
+        "prices": {
+            "100 ml": {
+                "original_price": 49.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Toilette White Tea Ginger Lily",
+        "url": "https://www.douglas.de/de/p/5010024030?variant=014769",
+        "prices": {
+            "30 ml": {
+                "original_price": 26.0,
+                "reduced_price": 20.8
+            },
+            "50 ml": {
+                "original_price": 36.0,
+                "reduced_price": 28.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Toilette Green Tea Sakura Blossom Fragrance Spray",
+        "url": "https://www.douglas.de/de/p/5010024026",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Toilette Sunflowers EDT",
+        "url": "https://www.douglas.de/de/p/m000575088?variant=566828",
+        "prices": {
+            "30 ml": {
+                "original_price": 16.5,
+                "reduced_price": 13.2
+            },
+            "100 ml": {
+                "original_price": 32.5,
+                "reduced_price": 26.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Toilette Red Door",
+        "url": "https://www.douglas.de/de/p/3000001415?variant=016356",
+        "prices": {
+            "30 ml": {
+                "original_price": 41.5,
+                "reduced_price": 33.2
+            },
+            "50 ml": {
+                "original_price": 62.0,
+                "reduced_price": 49.6
+            },
+            "100 ml": {
+                "original_price": 82.5,
+                "reduced_price": 66.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Toilette Green Tea Lychee Lime",
+        "url": "https://www.douglas.de/de/p/5011483033",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.5,
+                "reduced_price": 26.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Elizabeth Arden Eau de Parfum White Tea",
+        "url": "https://www.douglas.de/de/p/5010960884?variant=1058445",
+        "prices": {
+            "30 ml": {
+                "original_price": 31.0,
+                "reduced_price": 24.8
+            },
+            "50 ml": {
+                "original_price": 41.5,
+                "reduced_price": 33.2
+            },
+            "100 ml": {
+                "original_price": 62.0,
+                "reduced_price": 49.6
+            }
+        }
+    }
+]

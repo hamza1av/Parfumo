@@ -1,0 +1,92 @@
+[
+    {
+        "perfume_name": "Scents Of Arabia Eau de Parfum Scent Of Dubai",
+        "url": "https://www.douglas.de/de/p/5010547198",
+        "prices": {
+            "100 ml": {
+                "original_price": 124.99,
+                "reduced_price": 99.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Scents Of Arabia Eau de Parfum Rosette",
+        "url": "https://www.douglas.de/de/p/5010547200",
+        "prices": {
+            "100 ml": {
+                "original_price": 149.99,
+                "reduced_price": 119.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Scents Of Arabia Eau de Parfum La Mer",
+        "url": "https://www.douglas.de/de/p/5010547203",
+        "prices": {
+            "100 ml": {
+                "original_price": 149.99,
+                "reduced_price": 119.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Scents Of Arabia Eau de Parfum Les Sables",
+        "url": "https://www.douglas.de/de/p/5010547201",
+        "prices": {
+            "100 ml": {
+                "original_price": 149.99,
+                "reduced_price": 119.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Scents Of Arabia Eau de Parfum Oriental Oud",
+        "url": "https://www.douglas.de/de/p/5010547196",
+        "prices": {
+            "100 ml": {
+                "original_price": 124.99,
+                "reduced_price": 99.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Scents Of Arabia Eau de Parfum Sultan",
+        "url": "https://www.douglas.de/de/p/5010547202",
+        "prices": {
+            "100 ml": {
+                "original_price": 149.99,
+                "reduced_price": 119.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Scents Of Arabia Eau de Parfum Sinnvoll",
+        "url": "https://www.douglas.de/de/p/5010547199",
+        "prices": {
+            "100 ml": {
+                "original_price": 124.99,
+                "reduced_price": 99.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Scents Of Arabia Eau de Parfum The Duke",
+        "url": "https://www.douglas.de/de/p/5010547195",
+        "prices": {
+            "100 ml": {
+                "original_price": 124.99,
+                "reduced_price": 99.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Scents Of Arabia Eau de Parfum Arabian Musk",
+        "url": "https://www.douglas.de/de/p/5010547197",
+        "prices": {
+            "100 ml": {
+                "original_price": 124.99,
+                "reduced_price": 99.99
+            }
+        }
+    }
+]

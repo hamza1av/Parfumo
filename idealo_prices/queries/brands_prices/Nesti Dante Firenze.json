@@ -1,0 +1,52 @@
+[
+    {
+        "perfume_name": "Nesti Dante Firenze Eau de Parfum DE AMBRA PAPAVER",
+        "url": "https://www.douglas.de/de/p/5011545369",
+        "prices": {
+            "100 ml": {
+                "original_price": 50.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Nesti Dante Firenze Parfum N°1 Fico Della Signora Essence du Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m000323055",
+        "prices": {
+            "100 ml": {
+                "original_price": 50.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Nesti Dante Firenze Parfum N°7 Aqua Dea Marine Essence du Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m000323029",
+        "prices": {
+            "100 ml": {
+                "original_price": 50.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Nesti Dante Firenze Parfum N°5 Limonum Zagara Essence du Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m000323072",
+        "prices": {
+            "100 ml": {
+                "original_price": 50.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Nesti Dante Firenze Eau de Parfum REGINA DI PEONIE",
+        "url": "https://www.douglas.de/de/p/5011545368",
+        "prices": {
+            "100 ml": {
+                "original_price": 50.09,
+                "reduced_price": null
+            }
+        }
+    }
+]

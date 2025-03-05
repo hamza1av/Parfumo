@@ -1,0 +1,86 @@
+[
+    {
+        "perfume_name": "Chopard Duschgel Cašmir Casmir",
+        "url": "https://www.douglas.de/de/p/3000001824?variant=1121075",
+        "prices": {
+            "150 ml": {
+                "original_price": 14.8,
+                "reduced_price": 9.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Chopard Eau de Parfum Lemon Dulci Lemon Dulci 100ml",
+        "url": "https://www.douglas.de/de/p/3001047339",
+        "prices": {
+            "40 ml": {
+                "original_price": 36.5,
+                "reduced_price": 29.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Chopard Eau de Parfum Cašmir CHOPARD",
+        "url": "https://www.douglas.de/de/p/1010601295?variant=065055",
+        "prices": {
+            "30 ml": {
+                "original_price": 29.0,
+                "reduced_price": 21.99
+            },
+            "100 ml": {
+                "original_price": 51.0,
+                "reduced_price": 37.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Chopard Duftset Cašmir Set",
+        "url": "https://www.douglas.de/de/p/3001050784",
+        "prices": {
+            "1 Stück": {
+                "original_price": 29.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Chopard Eau de Toilette Wish Pink Wish",
+        "url": "https://www.douglas.de/de/p/5010346048",
+        "prices": {
+            "30 ml": {
+                "original_price": 29.0,
+                "reduced_price": 23.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Chopard Duftset Wish Set",
+        "url": "https://www.douglas.de/de/p/3001040925",
+        "prices": {
+            "1 Stück": {
+                "original_price": 29.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Chopard Bodylotion Wish",
+        "url": "https://www.douglas.de/de/p/3000019707",
+        "prices": {
+            "150 ml": {
+                "original_price": 14.8,
+                "reduced_price": 11.29
+            }
+        }
+    },
+    {
+        "perfume_name": "Chopard Eau de Parfum Wish CHOPARD",
+        "url": "https://www.douglas.de/de/p/1010603295?variant=858548",
+        "prices": {
+            "75 ml": {
+                "original_price": 46.0,
+                "reduced_price": 31.99
+            }
+        }
+    }
+]

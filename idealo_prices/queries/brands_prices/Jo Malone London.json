@@ -1,0 +1,612 @@
+[
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Poppy & Barley",
+        "url": "https://www.douglas.de/de/p/5000008002",
+        "prices": {
+            "30 ml": {
+                "original_price": 72.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Lime Basil & Mandarin",
+        "url": "https://www.douglas.de/de/p/3000066724",
+        "prices": {
+            "30 ml": {
+                "original_price": 72.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 147.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Wild Bluebell",
+        "url": "https://www.douglas.de/de/p/3000066748",
+        "prices": {
+            "30 ml": {
+                "original_price": 72.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 147.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Intense Jasmine Sambac & Marigold",
+        "url": "https://www.douglas.de/de/p/3001043125?variant=1065356",
+        "prices": {
+            "50 ml": {
+                "original_price": 108.8,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 156.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Duftset Cologne Travel Duo Peony & Blush Suede + Wood Sage & Sea Salt",
+        "url": "https://www.douglas.de/de/p/5011229033",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 33.6,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Parfum Cologne Intense Taif Rose",
+        "url": "https://www.douglas.de/de/p/5011693015",
+        "prices": {
+            "50 ml": {
+                "original_price": 108.8,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Peony & Blush Suede",
+        "url": "https://www.douglas.de/de/p/5002266079?variant=430158",
+        "prices": {
+            "30 ml": {
+                "original_price": 57.6,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 147.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Duftset Mr. Malone Collection",
+        "url": "https://www.douglas.de/de/p/5011588024",
+        "prices": {
+            "4 pieces": {
+                "original_price": 140.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Intense Red Hibiscus",
+        "url": "https://www.douglas.de/de/p/5011277009?variant=1157865",
+        "prices": {
+            "50 ml": {
+                "original_price": 108.8,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 156.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Mimosa & Cardamom",
+        "url": "https://www.douglas.de/de/p/3001018089?variant=430207",
+        "prices": {
+            "30 ml": {
+                "original_price": 57.6,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 116.8,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Parfum Cologne Fir & Artemisia",
+        "url": "https://www.douglas.de/de/p/5011580125?variant=1201526",
+        "prices": {
+            "30 ml": {
+                "original_price": 54.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 99.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Parfum Cologne Intense Hinoki & Cedarwood Cologne Intense",
+        "url": "https://www.douglas.de/de/p/5011563036",
+        "prices": {
+            "50 ml": {
+                "original_price": 137.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 195.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Duftset Cologne Intense Trio",
+        "url": "https://www.douglas.de/de/p/5011588025",
+        "prices": {
+            "1 Stück": {
+                "original_price": 139.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Intense Myrrh & Tonka",
+        "url": "https://www.douglas.de/de/p/5011308000",
+        "prices": {
+            "": {
+                "original_price": 158.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Parfum Cologne Intense RED HIBISCUS COLOGNE INTENSE",
+        "url": "https://www.douglas.de/de/p/5011251058",
+        "prices": {
+            "50 ml": {
+                "original_price": 137.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Gardenia & Oud Absolu",
+        "url": "https://www.douglas.de/de/p/5001699254",
+        "prices": {
+            "100 ml": {
+                "original_price": 295.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Intense Dark Amber & Ginger Lily",
+        "url": "https://www.douglas.de/de/p/3000066704?variant=1078399",
+        "prices": {
+            "50 ml": {
+                "original_price": 108.8,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 156.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Sakura Cherry Blossom",
+        "url": "https://www.douglas.de/de/p/5011718150?variant=1219407",
+        "prices": {
+            "30 ml": {
+                "original_price": 153.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 76.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Wood Sage & Sea Salt",
+        "url": "https://www.douglas.de/de/p/3001005017?variant=430155",
+        "prices": {
+            "30 ml": {
+                "original_price": 56.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 116.8,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne BLACKBERYY & BAY COLOGNE",
+        "url": "https://www.douglas.de/de/p/3000066750?variant=430163",
+        "prices": {
+            "30 ml": {
+                "original_price": 57.6,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 116.8,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Parfum Cologne English Pear and Sweet Pea",
+        "url": "https://www.douglas.de/de/p/5011385009?variant=1175555",
+        "prices": {
+            "30 ml": {
+                "original_price": 57.6,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 116.8,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Bodylotion Wood Sage & Sea Salt Body & Hand Lotion",
+        "url": "https://www.douglas.de/de/p/5010740012",
+        "prices": {
+            "250 ml": {
+                "original_price": 54.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne English Oak & Hazelnut",
+        "url": "https://www.douglas.de/de/p/3001038647",
+        "prices": {
+            "30 ml": {
+                "original_price": 72.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 147.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Haarparfum English Pear & Freesia Hair Mist",
+        "url": "https://www.douglas.de/de/p/5001768335",
+        "prices": {
+            "30 ml": {
+                "original_price": 40.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Nectarine Blossom & Honey",
+        "url": "https://www.douglas.de/de/p/3000066743?variant=430190",
+        "prices": {
+            "30 ml": {
+                "original_price": 57.6,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 116.8,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Silver Birch & Lavender",
+        "url": "https://www.douglas.de/de/p/5010355003",
+        "prices": {
+            "30 ml": {
+                "original_price": 57.6,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 116.8,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Duftset Cologne Mens Collection",
+        "url": "https://www.douglas.de/de/p/5010686128",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 96.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Parfum Cologne Intense Cypress & Grapevine Cologne Intense",
+        "url": "https://www.douglas.de/de/p/5002820006?variant=1078393",
+        "prices": {
+            "50 ml": {
+                "original_price": 108.8,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 156.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Duftset Cologne Collection",
+        "url": "https://www.douglas.de/de/p/5010686136",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 84.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Parfum Cologne Intense Oud & Bergamot",
+        "url": "https://www.douglas.de/de/p/3000066669",
+        "prices": {
+            "50 ml": {
+                "original_price": 108.8,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 156.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Duftset Cologne Discovery Collection",
+        "url": "https://www.douglas.de/de/p/5010596033",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 17.6,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Intense Myrrh & Tonka",
+        "url": "https://www.douglas.de/de/p/3001034344",
+        "prices": {
+            "50 ml": {
+                "original_price": 108.8,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 156.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Lime Basil & Mandarine",
+        "url": "https://www.douglas.de/de/p/5002266082?variant=430167",
+        "prices": {
+            "30 ml": {
+                "original_price": 57.6,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 116.8,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Duftset Cologne Wood Sage & Sea Salt Pairing Trio",
+        "url": "https://www.douglas.de/de/p/5011412004",
+        "prices": {
+            "1 Stück": {
+                "original_price": 112.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Haarparfum Wood Sage & Sea Salt Hair Mist",
+        "url": "https://www.douglas.de/de/p/5010883059",
+        "prices": {
+            "30 ml": {
+                "original_price": 40.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Toilette Cologne BEACH BLOSSOM",
+        "url": "https://www.douglas.de/de/p/5011718149",
+        "prices": {
+            "50 ml": {
+                "original_price": 107.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Körperpflegeset Cologne Intense Mini Luxuries Trio",
+        "url": "https://www.douglas.de/de/p/5010871031",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 44.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Bodyspray Wood Sage & Sea Salt",
+        "url": "https://www.douglas.de/de/p/5010895060",
+        "prices": {
+            "100 ml": {
+                "original_price": 51.2,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Intense Velvet Rose & Oud Cologne Intense",
+        "url": "https://www.douglas.de/de/p/3000066705?variant=1078407",
+        "prices": {
+            "50 ml": {
+                "original_price": 108.8,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 156.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Poppy & Barley",
+        "url": "https://www.douglas.de/de/p/5002266089",
+        "prices": {
+            "100 ml": {
+                "original_price": 116.8,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Orange Blossom",
+        "url": "https://www.douglas.de/de/p/3000066742",
+        "prices": {
+            "30 ml": {
+                "original_price": 57.6,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Duftset Cologne Set",
+        "url": "https://www.douglas.de/de/p/5002298054",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 107.2,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Duftset Mr. Malone Kit",
+        "url": "https://www.douglas.de/de/p/5011142090",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 147.2,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Poppy & Barley",
+        "url": "https://www.douglas.de/de/p/5002266087",
+        "prices": {
+            "30 ml": {
+                "original_price": 57.6,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Duftset Cologne House of Jo Malone Holiday Collection",
+        "url": "https://www.douglas.de/de/p/5011129048",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 153.6,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Duschgel Wild Bluebell",
+        "url": "https://www.douglas.de/de/p/3000066424",
+        "prices": {
+            "250 ml": {
+                "original_price": 40.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Intense Myrrh & Tonka Special Edition",
+        "url": "https://www.douglas.de/de/p/5011610067",
+        "prices": {
+            "100 ml": {
+                "original_price": 164.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Duftset Vitamin E Hand & Lip Duo",
+        "url": "https://www.douglas.de/de/p/5010700231",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 52.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne ENGLISH PEAR & FREESIA COLOGNE",
+        "url": "https://www.douglas.de/de/p/3000066665?variant=430150",
+        "prices": {
+            "30 ml": {
+                "original_price": 57.6,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 116.8,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Parfum Cologne Intense Hinoki & Cedarwood",
+        "url": "https://www.douglas.de/de/p/5011545005",
+        "prices": {
+            "50 ml": {
+                "original_price": 108.8,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 156.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jo Malone London Eau de Cologne Cologne Intense Scarlet Poppy",
+        "url": "https://www.douglas.de/de/p/5009082000?variant=1078410",
+        "prices": {
+            "50 ml": {
+                "original_price": 108.8,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 156.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

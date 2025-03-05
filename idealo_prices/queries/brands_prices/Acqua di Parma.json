@@ -1,0 +1,588 @@
+[
+    {
+        "perfume_name": "Acqua di Parma Eau de Cologne Colonia C.L.U.B.",
+        "url": "https://www.douglas.de/de/p/5010522474?variant=474371",
+        "prices": {
+            "50 ml": {
+                "original_price": 92.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 152.49,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 170.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma After Shave Colonia Balsamo Dopobarba alla Colonia",
+        "url": "https://www.douglas.de/de/p/3000068907",
+        "prices": {
+            "100 ml": {
+                "original_price": 64.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Deodorant Colonia Essenza Stick",
+        "url": "https://www.douglas.de/de/p/3001033274",
+        "prices": {
+            "75 g": {
+                "original_price": 36.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Eau de Parfum Signatures Of The Sun QUERCIA Eau de Parfum 20 ml",
+        "url": "https://www.douglas.de/de/p/5000004038?variant=343533",
+        "prices": {
+            "20 ml": {
+                "original_price": 92.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 216.0,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 276.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Parfum Signatures Of The Sun Luce di Rosa",
+        "url": "https://www.douglas.de/de/p/5011534001?variant=1173777",
+        "prices": {
+            "20 ml": {
+                "original_price": 92.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 216.0,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 276.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Duftset Colonia GIFT SET",
+        "url": "https://www.douglas.de/de/p/5011580120",
+        "prices": {
+            "Eau de Cologne 100 ml + Colonia Hand- und Body Wash 75 ml + Colonia Hand- und Body Lotion 75 ml": {
+                "original_price": 130.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Duftset Blu Mediterraneo MIRTO DI PANAREA GIFT SET",
+        "url": "https://www.douglas.de/de/p/5011580118",
+        "prices": {
+            "1 Stück": {
+                "original_price": 130.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Körperseife Signatures Of The Sun Magnolia Infinita Hand and Body Wash",
+        "url": "https://www.douglas.de/de/p/5011068092",
+        "prices": {
+            "300 ml": {
+                "original_price": 53.6,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Duftset Colonia",
+        "url": "https://www.douglas.de/de/p/5011580119",
+        "prices": {
+            "3 pieces": {
+                "original_price": 162.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Eau de Parfum Colonia Il Profumo",
+        "url": "https://www.douglas.de/de/p/5011695059",
+        "prices": {
+            "50 ml": {
+                "original_price": 121.6,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 184.0,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 224.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Parfum Blu Mediterraneo Fico di Amalfi",
+        "url": "https://www.douglas.de/de/p/5011393043?variant=1173762",
+        "prices": {
+            "30 ml": {
+                "original_price": 62.4,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 129.6,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 170.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Parfum Signatures Of The Sun Signatures of the Sun Zafferano",
+        "url": "https://www.douglas.de/de/p/5011071016?variant=1127650",
+        "prices": {
+            "20 ml": {
+                "original_price": 92.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 216.0,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 276.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Eau de Parfum Signatures Of The Sun Sandalo",
+        "url": "https://www.douglas.de/de/p/5000004039?variant=343541",
+        "prices": {
+            "20 ml": {
+                "original_price": 92.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 216.0,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 276.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Eau de Cologne Colonia Essenza",
+        "url": "https://www.douglas.de/de/p/3000039515?variant=546101",
+        "prices": {
+            "50 ml": {
+                "original_price": 92.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 129.6,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 170.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Eau de Parfum Signatures Of The Sun Oud & Spice",
+        "url": "https://www.douglas.de/de/p/5010321021",
+        "prices": {
+            "100 ml": {
+                "original_price": 216.0,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 276.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Parfum Blu Mediterraneo Mirto di Panarea Limited Edition",
+        "url": "https://www.douglas.de/de/p/5011431169",
+        "prices": {
+            "100 ml": {
+                "original_price": 124.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Eau de Parfum Signatures Of The Sun Osmanthus",
+        "url": "https://www.douglas.de/de/p/5000004034?variant=344040",
+        "prices": {
+            "20 ml": {
+                "original_price": 92.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 216.0,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 276.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Duftset Blu Mediterraneo ARANCIA GIFT SET",
+        "url": "https://www.douglas.de/de/p/5011580116",
+        "prices": {
+            "Arancia di Capri Eau de Toilette 100 ml + Arancia di Capri Hand- und Body Wash 75 ml + Arancia di Capri Hand- und Körperlotion 75 ml": {
+                "original_price": 130.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Eau de Parfum Le Nobili Magnolia",
+        "url": "https://www.douglas.de/de/p/3000031846?variant=471756",
+        "prices": {
+            "50 ml": {
+                "original_price": 152.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 216.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Parfum Blu Mediterraneo Mirto di Panarea",
+        "url": "https://www.douglas.de/de/p/5011393046?variant=1173766",
+        "prices": {
+            "30 ml": {
+                "original_price": 62.4,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 129.6,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 170.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Deodorant Colonia Essenza Natural Spray",
+        "url": "https://www.douglas.de/de/p/3000058154",
+        "prices": {
+            "150 ml": {
+                "original_price": 47.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Parfum Blu Mediterraneo Bergamotto di Calabria",
+        "url": "https://www.douglas.de/de/p/5011393047?variant=1173769",
+        "prices": {
+            "30 ml": {
+                "original_price": 62.4,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 129.6,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 170.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Parfum Blu Mediterraneo Mandarino di Sicilia",
+        "url": "https://www.douglas.de/de/p/5011393040?variant=1173756",
+        "prices": {
+            "30 ml": {
+                "original_price": 62.4,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 129.6,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 170.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Eau de Toilette Blu Mediterraneo Arancia di Capri",
+        "url": "https://www.douglas.de/de/p/5011393041?variant=1173758",
+        "prices": {
+            "30 ml": {
+                "original_price": 62.4,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 129.6,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 170.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Duftset Colonia PRE-ASSORTED DISCOVERY SET",
+        "url": "https://www.douglas.de/de/p/5011624002",
+        "prices": {
+            "3 pieces": {
+                "original_price": 90.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Bodylotion Colonia Hand & Body Lotion",
+        "url": "https://www.douglas.de/de/p/5011336038",
+        "prices": {
+            "300 ml": {
+                "original_price": 67.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Duftset Colonia C.L.U.B. GIFT SET",
+        "url": "https://www.douglas.de/de/p/5011580121",
+        "prices": {
+            "Colonia C.L.U.B. Eau de Cologne 100 ml + Colonia Hand- und Body Wash 75 ml + Colonia Hand- und Body Lotion 75 ml": {
+                "original_price": 130.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Duftset MINIATURE SET 6X5ML",
+        "url": "https://www.douglas.de/de/p/5011582167",
+        "prices": {
+            "Mirto di Panarea + Colonia + Arancia di Capri + Zafferano + Luce di Rosa + Magnolia Infinita": {
+                "original_price": 88.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Eau de Parfum Le Nobili Rosa",
+        "url": "https://www.douglas.de/de/p/3001005120",
+        "prices": {
+            "50 ml": {
+                "original_price": 152.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 216.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Eau de Cologne Colonia Edc 50 Ml",
+        "url": "https://www.douglas.de/de/p/3000029094?variant=208371",
+        "prices": {
+            "50 ml": {
+                "original_price": 92.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 129.6,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 170.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Eau de Parfum Signatures Of The Sun Oud",
+        "url": "https://www.douglas.de/de/p/5000004037?variant=343584",
+        "prices": {
+            "100 ml": {
+                "original_price": 216.0,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 276.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Eau de Cologne Colonia Pura",
+        "url": "https://www.douglas.de/de/p/3001038630?variant=978454",
+        "prices": {
+            "50 ml": {
+                "original_price": 92.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 129.6,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 170.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Eau de Cologne Colonia Intensive",
+        "url": "https://www.douglas.de/de/p/3000029243?variant=334904",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 129.6,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 205.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Duftset Blu Mediterraneo FICO GIFT SET",
+        "url": "https://www.douglas.de/de/p/5011580117",
+        "prices": {
+            "Eau de Toilette 100 ml + Hand- und Body Wash 75 ml + Hand- und Body Lotion 75 ml": {
+                "original_price": 130.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Eau de Parfum Signatures Of The Sun Yuzu",
+        "url": "https://www.douglas.de/de/p/5001567128?variant=392981",
+        "prices": {
+            "20 ml": {
+                "original_price": 92.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 216.0,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 276.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Duftset Colonia Barbiere Tägliches Ritual",
+        "url": "https://www.douglas.de/de/p/5010780028",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 125.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma After Shave Barbiere Refreshing Emulsion",
+        "url": "https://www.douglas.de/de/p/3001053243",
+        "prices": {
+            "100 ml": {
+                "original_price": 79.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Eau de Parfum Signatures Of The Sun Magnolia Infinita",
+        "url": "https://www.douglas.de/de/p/5010736119?variant=1035126",
+        "prices": {
+            "20 ml": {
+                "original_price": 92.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 216.0,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 276.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Parfum Blu Mediterraneo Mandorlo di Sicilia",
+        "url": "https://www.douglas.de/de/p/5011393042?variant=1173760",
+        "prices": {
+            "30 ml": {
+                "original_price": 62.4,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 129.6,
+                "reduced_price": null
+            },
+            "150 ml": {
+                "original_price": 169.49,
+                "reduced_price": null
+            },
+            "180 ml": {
+                "original_price": 170.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Eau de Parfum Le Nobili Peonia",
+        "url": "https://www.douglas.de/de/p/3001032705",
+        "prices": {
+            "50 ml": {
+                "original_price": 152.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 216.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua di Parma Deodorant Colonia Spray",
+        "url": "https://www.douglas.de/de/p/3000065051",
+        "prices": {
+            "150 ml": {
+                "original_price": 37.6,
+                "reduced_price": null
+            }
+        }
+    }
+]

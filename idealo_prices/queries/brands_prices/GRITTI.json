@@ -1,0 +1,362 @@
+[
+    {
+        "perfume_name": "GRITTI Parfum DUCHESSA",
+        "url": "https://www.douglas.de/de/p/5011043010",
+        "prices": {
+            "100 ml": {
+                "original_price": 320.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Parfum REBELLION",
+        "url": "https://www.douglas.de/de/p/5011068083",
+        "prices": {
+            "100 ml": {
+                "original_price": 193.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum TANGERINA",
+        "url": "https://www.douglas.de/de/p/5010969111",
+        "prices": {
+            "Tangerina": {
+                "original_price": 185.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Parfum SETA",
+        "url": "https://www.douglas.de/de/p/5011118106",
+        "prices": {
+            "SETA": {
+                "original_price": 320.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Parfum YOU'RE SO VAIN",
+        "url": "https://www.douglas.de/de/p/5010888093",
+        "prices": {
+            "YOU'RE SO VAIN": {
+                "original_price": 245.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum POMELO SORRENTO",
+        "url": "https://www.douglas.de/de/p/5010903157",
+        "prices": {
+            "Pomelo Sorrento": {
+                "original_price": 185.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum ADELE",
+        "url": "https://www.douglas.de/de/p/5011043011",
+        "prices": {
+            "ADELE": {
+                "original_price": 206.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum DAME DE L'ILE",
+        "url": "https://www.douglas.de/de/p/5011450014",
+        "prices": {
+            "DAME DE L'ILE": {
+                "original_price": 185.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum PURO",
+        "url": "https://www.douglas.de/de/p/5011118107",
+        "prices": {
+            "PURO": {
+                "original_price": 320.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Parfum BECAUSE I'M FREE EXDP",
+        "url": "https://www.douglas.de/de/p/5010903159",
+        "prices": {
+            "100 ml": {
+                "original_price": 245.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Parfum MONICA",
+        "url": "https://www.douglas.de/de/p/5011590013",
+        "prices": {
+            "100 ml": {
+                "original_price": 260.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum ARANCIA AMBRATA",
+        "url": "https://www.douglas.de/de/p/5011068088",
+        "prices": {
+            "100 ml": {
+                "original_price": 185.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum SIRACUSA",
+        "url": "https://www.douglas.de/de/p/5011051000",
+        "prices": {
+            "100 ml": {
+                "original_price": 185.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum REBRODÉ",
+        "url": "https://www.douglas.de/de/p/5011087032",
+        "prices": {
+            "100 ml": {
+                "original_price": 185.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum NEROLI EXTREME",
+        "url": "https://www.douglas.de/de/p/5011274038",
+        "prices": {
+            "Neroli Extreme": {
+                "original_price": 185.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum TUTU BLANC",
+        "url": "https://www.douglas.de/de/p/5010904053",
+        "prices": {
+            "100 ml": {
+                "original_price": 185.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum GOSSIP NIGHT",
+        "url": "https://www.douglas.de/de/p/5010903158",
+        "prices": {
+            "100 ml": {
+                "original_price": 185.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Parfum BEYOND THE WALL EXDP",
+        "url": "https://www.douglas.de/de/p/5010888092",
+        "prices": {
+            "100 ml": {
+                "original_price": 245.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Parfum PRELUDIO",
+        "url": "https://www.douglas.de/de/p/5011562000",
+        "prices": {
+            "Preludio": {
+                "original_price": 185.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum FENICE",
+        "url": "https://www.douglas.de/de/p/5010954061",
+        "prices": {
+            "FENICE": {
+                "original_price": 320.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Parfum SUPER NOVA EXDP",
+        "url": "https://www.douglas.de/de/p/5011332004",
+        "prices": {
+            "Super Nova": {
+                "original_price": 245.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Parfum HYSTERICA",
+        "url": "https://www.douglas.de/de/p/5011628001",
+        "prices": {
+            "100 ml": {
+                "original_price": 360.0,
+                "reduced_price": 339.0
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum CHANTILLY",
+        "url": "https://www.douglas.de/de/p/5010888094",
+        "prices": {
+            "CHANTILLY": {
+                "original_price": 193.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Parfum OUD REALE",
+        "url": "https://www.douglas.de/de/p/5010954060",
+        "prices": {
+            "OUD REALE": {
+                "original_price": 320.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum RIALTO",
+        "url": "https://www.douglas.de/de/p/5010969110",
+        "prices": {
+            "100 ml": {
+                "original_price": 320.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Parfum MANGO AOUD EXDP",
+        "url": "https://www.douglas.de/de/p/5011332003",
+        "prices": {
+            "Mango Aoud": {
+                "original_price": 245.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Parfum FLORIAN",
+        "url": "https://www.douglas.de/de/p/5011207001",
+        "prices": {
+            "100 ml": {
+                "original_price": 320.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum Biassanòt",
+        "url": "https://www.douglas.de/de/p/5011404024",
+        "prices": {
+            "Biassanòt": {
+                "original_price": 185.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum MACRAMÉ",
+        "url": "https://www.douglas.de/de/p/5011068084",
+        "prices": {
+            "100 ml": {
+                "original_price": 185.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum 19-68",
+        "url": "https://www.douglas.de/de/p/5011068086",
+        "prices": {
+            "100 ml": {
+                "original_price": 185.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Parfum Tutu Pink",
+        "url": "https://www.douglas.de/de/p/5011244046",
+        "prices": {
+            "Tutù": {
+                "original_price": 245.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum Decimo",
+        "url": "https://www.douglas.de/de/p/5011459126",
+        "prices": {
+            "100 ml": {
+                "original_price": 186.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum AQUAINCANTA",
+        "url": "https://www.douglas.de/de/p/5011068085",
+        "prices": {
+            "100 ml": {
+                "original_price": 185.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Parfum KILL THE LIGHTS",
+        "url": "https://www.douglas.de/de/p/5010903160",
+        "prices": {
+            "100 ml": {
+                "original_price": 245.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Parfum ANIMA",
+        "url": "https://www.douglas.de/de/p/5011068087",
+        "prices": {
+            "100 ml": {
+                "original_price": 320.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GRITTI Eau de Parfum JACQUELINE",
+        "url": "https://www.douglas.de/de/p/5011043012",
+        "prices": {
+            "100 ml": {
+                "original_price": 185.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

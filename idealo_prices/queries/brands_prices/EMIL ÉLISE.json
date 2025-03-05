@@ -1,0 +1,102 @@
+[
+    {
+        "perfume_name": "EMIL ÉLISE Eau de Parfum UNFOLDING ECHO",
+        "url": "https://www.douglas.de/de/p/",
+        "prices": {
+            "UNFOLDING ECHO": {
+                "original_price": 145.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "EMIL ÉLISE Eau de Parfum PAINTING IT SWEET",
+        "url": "https://www.douglas.de/de/p/5011214028",
+        "prices": {
+            "painting it sweet": {
+                "original_price": 145.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "EMIL ÉLISE Eau de Parfum GOING BANG",
+        "url": "https://www.douglas.de/de/p/5011214024",
+        "prices": {
+            "going bang": {
+                "original_price": 145.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "EMIL ÉLISE Eau de Parfum EMIL ÉLISE SCENT GALLERY",
+        "url": "https://www.douglas.de/de/p/m001955033",
+        "prices": {
+            "EMIL ÉLISE SCENT GALLERY 12ml": {
+                "original_price": 38.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "EMIL ÉLISE Eau de Parfum DANCING ON GOOSEBUMPS",
+        "url": "https://www.douglas.de/de/p/5011214029",
+        "prices": {
+            "dancing on goosebumps": {
+                "original_price": 145.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "EMIL ÉLISE Eau de Parfum Melting Lust",
+        "url": "https://www.douglas.de/de/p/5011189012",
+        "prices": {
+            "MELTING LUST": {
+                "original_price": 145.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "EMIL ÉLISE Eau de Parfum BATHING IN A DAYDREAM",
+        "url": "https://www.douglas.de/de/p/5011214027",
+        "prices": {
+            "bathing in a daydream": {
+                "original_price": 145.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "EMIL ÉLISE Eau de Parfum Twisted Sin",
+        "url": "https://www.douglas.de/de/p/5011189011",
+        "prices": {
+            "TWISTED SIN": {
+                "original_price": 145.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "EMIL ÉLISE Eau de Parfum HANGOVER MEDITATION",
+        "url": "https://www.douglas.de/de/p/5011214025",
+        "prices": {
+            "hangover meditation": {
+                "original_price": 145.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "EMIL ÉLISE Eau de Parfum EATING WHEREVER",
+        "url": "https://www.douglas.de/de/p/5011214026",
+        "prices": {
+            "eating wherever": {
+                "original_price": 145.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "Reuzel Parfum Solid Cologne Wood & Spice",
+        "url": "https://www.douglas.de/de/p/5011244038",
+        "prices": {
+            "35 g": {
+                "original_price": 16.59,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Reuzel After Shave Aftershave",
+        "url": "https://www.douglas.de/de/p/5011244041",
+        "prices": {
+            "100 ml": {
+                "original_price": 16.0,
+                "reduced_price": 15.69
+            }
+        }
+    }
+]

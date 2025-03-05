@@ -1,0 +1,331 @@
+[
+    {
+        "perfume_name": "Valentino Eau de Toilette Born In Roma Uomo Coral Fantasy",
+        "url": "https://www.douglas.de/de/p/5010473018",
+        "prices": {
+            "50 ml": {
+                "original_price": 87.0,
+                "reduced_price": 69.6
+            },
+            "100 ml": {
+                "original_price": 122.0,
+                "reduced_price": 97.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Eau de Parfum Valentina",
+        "url": "https://www.douglas.de/de/p/3000047032?variant=293613",
+        "prices": {
+            "80 ml": {
+                "original_price": 125.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Eau de Parfum Donna",
+        "url": "https://www.douglas.de/de/p/3001017993",
+        "prices": {
+            "30 ml": {
+                "original_price": 80.0,
+                "reduced_price": 63.99
+            },
+            "50 ml": {
+                "original_price": 117.0,
+                "reduced_price": 93.6
+            },
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": 128.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Eau de Parfum Voce Viva",
+        "url": "https://www.douglas.de/de/p/5002962000?variant=683483",
+        "prices": {
+            "30 ml": {
+                "original_price": 80.0,
+                "reduced_price": 59.99
+            },
+            "50 ml": {
+                "original_price": 117.0,
+                "reduced_price": 79.99
+            },
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": 115.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Eau de Parfum Born In Roma Donna Yellow Dream",
+        "url": "https://www.douglas.de/de/p/5009156039?variant=899111",
+        "prices": {
+            "30 ml": {
+                "original_price": 82.0,
+                "reduced_price": 65.6
+            },
+            "50 ml": {
+                "original_price": 120.0,
+                "reduced_price": 96.0
+            },
+            "100 ml": {
+                "original_price": 162.0,
+                "reduced_price": 129.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Bodyspray Born In Roma Uomo Green Stravaganza",
+        "url": "https://www.douglas.de/de/p/5011236009?variant=1158800",
+        "prices": {
+            "50 ml": {
+                "original_price": 87.0,
+                "reduced_price": 69.6
+            },
+            "100 ml": {
+                "original_price": 122.0,
+                "reduced_price": 87.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Eau de Parfum Born In Roma Uomo Intense",
+        "url": "https://www.douglas.de/de/p/5010863001?variant=1073334",
+        "prices": {
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 140.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Eau de Toilette Born In Roma Uomo",
+        "url": "https://www.douglas.de/de/p/5000004069",
+        "prices": {
+            "50 ml": {
+                "original_price": 87.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 122.0,
+                "reduced_price": null
+            },
+            "150 ml": {
+                "original_price": 129.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Duftset Born In Roma Donna Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5011722018",
+        "prices": {
+            "1 Stück": {
+                "original_price": 125.0,
+                "reduced_price": 100.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Parfum Born In Roma Uomo Extradose",
+        "url": "https://www.douglas.de/de/p/5011701000?variant=1217077",
+        "prices": {
+            "50 ml": {
+                "original_price": 109.0,
+                "reduced_price": 87.2
+            },
+            "100 ml": {
+                "original_price": 155.0,
+                "reduced_price": 124.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Eau de Parfum Born In Roma Donna Green Stravaganza",
+        "url": "https://www.douglas.de/de/p/5011236008",
+        "prices": {
+            "30 ml": {
+                "original_price": 82.0,
+                "reduced_price": 65.6
+            },
+            "50 ml": {
+                "original_price": 120.0,
+                "reduced_price": 96.0
+            },
+            "100 ml": {
+                "original_price": 162.0,
+                "reduced_price": 129.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Eau de Toilette Uomo",
+        "url": "https://www.douglas.de/de/p/3000072508?variant=091454",
+        "prices": {
+            "50 ml": {
+                "original_price": 87.0,
+                "reduced_price": 69.6
+            },
+            "100 ml": {
+                "original_price": 122.0,
+                "reduced_price": 97.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Eau de Parfum Born In Roma Donna Intense",
+        "url": "https://www.douglas.de/de/p/5010863002",
+        "prices": {
+            "30 ml": {
+                "original_price": 90.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 132.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 177.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Eau de Parfum Born In Roma Donna Coral Fantasy",
+        "url": "https://www.douglas.de/de/p/5010473017",
+        "prices": {
+            "30 ml": {
+                "original_price": 82.0,
+                "reduced_price": 62.99
+            },
+            "50 ml": {
+                "original_price": 120.0,
+                "reduced_price": 87.0
+            },
+            "100 ml": {
+                "original_price": 162.0,
+                "reduced_price": 123.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Eau de Parfum Uomo Intense",
+        "url": "https://www.douglas.de/de/p/3001030585?variant=091435",
+        "prices": {
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": 69.99
+            },
+            "100 ml": {
+                "original_price": 140.0,
+                "reduced_price": 99.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Eau de Parfum Born In Roma Donna",
+        "url": "https://www.douglas.de/de/p/5000004074",
+        "prices": {
+            "30 ml": {
+                "original_price": 82.0,
+                "reduced_price": 54.99
+            },
+            "50 ml": {
+                "original_price": 120.0,
+                "reduced_price": 76.0
+            },
+            "100 ml": {
+                "original_price": 162.0,
+                "reduced_price": 104.99
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5011564082",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Valentino Eau de Parfum Intensa",
+        "url": "https://www.douglas.de/de/p/5010229007?variant=218478",
+        "prices": {
+            "50 ml": {
+                "original_price": 129.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 188.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Duftset Born In Roma Uomo Eau de Toilette Set",
+        "url": "https://www.douglas.de/de/p/5011722017",
+        "prices": {
+            "1 Stück": {
+                "original_price": 92.0,
+                "reduced_price": 73.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Eau de Toilette Born In Roma Uomo Yellow Dream",
+        "url": "https://www.douglas.de/de/p/5009223016?variant=899100",
+        "prices": {
+            "50 ml": {
+                "original_price": 87.0,
+                "reduced_price": 65.99
+            },
+            "100 ml": {
+                "original_price": 122.0,
+                "reduced_price": 87.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Parfum Born In Roma Donna Extradose",
+        "url": "https://www.douglas.de/de/p/5011701001",
+        "prices": {
+            "30 ml": {
+                "original_price": 98.0,
+                "reduced_price": 78.4
+            },
+            "50 ml": {
+                "original_price": 142.0,
+                "reduced_price": 113.6
+            },
+            "100 ml": {
+                "original_price": 193.0,
+                "reduced_price": 154.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Duftset Born In Roma Donna Green Stravaganza Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011564092",
+        "prices": {
+            "1 Stück": {
+                "original_price": 107.0,
+                "reduced_price": 82.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Valentino Eau de Parfum Valentina Pour Elle",
+        "url": "https://www.douglas.de/de/p/5011708014",
+        "prices": {
+            "100 ml": {
+                "original_price": 162.0,
+                "reduced_price": 129.6
+            }
+        }
+    }
+]

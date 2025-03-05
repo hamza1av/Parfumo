@@ -1,0 +1,102 @@
+[
+    {
+        "perfume_name": "Sora Dora Parfum YLOP Extrait de Parfum",
+        "url": "https://www.douglas.de/de/p/5011672059",
+        "prices": {
+            "50 ml": {
+                "original_price": 200.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Sora Dora Parfum JANY",
+        "url": "https://www.douglas.de/de/p/5011252085",
+        "prices": {
+            "50 ml": {
+                "original_price": 200.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Sora Dora Parfum GLADIATOR",
+        "url": "https://www.douglas.de/de/p/5011252077",
+        "prices": {
+            "50 ml": {
+                "original_price": 200.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Sora Dora Parfum MALLOW",
+        "url": "https://www.douglas.de/de/p/5011252084",
+        "prices": {
+            "50 ml": {
+                "original_price": 200.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Sora Dora Parfum BROCÉLIANDE",
+        "url": "https://www.douglas.de/de/p/5011252081",
+        "prices": {
+            "50 ml": {
+                "original_price": 200.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Sora Dora Parfum ORCHIDÉE ROUGE",
+        "url": "https://www.douglas.de/de/p/5011252078",
+        "prices": {
+            "50 ml": {
+                "original_price": 200.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Sora Dora Parfum MANDORLE",
+        "url": "https://www.douglas.de/de/p/5011252083",
+        "prices": {
+            "50 ml": {
+                "original_price": 200.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Sora Dora Parfum GRÉASQUE",
+        "url": "https://www.douglas.de/de/p/5011252079",
+        "prices": {
+            "50 ml": {
+                "original_price": 200.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Sora Dora Parfum KAMEL OUD",
+        "url": "https://www.douglas.de/de/p/5011252080",
+        "prices": {
+            "50 ml": {
+                "original_price": 250.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Sora Dora Parfum VANUATU",
+        "url": "https://www.douglas.de/de/p/5011252082",
+        "prices": {
+            "50 ml": {
+                "original_price": 200.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

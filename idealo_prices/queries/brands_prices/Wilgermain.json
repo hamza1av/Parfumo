@@ -1,0 +1,32 @@
+[
+    {
+        "perfume_name": "Wilgermain Eau de Parfum AQUAFORTIS",
+        "url": "https://www.douglas.de/de/p/m000968276?variant=297394",
+        "prices": {
+            "100 ml": {
+                "original_price": 180.0,
+                "reduced_price": 144.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Wilgermain Eau de Parfum RADIANZA",
+        "url": "https://www.douglas.de/de/p/m000968251?variant=297398",
+        "prices": {
+            "100 ml": {
+                "original_price": 180.0,
+                "reduced_price": 144.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Wilgermain Eau de Parfum PASSION VICTIM",
+        "url": "https://www.douglas.de/de/p/m000968120?variant=297395",
+        "prices": {
+            "100 ml": {
+                "original_price": 180.0,
+                "reduced_price": 144.0
+            }
+        }
+    }
+]

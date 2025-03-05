@@ -1,0 +1,42 @@
+[
+    {
+        "perfume_name": "Strellson Eau de Parfum CLUB",
+        "url": "https://www.douglas.de/de/p/5011604054",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.9,
+                "reduced_price": 31.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Strellson Eau de Parfum MOUNTAIN",
+        "url": "https://www.douglas.de/de/p/5011604053",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.9,
+                "reduced_price": 31.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Strellson Eau de Parfum OFFICE",
+        "url": "https://www.douglas.de/de/p/5011604052",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.9,
+                "reduced_price": 31.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Strellson Eau de Parfum DATE",
+        "url": "https://www.douglas.de/de/p/5011604055",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.9,
+                "reduced_price": 31.92
+            }
+        }
+    }
+]

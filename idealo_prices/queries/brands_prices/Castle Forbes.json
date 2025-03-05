@@ -1,0 +1,42 @@
+[
+    {
+        "perfume_name": "Castle Forbes Eau de Parfum Special Reserve Neroli Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/m000122099",
+        "prices": {
+            "100 ml": {
+                "original_price": 109.99,
+                "reduced_price": 93.49
+            }
+        }
+    },
+    {
+        "perfume_name": "Castle Forbes Eau de Parfum Special Reserve Vetiver Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/m000122065",
+        "prices": {
+            "100 ml": {
+                "original_price": 109.99,
+                "reduced_price": 93.49
+            }
+        }
+    },
+    {
+        "perfume_name": "Castle Forbes Eau de Parfum KEIG Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/m000122095",
+        "prices": {
+            "100 ml": {
+                "original_price": 77.99,
+                "reduced_price": 66.29
+            }
+        }
+    },
+    {
+        "perfume_name": "Castle Forbes Eau de Parfum Forbes of Forbes Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/m000122096",
+        "prices": {
+            "100 ml": {
+                "original_price": 77.99,
+                "reduced_price": 66.29
+            }
+        }
+    }
+]

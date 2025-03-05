@@ -1,0 +1,32 @@
+[
+    {
+        "perfume_name": "Dr Organic Deodorant",
+        "url": "https://www.douglas.de/de/p/5002489721",
+        "prices": {
+            "50 ml": {
+                "original_price": 20.99,
+                "reduced_price": 17.84
+            }
+        }
+    },
+    {
+        "perfume_name": "Dr Organic Deodorant",
+        "url": "https://www.douglas.de/de/p/5002489782",
+        "prices": {
+            "50 ml": {
+                "original_price": 20.99,
+                "reduced_price": 17.84
+            }
+        }
+    },
+    {
+        "perfume_name": "Dr Organic Deodorant Roll On Deodorant",
+        "url": "https://www.douglas.de/de/p/5002489748",
+        "prices": {
+            "50 ml": {
+                "original_price": 20.99,
+                "reduced_price": 17.84
+            }
+        }
+    }
+]

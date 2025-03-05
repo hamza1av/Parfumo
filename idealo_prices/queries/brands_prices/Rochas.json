@@ -1,0 +1,84 @@
+[
+    {
+        "perfume_name": "Rochas Eau de Toilette Eau de Rochas Femme",
+        "url": "https://www.douglas.de/de/p/1012607304?variant=683979",
+        "prices": {
+            "50 ml": {
+                "original_price": 59.0,
+                "reduced_price": 47.2
+            },
+            "100 ml": {
+                "original_price": 89.0,
+                "reduced_price": 71.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Rochas Eau de Parfum Rochas Man Intense",
+        "url": "https://www.douglas.de/de/p/5010919033",
+        "prices": {
+            "100 ml": {
+                "original_price": 79.0,
+                "reduced_price": 63.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Rochas Eau de Toilette Girl EDT",
+        "url": "https://www.douglas.de/de/p/5009299013?variant=026288",
+        "prices": {
+            "40 ml": {
+                "original_price": 39.0,
+                "reduced_price": 31.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Rochas Duftset Girl Set",
+        "url": "https://www.douglas.de/de/p/5010596031",
+        "prices": {
+            "1 Stück": {
+                "original_price": 65.0,
+                "reduced_price": 45.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Rochas Eau de Toilette Rochas Man",
+        "url": "https://www.douglas.de/de/p/1012624304?variant=036112",
+        "prices": {
+            "50 ml": {
+                "original_price": 60.0,
+                "reduced_price": 48.0
+            },
+            "100 ml": {
+                "original_price": 79.0,
+                "reduced_price": 63.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Rochas Eau de Parfum Girl Life",
+        "url": "https://www.douglas.de/de/p/5010944066?variant=1092716",
+        "prices": {
+            "75 ml": {
+                "original_price": 78.0,
+                "reduced_price": 62.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Rochas Eau de Parfum Audace",
+        "url": "https://www.douglas.de/de/p/5011699019",
+        "prices": {
+            "60 ml": {
+                "original_price": 80.0,
+                "reduced_price": null
+            },
+            "90 ml": {
+                "original_price": 120.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

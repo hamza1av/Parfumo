@@ -1,0 +1,72 @@
+[
+    {
+        "perfume_name": "Primavera Bodyspray Frauenwohl Hitzewallungsspray",
+        "url": "https://www.douglas.de/de/p/m001442040",
+        "prices": {
+            "50 ml": {
+                "original_price": 15.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Primavera Körperöl Roll-On Gute Laune",
+        "url": "https://www.douglas.de/de/p/m000007697",
+        "prices": {
+            "10 ml": {
+                "original_price": 11.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Primavera Körperöl Energiekick Duft Roll-On Bio",
+        "url": "https://www.douglas.de/de/p/m000103057",
+        "prices": {
+            "10 ml": {
+                "original_price": 11.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Primavera Körperöl Fahr Fit Duft Roll-On Bio",
+        "url": "https://www.douglas.de/de/p/m000103053",
+        "prices": {
+            "10 ml": {
+                "original_price": 11.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Primavera Körperöl Konzentration Duft Roll-On Bio",
+        "url": "https://www.douglas.de/de/p/m000253939",
+        "prices": {
+            "10 ml": {
+                "original_price": 11.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Primavera Körperöl Stressfrei Duft Roll-On Bio",
+        "url": "https://www.douglas.de/de/p/m000011270",
+        "prices": {
+            "10 ml": {
+                "original_price": 11.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Primavera Bodyspray Naturreine Pflanzenkraft SOS Spray Bio",
+        "url": "https://www.douglas.de/de/p/m001580241",
+        "prices": {
+            "30 ml": {
+                "original_price": 11.99,
+                "reduced_price": 10.19
+            }
+        }
+    }
+]

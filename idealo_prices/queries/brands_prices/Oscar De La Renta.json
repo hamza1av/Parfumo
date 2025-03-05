@@ -1,0 +1,181 @@
+[
+    {
+        "perfume_name": "Oscar De La Renta Eau de Parfum Alibi",
+        "url": "https://www.douglas.de/de/p/5010009025",
+        "prices": {
+            "30 ml": {
+                "original_price": 52.0,
+                "reduced_price": 41.6
+            },
+            "50 ml": {
+                "original_price": 73.0,
+                "reduced_price": 58.4
+            },
+            "100 ml": {
+                "original_price": 94.0,
+                "reduced_price": 75.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Oscar De La Renta Eau de Parfum Bella Tropicale",
+        "url": "https://www.douglas.de/de/p/5010979020",
+        "prices": {
+            "30 ml": {
+                "original_price": 49.5,
+                "reduced_price": 39.6
+            },
+            "100 ml": {
+                "original_price": 93.5,
+                "reduced_price": 74.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Oscar De La Renta Bodylotion Bella Rosa",
+        "url": "https://www.douglas.de/de/p/5010081726",
+        "prices": {
+            "200 ml": {
+                "original_price": 43.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Oscar De La Renta Eau de Toilette Alibi",
+        "url": "https://www.douglas.de/de/p/5010539135",
+        "prices": {
+            "30 ml": {
+                "original_price": 49.0,
+                "reduced_price": 39.2
+            },
+            "50 ml": {
+                "original_price": 69.0,
+                "reduced_price": 47.99
+            },
+            "100 ml": {
+                "original_price": 89.0,
+                "reduced_price": 71.2
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/3001045283",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Oscar De La Renta Eau de Parfum Bella Bouquet",
+        "url": "https://www.douglas.de/de/p/5010884024?variant=1059481",
+        "prices": {
+            "30 ml": {
+                "original_price": 52.0,
+                "reduced_price": 41.6
+            },
+            "100 ml": {
+                "original_price": 94.0,
+                "reduced_price": 75.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Oscar De La Renta Parfum Bella Essence Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5003288029",
+        "prices": {
+            "30 ml": {
+                "original_price": 52.0,
+                "reduced_price": 41.6
+            },
+            "50 ml": {
+                "original_price": 74.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 94.0,
+                "reduced_price": 75.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Oscar De La Renta Eau de Parfum NEW YORK",
+        "url": "https://www.douglas.de/de/p/5011583132?variant=1192231",
+        "prices": {
+            "30 ml": {
+                "original_price": 54.0,
+                "reduced_price": 43.2
+            },
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Oscar De La Renta Eau de Parfum Bella Rosa Bella Rosa",
+        "url": "https://www.douglas.de/de/p/5002367093",
+        "prices": {
+            "30 ml": {
+                "original_price": 52.99,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 73.0,
+                "reduced_price": 66.19
+            },
+            "100 ml": {
+                "original_price": 93.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Oscar De La Renta Eau de Parfum Alibi Eau Sensuelle",
+        "url": "https://www.douglas.de/de/p/5011124047?variant=1018232",
+        "prices": {
+            "30 ml": {
+                "original_price": 52.0,
+                "reduced_price": 41.6
+            },
+            "50 ml": {
+                "original_price": 73.0,
+                "reduced_price": 58.4
+            },
+            "100 ml": {
+                "original_price": 94.0,
+                "reduced_price": 46.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Oscar De La Renta Eau de Parfum Bella Blanca",
+        "url": "https://www.douglas.de/de/p/3001045282",
+        "prices": {
+            "30 ml": {
+                "original_price": 52.0,
+                "reduced_price": 41.6
+            },
+            "50 ml": {
+                "original_price": 73.0,
+                "reduced_price": 58.4
+            },
+            "100 ml": {
+                "original_price": 94.0,
+                "reduced_price": 75.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Oscar De La Renta Duschgel Bella Essence Körperlotion",
+        "url": "https://www.douglas.de/de/p/5003288030",
+        "prices": {
+            "200 ml": {
+                "original_price": 44.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

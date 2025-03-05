@@ -1,0 +1,348 @@
+[
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum Bronze Goddess AEGEA",
+        "url": "https://www.douglas.de/de/p/5011728238",
+        "prices": {
+            "50 ml": {
+                "original_price": 98.0,
+                "reduced_price": 78.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum Pleasures INTENSE",
+        "url": "https://www.douglas.de/de/p/5010069211?variant=123332",
+        "prices": {
+            "100 ml": {
+                "original_price": 148.0,
+                "reduced_price": 114.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum Klassiker Cinnabar",
+        "url": "https://www.douglas.de/de/p/3001011029",
+        "prices": {
+            "50 ml": {
+                "original_price": 115.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Parfum AERIN - Die Düfte Joyful Bloom",
+        "url": "https://www.douglas.de/de/p/5010758151",
+        "prices": {
+            "50 ml": {
+                "original_price": 218.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 295.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Parfum AERIN - Die Düfte Cedar Violet",
+        "url": "https://www.douglas.de/de/p/5010368000",
+        "prices": {
+            "50 ml": {
+                "original_price": 145.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum White Linen",
+        "url": "https://www.douglas.de/de/p/1011509295",
+        "prices": {
+            "60 ml": {
+                "original_price": 115.0,
+                "reduced_price": 82.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Cologne Lauder For Men",
+        "url": "https://www.douglas.de/de/p/1011511290",
+        "prices": {
+            "100 ml": {
+                "original_price": 90.0,
+                "reduced_price": 72.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum Klassiker Azurée Spray",
+        "url": "https://www.douglas.de/de/p/3001011028",
+        "prices": {
+            "50 ml": {
+                "original_price": 115.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Körpercreme AERIN - Die Düfte Lilac Path",
+        "url": "https://www.douglas.de/de/p/5001764603",
+        "prices": {
+            "150 ml": {
+                "original_price": 77.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum Beautiful Belle",
+        "url": "https://www.douglas.de/de/p/5010067197?variant=064611",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": 67.49
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum Youth Dew",
+        "url": "https://www.douglas.de/de/p/1011510295",
+        "prices": {
+            "65 ml": {
+                "original_price": 115.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum AERIN - Die Düfte Limone di Sicilia",
+        "url": "https://www.douglas.de/de/p/5001738259",
+        "prices": {
+            "50 ml": {
+                "original_price": 268.0,
+                "reduced_price": 214.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum Modern Muse",
+        "url": "https://www.douglas.de/de/p/3000073029",
+        "prices": {
+            "50 ml": {
+                "original_price": 115.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum Klassiker Aliage",
+        "url": "https://www.douglas.de/de/p/3001011026",
+        "prices": {
+            "50 ml": {
+                "original_price": 113.0,
+                "reduced_price": 90.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum Beautiful",
+        "url": "https://www.douglas.de/de/p/1011503295?variant=626812",
+        "prices": {
+            "30 ml": {
+                "original_price": 87.0,
+                "reduced_price": 69.6
+            },
+            "75 ml": {
+                "original_price": 139.0,
+                "reduced_price": 111.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum AERIN - Die Düfte Tuberose Le Soir",
+        "url": "https://www.douglas.de/de/p/5001768723",
+        "prices": {
+            "50 ml": {
+                "original_price": 268.0,
+                "reduced_price": 253.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum Pleasures",
+        "url": "https://www.douglas.de/de/p/1011528295",
+        "prices": {
+            "30 ml": {
+                "original_price": 78.0,
+                "reduced_price": 48.99
+            },
+            "50 ml": {
+                "original_price": 115.0,
+                "reduced_price": 71.99
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum Klassiker Spellbound Spray",
+        "url": "https://www.douglas.de/de/p/3001011032",
+        "prices": {
+            "50 ml": {
+                "original_price": 113.0,
+                "reduced_price": 90.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum Private Collection",
+        "url": "https://www.douglas.de/de/p/1011507295",
+        "prices": {
+            "50 ml": {
+                "original_price": 115.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Toilette Bronze Goddess Bronze Goddess",
+        "url": "https://www.douglas.de/de/p/5002366012?variant=079609",
+        "prices": {
+            "50 ml": {
+                "original_price": 95.0,
+                "reduced_price": 58.99
+            },
+            "100 ml": {
+                "original_price": 112.0,
+                "reduced_price": 88.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum Estée",
+        "url": "https://www.douglas.de/de/p/m000589066?variant=842504",
+        "prices": {
+            "50 ml": {
+                "original_price": 115.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum AERIN - Die Düfte Wild Geranium",
+        "url": "https://www.douglas.de/de/p/5001488008?variant=528757",
+        "prices": {
+            "50 ml": {
+                "original_price": 145.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 228.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum AERIN - Die Düfte Lilac Path",
+        "url": "https://www.douglas.de/de/p/3001018492",
+        "prices": {
+            "50 ml": {
+                "original_price": 145.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 228.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum AERIN - Die Düfte Mediterranean Honeysuckle",
+        "url": "https://www.douglas.de/de/p/3001029275?variant=919322",
+        "prices": {
+            "50 ml": {
+                "original_price": 145.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 227.0,
+                "reduced_price": 181.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Bodylotion Pleasures",
+        "url": "https://www.douglas.de/de/p/3000004965",
+        "prices": {
+            "250 ml": {
+                "original_price": 77.0,
+                "reduced_price": 61.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum AERIN - Die Düfte Amber Musk",
+        "url": "https://www.douglas.de/de/p/3001018493",
+        "prices": {
+            "50 ml": {
+                "original_price": 145.0,
+                "reduced_price": 116.0
+            },
+            "100 ml": {
+                "original_price": 228.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Cologne Pleasures for Men",
+        "url": "https://www.douglas.de/de/p/1011534290",
+        "prices": {
+            "100 ml": {
+                "original_price": 90.0,
+                "reduced_price": 72.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Deodorant Youth Dew Youth-Dew Roll-On Anti-Perspirant",
+        "url": "https://www.douglas.de/de/p/3000002827",
+        "prices": {
+            "75 ml": {
+                "original_price": 41.0,
+                "reduced_price": 32.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum AERIN - Die Düfte Ikat Jasmine",
+        "url": "https://www.douglas.de/de/p/3001018494?variant=887050",
+        "prices": {
+            "100 ml": {
+                "original_price": 228.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Bodylotion Youth Dew",
+        "url": "https://www.douglas.de/de/p/3000002828",
+        "prices": {
+            "150 ml": {
+                "original_price": 58.0,
+                "reduced_price": 44.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Estée Lauder Eau de Parfum Bronze Goddess Nuit",
+        "url": "https://www.douglas.de/de/p/5011390090",
+        "prices": {
+            "100 ml": {
+                "original_price": 115.0,
+                "reduced_price": 92.0
+            }
+        }
+    }
+]

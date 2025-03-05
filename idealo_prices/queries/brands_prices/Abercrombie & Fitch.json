@@ -1,0 +1,380 @@
+[
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Toilette Away Weekend Men",
+        "url": "https://www.douglas.de/de/p/5010973109?variant=1114607",
+        "prices": {
+            "30 ml": {
+                "original_price": 42.0,
+                "reduced_price": 33.6
+            },
+            "50 ml": {
+                "original_price": 54.5,
+                "reduced_price": 43.6
+            },
+            "100 ml": {
+                "original_price": 76.5,
+                "reduced_price": 61.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Duftset Eau de toilette 50 ml Set",
+        "url": "https://www.douglas.de/de/p/5011148069",
+        "prices": {
+            "1 Stück": {
+                "original_price": 54.5,
+                "reduced_price": 29.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Toilette Authentic",
+        "url": "https://www.douglas.de/de/p/3001055847?variant=084124",
+        "prices": {
+            "50 ml": {
+                "original_price": 54.5,
+                "reduced_price": 43.6
+            },
+            "100 ml": {
+                "original_price": 76.5,
+                "reduced_price": 61.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Toilette First Instinct",
+        "url": "https://www.douglas.de/de/p/3001031491?variant=933005",
+        "prices": {
+            "30 ml": {
+                "original_price": 42.0,
+                "reduced_price": 33.6
+            },
+            "50 ml": {
+                "original_price": 58.0,
+                "reduced_price": 46.4
+            },
+            "100 ml": {
+                "original_price": 79.0,
+                "reduced_price": 63.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Toilette 100% PASSION Men",
+        "url": "https://www.douglas.de/de/p/5011705016",
+        "prices": {
+            "30 ml": {
+                "original_price": 44.0,
+                "reduced_price": 35.2
+            },
+            "50 ml": {
+                "original_price": 54.5,
+                "reduced_price": 43.6
+            },
+            "100 ml": {
+                "original_price": 76.5,
+                "reduced_price": 61.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Parfum Authentic Night",
+        "url": "https://www.douglas.de/de/p/5002461005?variant=538705",
+        "prices": {
+            "30 ml": {
+                "original_price": 42.0,
+                "reduced_price": 33.6
+            },
+            "50 ml": {
+                "original_price": 54.5,
+                "reduced_price": 43.6
+            },
+            "100 ml": {
+                "original_price": 76.5,
+                "reduced_price": 61.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Toilette Away Tonight Man",
+        "url": "https://www.douglas.de/de/p/5010721001?variant=1014260",
+        "prices": {
+            "30 ml": {
+                "original_price": 42.0,
+                "reduced_price": 33.6
+            },
+            "50 ml": {
+                "original_price": 54.5,
+                "reduced_price": 43.6
+            },
+            "100 ml": {
+                "original_price": 76.5,
+                "reduced_price": 61.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Toilette Authentic Moment Men",
+        "url": "https://www.douglas.de/de/p/5010507274?variant=443338",
+        "prices": {
+            "30 ml": {
+                "original_price": 42.0,
+                "reduced_price": 33.6
+            },
+            "50 ml": {
+                "original_price": 54.5,
+                "reduced_price": 43.6
+            },
+            "100 ml": {
+                "original_price": 76.5,
+                "reduced_price": 61.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Cologne Fierce Pride Edition",
+        "url": "https://www.douglas.de/de/p/5011459087",
+        "prices": {
+            "50 ml": {
+                "original_price": 69.0,
+                "reduced_price": 54.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Duftset Eau de Parfum 50ml Set",
+        "url": "https://www.douglas.de/de/p/5011148068",
+        "prices": {
+            "1 Stück": {
+                "original_price": 54.5,
+                "reduced_price": 29.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Cologne Fierce",
+        "url": "https://www.douglas.de/de/p/5011095005?variant=1125231",
+        "prices": {
+            "30 ml": {
+                "original_price": 58.0,
+                "reduced_price": 46.4
+            },
+            "50 ml": {
+                "original_price": 69.0,
+                "reduced_price": 55.2
+            },
+            "100 ml": {
+                "original_price": 94.0,
+                "reduced_price": 75.2
+            },
+            "200 ml": {
+                "original_price": 144.0,
+                "reduced_price": 115.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Parfum Authentic Self EDP",
+        "url": "https://www.douglas.de/de/p/5010924021",
+        "prices": {
+            "30 ml": {
+                "original_price": 42.0,
+                "reduced_price": 33.6
+            },
+            "100 ml": {
+                "original_price": 76.5,
+                "reduced_price": 61.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Parfum Authentic",
+        "url": "https://www.douglas.de/de/p/3001055849?variant=084119",
+        "prices": {
+            "30 ml": {
+                "original_price": 42.0,
+                "reduced_price": 33.6
+            },
+            "50 ml": {
+                "original_price": 54.5,
+                "reduced_price": 43.6
+            },
+            "100 ml": {
+                "original_price": 76.5,
+                "reduced_price": 61.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Parfum Authentic Moment Women",
+        "url": "https://www.douglas.de/de/p/5010507275",
+        "prices": {
+            "30 ml": {
+                "original_price": 42.0,
+                "reduced_price": 33.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Parfum 100% PASSION Women",
+        "url": "https://www.douglas.de/de/p/5011705017?variant=1222585",
+        "prices": {
+            "30 ml": {
+                "original_price": 44.0,
+                "reduced_price": 35.2
+            },
+            "50 ml": {
+                "original_price": 54.5,
+                "reduced_price": 43.6
+            },
+            "100 ml": {
+                "original_price": 76.5,
+                "reduced_price": 61.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Toilette Authentic Night",
+        "url": "https://www.douglas.de/de/p/5002461004?variant=538656",
+        "prices": {
+            "30 ml": {
+                "original_price": 42.0,
+                "reduced_price": 33.6
+            },
+            "50 ml": {
+                "original_price": 54.5,
+                "reduced_price": 43.6
+            },
+            "100 ml": {
+                "original_price": 76.5,
+                "reduced_price": 61.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Duftset Away AWAY",
+        "url": "https://www.douglas.de/de/p/5011148071",
+        "prices": {
+            "1 Stück": {
+                "original_price": 54.5,
+                "reduced_price": 29.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Duftset Fierce Eau de Cologne 50 ML Set",
+        "url": "https://www.douglas.de/de/p/5011454003",
+        "prices": {
+            "1 Stück": {
+                "original_price": 68.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Parfum Woman",
+        "url": "https://www.douglas.de/de/p/5010721002?variant=1014263",
+        "prices": {
+            "30 ml": {
+                "original_price": 42.0,
+                "reduced_price": 33.6
+            },
+            "50 ml": {
+                "original_price": 54.5,
+                "reduced_price": 43.6
+            },
+            "100 ml": {
+                "original_price": 76.5,
+                "reduced_price": 61.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Toilette Authentic Self EDT",
+        "url": "https://www.douglas.de/de/p/5010924020?variant=1078958",
+        "prices": {
+            "30 ml": {
+                "original_price": 42.0,
+                "reduced_price": 33.6
+            },
+            "100 ml": {
+                "original_price": 76.5,
+                "reduced_price": 61.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Duftset Authentic Set",
+        "url": "https://www.douglas.de/de/p/5011185020",
+        "prices": {
+            "1 Stück": {
+                "original_price": 54.5,
+                "reduced_price": 43.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Parfum First Instinct",
+        "url": "https://www.douglas.de/de/p/3001036347",
+        "prices": {
+            "100 ml": {
+                "original_price": 89.5,
+                "reduced_price": 71.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Parfum Away for Her",
+        "url": "https://www.douglas.de/de/p/5010041021?variant=032409",
+        "prices": {
+            "30 ml": {
+                "original_price": 42.0,
+                "reduced_price": 33.6
+            },
+            "50 ml": {
+                "original_price": 54.5,
+                "reduced_price": 43.6
+            },
+            "100 ml": {
+                "original_price": 76.5,
+                "reduced_price": 61.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Parfum Away Weekend Women",
+        "url": "https://www.douglas.de/de/p/5010973110?variant=1114611",
+        "prices": {
+            "30 ml": {
+                "original_price": 42.0,
+                "reduced_price": 33.6
+            },
+            "50 ml": {
+                "original_price": 54.5,
+                "reduced_price": 43.6
+            },
+            "100 ml": {
+                "original_price": 76.5,
+                "reduced_price": 61.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Abercrombie & Fitch Eau de Toilette Away for Him",
+        "url": "https://www.douglas.de/de/p/5010041023?variant=032420",
+        "prices": {
+            "30 ml": {
+                "original_price": 42.0,
+                "reduced_price": 33.6
+            },
+            "50 ml": {
+                "original_price": 54.5,
+                "reduced_price": 43.6
+            },
+            "100 ml": {
+                "original_price": 76.5,
+                "reduced_price": 61.2
+            }
+        }
+    }
+]

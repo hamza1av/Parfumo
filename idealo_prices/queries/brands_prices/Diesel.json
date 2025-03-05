@@ -1,0 +1,164 @@
+[
+    {
+        "perfume_name": "Diesel Eau de Toilette Fuel for Life Homme",
+        "url": "https://www.douglas.de/de/p/5003401061?variant=179329",
+        "prices": {
+            "50 ml": {
+                "original_price": 48.0,
+                "reduced_price": 33.99
+            },
+            "125 ml": {
+                "original_price": 65.0,
+                "reduced_price": 52.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Diesel Eau de Toilette Bad",
+        "url": "https://www.douglas.de/de/p/3001030345?variant=973008",
+        "prices": {
+            "50 ml": {
+                "original_price": 69.0,
+                "reduced_price": 55.2
+            },
+            "100 ml": {
+                "original_price": 79.0,
+                "reduced_price": 63.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Diesel Eau de Toilette D by Diesel",
+        "url": "https://www.douglas.de/de/p/5010653021?variant=1027943",
+        "prices": {
+            "50 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            },
+            "100 ml": {
+                "original_price": 92.0,
+                "reduced_price": 73.6
+            },
+            "150 ml - Refill": {
+                "original_price": 99.0,
+                "reduced_price": 79.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Diesel Eau de Toilette Sound of the Brave Klang der Tapferen",
+        "url": "https://www.douglas.de/de/p/5009970017?variant=120263",
+        "prices": {
+            "50 ml": {
+                "original_price": 67.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Diesel Eau de Parfum Loverdose",
+        "url": "https://www.douglas.de/de/p/3000045344?variant=622604",
+        "prices": {
+            "30 ml": {
+                "original_price": 55.0,
+                "reduced_price": 41.99
+            },
+            "50 ml": {
+                "original_price": 83.0,
+                "reduced_price": 66.4
+            },
+            "75 ml": {
+                "original_price": 91.0,
+                "reduced_price": 72.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Diesel Duftset Only the Brave",
+        "url": "https://www.douglas.de/de/p/5011670112",
+        "prices": {
+            "1 Stück": {
+                "original_price": 50.0,
+                "reduced_price": 32.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Diesel Eau de Parfum Loverdose Red Kiss",
+        "url": "https://www.douglas.de/de/p/3001009914",
+        "prices": {
+            "30 ml": {
+                "original_price": 55.0,
+                "reduced_price": 44.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Diesel Duftset D by Diesel Set",
+        "url": "https://www.douglas.de/de/p/5011148030",
+        "prices": {
+            "1 Stück": {
+                "original_price": 47.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Diesel Eau de Toilette Only the Brave",
+        "url": "https://www.douglas.de/de/p/3000028423?variant=433905",
+        "prices": {
+            "35 ml": {
+                "original_price": 50.0,
+                "reduced_price": 32.99
+            },
+            "50 ml": {
+                "original_price": 67.0,
+                "reduced_price": 43.99
+            },
+            "125 ml": {
+                "original_price": 99.0,
+                "reduced_price": 78.99
+            },
+            "200 ml": {
+                "original_price": 105.0,
+                "reduced_price": 82.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Diesel Eau de Parfum D by Diesel Red",
+        "url": "https://www.douglas.de/de/p/5011302006?variant=1161483",
+        "prices": {
+            "30 ml": {
+                "original_price": 49.0,
+                "reduced_price": 39.2
+            },
+            "50 ml": {
+                "original_price": 74.0,
+                "reduced_price": 59.2
+            },
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Diesel Eau de Toilette Only the Brave TATTOO",
+        "url": "https://www.douglas.de/de/p/3000051673",
+        "prices": {
+            "35 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            },
+            "50 ml": {
+                "original_price": 67.0,
+                "reduced_price": 53.6
+            },
+            "200 ml": {
+                "original_price": 105.0,
+                "reduced_price": 75.99
+            }
+        }
+    }
+]

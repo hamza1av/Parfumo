@@ -1,0 +1,136 @@
+[
+    {
+        "perfume_name": "Hollister Eau de Toilette Feelin´ Good for Him",
+        "url": "https://www.douglas.de/de/p/5011067076",
+        "prices": {
+            "30 ml": {
+                "original_price": 13.99,
+                "reduced_price": 11.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Hollister Eau de Parfum Festival Vibes for Her",
+        "url": "https://www.douglas.de/de/p/5001699095",
+        "prices": {
+            "30 ml": {
+                "original_price": 20.29,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Hollister Eau de Toilette Canyon Sky For Him",
+        "url": "https://www.douglas.de/de/p/5010952004",
+        "prices": {
+            "30 ml": {
+                "original_price": 13.99,
+                "reduced_price": 11.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Hollister Eau de Parfum Festival Nite for Her",
+        "url": "https://www.douglas.de/de/p/5010347037",
+        "prices": {
+            "30 ml": {
+                "original_price": 13.99,
+                "reduced_price": 11.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Hollister Eau de Parfum Wave California",
+        "url": "https://www.douglas.de/de/p/5001699092",
+        "prices": {
+            "30 ml": {
+                "original_price": 14.49,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Hollister Eau de Toilette Festival Vibes Eau de Toilette Spray",
+        "url": "https://www.douglas.de/de/p/5001699097",
+        "prices": {
+            "30 ml": {
+                "original_price": 20.29,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Hollister Eau de Toilette Wave California",
+        "url": "https://www.douglas.de/de/p/5001699091",
+        "prices": {
+            "30 ml": {
+                "original_price": 20.29,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 24.5,
+                "reduced_price": 19.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Hollister Eau de Toilette Free Wave California",
+        "url": "https://www.douglas.de/de/p/5001699093",
+        "prices": {
+            "30 ml": {
+                "original_price": 20.29,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Hollister Eau de Toilette Festival Nite for Him",
+        "url": "https://www.douglas.de/de/p/5010347038",
+        "prices": {
+            "30 ml": {
+                "original_price": 13.99,
+                "reduced_price": 11.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Hollister Eau de Parfum Canyon Sky For Her",
+        "url": "https://www.douglas.de/de/p/5010952005",
+        "prices": {
+            "30 ml": {
+                "original_price": 13.99,
+                "reduced_price": 11.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Hollister Eau de Parfum Feelin´ Good for Her",
+        "url": "https://www.douglas.de/de/p/5011067077",
+        "prices": {
+            "30 ml": {
+                "original_price": 13.99,
+                "reduced_price": 11.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Hollister Eau de Toilette Free Wave California",
+        "url": "https://www.douglas.de/de/p/5001699094",
+        "prices": {
+            "30 ml": {
+                "original_price": 19.99,
+                "reduced_price": 15.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Hollister Eau de Parfum Canyon Escape For Her",
+        "url": "https://www.douglas.de/de/p/5009418017",
+        "prices": {
+            "30 ml": {
+                "original_price": 13.99,
+                "reduced_price": 11.19
+            }
+        }
+    }
+]

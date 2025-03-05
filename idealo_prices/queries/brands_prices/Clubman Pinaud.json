@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "Clubman Pinaud After Shave CLUBMAN AFTERSHAVE RUM",
+        "url": "https://www.douglas.de/de/p/5011230079",
+        "prices": {
+            "177 ml": {
+                "original_price": 14.59,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Clubman Pinaud After Shave Musk After Shave Cologne",
+        "url": "https://www.douglas.de/de/p/m000087894",
+        "prices": {
+            "177 ml": {
+                "original_price": 15.09,
+                "reduced_price": null
+            }
+        }
+    }
+]

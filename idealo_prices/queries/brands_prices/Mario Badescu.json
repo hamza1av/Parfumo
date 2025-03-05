@@ -1,0 +1,26 @@
+[
+    {
+        "perfume_name": "Mario Badescu Bodyspray Face Spa Facial Spray with Aloe, Herbs and Rosewater",
+        "url": "https://www.douglas.de/de/p/3001044417",
+        "prices": {
+            "118 ml": {
+                "original_price": 9.9,
+                "reduced_price": 7.92
+            },
+            "236 ml": {
+                "original_price": 18.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Mario Badescu Bodyspray Back & Body Clarifying Spray",
+        "url": "https://www.douglas.de/de/p/5011718110",
+        "prices": {
+            "236 ml": {
+                "original_price": 21.0,
+                "reduced_price": 16.8
+            }
+        }
+    }
+]

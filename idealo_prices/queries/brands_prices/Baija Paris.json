@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "Baija Paris Bodyspray",
+        "url": "https://www.douglas.de/de/p/5002492815",
+        "prices": {
+            "100 ml": {
+                "original_price": 24.19,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Baija Paris Bodyspray",
+        "url": "https://www.douglas.de/de/p/5002492857",
+        "prices": {
+            "100 ml": {
+                "original_price": 24.19,
+                "reduced_price": null
+            }
+        }
+    }
+]

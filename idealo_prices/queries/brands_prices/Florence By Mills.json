@@ -1,0 +1,30 @@
+[
+    {
+        "perfume_name": "Florence By Mills Eau de Toilette Wildly Me Travel Size",
+        "url": "https://www.douglas.de/de/p/5011045002",
+        "prices": {
+            "10 ml": {
+                "original_price": 19.0,
+                "reduced_price": 15.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Florence By Mills Eau de Toilette Wildly Me",
+        "url": "https://www.douglas.de/de/p/5011092046?variant=1115451",
+        "prices": {
+            "30 ml": {
+                "original_price": 35.99,
+                "reduced_price": 28.79
+            },
+            "50 ml": {
+                "original_price": 45.99,
+                "reduced_price": 36.79
+            },
+            "100 ml": {
+                "original_price": 55.99,
+                "reduced_price": 44.79
+            }
+        }
+    }
+]

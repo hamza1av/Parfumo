@@ -1,0 +1,42 @@
+[
+    {
+        "perfume_name": "Florascent Eau de Parfum Olfactive Art Collection - EDP Le Gantier 30ml",
+        "url": "https://www.douglas.de/de/p/m000012308",
+        "prices": {
+            "30 ml": {
+                "original_price": 55.99,
+                "reduced_price": 47.59
+            }
+        }
+    },
+    {
+        "perfume_name": "Florascent Eau de Toilette Aqua Composita - Eau d'Iris 30ml",
+        "url": "https://www.douglas.de/de/p/m000012310",
+        "prices": {
+            "30 ml": {
+                "original_price": 46.99,
+                "reduced_price": 39.94
+            }
+        }
+    },
+    {
+        "perfume_name": "Florascent Eau de Toilette Voyage à - Cannes 30ml",
+        "url": "https://www.douglas.de/de/p/m000012337",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.99,
+                "reduced_price": 41.64
+            }
+        }
+    },
+    {
+        "perfume_name": "Florascent Eau de Toilette Aqua Orientalis - Ksar 30ml",
+        "url": "https://www.douglas.de/de/p/m000012469",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.99,
+                "reduced_price": 41.64
+            }
+        }
+    }
+]

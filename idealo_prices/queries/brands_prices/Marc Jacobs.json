@@ -1,0 +1,298 @@
+[
+    {
+        "perfume_name": "Marc Jacobs Eau de Toilette Daisy Love Glow",
+        "url": "https://www.douglas.de/de/p/5011699100",
+        "prices": {
+            "50 ml": {
+                "original_price": 94.0,
+                "reduced_price": 75.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Marc Jacobs Eau de Parfum Daisy Wild",
+        "url": "https://www.douglas.de/de/p/5011363000",
+        "prices": {
+            "30 ml": {
+                "original_price": 74.0,
+                "reduced_price": 51.99
+            },
+            "50 ml": {
+                "original_price": 108.0,
+                "reduced_price": 84.0
+            },
+            "100 ml": {
+                "original_price": 137.0,
+                "reduced_price": 103.0
+            },
+            "150 ml - Refill": {
+                "original_price": 137.0,
+                "reduced_price": 109.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Marc Jacobs Eau de Toilette Daisy Eau so Fresh Glow",
+        "url": "https://www.douglas.de/de/p/5011699101",
+        "prices": {
+            "Limited Edition": {
+                "original_price": 99.0,
+                "reduced_price": 79.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Marc Jacobs Eau de Parfum Perfect",
+        "url": "https://www.douglas.de/de/p/5003270025?variant=711283",
+        "prices": {
+            "30 ml": {
+                "original_price": 75.0,
+                "reduced_price": 48.99
+            },
+            "50 ml": {
+                "original_price": 111.0,
+                "reduced_price": 63.99
+            },
+            "100 ml": {
+                "original_price": 152.0,
+                "reduced_price": 97.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Marc Jacobs Eau de Parfum Daisy Eau So Intense",
+        "url": "https://www.douglas.de/de/p/5009731184?variant=018556",
+        "prices": {
+            "30 ml": {
+                "original_price": 75.99,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 108.0,
+                "reduced_price": 86.4
+            },
+            "100 ml": {
+                "original_price": 137.0,
+                "reduced_price": 109.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Marc Jacobs Eau de Parfum Daisy Ever So Fresh",
+        "url": "https://www.douglas.de/de/p/5010671011",
+        "prices": {
+            "30 ml": {
+                "original_price": 78.0,
+                "reduced_price": 62.4
+            },
+            "75 ml": {
+                "original_price": 113.0,
+                "reduced_price": 90.4
+            },
+            "125 ml": {
+                "original_price": 145.0,
+                "reduced_price": 116.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Marc Jacobs Eau de Toilette Perfect",
+        "url": "https://www.douglas.de/de/p/5010859029",
+        "prices": {
+            "30 ml": {
+                "original_price": 67.0,
+                "reduced_price": 53.6
+            },
+            "50 ml": {
+                "original_price": 100.0,
+                "reduced_price": 80.0
+            },
+            "100 ml": {
+                "original_price": 137.0,
+                "reduced_price": 109.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Marc Jacobs Duftset Daisy",
+        "url": "https://www.douglas.de/de/p/5011583198",
+        "prices": {
+            "1 Stück": {
+                "original_price": 113.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Marc Jacobs Eau de Toilette Daisy",
+        "url": "https://www.douglas.de/de/p/3000032590?variant=336907",
+        "prices": {
+            "30 ml": {
+                "original_price": 66.0,
+                "reduced_price": 44.99
+            },
+            "50 ml": {
+                "original_price": 94.0,
+                "reduced_price": 66.99
+            },
+            "100 ml": {
+                "original_price": 126.0,
+                "reduced_price": 78.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Marc Jacobs Eau de Toilette Daisy Eau so Fresh",
+        "url": "https://www.douglas.de/de/p/3000043394?variant=583369",
+        "prices": {
+            "30 ml": {
+                "original_price": 69.0,
+                "reduced_price": 62.19
+            },
+            "75 ml": {
+                "original_price": 99.0,
+                "reduced_price": 66.99
+            },
+            "125 ml": {
+                "original_price": 131.0,
+                "reduced_price": 84.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Marc Jacobs Eau de Parfum Perfect Elixir",
+        "url": "https://www.douglas.de/de/p/5011533004",
+        "prices": {
+            "30 ml": {
+                "original_price": 84.0,
+                "reduced_price": 67.2
+            },
+            "50 ml": {
+                "original_price": 120.0,
+                "reduced_price": 96.0
+            },
+            "100 ml": {
+                "original_price": 168.0,
+                "reduced_price": 134.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Marc Jacobs Eau de Toilette Daisy Dream",
+        "url": "https://www.douglas.de/de/p/3001003488?variant=815593",
+        "prices": {
+            "30 ml": {
+                "original_price": 66.0,
+                "reduced_price": 48.99
+            },
+            "50 ml": {
+                "original_price": 94.0,
+                "reduced_price": 57.99
+            },
+            "100 ml": {
+                "original_price": 126.0,
+                "reduced_price": 79.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Marc Jacobs Duftset Eau de Toilette 50ml Set",
+        "url": "https://www.douglas.de/de/p/5011124118",
+        "prices": {
+            "1 Stück": {
+                "original_price": 96.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Marc Jacobs Eau de Toilette Daisy Love Eau So Sweet",
+        "url": "https://www.douglas.de/de/p/3001054763?variant=074298",
+        "prices": {
+            "30 ml": {
+                "original_price": 66.0,
+                "reduced_price": 52.8
+            },
+            "50 ml": {
+                "original_price": 94.0,
+                "reduced_price": 75.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Marc Jacobs Eau de Toilette Daisy Eau so Fresh Pop",
+        "url": "https://www.douglas.de/de/p/5011278001",
+        "prices": {
+            "75 ml": {
+                "original_price": 94.0,
+                "reduced_price": 75.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Marc Jacobs Duschgel Perfect Shower Gel",
+        "url": "https://www.douglas.de/de/p/5010077387",
+        "prices": {
+            "150 ml": {
+                "original_price": 44.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Marc Jacobs Eau de Toilette Daisy Love",
+        "url": "https://www.douglas.de/de/p/3001043648",
+        "prices": {
+            "30 ml": {
+                "original_price": 66.0,
+                "reduced_price": 52.8
+            },
+            "50 ml": {
+                "original_price": 94.0,
+                "reduced_price": 75.2
+            },
+            "100 ml": {
+                "original_price": 126.0,
+                "reduced_price": 100.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Marc Jacobs Eau de Toilette Daisy Glow",
+        "url": "https://www.douglas.de/de/p/5011699102",
+        "prices": {
+            "50 ml": {
+                "original_price": 94.0,
+                "reduced_price": 75.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Marc Jacobs Duftset Daisy Marc Jacobs Daisy Eau So Fresh Eau De Toilette - driedelige cadeauset  voor de feestdagen",
+        "url": "https://www.douglas.de/de/p/5011583199",
+        "prices": {
+            "1 Stück": {
+                "original_price": 96.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Marc Jacobs Eau de Parfum Perfect Intense",
+        "url": "https://www.douglas.de/de/p/5010347070?variant=184842",
+        "prices": {
+            "30 ml": {
+                "original_price": 83.0,
+                "reduced_price": 66.4
+            },
+            "50 ml": {
+                "original_price": 123.0,
+                "reduced_price": 89.0
+            },
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    }
+]

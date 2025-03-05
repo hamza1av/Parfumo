@@ -1,0 +1,852 @@
+[
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum The Only One Intense",
+        "url": "https://www.douglas.de/de/p/5000727037",
+        "prices": {
+            "30 ml": {
+                "original_price": 92.0,
+                "reduced_price": 58.99
+            },
+            "50 ml": {
+                "original_price": 130.0,
+                "reduced_price": 85.0
+            },
+            "100 ml": {
+                "original_price": 175.0,
+                "reduced_price": 132.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Devotion For Men",
+        "url": "https://www.douglas.de/de/p/5011684013?variant=1216449",
+        "prices": {
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": 73.99
+            },
+            "100 ml": {
+                "original_price": 135.0,
+                "reduced_price": 99.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Toilette The One For Men The One Grey",
+        "url": "https://www.douglas.de/de/p/3001047073",
+        "prices": {
+            "50 ml": {
+                "original_price": 74.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana After Shave K&Q by Dolce&Gabbana After Shave Balm",
+        "url": "https://www.douglas.de/de/p/3011043770",
+        "prices": {
+            "100 ml": {
+                "original_price": 52.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Intenso Pour Homme",
+        "url": "https://www.douglas.de/de/p/3001008834?variant=1076873",
+        "prices": {
+            "75 ml": {
+                "original_price": 96.0,
+                "reduced_price": 73.6
+            },
+            "125 ml": {
+                "original_price": 125.99,
+                "reduced_price": null
+            },
+            "200 ml": {
+                "original_price": 170.08,
+                "reduced_price": 144.56
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Pour Femme",
+        "url": "https://www.douglas.de/de/p/3000059351?variant=979220",
+        "prices": {
+            "100 ml": {
+                "original_price": 159.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum The One For Men The One for Men",
+        "url": "https://www.douglas.de/de/p/2010007614?variant=979189",
+        "prices": {
+            "50 ml": {
+                "original_price": 89.0,
+                "reduced_price": 68.8
+            },
+            "100 ml": {
+                "original_price": 122.0,
+                "reduced_price": 93.6
+            },
+            "150 ml": {
+                "original_price": 141.0,
+                "reduced_price": 108.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Velvet Collection Amber Sun",
+        "url": "https://www.douglas.de/de/p/5011246002",
+        "prices": {
+            "100 ml": {
+                "original_price": 320.0,
+                "reduced_price": 232.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Velvet Collection Rose",
+        "url": "https://www.douglas.de/de/p/5011246009",
+        "prices": {
+            "100 ml": {
+                "original_price": 320.0,
+                "reduced_price": 232.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Deodorant K&Q by Dolce&Gabbana Stick",
+        "url": "https://www.douglas.de/de/p/3011043767",
+        "prices": {
+            "75 g": {
+                "original_price": 42.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Duftset K&Q by Dolce&Gabbana DG K EDP 50ML+SG 50ML",
+        "url": "https://www.douglas.de/de/p/5011450001",
+        "prices": {
+            "1 Stück": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum The One THE ONE Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/2010005897?variant=979175",
+        "prices": {
+            "30 ml": {
+                "original_price": 84.0,
+                "reduced_price": 46.99
+            },
+            "50 ml": {
+                "original_price": 118.0,
+                "reduced_price": 51.99
+            },
+            "75 ml": {
+                "original_price": 151.0,
+                "reduced_price": 115.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum The Only One",
+        "url": "https://www.douglas.de/de/p/3001047072?variant=035954",
+        "prices": {
+            "30 ml": {
+                "original_price": 85.0,
+                "reduced_price": 80.89
+            },
+            "50 ml": {
+                "original_price": 122.0,
+                "reduced_price": 79.99
+            },
+            "100 ml": {
+                "original_price": 163.0,
+                "reduced_price": 125.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Velvet Collection Desert Oud",
+        "url": "https://www.douglas.de/de/p/5011246003",
+        "prices": {
+            "100 ml": {
+                "original_price": 320.0,
+                "reduced_price": 232.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Toilette Dolce Rose",
+        "url": "https://www.douglas.de/de/p/5009264018?variant=868133",
+        "prices": {
+            "50 ml": {
+                "original_price": 87.0,
+                "reduced_price": 67.2
+            },
+            "75 ml": {
+                "original_price": 104.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Toilette L'Impératrice",
+        "url": "https://www.douglas.de/de/p/3000030847?variant=749383",
+        "prices": {
+            "50 ml": {
+                "original_price": 82.0,
+                "reduced_price": 54.99
+            },
+            "100 ml": {
+                "original_price": 111.0,
+                "reduced_price": 67.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Duftset Devotion Eau de Parfum 50 ML Set",
+        "url": "https://www.douglas.de/de/p/5011337007",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 119.0,
+                "reduced_price": 78.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Light Blue Pour Homme",
+        "url": "https://www.douglas.de/de/p/3001036324?variant=973088",
+        "prices": {
+            "50 ml": {
+                "original_price": 80.0,
+                "reduced_price": 62.79
+            },
+            "100 ml": {
+                "original_price": 109.0,
+                "reduced_price": 74.99
+            },
+            "200 ml": {
+                "original_price": 164.0,
+                "reduced_price": 156.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Dolce",
+        "url": "https://www.douglas.de/de/p/3001000864?variant=979208",
+        "prices": {
+            "75 ml": {
+                "original_price": 120.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Dolce Dolce Shine",
+        "url": "https://www.douglas.de/de/p/5000418027?variant=528609",
+        "prices": {
+            "50 ml": {
+                "original_price": 95.0,
+                "reduced_price": 72.8
+            },
+            "75 ml": {
+                "original_price": 120.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Parfum K&Q by Dolce&Gabbana K",
+        "url": "https://www.douglas.de/de/p/5011711163",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 150.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum K&Q by Dolce&Gabbana Q Intense",
+        "url": "https://www.douglas.de/de/p/5011284932?variant=1160142",
+        "prices": {
+            "30 ml": {
+                "original_price": 90.0,
+                "reduced_price": 68.8
+            },
+            "50 ml": {
+                "original_price": 128.0,
+                "reduced_price": 97.6
+            },
+            "100 ml": {
+                "original_price": 170.0,
+                "reduced_price": 129.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Velvet Collection Exotic Leather",
+        "url": "https://www.douglas.de/de/p/5011246006",
+        "prices": {
+            "100 ml": {
+                "original_price": 320.0,
+                "reduced_price": 232.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Parfum The One Gold Intense",
+        "url": "https://www.douglas.de/de/p/5011392163?variant=1163939",
+        "prices": {
+            "50 ml": {
+                "original_price": 130.0,
+                "reduced_price": 99.2
+            },
+            "75 ml": {
+                "original_price": 167.0,
+                "reduced_price": 127.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Duftset Light Blue",
+        "url": "https://www.douglas.de/de/p/5011143090",
+        "prices": {
+            "2 Stk.": {
+                "original_price": 168.99,
+                "reduced_price": 118.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Velvet Collection Tender Oud",
+        "url": "https://www.douglas.de/de/p/5011246011",
+        "prices": {
+            "100 ml": {
+                "original_price": 320.0,
+                "reduced_price": 232.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Duftset Devotion Luxus Geschenkset Eau de Parfum and Makeup",
+        "url": "https://www.douglas.de/de/p/5011120033",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 112.0,
+                "reduced_price": 89.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Velvet Collection Vetiver",
+        "url": "https://www.douglas.de/de/p/5011246012",
+        "prices": {
+            "100 ml": {
+                "original_price": 320.0,
+                "reduced_price": 232.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Toilette Light Blue",
+        "url": "https://www.douglas.de/de/p/1020408304?variant=979193",
+        "prices": {
+            "25 ml": {
+                "original_price": 65.0,
+                "reduced_price": 33.16
+            },
+            "50 ml": {
+                "original_price": 93.0,
+                "reduced_price": 47.44
+            },
+            "100 ml": {
+                "original_price": 127.0,
+                "reduced_price": 64.79
+            },
+            "200 ml": {
+                "original_price": 170.0,
+                "reduced_price": 86.73
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Parfum K&Q by Dolce&Gabbana Q by Dolce&Gabbana Parfum",
+        "url": "https://www.douglas.de/de/p/5011711164",
+        "prices": {
+            "30 ml": {
+                "original_price": 95.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 135.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 179.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Light Blue Eau Intense",
+        "url": "https://www.douglas.de/de/p/3001036323?variant=973086",
+        "prices": {
+            "25 ml": {
+                "original_price": 73.0,
+                "reduced_price": 55.29
+            },
+            "50 ml": {
+                "original_price": 105.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 142.0,
+                "reduced_price": 109.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Velvet Collection Desire",
+        "url": "https://www.douglas.de/de/p/5011246004",
+        "prices": {
+            "100 ml": {
+                "original_price": 320.0,
+                "reduced_price": 232.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Duftset K&Q by Dolce&Gabbana Set",
+        "url": "https://www.douglas.de/de/p/5011573294",
+        "prices": {
+            "1 Stück": {
+                "original_price": 110.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Toilette Light Blue Pour Homme Summer Vibes",
+        "url": "https://www.douglas.de/de/p/5010952002?variant=1083857",
+        "prices": {
+            "125 ml": {
+                "original_price": 129.0,
+                "reduced_price": 116.89
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Duftset Light Blue Set",
+        "url": "https://www.douglas.de/de/p/5010984063",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 89.0,
+                "reduced_price": 71.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum The One For Men Intense",
+        "url": "https://www.douglas.de/de/p/5000727036?variant=528582",
+        "prices": {
+            "50 ml": {
+                "original_price": 104.0,
+                "reduced_price": 77.6
+            },
+            "100 ml": {
+                "original_price": 141.0,
+                "reduced_price": 108.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Devotion Intense",
+        "url": "https://www.douglas.de/de/p/5011530051",
+        "prices": {
+            "30 ml": {
+                "original_price": 92.0,
+                "reduced_price": 70.4
+            },
+            "50 ml": {
+                "original_price": 131.0,
+                "reduced_price": 100.0
+            },
+            "100 ml": {
+                "original_price": 176.0,
+                "reduced_price": 134.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Toilette Light Blue Summer Vibes",
+        "url": "https://www.douglas.de/de/p/5010952000",
+        "prices": {
+            "50 ml": {
+                "original_price": 99.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 133.0,
+                "reduced_price": 106.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Parfum The One For Men Gold Intense",
+        "url": "https://www.douglas.de/de/p/5011392162?variant=1163951",
+        "prices": {
+            "50 ml": {
+                "original_price": 100.0,
+                "reduced_price": 76.0
+            },
+            "100 ml": {
+                "original_price": 141.0,
+                "reduced_price": 108.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Toilette Dolce Lily",
+        "url": "https://www.douglas.de/de/p/5010460065?variant=462751",
+        "prices": {
+            "75 ml": {
+                "original_price": 108.0,
+                "reduced_price": 83.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Velvet Collection Sicily",
+        "url": "https://www.douglas.de/de/p/5011246010",
+        "prices": {
+            "100 ml": {
+                "original_price": 320.0,
+                "reduced_price": 232.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Duftset Light Blue Geschenkset Eau de Toilette 50 ml",
+        "url": "https://www.douglas.de/de/p/5011120032",
+        "prices": {
+            "1 Stück": {
+                "original_price": 89.0,
+                "reduced_price": 84.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Duftset The One Set 30",
+        "url": "https://www.douglas.de/de/p/5011390086",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 80.0,
+                "reduced_price": 64.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Duftset K&Q by Dolce&Gabbana Set",
+        "url": "https://www.douglas.de/de/p/5011130021",
+        "prices": {
+            "1 Stück": {
+                "original_price": 108.0,
+                "reduced_price": 86.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum K&Q by Dolce&Gabbana K Intense",
+        "url": "https://www.douglas.de/de/p/5011284939?variant=1160145",
+        "prices": {
+            "50 ml": {
+                "original_price": 104.0,
+                "reduced_price": 80.0
+            },
+            "100 ml": {
+                "original_price": 141.0,
+                "reduced_price": 108.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Kerze Velvet Collection Kerzenlöscher",
+        "url": "https://www.douglas.de/de/p/5011719167",
+        "prices": {
+            "153 g": {
+                "original_price": 59.0,
+                "reduced_price": 44.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Velvet Collection Mughetto",
+        "url": "https://www.douglas.de/de/p/5011246007",
+        "prices": {
+            "100 ml": {
+                "original_price": 320.0,
+                "reduced_price": 232.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Velvet Collection Incenso",
+        "url": "https://www.douglas.de/de/p/5011246005",
+        "prices": {
+            "100 ml": {
+                "original_price": 320.0,
+                "reduced_price": 232.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum The One For Men",
+        "url": "https://www.douglas.de/de/p/3001017857?variant=979182",
+        "prices": {
+            "50 ml": {
+                "original_price": 92.0,
+                "reduced_price": 58.99
+            },
+            "100 ml": {
+                "original_price": 130.0,
+                "reduced_price": 69.99
+            },
+            "150 ml": {
+                "original_price": 158.0,
+                "reduced_price": 121.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Duftset Light Blue",
+        "url": "https://www.douglas.de/de/p/5011143089",
+        "prices": {
+            "1 Stück": {
+                "original_price": 118.99,
+                "reduced_price": 101.14
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Velvet Collection Amber Skin",
+        "url": "https://www.douglas.de/de/p/5011246001",
+        "prices": {
+            "100 ml": {
+                "original_price": 320.0,
+                "reduced_price": 232.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Dolce Peony",
+        "url": "https://www.douglas.de/de/p/3001053794?variant=063864",
+        "prices": {
+            "50 ml": {
+                "original_price": 95.0,
+                "reduced_price": 72.8
+            },
+            "75 ml": {
+                "original_price": 120.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Velvet Collection The Infusion",
+        "url": "https://www.douglas.de/de/p/5011699104",
+        "prices": {
+            "100 ml": {
+                "original_price": 320.0,
+                "reduced_price": 232.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum K&Q by Dolce&Gabbana Q",
+        "url": "https://www.douglas.de/de/p/5010878061",
+        "prices": {
+            "30 ml": {
+                "original_price": 82.0,
+                "reduced_price": 54.99
+            },
+            "50 ml": {
+                "original_price": 116.0,
+                "reduced_price": 88.0
+            },
+            "100 ml": {
+                "original_price": 155.0,
+                "reduced_price": 118.4
+            },
+            "150 ml - Refill": {
+                "original_price": 155.0,
+                "reduced_price": 118.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Deodorant K&Q by Dolce&Gabbana",
+        "url": "https://www.douglas.de/de/p/3011043774",
+        "prices": {
+            "200 ml": {
+                "original_price": 46.0,
+                "reduced_price": 35.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Toilette Light Blue Pour Homme",
+        "url": "https://www.douglas.de/de/p/2010006780?variant=979198",
+        "prices": {
+            "40 ml": {
+                "original_price": 68.0,
+                "reduced_price": 39.99
+            },
+            "75 ml": {
+                "original_price": 91.0,
+                "reduced_price": 59.99
+            },
+            "125 ml": {
+                "original_price": 123.0,
+                "reduced_price": 98.4
+            },
+            "200 ml": {
+                "original_price": 260.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Toilette Pour Femme",
+        "url": "https://www.douglas.de/de/p/5011189024",
+        "prices": {
+            "100 ml": {
+                "original_price": 129.0,
+                "reduced_price": 99.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Velvet Collection Blue Musk",
+        "url": "https://www.douglas.de/de/p/5011246008",
+        "prices": {
+            "100 ml": {
+                "original_price": 320.0,
+                "reduced_price": 232.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Velvet Collection Black Patchouli",
+        "url": "https://www.douglas.de/de/p/5011246000",
+        "prices": {
+            "100 ml": {
+                "original_price": 320.0,
+                "reduced_price": 232.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Toilette K&Q by Dolce&Gabbana K",
+        "url": "https://www.douglas.de/de/p/3011043765?variant=272520",
+        "prices": {
+            "50 ml": {
+                "original_price": 89.0,
+                "reduced_price": 68.8
+            },
+            "100 ml": {
+                "original_price": 122.0,
+                "reduced_price": 76.99
+            },
+            "200 ml": {
+                "original_price": 181.0,
+                "reduced_price": 129.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum K&Q by Dolce&Gabbana K",
+        "url": "https://www.douglas.de/de/p/5002527016",
+        "prices": {
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": 62.99
+            },
+            "100 ml": {
+                "original_price": 129.0,
+                "reduced_price": 90.29
+            },
+            "200 ml": {
+                "original_price": 202.0,
+                "reduced_price": 149.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Velvet Collection Zafferano",
+        "url": "https://www.douglas.de/de/p/5011699103",
+        "prices": {
+            "100 ml": {
+                "original_price": 320.0,
+                "reduced_price": 232.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Dolce Garden",
+        "url": "https://www.douglas.de/de/p/3001042015?variant=993015",
+        "prices": {
+            "50 ml": {
+                "original_price": 94.99,
+                "reduced_price": null
+            },
+            "75 ml": {
+                "original_price": 120.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Toilette Pour Homme",
+        "url": "https://www.douglas.de/de/p/1020402304?variant=979226",
+        "prices": {
+            "75 ml": {
+                "original_price": 95.0,
+                "reduced_price": 72.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Dolce&Gabbana Eau de Parfum Devotion",
+        "url": "https://www.douglas.de/de/p/5011095000?variant=1129511",
+        "prices": {
+            "30 ml": {
+                "original_price": 84.0,
+                "reduced_price": 58.99
+            },
+            "50 ml": {
+                "original_price": 119.0,
+                "reduced_price": 78.99
+            },
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": 89.0
+            },
+            "150 ml - Refill": {
+                "original_price": 160.0,
+                "reduced_price": 121.6
+            }
+        }
+    }
+]

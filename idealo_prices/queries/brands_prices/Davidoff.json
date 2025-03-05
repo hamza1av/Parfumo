@@ -1,0 +1,340 @@
+[
+    {
+        "perfume_name": "Davidoff Bodyspray Cool Water All Over Body Spray",
+        "url": "https://www.douglas.de/de/p/3001036999",
+        "prices": {
+            "150 ml": {
+                "original_price": 29.0,
+                "reduced_price": 13.49
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Eau de Toilette Cool Water Reborn",
+        "url": "https://www.douglas.de/de/p/5010587097?variant=1007272",
+        "prices": {
+            "40 ml": {
+                "original_price": 45.0,
+                "reduced_price": 42.0
+            },
+            "75 ml": {
+                "original_price": 64.0,
+                "reduced_price": 51.2
+            },
+            "125 ml": {
+                "original_price": 85.0,
+                "reduced_price": 68.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Eau de Toilette Cool Water Woman Reborn",
+        "url": "https://www.douglas.de/de/p/5010587098?variant=1007276",
+        "prices": {
+            "50 ml": {
+                "original_price": 63.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 86.0,
+                "reduced_price": 53.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Eau de Toilette Hot Water",
+        "url": "https://www.douglas.de/de/p/3000030528?variant=456353",
+        "prices": {
+            "60 ml": {
+                "original_price": 60.0,
+                "reduced_price": 48.0
+            },
+            "110 ml": {
+                "original_price": 88.0,
+                "reduced_price": 41.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff After Shave Cool Water Balm",
+        "url": "https://www.douglas.de/de/p/3000045037",
+        "prices": {
+            "100 ml": {
+                "original_price": 46.0,
+                "reduced_price": 36.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Eau de Parfum Cool Water Woman Reborn Intense",
+        "url": "https://www.douglas.de/de/p/5011414001",
+        "prices": {
+            "50 ml": {
+                "original_price": 67.0,
+                "reduced_price": 53.6
+            },
+            "100 ml": {
+                "original_price": 92.0,
+                "reduced_price": 73.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Eau de Toilette Cool Water Woman",
+        "url": "https://www.douglas.de/de/p/1010706304?variant=893198",
+        "prices": {
+            "30 ml": {
+                "original_price": 46.0,
+                "reduced_price": 23.99
+            },
+            "50 ml": {
+                "original_price": 62.0,
+                "reduced_price": 32.99
+            },
+            "100 ml": {
+                "original_price": 86.0,
+                "reduced_price": 41.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Eau de Parfum Cool Water Intense",
+        "url": "https://www.douglas.de/de/p/3001056070?variant=236128",
+        "prices": {
+            "40 ml": {
+                "original_price": 38.99,
+                "reduced_price": null
+            },
+            "75 ml": {
+                "original_price": 67.0,
+                "reduced_price": 39.99
+            },
+            "125 ml": {
+                "original_price": 88.0,
+                "reduced_price": 49.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff After Shave Cool Water",
+        "url": "https://www.douglas.de/de/p/1010703131?variant=606855",
+        "prices": {
+            "75 ml": {
+                "original_price": 45.0,
+                "reduced_price": 23.99
+            },
+            "125 ml": {
+                "original_price": 60.0,
+                "reduced_price": 32.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Duftset Cool Water Woman Eau de Toilette 30ml + Bodylotion 75ml",
+        "url": "https://www.douglas.de/de/p/5011535078",
+        "prices": {
+            "Eau de Toilette Spray 30 ml + Body Lotion 75 ml": {
+                "original_price": 46.0,
+                "reduced_price": 23.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Deodorant Zino Stick",
+        "url": "https://www.douglas.de/de/p/3000001710",
+        "prices": {
+            "70 g": {
+                "original_price": 29.0,
+                "reduced_price": 23.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Eau de Toilette Adventure",
+        "url": "https://www.douglas.de/de/p/2010007434",
+        "prices": {
+            "100 ml": {
+                "original_price": 82.0,
+                "reduced_price": 43.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Eau de Toilette Horizon Horizon",
+        "url": "https://www.douglas.de/de/p/3001025202",
+        "prices": {
+            "125 ml": {
+                "original_price": 76.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Eau de Toilette Zino",
+        "url": "https://www.douglas.de/de/p/1010702304",
+        "prices": {
+            "125 ml": {
+                "original_price": 73.0,
+                "reduced_price": 28.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Eau de Toilette The Game",
+        "url": "https://www.douglas.de/de/p/3000061008",
+        "prices": {
+            "100 ml": {
+                "original_price": 84.0,
+                "reduced_price": 38.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Eau de Toilette Champion",
+        "url": "https://www.douglas.de/de/p/3000036556?variant=546347",
+        "prices": {
+            "90 ml": {
+                "original_price": 82.0,
+                "reduced_price": 49.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Eau de Parfum Cool Water Reborn Intense",
+        "url": "https://www.douglas.de/de/p/5011414000?variant=1177491",
+        "prices": {
+            "50 ml": {
+                "original_price": 67.0,
+                "reduced_price": 53.6
+            },
+            "100 ml": {
+                "original_price": 93.0,
+                "reduced_price": 67.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Eau de Parfum Cool Water Reborn",
+        "url": "https://www.douglas.de/de/p/5010966077?variant=1089603",
+        "prices": {
+            "50 ml": {
+                "original_price": 67.0,
+                "reduced_price": 53.6
+            },
+            "100 ml": {
+                "original_price": 93.0,
+                "reduced_price": 58.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Parfum Cool Water Man",
+        "url": "https://www.douglas.de/de/p/5009953005",
+        "prices": {
+            "50 ml": {
+                "original_price": 69.0,
+                "reduced_price": 39.99
+            },
+            "100 ml": {
+                "original_price": 92.0,
+                "reduced_price": 64.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Duftset Cool Water Eau de Toilette 40ml + All-In-One Duschgel 75ml",
+        "url": "https://www.douglas.de/de/p/5011559064",
+        "prices": {
+            "1 Stück": {
+                "original_price": 42.0,
+                "reduced_price": 23.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Eau de Toilette Cool Water",
+        "url": "https://www.douglas.de/de/p/1010703304?variant=634424",
+        "prices": {
+            "40 ml": {
+                "original_price": 45.0,
+                "reduced_price": null
+            },
+            "75 ml": {
+                "original_price": 64.0,
+                "reduced_price": null
+            },
+            "125 ml": {
+                "original_price": 85.0,
+                "reduced_price": null
+            },
+            "200 ml": {
+                "original_price": 94.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Bodylotion Cool Water Woman",
+        "url": "https://www.douglas.de/de/p/5010643068",
+        "prices": {
+            "150 ml": {
+                "original_price": 19.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Eau de Toilette Cool Water Oceanic Edition",
+        "url": "https://www.douglas.de/de/p/5010900068",
+        "prices": {
+            "125 ml": {
+                "original_price": 66.0,
+                "reduced_price": 52.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Eau de Toilette Cool Water Wave Welle",
+        "url": "https://www.douglas.de/de/p/3001036917",
+        "prices": {
+            "40 ml": {
+                "original_price": 43.0,
+                "reduced_price": 34.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Duschgel Cool Water Man",
+        "url": "https://www.douglas.de/de/p/3000001763",
+        "prices": {
+            "150 ml": {
+                "original_price": 20.0,
+                "reduced_price": 10.29
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Eau de Toilette Cool Water Sea Rose",
+        "url": "https://www.douglas.de/de/p/3000065647?variant=743720",
+        "prices": {
+            "30 ml": {
+                "original_price": 37.0,
+                "reduced_price": 29.6
+            },
+            "100 ml": {
+                "original_price": 79.0,
+                "reduced_price": 44.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Davidoff Eau de Toilette Cool Water Woman Oceanic Edition",
+        "url": "https://www.douglas.de/de/p/5010900069",
+        "prices": {
+            "100 ml": {
+                "original_price": 66.0,
+                "reduced_price": 51.99
+            }
+        }
+    }
+]

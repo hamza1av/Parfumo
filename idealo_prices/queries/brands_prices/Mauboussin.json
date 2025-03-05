@@ -1,0 +1,32 @@
+[
+    {
+        "perfume_name": "Mauboussin Eau de Parfum Pour Femme Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5010073352",
+        "prices": {
+            "100 ml": {
+                "original_price": 64.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Mauboussin Eau de Parfum Mauboussin Für Sie",
+        "url": "https://www.douglas.de/de/p/5011166185",
+        "prices": {
+            "100 ml": {
+                "original_price": 64.0,
+                "reduced_price": 61.89
+            }
+        }
+    },
+    {
+        "perfume_name": "Mauboussin Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5011555033",
+        "prices": {
+            "100 ml": {
+                "original_price": 64.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

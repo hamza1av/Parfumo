@@ -1,0 +1,24 @@
+[
+    {
+        "perfume_name": "CHANEL Eau de Parfum CHANCE EAU FRAÎCHE CHANCE EAU FRAÎCHE",
+        "url": "https://www.douglas.de/de/p/5011036070",
+        "prices": {
+            "35 ml": {
+                "original_price": 85.0,
+                "reduced_price": 68.0
+            },
+            "50 ml": {
+                "original_price": 122.0,
+                "reduced_price": 97.6
+            },
+            "100 ml": {
+                "original_price": 168.0,
+                "reduced_price": 134.4
+            },
+            "150 ml": {
+                "original_price": 203.0,
+                "reduced_price": 162.4
+            }
+        }
+    }
+]

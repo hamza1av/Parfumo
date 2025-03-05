@@ -1,0 +1,54 @@
+[
+    {
+        "perfume_name": "Cerruti Deodorant Cerruti 1881 pour homme Deo Stick",
+        "url": "https://www.douglas.de/de/p/3000005129",
+        "prices": {
+            "75 g": {
+                "original_price": 28.2,
+                "reduced_price": 22.56
+            }
+        }
+    },
+    {
+        "perfume_name": "Cerruti After Shave Cerruti 1881 pour homme Cerruti 1881 Pour Homme After Shave Lotion 50ml",
+        "url": "https://www.douglas.de/de/p/1000401131?variant=701644",
+        "prices": {
+            "100 ml": {
+                "original_price": 41.4,
+                "reduced_price": 33.12
+            }
+        }
+    },
+    {
+        "perfume_name": "Cerruti Eau de Toilette Cerruti 1881 pour femme Cerruti 1881 Pour Femme EDT 100ml",
+        "url": "https://www.douglas.de/de/p/1000402304?variant=292667",
+        "prices": {
+            "30 ml": {
+                "original_price": 57.8,
+                "reduced_price": 42.99
+            },
+            "50 ml": {
+                "original_price": 57.8,
+                "reduced_price": 46.24
+            },
+            "100 ml": {
+                "original_price": 82.0,
+                "reduced_price": 64.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Cerruti Eau de Toilette Cerruti 1881 pour homme Cerruti 1881 Homme EDT 25ml",
+        "url": "https://www.douglas.de/de/p/m000527026?variant=1011333",
+        "prices": {
+            "25 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            },
+            "200 ml": {
+                "original_price": 62.4,
+                "reduced_price": 49.92
+            }
+        }
+    }
+]

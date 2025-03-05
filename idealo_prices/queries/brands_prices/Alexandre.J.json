@@ -1,0 +1,82 @@
+[
+    {
+        "perfume_name": "Alexandre.J Eau de Parfum Morning Muscs",
+        "url": "https://www.douglas.de/de/p/5011175233",
+        "prices": {
+            "100 ml": {
+                "original_price": 111.2,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Alexandre.J Eau de Parfum Black Muscs",
+        "url": "https://www.douglas.de/de/p/3001023945",
+        "prices": {
+            "100 ml": {
+                "original_price": 111.2,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Alexandre.J Eau de Parfum The Majestic Oud",
+        "url": "https://www.douglas.de/de/p/5011418002",
+        "prices": {
+            "100 ml": {
+                "original_price": 118.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Alexandre.J Eau de Parfum The Majestic Jardin",
+        "url": "https://www.douglas.de/de/p/5011418001",
+        "prices": {
+            "100 ml": {
+                "original_price": 118.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Alexandre.J Eau de Parfum The Majestic Vetiver",
+        "url": "https://www.douglas.de/de/p/5011418000",
+        "prices": {
+            "100 ml": {
+                "original_price": 118.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Alexandre.J Eau de Parfum Zafeer Oud Vanille",
+        "url": "https://www.douglas.de/de/p/5011175231",
+        "prices": {
+            "100 ml": {
+                "original_price": 111.2,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Alexandre.J Eau de Parfum Iris Violet",
+        "url": "https://www.douglas.de/de/p/5011285273",
+        "prices": {
+            "100 ml": {
+                "original_price": 111.2,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Alexandre.J Eau de Parfum Rose Alba",
+        "url": "https://www.douglas.de/de/p/5011175241",
+        "prices": {
+            "100 ml": {
+                "original_price": 111.2,
+                "reduced_price": null
+            }
+        }
+    }
+]

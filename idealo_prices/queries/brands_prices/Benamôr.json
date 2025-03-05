@@ -1,0 +1,32 @@
+[
+    {
+        "perfume_name": "Benamôr Eau de Cologne Colognes Extraordinaires Figo Fogo Eau de Cologne Spray",
+        "url": "https://www.douglas.de/de/p/m001995022",
+        "prices": {
+            "100 ml": {
+                "original_price": 57.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Benamôr Eau de Cologne Colognes Extraordinaires Si Neroli Eau de Cologne Spray",
+        "url": "https://www.douglas.de/de/p/m001995020",
+        "prices": {
+            "100 ml": {
+                "original_price": 57.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Benamôr Parfum Colognes Extraordinaires Laranja Brava Eau de Cologne Spray",
+        "url": "https://www.douglas.de/de/p/m001997017",
+        "prices": {
+            "100 ml": {
+                "original_price": 57.09,
+                "reduced_price": null
+            }
+        }
+    }
+]

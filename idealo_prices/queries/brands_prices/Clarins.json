@@ -1,0 +1,94 @@
+[
+    {
+        "perfume_name": "Clarins Eau Fraiche Eau Ressourcante Spray",
+        "url": "https://www.douglas.de/de/p/5010888054",
+        "prices": {
+            "100 ml": {
+                "original_price": 62.0,
+                "reduced_price": 48.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Clarins Eau Fraiche Eau Ressourcante Eau Ressourçante",
+        "url": "https://www.douglas.de/de/p/5010954001",
+        "prices": {
+            "50 ml": {
+                "original_price": 36.0,
+                "reduced_price": 28.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Clarins Eau Fraiche Eau Dynamisante Splash",
+        "url": "https://www.douglas.de/de/p/5010888049",
+        "prices": {
+            "50 ml - Spray": {
+                "original_price": 36.0,
+                "reduced_price": 28.0
+            },
+            "100 ml - Spray": {
+                "original_price": 62.0,
+                "reduced_price": 48.0
+            },
+            "200 ml - Schüttflakon": {
+                "original_price": 89.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Clarins After Shave Energie Gel Apaisant Après-Rasage",
+        "url": "https://www.douglas.de/de/p/5010865259",
+        "prices": {
+            "75 ml": {
+                "original_price": 41.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Clarins Eau Fraiche Eau de Jardins Spray",
+        "url": "https://www.douglas.de/de/p/5010954002",
+        "prices": {
+            "50 ml": {
+                "original_price": 36.0,
+                "reduced_price": 28.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Clarins Eau Fraiche Eau Dynamisante Spray",
+        "url": "https://www.douglas.de/de/p/5010888050",
+        "prices": {
+            "100 ml": {
+                "original_price": 62.0,
+                "reduced_price": 48.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Clarins Eau Fraiche Eau Extraordinaire Spray",
+        "url": "https://www.douglas.de/de/p/5010498042",
+        "prices": {
+            "50 ml": {
+                "original_price": 36.0,
+                "reduced_price": 28.0
+            },
+            "100 ml": {
+                "original_price": 62.0,
+                "reduced_price": 48.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Clarins After Shave Energie Lotion Apaisante Après-Rasage",
+        "url": "https://www.douglas.de/de/p/5010865258",
+        "prices": {
+            "100 ml": {
+                "original_price": 42.0,
+                "reduced_price": 32.8
+            }
+        }
+    }
+]

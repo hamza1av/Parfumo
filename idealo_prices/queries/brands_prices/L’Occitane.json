@@ -1,0 +1,32 @@
+[
+    {
+        "perfume_name": "L’Occitane Eau de Toilette Verbene",
+        "url": "https://www.douglas.de/de/p/5011189016",
+        "prices": {
+            "100 ml": {
+                "original_price": 46.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "L’Occitane Eau de Toilette Verbene EDT SOMMER                        100 ML",
+        "url": "https://www.douglas.de/de/p/5010901036",
+        "prices": {
+            "100 ml": {
+                "original_price": 46.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "L’Occitane Eau de Toilette Kirschblüte",
+        "url": "https://www.douglas.de/de/p/5011153010",
+        "prices": {
+            "75 ml": {
+                "original_price": 46.4,
+                "reduced_price": null
+            }
+        }
+    }
+]

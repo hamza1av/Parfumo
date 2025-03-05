@@ -1,0 +1,141 @@
+[
+    {
+        "perfume_name": "Rancé Eau de Parfum Le Vainqueur",
+        "url": "https://www.douglas.de/de/p/3000027917?variant=212821",
+        "prices": {
+            "50 ml": {
+                "original_price": 108.0,
+                "reduced_price": 86.4
+            },
+            "100 ml": {
+                "original_price": 152.0,
+                "reduced_price": 121.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Rancé Eau de Parfum Sharisme Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m000263107",
+        "prices": {
+            "50 ml": {
+                "original_price": 109.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/3000046491?variant=343550",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Rancé Eau de Parfum Hélène",
+        "url": "https://www.douglas.de/de/p/3000046488",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": 88.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Rancé Eau de Parfum Eleonore Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m000262911",
+        "prices": {
+            "50 ml": {
+                "original_price": 111.09,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 158.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Rancé Eau de Parfum Eugénie",
+        "url": "https://www.douglas.de/de/p/3000027914",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": 88.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Rancé Eau de Toilette Eau de France",
+        "url": "https://www.douglas.de/de/p/3000027926?variant=212875",
+        "prices": {
+            "50 ml": {
+                "original_price": 89.0,
+                "reduced_price": 71.2
+            },
+            "100 ml": {
+                "original_price": 125.0,
+                "reduced_price": 100.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Rancé Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/3000027915?variant=212817",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": 88.0
+            },
+            "100 ml": {
+                "original_price": 157.0,
+                "reduced_price": 125.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Rancé Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/3001047706?variant=793526",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": 88.0
+            },
+            "100 ml": {
+                "original_price": 157.0,
+                "reduced_price": 125.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Rancé Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/3000031023?variant=459466",
+        "prices": {
+            "100 ml": {
+                "original_price": 178.0,
+                "reduced_price": 115.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Rancé Eau de Parfum Francois Charles",
+        "url": "https://www.douglas.de/de/p/3000027916",
+        "prices": {
+            "50 ml": {
+                "original_price": 108.0,
+                "reduced_price": 68.99
+            },
+            "100 ml": {
+                "original_price": 152.0,
+                "reduced_price": 121.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Rancé Eau de Toilette Eau Sublime",
+        "url": "https://www.douglas.de/de/p/3000027925?variant=212861",
+        "prices": {
+            "100 ml": {
+                "original_price": 125.0,
+                "reduced_price": 79.99
+            }
+        }
+    }
+]

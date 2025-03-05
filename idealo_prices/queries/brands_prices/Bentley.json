@@ -1,0 +1,52 @@
+[
+    {
+        "perfume_name": "Bentley Parfum Momentum",
+        "url": "https://www.douglas.de/de/p/5002490876",
+        "prices": {
+            "100 ml": {
+                "original_price": 49.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Bentley Parfum Momentum Intense",
+        "url": "https://www.douglas.de/de/p/5010616001",
+        "prices": {
+            "100 ml": {
+                "original_price": 49.0,
+                "reduced_price": 39.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Bentley Eau de Toilette For Men Azure",
+        "url": "https://www.douglas.de/de/p/3001022668?variant=821630",
+        "prices": {
+            "100 ml": {
+                "original_price": 49.0,
+                "reduced_price": 39.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Bentley Parfum For Men Intense",
+        "url": "https://www.douglas.de/de/p/3001022663",
+        "prices": {
+            "100 ml": {
+                "original_price": 49.0,
+                "reduced_price": 39.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Bentley Eau de Parfum Momentum Unbreakable",
+        "url": "https://www.douglas.de/de/p/5010645033",
+        "prices": {
+            "100 ml": {
+                "original_price": 49.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

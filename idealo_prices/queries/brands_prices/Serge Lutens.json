@@ -1,0 +1,282 @@
+[
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Collection Noire Chergui",
+        "url": "https://www.douglas.de/de/p/3001049136",
+        "prices": {
+            "50 ml": {
+                "original_price": 154.0,
+                "reduced_price": 123.2
+            },
+            "100 ml": {
+                "original_price": 228.0,
+                "reduced_price": 182.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Matin Lutens Parole d'eau",
+        "url": "https://www.douglas.de/de/p/5010535096",
+        "prices": {
+            "100 ml": {
+                "original_price": 154.0,
+                "reduced_price": 123.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Collection Noire Fleurs d'oranger Refill",
+        "url": "https://www.douglas.de/de/p/5011159338",
+        "prices": {
+            "150 ml": {
+                "original_price": 256.0,
+                "reduced_price": 204.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Matin Lutens L'Eau",
+        "url": "https://www.douglas.de/de/p/5010535097",
+        "prices": {
+            "100 ml": {
+                "original_price": 154.0,
+                "reduced_price": 123.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Collection Noire La fille de tour de fer",
+        "url": "https://www.douglas.de/de/p/5011396014",
+        "prices": {
+            "50 ml": {
+                "original_price": 154.0,
+                "reduced_price": 123.2
+            },
+            "100 ml": {
+                "original_price": 228.0,
+                "reduced_price": 182.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Collection Noire Five o´clock au gingembre",
+        "url": "https://www.douglas.de/de/p/3001049140?variant=980294",
+        "prices": {
+            "50 ml": {
+                "original_price": 154.0,
+                "reduced_price": 72.99
+            },
+            "100 ml": {
+                "original_price": 228.0,
+                "reduced_price": 182.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Collection Noire Ambre sultan Refill",
+        "url": "https://www.douglas.de/de/p/5011718033",
+        "prices": {
+            "50 ml": {
+                "original_price": 154.0,
+                "reduced_price": 123.2
+            },
+            "100 ml": {
+                "original_price": 228.0,
+                "reduced_price": 182.4
+            },
+            "150 ml": {
+                "original_price": 257.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Collection Noire Féminité du bois Refill",
+        "url": "https://www.douglas.de/de/p/5011159341",
+        "prices": {
+            "150 ml": {
+                "original_price": 256.0,
+                "reduced_price": 204.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Collection Noire La Dompteuse Encagée",
+        "url": "https://www.douglas.de/de/p/5009734002?variant=029804",
+        "prices": {
+            "50 ml": {
+                "original_price": 154.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 239.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Collection Noire Santal majuscule",
+        "url": "https://www.douglas.de/de/p/3001043012?variant=980297",
+        "prices": {
+            "50 ml": {
+                "original_price": 154.0,
+                "reduced_price": 123.2
+            },
+            "100 ml": {
+                "original_price": 228.0,
+                "reduced_price": 213.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Collection Noire La fille de Berlin Refill",
+        "url": "https://www.douglas.de/de/p/5011159339",
+        "prices": {
+            "150 ml": {
+                "original_price": 256.0,
+                "reduced_price": 204.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Fleurs d´oranger",
+        "url": "https://www.douglas.de/de/p/m001815060?variant=206168",
+        "prices": {
+            "1 Stück": {
+                "original_price": 153.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Collection Noire Féminité du Bois",
+        "url": "https://www.douglas.de/de/p/3001049133",
+        "prices": {
+            "50 ml": {
+                "original_price": 154.0,
+                "reduced_price": 123.2
+            },
+            "100 ml": {
+                "original_price": 228.0,
+                "reduced_price": 182.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Collection Noire La religieuse",
+        "url": "https://www.douglas.de/de/p/3001043014",
+        "prices": {
+            "50 ml": {
+                "original_price": 153.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Collection Noire Fleurs d´oranger",
+        "url": "https://www.douglas.de/de/p/3001049134",
+        "prices": {
+            "50 ml": {
+                "original_price": 154.0,
+                "reduced_price": 72.99
+            },
+            "100 ml": {
+                "original_price": 228.0,
+                "reduced_price": 182.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Collection Noire Écrin de fumée",
+        "url": "https://www.douglas.de/de/p/5010890065",
+        "prices": {
+            "50 ml": {
+                "original_price": 154.0,
+                "reduced_price": 123.2
+            },
+            "100 ml": {
+                "original_price": 228.0,
+                "reduced_price": 182.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Collection Noire Nuit de cellophane",
+        "url": "https://www.douglas.de/de/p/3001049137",
+        "prices": {
+            "50 ml": {
+                "original_price": 154.0,
+                "reduced_price": 72.99
+            },
+            "100 ml": {
+                "original_price": 228.0,
+                "reduced_price": 182.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Collection Noire L'orpheline",
+        "url": "https://www.douglas.de/de/p/3001049129",
+        "prices": {
+            "50 ml": {
+                "original_price": 154.0,
+                "reduced_price": 123.2
+            },
+            "100 ml": {
+                "original_price": 228.0,
+                "reduced_price": 182.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Collection Noire Poivre noir",
+        "url": "https://www.douglas.de/de/p/5010693077?variant=1028921",
+        "prices": {
+            "50 ml": {
+                "original_price": 154.0,
+                "reduced_price": 123.2
+            },
+            "100 ml": {
+                "original_price": 228.0,
+                "reduced_price": 182.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Collection Noire Un bois vanille",
+        "url": "https://www.douglas.de/de/p/3001049138",
+        "prices": {
+            "50 ml": {
+                "original_price": 154.0,
+                "reduced_price": 123.2
+            },
+            "100 ml": {
+                "original_price": 228.0,
+                "reduced_price": 182.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Parfum Matin Lutens Point du Jour",
+        "url": "https://www.douglas.de/de/p/5011484126",
+        "prices": {
+            "100 ml": {
+                "original_price": 144.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Serge Lutens Eau de Parfum Collection Noire La fille de Berlin",
+        "url": "https://www.douglas.de/de/p/3001049135",
+        "prices": {
+            "50 ml": {
+                "original_price": 154.0,
+                "reduced_price": 123.2
+            },
+            "100 ml": {
+                "original_price": 228.0,
+                "reduced_price": 182.4
+            }
+        }
+    }
+]

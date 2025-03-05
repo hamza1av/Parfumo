@@ -1,0 +1,1095 @@
+[
+    {
+        "perfume_name": "DIOR Parfum Les Créations de Monsieur Dior Diorissimo Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/1069005304?variant=767293",
+        "prices": {
+            "50 ml": {
+                "original_price": 109.0,
+                "reduced_price": 87.2
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Parfum Dior Homme Parfum Duft - Amber-, holzige und blumige Noten",
+        "url": "https://www.douglas.de/de/p/5011687008?variant=1216196",
+        "prices": {
+            "50 ml": {
+                "original_price": 127.0,
+                "reduced_price": 101.6
+            },
+            "75 ml": {
+                "original_price": 158.0,
+                "reduced_price": 126.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Parfum Miss Dior Parfum Mini Miss Festes Parfum Alkoholfreier Parfum-Stick",
+        "url": "https://www.douglas.de/de/p/5011699025",
+        "prices": {
+            "3.2 g": {
+                "original_price": 81.0,
+                "reduced_price": 64.8
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Parfum Dior Homme Intense",
+        "url": "https://www.douglas.de/de/p/3000007880?variant=406858",
+        "prices": {
+            "50 ml": {
+                "original_price": 106.0,
+                "reduced_price": 75.45
+            },
+            "100 ml": {
+                "original_price": 148.0,
+                "reduced_price": 97.95
+            },
+            "150 ml": {
+                "original_price": 178.0,
+                "reduced_price": 118.95
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau Fraiche Prestige L'Huile Souveraine",
+        "url": "https://www.douglas.de/de/p/3001039260",
+        "prices": {
+            "30 ml": {
+                "original_price": 334.0,
+                "reduced_price": 267.2
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Parfum J’adore Roller-Pearl",
+        "url": "https://www.douglas.de/de/p/5001764292",
+        "prices": {
+            "20 ml": {
+                "original_price": 53.0,
+                "reduced_price": 42.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Parfum Miss Dior Roller-Pearl",
+        "url": "https://www.douglas.de/de/p/5010456243",
+        "prices": {
+            "20 ml": {
+                "original_price": 63.0,
+                "reduced_price": 50.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Parfum Poison Pure Poison",
+        "url": "https://www.douglas.de/de/p/1069067295?variant=174631",
+        "prices": {
+            "30 ml": {
+                "original_price": 87.0,
+                "reduced_price": 69.6
+            },
+            "50 ml": {
+                "original_price": 127.0,
+                "reduced_price": 101.6
+            },
+            "100 ml": {
+                "original_price": 176.0,
+                "reduced_price": 140.8
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Parfum Miss Dior Eau de Parfum Mini Festes Parfum Alkoholfreier Duft-Stick",
+        "url": "https://www.douglas.de/de/p/5011695014",
+        "prices": {
+            "3.2 g": {
+                "original_price": 76.0,
+                "reduced_price": 60.8
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Parfum Poison Hypnotic",
+        "url": "https://www.douglas.de/de/p/3000073279",
+        "prices": {
+            "50 ml": {
+                "original_price": 127.0,
+                "reduced_price": 89.0
+            },
+            "100 ml": {
+                "original_price": 176.0,
+                "reduced_price": 125.0
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Parfum J’adore Sonnige Und Blumige Noten",
+        "url": "https://www.douglas.de/de/p/5011697097",
+        "prices": {
+            "30 ml": {
+                "original_price": 87.0,
+                "reduced_price": 64.99
+            },
+            "50 ml": {
+                "original_price": 127.0,
+                "reduced_price": 92.0
+            },
+            "100 ml": {
+                "original_price": 176.0,
+                "reduced_price": 123.0
+            },
+            "150 ml": {
+                "original_price": 217.0,
+                "reduced_price": 173.0
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Parfum J’adore Roller-Pearl",
+        "url": "https://www.douglas.de/de/p/3001054040",
+        "prices": {
+            "20 ml": {
+                "original_price": 63.0,
+                "reduced_price": 50.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Haarparfum Miss Dior",
+        "url": "https://www.douglas.de/de/p/3001011105",
+        "prices": {
+            "30 ml": {
+                "original_price": 58.0,
+                "reduced_price": 46.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Parfum Eau Sauvage Le Parfum",
+        "url": "https://www.douglas.de/de/p/3001036867?variant=962550",
+        "prices": {
+            "50 ml": {
+                "original_price": 104.0,
+                "reduced_price": 83.2
+            },
+            "100 ml": {
+                "original_price": 140.0,
+                "reduced_price": 112.0
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Cologne Dior Homme Dior Homme Cologne",
+        "url": "https://www.douglas.de/de/p/3000061093",
+        "prices": {
+            "75 ml": {
+                "original_price": 102.0,
+                "reduced_price": 81.6
+            },
+            "125 ml": {
+                "original_price": 140.0,
+                "reduced_price": 112.0
+            },
+            "200 ml": {
+                "original_price": 191.0,
+                "reduced_price": 152.8
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Poison Poison Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/1069002304?variant=563692",
+        "prices": {
+            "30 ml": {
+                "original_price": 77.0,
+                "reduced_price": 61.6
+            },
+            "50 ml": {
+                "original_price": 109.0,
+                "reduced_price": 87.2
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Parfum Les Créations de Monsieur Dior Dioressence",
+        "url": "https://www.douglas.de/de/p/1069007304",
+        "prices": {
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Dior Homme Eau de Toilette für Herren",
+        "url": "https://www.douglas.de/de/p/5010450044",
+        "prices": {
+            "75 ml": {
+                "original_price": 102.0,
+                "reduced_price": 71.99
+            },
+            "125 ml": {
+                "original_price": 140.0,
+                "reduced_price": 112.0
+            },
+            "200 ml": {
+                "original_price": 191.0,
+                "reduced_price": 152.8
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Les Créations de Monsieur Dior Forever and Ever Dior",
+        "url": "https://www.douglas.de/de/p/3000032395",
+        "prices": {
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Parfum Sauvage Eau Forte Alkoholfreier Duft – Frische und intensive Noten",
+        "url": "https://www.douglas.de/de/p/5011530065",
+        "prices": {
+            "60 ml": {
+                "original_price": 127.0,
+                "reduced_price": 101.6
+            },
+            "100 ml": {
+                "original_price": 178.0,
+                "reduced_price": 142.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Miss Dior Rose N'Roses Roller-Pearl",
+        "url": "https://www.douglas.de/de/p/5009260000",
+        "prices": {
+            "20 ml": {
+                "original_price": 53.0,
+                "reduced_price": 42.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette J’adore Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/3001027985",
+        "prices": {
+            "50 ml": {
+                "original_price": 109.0,
+                "reduced_price": 87.2
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Dior Addict Dior Addict Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/3001002989?variant=803675",
+        "prices": {
+            "50 ml": {
+                "original_price": 109.0,
+                "reduced_price": 87.2
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Parfum Miss Dior Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5010207032",
+        "prices": {
+            "30 ml": {
+                "original_price": 87.0,
+                "reduced_price": 65.95
+            },
+            "50 ml": {
+                "original_price": 127.0,
+                "reduced_price": 89.95
+            },
+            "100 ml": {
+                "original_price": 176.0,
+                "reduced_price": 127.99
+            },
+            "150 ml": {
+                "original_price": 217.0,
+                "reduced_price": 158.95
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Parfum Sauvage Elixir",
+        "url": "https://www.douglas.de/de/p/5010236005",
+        "prices": {
+            "60 ml": {
+                "original_price": 178.0,
+                "reduced_price": 125.95
+            },
+            "100 ml": {
+                "original_price": 249.0,
+                "reduced_price": 170.95
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Les Escales des Dior Escale à Portofino",
+        "url": "https://www.douglas.de/de/p/3000004147",
+        "prices": {
+            "75 ml": {
+                "original_price": 109.0,
+                "reduced_price": 87.2
+            },
+            "125 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Higher",
+        "url": "https://www.douglas.de/de/p/1069055304",
+        "prices": {
+            "100 ml": {
+                "original_price": 127.0,
+                "reduced_price": 101.6
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Parfum Dior Prestige La Micro-Huile de Rose Advanced Serum",
+        "url": "https://www.douglas.de/de/p/5009972210?variant=692658",
+        "prices": {
+            "30 ml": {
+                "original_price": 313.0,
+                "reduced_price": 250.4
+            },
+            "50 ml": {
+                "original_price": 414.0,
+                "reduced_price": 331.2
+            },
+            "75 ml": {
+                "original_price": 466.0,
+                "reduced_price": 372.8
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Dior Homme Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5000344153?variant=519603",
+        "prices": {
+            "50 ml": {
+                "original_price": 94.0,
+                "reduced_price": 66.99
+            },
+            "100 ml": {
+                "original_price": 127.0,
+                "reduced_price": 87.0
+            },
+            "150 ml": {
+                "original_price": 154.0,
+                "reduced_price": 123.2
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Seife Eau Sauvage",
+        "url": "https://www.douglas.de/de/p/3000029870",
+        "prices": {
+            "150 g": {
+                "original_price": 34.0,
+                "reduced_price": 27.2
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Poison Hypnotic",
+        "url": "https://www.douglas.de/de/p/1069032304",
+        "prices": {
+            "30 ml": {
+                "original_price": 77.0,
+                "reduced_price": 58.45
+            },
+            "50 ml": {
+                "original_price": 109.0,
+                "reduced_price": 77.45
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 103.45
+            },
+            "150 ml": {
+                "original_price": 181.0,
+                "reduced_price": 126.95
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Cologne Eau Sauvage",
+        "url": "https://www.douglas.de/de/p/3001012538?variant=863072",
+        "prices": {
+            "100 ml": {
+                "original_price": 127.0,
+                "reduced_price": 101.6
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Eau Sauvage Eau Savage",
+        "url": "https://www.douglas.de/de/p/1069011304?variant=547067",
+        "prices": {
+            "50 ml": {
+                "original_price": 94.0,
+                "reduced_price": 75.2
+            },
+            "100 ml": {
+                "original_price": 127.0,
+                "reduced_price": 101.6
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Parfum Fahrenheit",
+        "url": "https://www.douglas.de/de/p/3000073540",
+        "prices": {
+            "75 ml": {
+                "original_price": 138.0,
+                "reduced_price": 105.0
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Miss Dior",
+        "url": "https://www.douglas.de/de/p/3001053500",
+        "prices": {
+            "50 ml": {
+                "original_price": 109.0,
+                "reduced_price": 85.0
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Sauvage Sauvage Eau de Toilette Refill",
+        "url": "https://www.douglas.de/de/p/3001016002?variant=876970",
+        "prices": {
+            "60 ml": {
+                "original_price": 94.0,
+                "reduced_price": 63.45
+            },
+            "100 ml": {
+                "original_price": 127.0,
+                "reduced_price": 85.95
+            },
+            "200 ml": {
+                "original_price": 191.0,
+                "reduced_price": 133.95
+            },
+            "300 ml- Refill": {
+                "original_price": 254.0,
+                "reduced_price": 182.77
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5011574433",
+        "prices": {}
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Dune Dune Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/1069001304?variant=546895",
+        "prices": {
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Dior Homme Original",
+        "url": "https://www.douglas.de/de/p/2001004365?variant=211980",
+        "prices": {
+            "50 ml": {
+                "original_price": 93.0,
+                "reduced_price": 74.4
+            },
+            "100 ml": {
+                "original_price": 125.0,
+                "reduced_price": 100.0
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Parfum J’adore L'Or  Duft mit floralen Noten",
+        "url": "https://www.douglas.de/de/p/5011050030?variant=1125657",
+        "prices": {
+            "35 ml": {
+                "original_price": 138.0,
+                "reduced_price": 110.4
+            },
+            "50 ml": {
+                "original_price": 179.0,
+                "reduced_price": 143.2
+            },
+            "80 ml": {
+                "original_price": 244.0,
+                "reduced_price": 195.2
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Parfum Miss Dior Parfum Roller-Pearl Duft im praktischen Format für unterwegs – Intensiv blumige, fruchtige und holzige Noten",
+        "url": "https://www.douglas.de/de/p/5011697070",
+        "prices": {
+            "20 ml": {
+                "original_price": 66.0,
+                "reduced_price": 52.8
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Parfum Dior Addict",
+        "url": "https://www.douglas.de/de/p/3001002990?variant=803729",
+        "prices": {
+            "30 ml": {
+                "original_price": 87.0,
+                "reduced_price": 61.99
+            },
+            "50 ml": {
+                "original_price": 127.0,
+                "reduced_price": 92.0
+            },
+            "100 ml": {
+                "original_price": 176.0,
+                "reduced_price": 137.0
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Les Créations de Monsieur Dior Diorella",
+        "url": "https://www.douglas.de/de/p/1069006304",
+        "prices": {
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Miss Dior Blooming Bouquet",
+        "url": "https://www.douglas.de/de/p/5010865058?variant=1070695",
+        "prices": {
+            "30 ml": {
+                "original_price": 77.0,
+                "reduced_price": 53.99
+            },
+            "50 ml": {
+                "original_price": 109.0,
+                "reduced_price": 76.99
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 107.0
+            },
+            "150 ml": {
+                "original_price": 181.0,
+                "reduced_price": 144.8
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Dior Addict",
+        "url": "https://www.douglas.de/de/p/3001003013?variant=803716",
+        "prices": {
+            "50 ml": {
+                "original_price": 109.0,
+                "reduced_price": 87.2
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Miss Dior Blooming Bouquet Mini Miss Festes Parfum Alkoholfreier Parfum-Stick",
+        "url": "https://www.douglas.de/de/p/5011695013",
+        "prices": {
+            "3.2 g": {
+                "original_price": 69.0,
+                "reduced_price": 55.2
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Miss Dior Roller-Pearl",
+        "url": "https://www.douglas.de/de/p/3001053501",
+        "prices": {
+            "20 ml": {
+                "original_price": 53.0,
+                "reduced_price": 42.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Fahrenheit Fahrenheit",
+        "url": "https://www.douglas.de/de/p/1069008304?variant=547414",
+        "prices": {
+            "50 ml": {
+                "original_price": 94.0,
+                "reduced_price": 66.99
+            },
+            "100 ml": {
+                "original_price": 127.0,
+                "reduced_price": 87.0
+            },
+            "200 ml": {
+                "original_price": 191.0,
+                "reduced_price": 143.0
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau Fraiche J’adore Parfum d’eau",
+        "url": "https://www.douglas.de/de/p/5010678131?variant=1037548",
+        "prices": {
+            "30 ml": {
+                "original_price": 87.0,
+                "reduced_price": 59.99
+            },
+            "50 ml": {
+                "original_price": 127.0,
+                "reduced_price": 92.0
+            },
+            "100 ml": {
+                "original_price": 176.0,
+                "reduced_price": 129.0
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Rasurbalsam Eau Sauvage",
+        "url": "https://www.douglas.de/de/p/3000029394",
+        "prices": {
+            "100 ml": {
+                "original_price": 67.0,
+                "reduced_price": 53.6
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Eau Sauvage Extrême",
+        "url": "https://www.douglas.de/de/p/3000035953",
+        "prices": {
+            "100 ml": {
+                "original_price": 140.0,
+                "reduced_price": 112.0
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Parfum Poison Poison Girl Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/3001026118",
+        "prices": {
+            "30 ml": {
+                "original_price": 87.0,
+                "reduced_price": 69.6
+            },
+            "50 ml": {
+                "original_price": 127.0,
+                "reduced_price": 101.6
+            },
+            "100 ml": {
+                "original_price": 176.0,
+                "reduced_price": 140.8
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR After Shave Eau Sauvage Aftershave-Lotion",
+        "url": "https://www.douglas.de/de/p/3000029393",
+        "prices": {
+            "Vapo": {
+                "original_price": 83.0,
+                "reduced_price": 66.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Miss Dior Rose N'Roses",
+        "url": "https://www.douglas.de/de/p/5000377065?variant=522216",
+        "prices": {
+            "30 ml": {
+                "original_price": 77.0,
+                "reduced_price": 61.6
+            },
+            "50 ml": {
+                "original_price": 109.0,
+                "reduced_price": 87.2
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            },
+            "150 ml": {
+                "original_price": 181.0,
+                "reduced_price": 144.8
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Parfum Sauvage – Zitrus- und Vanillenoten",
+        "url": "https://www.douglas.de/de/p/3001042193?variant=995604",
+        "prices": {
+            "30 ml": {
+                "original_price": 90.0,
+                "reduced_price": 62.95
+            },
+            "60 ml": {
+                "original_price": 106.0,
+                "reduced_price": 74.95
+            },
+            "100 ml": {
+                "original_price": 148.0,
+                "reduced_price": 103.45
+            },
+            "200 ml": {
+                "original_price": 220.0,
+                "reduced_price": 151.95
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Parfum J’adore Infinissime",
+        "url": "https://www.douglas.de/de/p/5002492983",
+        "prices": {
+            "30 ml": {
+                "original_price": 91.0,
+                "reduced_price": 72.8
+            },
+            "50 ml": {
+                "original_price": 129.0,
+                "reduced_price": 103.2
+            },
+            "100 ml": {
+                "original_price": 179.0,
+                "reduced_price": 143.2
+            },
+            "150 ml": {
+                "original_price": 228.0,
+                "reduced_price": 182.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR After Shave Eau Sauvage",
+        "url": "https://www.douglas.de/de/p/3000029392?variant=455224",
+        "prices": {
+            "100 ml": {
+                "original_price": 77.0,
+                "reduced_price": 61.6
+            },
+            "200 ml": {
+                "original_price": 109.0,
+                "reduced_price": 87.2
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Miss Dior Blooming Bouquet Roller Pearl",
+        "url": "https://www.douglas.de/de/p/3001041900",
+        "prices": {
+            "20 ml": {
+                "original_price": 53.0,
+                "reduced_price": 42.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Rasiercreme Dior Homme",
+        "url": "https://www.douglas.de/de/p/5000418014",
+        "prices": {
+            "100 ml": {
+                "original_price": 77.0,
+                "reduced_price": 61.6
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Poison Girl",
+        "url": "https://www.douglas.de/de/p/3001034871",
+        "prices": {
+            "30 ml": {
+                "original_price": 77.0,
+                "reduced_price": 61.6
+            },
+            "50 ml": {
+                "original_price": 109.0,
+                "reduced_price": 87.2
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Parfum J’adore Infinissime Roller-Pearl",
+        "url": "https://www.douglas.de/de/p/5009897000",
+        "prices": {
+            "20 ml": {
+                "original_price": 66.0,
+                "reduced_price": 52.8
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Eau Sauvage Eau Savage Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/3000029437",
+        "prices": {
+            "400 ml": {
+                "original_price": 262.0,
+                "reduced_price": 209.6
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Higher Energy",
+        "url": "https://www.douglas.de/de/p/1069064304",
+        "prices": {
+            "100 ml": {
+                "original_price": 127.0,
+                "reduced_price": 101.6
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Dolce Vita",
+        "url": "https://www.douglas.de/de/p/1069025304?variant=698340",
+        "prices": {
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Rasiercreme Dior Homme Beruhigende Rasiercreme Rasiercreme mit Baumwollextrakt",
+        "url": "https://www.douglas.de/de/p/5010866072",
+        "prices": {
+            "125 ml": {
+                "original_price": 58.0,
+                "reduced_price": 46.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau Fraiche Prestige Le Savon Feste Seife",
+        "url": "https://www.douglas.de/de/p/5010115008",
+        "prices": {
+            "110 g": {
+                "original_price": 111.0,
+                "reduced_price": 88.8
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Haarparfum J’adore Hair Mist",
+        "url": "https://www.douglas.de/de/p/5001764290",
+        "prices": {
+            "40 ml": {
+                "original_price": 72.0,
+                "reduced_price": 57.6
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Parfum JOY by Dior Intense",
+        "url": "https://www.douglas.de/de/p/3011043476?variant=283739",
+        "prices": {
+            "50 ml": {
+                "original_price": 129.0,
+                "reduced_price": 103.2
+            },
+            "90 ml": {
+                "original_price": 179.0,
+                "reduced_price": 143.2
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Haarparfum Capture Totale Super Potent Rich Creme",
+        "url": "https://www.douglas.de/de/p/5009225021",
+        "prices": {
+            "50 ml": {
+                "original_price": 154.0,
+                "reduced_price": 123.2
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Bodyspray Miss Dior Seidiges Körperspray",
+        "url": "https://www.douglas.de/de/p/3001026075",
+        "prices": {
+            "100 ml": {
+                "original_price": 60.0,
+                "reduced_price": 48.0
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Parfum Sauvage Sauvage Parfum",
+        "url": "https://www.douglas.de/de/p/3011043693?variant=283720",
+        "prices": {
+            "30 ml": {
+                "original_price": 106.0,
+                "reduced_price": 68.95
+            },
+            "60 ml": {
+                "original_price": 127.0,
+                "reduced_price": 85.45
+            },
+            "100 ml": {
+                "original_price": 178.0,
+                "reduced_price": 106.67
+            },
+            "200 ml": {
+                "original_price": 252.0,
+                "reduced_price": 178.09
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Parfum Poison Hypnotic Poison Roller-Pearl",
+        "url": "https://www.douglas.de/de/p/3001052710",
+        "prices": {
+            "20 ml": {
+                "original_price": 53.0,
+                "reduced_price": 42.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR After Shave Dior Homme Dior Homme After-Shave Balsam",
+        "url": "https://www.douglas.de/de/p/5000418000",
+        "prices": {
+            "100 ml": {
+                "original_price": 67.0,
+                "reduced_price": 53.6
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Duftset Fahrenheit Duftset - Limitierte Edition Eau de Toilette und Duschgel",
+        "url": "https://www.douglas.de/de/p/5011574434",
+        "prices": {
+            "1 Stück": {
+                "original_price": 135.0,
+                "reduced_price": 108.0
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Dune Dune Pour Homme",
+        "url": "https://www.douglas.de/de/p/1069029304",
+        "prices": {
+            "100 ml": {
+                "original_price": 127.0,
+                "reduced_price": 101.6
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Parfum Miss Dior Parfum Intensive blumige, fruchtige und holzige Noten",
+        "url": "https://www.douglas.de/de/p/5011255035",
+        "prices": {
+            "35 ml": {
+                "original_price": 91.0,
+                "reduced_price": 67.99
+            },
+            "50 ml": {
+                "original_price": 129.0,
+                "reduced_price": 103.0
+            },
+            "80 ml": {
+                "original_price": 176.0,
+                "reduced_price": 135.0
+            },
+            "125 ml": {
+                "original_price": 217.0,
+                "reduced_price": 173.6
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Toilette Miss Dior Miss Dior Eau de Toilette Originale",
+        "url": "https://www.douglas.de/de/p/1069004304?variant=549865",
+        "prices": {
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Rasiercreme Fahrenheit Lotion Splash",
+        "url": "https://www.douglas.de/de/p/1069008131?variant=547448",
+        "prices": {
+            "100 ml": {
+                "original_price": 77.0,
+                "reduced_price": 61.6
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Parfum Dior Prestige Le Micro-Fluide Teint de Rose",
+        "url": "https://www.douglas.de/de/p/5000527046",
+        "prices": {
+            "30 ml": {
+                "original_price": 159.0,
+                "reduced_price": 127.2
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR Eau de Parfum JOY by Dior JOY by Dior Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/3001046481?variant=039779",
+        "prices": {
+            "50 ml": {
+                "original_price": 127.0,
+                "reduced_price": 101.6
+            },
+            "90 ml": {
+                "original_price": 176.0,
+                "reduced_price": 140.8
+            }
+        }
+    },
+    {
+        "perfume_name": "DIOR After Shave Sauvage Sauvage Aftershave Lotion",
+        "url": "https://www.douglas.de/de/p/3001016010",
+        "prices": {
+            "100 ml": {
+                "original_price": 77.0,
+                "reduced_price": 59.99
+            }
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "Mandarina Duck Eau de Toilette The Duckers INTO THE JUNGLE",
+        "url": "https://www.douglas.de/de/p/5002467070",
+        "prices": {
+            "100 ml": {
+                "original_price": 48.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Mandarina Duck Eau de Parfum Mandarina Duck Man Black Eau De Toilette Spray",
+        "url": "https://www.douglas.de/de/p/m002260003",
+        "prices": {
+            "100 ml": {
+                "original_price": 49.16,
+                "reduced_price": 32.49
+            }
+        }
+    }
+]

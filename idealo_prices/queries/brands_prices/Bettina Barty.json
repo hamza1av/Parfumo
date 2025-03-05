@@ -1,0 +1,62 @@
+[
+    {
+        "perfume_name": "Bettina Barty Eau de Toilette Summer Vanilla",
+        "url": "https://www.douglas.de/de/p/5011501015",
+        "prices": {
+            "50 ml": {
+                "original_price": 11.95,
+                "reduced_price": 7.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Bettina Barty Eau de Toilette Lila Vanilla",
+        "url": "https://www.douglas.de/de/p/5011492013",
+        "prices": {
+            "50 ml": {
+                "original_price": 11.95,
+                "reduced_price": 7.99
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/3000070997",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Bettina Barty Eau de Toilette VANILLA Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/3000070991",
+        "prices": {
+            "50 ml": {
+                "original_price": 11.95,
+                "reduced_price": 9.56
+            }
+        }
+    },
+    {
+        "perfume_name": "Bettina Barty Bodylotion Hand & Body Lotion",
+        "url": "https://www.douglas.de/de/p/3000070993?variant=794467",
+        "prices": {
+            "500 ml": {
+                "original_price": 6.95,
+                "reduced_price": 4.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Bettina Barty Deodorant Roll-on",
+        "url": "https://www.douglas.de/de/p/3000070994",
+        "prices": {
+            "50 ml": {
+                "original_price": 4.95,
+                "reduced_price": 2.99
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/3000070996",
+        "prices": {}
+    }
+]

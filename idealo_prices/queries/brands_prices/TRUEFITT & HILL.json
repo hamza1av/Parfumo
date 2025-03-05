@@ -1,0 +1,112 @@
+[
+    {
+        "perfume_name": "TRUEFITT & HILL Eau de Cologne Clubman Eau de Cologne",
+        "url": "https://www.douglas.de/de/p/m000087096",
+        "prices": {
+            "100 ml": {
+                "original_price": 74.99,
+                "reduced_price": 63.74
+            }
+        }
+    },
+    {
+        "perfume_name": "TRUEFITT & HILL Eau de Cologne West Indian Limes Eau de Cologne",
+        "url": "https://www.douglas.de/de/p/m000087172",
+        "prices": {
+            "100 ml": {
+                "original_price": 74.99,
+                "reduced_price": 63.74
+            }
+        }
+    },
+    {
+        "perfume_name": "TRUEFITT & HILL Eau de Cologne Freshman Eau de Cologne",
+        "url": "https://www.douglas.de/de/p/m000087107",
+        "prices": {
+            "100 ml": {
+                "original_price": 74.99,
+                "reduced_price": 63.74
+            }
+        }
+    },
+    {
+        "perfume_name": "TRUEFITT & HILL Eau de Cologne Sandalwood Eau de Cologne",
+        "url": "https://www.douglas.de/de/p/m000087108",
+        "prices": {
+            "100 ml": {
+                "original_price": 74.99,
+                "reduced_price": 63.74
+            }
+        }
+    },
+    {
+        "perfume_name": "TRUEFITT & HILL Eau de Cologne Spanish Leather Eau de Cologne",
+        "url": "https://www.douglas.de/de/p/m000087180",
+        "prices": {
+            "100 ml": {
+                "original_price": 74.99,
+                "reduced_price": 63.74
+            }
+        }
+    },
+    {
+        "perfume_name": "TRUEFITT & HILL After Shave Sandalwood Aftershave Balm",
+        "url": "https://www.douglas.de/de/p/m000087145",
+        "prices": {
+            "100 ml": {
+                "original_price": 49.99,
+                "reduced_price": 42.49
+            }
+        }
+    },
+    {
+        "perfume_name": "TRUEFITT & HILL After Shave Ultimate Comfort Aftershave Balm",
+        "url": "https://www.douglas.de/de/p/m000087137",
+        "prices": {
+            "100 ml": {
+                "original_price": 35.99,
+                "reduced_price": 30.59
+            }
+        }
+    },
+    {
+        "perfume_name": "TRUEFITT & HILL Eau de Cologne 1805 Eau de Cologne",
+        "url": "https://www.douglas.de/de/p/m000087178",
+        "prices": {
+            "100 ml": {
+                "original_price": 60.79,
+                "reduced_price": 51.67
+            }
+        }
+    },
+    {
+        "perfume_name": "TRUEFITT & HILL After Shave 1805 Aftershave Balm",
+        "url": "https://www.douglas.de/de/p/m000087160",
+        "prices": {
+            "100 ml": {
+                "original_price": 49.99,
+                "reduced_price": 42.49
+            }
+        }
+    },
+    {
+        "perfume_name": "TRUEFITT & HILL Eau de Cologne Apsley Cologne",
+        "url": "https://www.douglas.de/de/p/m000087104",
+        "prices": {
+            "100 ml": {
+                "original_price": 94.99,
+                "reduced_price": 80.74
+            }
+        }
+    },
+    {
+        "perfume_name": "TRUEFITT & HILL Eau de Cologne Trafalgar Eau de Cologne",
+        "url": "https://www.douglas.de/de/p/m000087153",
+        "prices": {
+            "100 ml": {
+                "original_price": 74.99,
+                "reduced_price": 63.74
+            }
+        }
+    }
+]

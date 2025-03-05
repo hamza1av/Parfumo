@@ -1,0 +1,82 @@
+[
+    {
+        "perfume_name": "ANFAS Eau de Parfum Dhai",
+        "url": "https://www.douglas.de/de/p/5011037099",
+        "prices": {
+            "75 ml": {
+                "original_price": 425.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "ANFAS Parfum Shaouq",
+        "url": "https://www.douglas.de/de/p/5011117010",
+        "prices": {
+            "75 ml": {
+                "original_price": 345.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "ANFAS Eau de Parfum Haneen",
+        "url": "https://www.douglas.de/de/p/5011026038",
+        "prices": {
+            "75 ml": {
+                "original_price": 325.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "ANFAS Eau de Parfum Rahaba",
+        "url": "https://www.douglas.de/de/p/5010954081",
+        "prices": {
+            "75 ml": {
+                "original_price": 257.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "ANFAS Eau de Parfum Red Ishq",
+        "url": "https://www.douglas.de/de/p/5011496061",
+        "prices": {
+            "75 ml": {
+                "original_price": 345.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "ANFAS Eau de Parfum Salam",
+        "url": "https://www.douglas.de/de/p/5011407492",
+        "prices": {
+            "75 ml": {
+                "original_price": 245.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "ANFAS Eau de Parfum Ghala",
+        "url": "https://www.douglas.de/de/p/5011026039",
+        "prices": {
+            "75 ml": {
+                "original_price": 325.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "ANFAS Eau de Parfum Jannah",
+        "url": "https://www.douglas.de/de/p/5011038019",
+        "prices": {
+            "75 ml": {
+                "original_price": 325.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

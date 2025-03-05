@@ -1,0 +1,182 @@
+[
+    {
+        "perfume_name": "VALJUES Duftset Clean & Silky FAVORITES KIT",
+        "url": "https://www.douglas.de/de/p/5011498006",
+        "prices": {
+            "VALJUES FAVORITE KIT": {
+                "original_price": 40.0,
+                "reduced_price": 32.0
+            }
+        }
+    },
+    {
+        "perfume_name": "VALJUES Parfum Whipped & Creamy 6/ SIX",
+        "url": "https://www.douglas.de/de/p/5010767031?variant=1026654",
+        "prices": {
+            "10 ml": {
+                "original_price": 37.5,
+                "reduced_price": 30.0
+            },
+            "50 ml": {
+                "original_price": 139.0,
+                "reduced_price": 111.2
+            }
+        }
+    },
+    {
+        "perfume_name": "VALJUES Eau de Parfum Whipped & Creamy 4/ FOUR",
+        "url": "https://www.douglas.de/de/p/5011727011?variant=1221727",
+        "prices": {
+            "10 ml": {
+                "original_price": 37.5,
+                "reduced_price": 30.0
+            },
+            "50 ml": {
+                "original_price": 139.0,
+                "reduced_price": 111.2
+            }
+        }
+    },
+    {
+        "perfume_name": "VALJUES Parfum Clean & Silky 12/ TWELVE",
+        "url": "https://www.douglas.de/de/p/5010658006?variant=1026662",
+        "prices": {
+            "10 ml": {
+                "original_price": 37.5,
+                "reduced_price": 30.0
+            },
+            "50 ml": {
+                "original_price": 139.0,
+                "reduced_price": 111.2
+            }
+        }
+    },
+    {
+        "perfume_name": "VALJUES Eau de Parfum Clean & Silky 21/ TWENTY-ONE",
+        "url": "https://www.douglas.de/de/p/5010767034?variant=1026659",
+        "prices": {
+            "10 ml": {
+                "original_price": 37.5,
+                "reduced_price": 30.0
+            },
+            "50 ml": {
+                "original_price": 139.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "VALJUES Parfum Special Collection 19/NINETEEN",
+        "url": "https://www.douglas.de/de/p/5010772076?variant=1050262",
+        "prices": {
+            "10 ml": {
+                "original_price": 37.5,
+                "reduced_price": 30.0
+            },
+            "50 ml": {
+                "original_price": 139.0,
+                "reduced_price": 111.2
+            }
+        }
+    },
+    {
+        "perfume_name": "VALJUES Duftset Dusk Till Dawn 8am/8pm SAMPLE KIT",
+        "url": "https://www.douglas.de/de/p/5011018001",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 29.9,
+                "reduced_price": 23.92
+            }
+        }
+    },
+    {
+        "perfume_name": "VALJUES Duftset Clean & Silky COLLECTION KIT",
+        "url": "https://www.douglas.de/de/p/5011498007",
+        "prices": {
+            "1 Stück": {
+                "original_price": 35.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "VALJUES Duftset Whipped & Creamy Collection Kit",
+        "url": "https://www.douglas.de/de/p/5011727012",
+        "prices": {
+            "1 Stück": {
+                "original_price": 35.0,
+                "reduced_price": 28.0
+            }
+        }
+    },
+    {
+        "perfume_name": "VALJUES Eau de Parfum Dusk Till Dawn 8pm",
+        "url": "https://www.douglas.de/de/p/5011018003",
+        "prices": {
+            "10 ml": {
+                "original_price": 37.5,
+                "reduced_price": 30.0
+            },
+            "50 ml": {
+                "original_price": 155.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "VALJUES Eau de Parfum Soft & Sensual 7/SEVEN",
+        "url": "https://www.douglas.de/de/p/5011469060?variant=1186687",
+        "prices": {
+            "10 ml": {
+                "original_price": 37.5,
+                "reduced_price": 30.0
+            },
+            "50 ml": {
+                "original_price": 139.0,
+                "reduced_price": 111.2
+            }
+        }
+    },
+    {
+        "perfume_name": "VALJUES Eau de Parfum Clean & Silky 2/TWO",
+        "url": "https://www.douglas.de/de/p/5011396053",
+        "prices": {
+            "10 ml": {
+                "original_price": 37.5,
+                "reduced_price": 30.0
+            },
+            "50 ml": {
+                "original_price": 139.0,
+                "reduced_price": 111.2
+            }
+        }
+    },
+    {
+        "perfume_name": "VALJUES Parfum Whipped & Creamy 9/ NINE",
+        "url": "https://www.douglas.de/de/p/5010767032?variant=1026653",
+        "prices": {
+            "10 ml": {
+                "original_price": 37.5,
+                "reduced_price": 30.0
+            },
+            "50 ml": {
+                "original_price": 139.0,
+                "reduced_price": 111.2
+            }
+        }
+    },
+    {
+        "perfume_name": "VALJUES Eau de Parfum Dusk Till Dawn 8am",
+        "url": "https://www.douglas.de/de/p/5011018002?variant=1123311",
+        "prices": {
+            "10 ml": {
+                "original_price": 37.5,
+                "reduced_price": 30.0
+            },
+            "50 ml": {
+                "original_price": 155.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

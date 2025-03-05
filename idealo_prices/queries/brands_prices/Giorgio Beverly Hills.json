@@ -1,0 +1,16 @@
+[
+    {
+        "perfume_name": "Giorgio Beverly Hills Eau de Toilette Yellow GIORGIO WOMAN",
+        "url": "https://www.douglas.de/de/p/1010401304",
+        "prices": {
+            "30 ml": {
+                "original_price": 30.0,
+                "reduced_price": 19.49
+            },
+            "90 ml": {
+                "original_price": 60.0,
+                "reduced_price": 30.75
+            }
+        }
+    }
+]

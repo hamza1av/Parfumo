@@ -1,0 +1,208 @@
+[
+    {
+        "perfume_name": "Otto Kern Eau de Parfum Signature Man",
+        "url": "https://www.douglas.de/de/p/5010470013",
+        "prices": {
+            "30 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Otto Kern Eau de Toilette Commitment Woman Rosé",
+        "url": "https://www.douglas.de/de/p/5011491036",
+        "prices": {
+            "30 ml": {
+                "original_price": 21.5,
+                "reduced_price": 17.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Otto Kern Eau de Toilette Cool Contrast",
+        "url": "https://www.douglas.de/de/p/3001038475",
+        "prices": {
+            "30 ml": {
+                "original_price": 20.5,
+                "reduced_price": 16.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Otto Kern Eau de Parfum Commitment Woman",
+        "url": "https://www.douglas.de/de/p/3000072116",
+        "prices": {
+            "30 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Otto Kern Eau de Toilette Signature Man",
+        "url": "https://www.douglas.de/de/p/3000028292?variant=397151",
+        "prices": {
+            "30 ml": {
+                "original_price": 20.5,
+                "reduced_price": 13.99
+            },
+            "50 ml": {
+                "original_price": 30.0,
+                "reduced_price": 24.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Otto Kern Eau de Toilette Deep Grey",
+        "url": "https://www.douglas.de/de/p/5011568033?variant=1193423",
+        "prices": {
+            "30 ml": {
+                "original_price": 19.95,
+                "reduced_price": 15.96
+            },
+            "50 ml": {
+                "original_price": 29.75,
+                "reduced_price": 23.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Otto Kern Deodorant Signature Man Spray",
+        "url": "https://www.douglas.de/de/p/3000028295",
+        "prices": {
+            "150 ml": {
+                "original_price": 11.75,
+                "reduced_price": 9.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Otto Kern Eau de Parfum Ultimate Black Edp Nat. Spray 30 Ml",
+        "url": "https://www.douglas.de/de/p/5011492002",
+        "prices": {
+            "30 ml": {
+                "original_price": 21.75,
+                "reduced_price": 17.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Otto Kern Eau de Toilette Signature Man Signature Extrême",
+        "url": "https://www.douglas.de/de/p/5000980006",
+        "prices": {
+            "30 ml": {
+                "original_price": 20.5,
+                "reduced_price": 16.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Otto Kern Eau de Parfum Soft Contrast Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/3001038477",
+        "prices": {
+            "30 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Otto Kern Eau de Toilette Commitment Florale",
+        "url": "https://www.douglas.de/de/p/5002467015",
+        "prices": {
+            "30 ml": {
+                "original_price": 20.5,
+                "reduced_price": 16.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Otto Kern Eau de Toilette Commitment Woman",
+        "url": "https://www.douglas.de/de/p/3000072115",
+        "prices": {
+            "30 ml": {
+                "original_price": 20.5,
+                "reduced_price": 16.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Otto Kern Eau de Parfum Commitment Woman Rosé",
+        "url": "https://www.douglas.de/de/p/5011492007",
+        "prices": {
+            "30 ml": {
+                "original_price": 26.5,
+                "reduced_price": 21.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Otto Kern Eau de Toilette Soft Contrast",
+        "url": "https://www.douglas.de/de/p/3001038476",
+        "prices": {
+            "30 ml": {
+                "original_price": 20.5,
+                "reduced_price": 16.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Otto Kern After Shave Signature Man",
+        "url": "https://www.douglas.de/de/p/3000028293",
+        "prices": {
+            "50 ml": {
+                "original_price": 22.75,
+                "reduced_price": 18.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Otto Kern Deodorant Signature Man Stick",
+        "url": "https://www.douglas.de/de/p/3000028296",
+        "prices": {
+            "75 ml": {
+                "original_price": 11.75,
+                "reduced_price": 9.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Otto Kern After Shave Ultimate Black",
+        "url": "https://www.douglas.de/de/p/5010334125",
+        "prices": {
+            "50 ml": {
+                "original_price": 18.45,
+                "reduced_price": 14.76
+            }
+        }
+    },
+    {
+        "perfume_name": "Otto Kern Eau de Toilette Ultimate Black",
+        "url": "https://www.douglas.de/de/p/5010334124?variant=243093",
+        "prices": {
+            "30 ml": {
+                "original_price": 16.95,
+                "reduced_price": 13.56
+            },
+            "50 ml": {
+                "original_price": 24.95,
+                "reduced_price": 16.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Otto Kern Eau de Toilette Intense",
+        "url": "https://www.douglas.de/de/p/5011154050?variant=1132688",
+        "prices": {
+            "30 ml": {
+                "original_price": 19.95,
+                "reduced_price": 15.96
+            },
+            "50 ml": {
+                "original_price": 29.75,
+                "reduced_price": 23.8
+            }
+        }
+    }
+]

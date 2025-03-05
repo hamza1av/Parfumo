@@ -1,0 +1,401 @@
+[
+    {
+        "perfume_name": "BURBERRY Eau de Toilette Mr. Burberry",
+        "url": "https://www.douglas.de/de/p/3001027884?variant=041586",
+        "prices": {
+            "50ml": {
+                "original_price": 86.0,
+                "reduced_price": 68.8
+            },
+            "100 ml": {
+                "original_price": 120.0,
+                "reduced_price": 119.99
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Eau de Toilette Hero",
+        "url": "https://www.douglas.de/de/p/5009946055?variant=660418",
+        "prices": {
+            "50 ml": {
+                "original_price": 86.0,
+                "reduced_price": 62.99
+            },
+            "100 ml": {
+                "original_price": 120.0,
+                "reduced_price": 78.99
+            },
+            "150 ml": {
+                "original_price": 145.0,
+                "reduced_price": 105.0
+            },
+            "200 ml - Refill": {
+                "original_price": 145.0,
+                "reduced_price": 109.0
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5011575051",
+        "prices": {}
+    },
+    {
+        "perfume_name": "BURBERRY Eau de Parfum My Burberry BLUSH",
+        "url": "https://www.douglas.de/de/p/3001037712?variant=119741",
+        "prices": {
+            "30 ml": {
+                "original_price": 81.0,
+                "reduced_price": 64.8
+            },
+            "50 ml": {
+                "original_price": 118.0,
+                "reduced_price": 94.4
+            },
+            "90 ml": {
+                "original_price": 158.59,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Eau de Parfum Burberry Brit for Women",
+        "url": "https://www.douglas.de/de/p/1053701295?variant=302085",
+        "prices": {
+            "100 ml": {
+                "original_price": 131.0,
+                "reduced_price": 89.0
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Duftset Hero Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5011730026",
+        "prices": {
+            "1 Stück": {
+                "original_price": 90.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Eau de Parfum Weekend for Women",
+        "url": "https://www.douglas.de/de/p/3000002268?variant=408899",
+        "prices": {
+            "50 ml": {
+                "original_price": 69.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Duftset Hero Geschenkset für Ihn",
+        "url": "https://www.douglas.de/de/p/5011545287",
+        "prices": {
+            "Eau de Toilette Spray 50 ml + Hair and Body Wash 75 ml": {
+                "original_price": 90.0,
+                "reduced_price": 69.99
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Eau de Parfum Burberry Her Intense",
+        "url": "https://www.douglas.de/de/p/5011688014?variant=1218616",
+        "prices": {
+            "30 ml": {
+                "original_price": 85.0,
+                "reduced_price": 59.99
+            },
+            "50 ml": {
+                "original_price": 124.0,
+                "reduced_price": 89.0
+            },
+            "100 ml": {
+                "original_price": 172.0,
+                "reduced_price": 105.0
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Eau de Parfum Burberry Touch for Women",
+        "url": "https://www.douglas.de/de/p/5010067847?variant=552203",
+        "prices": {
+            "100 ml": {
+                "original_price": 62.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Duschgel Goddess",
+        "url": "https://www.douglas.de/de/p/5011035043",
+        "prices": {
+            "200 ml": {
+                "original_price": 57.0,
+                "reduced_price": 38.99
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Eau de Parfum Mr. Burberry",
+        "url": "https://www.douglas.de/de/p/3001036160?variant=018562",
+        "prices": {
+            "100 ml": {
+                "original_price": 137.0,
+                "reduced_price": 109.6
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Duftset Goddess Geschenkset für Sie",
+        "url": "https://www.douglas.de/de/p/5011545283",
+        "prices": {
+            "1 Stück": {
+                "original_price": 121.0,
+                "reduced_price": 103.19
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Eau de Parfum Hero",
+        "url": "https://www.douglas.de/de/p/5010657010",
+        "prices": {
+            "50 ml": {
+                "original_price": 98.0,
+                "reduced_price": 56.95
+            },
+            "100 ml - Refillable": {
+                "original_price": 137.0,
+                "reduced_price": 71.06
+            },
+            "150 ml": {
+                "original_price": 166.0,
+                "reduced_price": 86.55
+            },
+            "200 ml - Refill": {
+                "original_price": 166.0,
+                "reduced_price": 88.55
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Eau de Parfum My Burberry Für Sie",
+        "url": "https://www.douglas.de/de/p/3001004945?variant=251335",
+        "prices": {
+            "50 ml": {
+                "original_price": 118.0,
+                "reduced_price": 94.4
+            },
+            "90 ml": {
+                "original_price": 156.99,
+                "reduced_price": 129.49
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Duftset Goddess Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5011682035",
+        "prices": {
+            "1 Stück": {
+                "original_price": 124.0,
+                "reduced_price": 79.99
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Körpermilch Goddess Körperlotion",
+        "url": "https://www.douglas.de/de/p/5011035042",
+        "prices": {
+            "200 ml": {
+                "original_price": 64.0,
+                "reduced_price": 51.2
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Parfum Hero Intense",
+        "url": "https://www.douglas.de/de/p/5011703052",
+        "prices": {
+            "50 ml": {
+                "original_price": 124.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 170.0,
+                "reduced_price": null
+            },
+            "200 ml": {
+                "original_price": 205.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Eau de Toilette Burberry Her EdT",
+        "url": "https://www.douglas.de/de/p/5010463114?variant=449939",
+        "prices": {
+            "30 ml": {
+                "original_price": 69.0,
+                "reduced_price": 55.2
+            },
+            "50 ml": {
+                "original_price": 104.0,
+                "reduced_price": 83.2
+            },
+            "100 ml": {
+                "original_price": 145.0,
+                "reduced_price": 109.0
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Parfum Hero",
+        "url": "https://www.douglas.de/de/p/5011319000?variant=1163254",
+        "prices": {
+            "50 ml": {
+                "original_price": 117.0,
+                "reduced_price": 79.99
+            },
+            "100 ml": {
+                "original_price": 163.0,
+                "reduced_price": 138.55
+            },
+            "150 ml": {
+                "original_price": 194.0,
+                "reduced_price": 153.0
+            },
+            "200 ml - Refill": {
+                "original_price": 194.0,
+                "reduced_price": 155.2
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Parfum My Burberry Black",
+        "url": "https://www.douglas.de/de/p/5009960029?variant=018568",
+        "prices": {
+            "50 ml": {
+                "original_price": 118.0,
+                "reduced_price": 87.0
+            },
+            "90 ml": {
+                "original_price": 163.0,
+                "reduced_price": 119.0
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Eau de Toilette Weekend for Men",
+        "url": "https://www.douglas.de/de/p/5010218483?variant=438783",
+        "prices": {
+            "100 ml": {
+                "original_price": 54.49,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Eau de Parfum Goddess Intense",
+        "url": "https://www.douglas.de/de/p/5011503066",
+        "prices": {
+            "30 ml": {
+                "original_price": 85.0,
+                "reduced_price": 48.58
+            },
+            "50 ml": {
+                "original_price": 124.0,
+                "reduced_price": 71.38
+            },
+            "100 ml": {
+                "original_price": 172.0,
+                "reduced_price": 94.3
+            },
+            "150 ml - Refill": {
+                "original_price": 172.0,
+                "reduced_price": 94.56
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Parfum Burberry Her Elixir",
+        "url": "https://www.douglas.de/de/p/5010891095",
+        "prices": {
+            "30 ml": {
+                "original_price": 85.0,
+                "reduced_price": 58.99
+            },
+            "50 ml": {
+                "original_price": 124.0,
+                "reduced_price": 99.0
+            },
+            "100 ml": {
+                "original_price": 172.0,
+                "reduced_price": 129.0
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Eau de Parfum Burberry Her",
+        "url": "https://www.douglas.de/de/p/3001048261?variant=037423",
+        "prices": {
+            "30 ml": {
+                "original_price": 81.0,
+                "reduced_price": 39.99
+            },
+            "50 ml": {
+                "original_price": 118.0,
+                "reduced_price": 58.99
+            },
+            "100 ml": {
+                "original_price": 164.0,
+                "reduced_price": 79.99
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Eau de Parfum Goddess Refillable",
+        "url": "https://www.douglas.de/de/p/5011035040?variant=1122570",
+        "prices": {
+            "30 ml": {
+                "original_price": 81.0,
+                "reduced_price": 65.89
+            },
+            "50 ml": {
+                "original_price": 118.0,
+                "reduced_price": 60.99
+            },
+            "100 ml": {
+                "original_price": 164.0,
+                "reduced_price": 86.0
+            },
+            "150 ml - Refill": {
+                "original_price": 164.0,
+                "reduced_price": 113.89
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Deodorant Hero for Men",
+        "url": "https://www.douglas.de/de/p/5010152033",
+        "prices": {
+            "75 ml": {
+                "original_price": 41.0,
+                "reduced_price": 32.8
+            }
+        }
+    },
+    {
+        "perfume_name": "BURBERRY Eau de Toilette Burberry Brit for Men Brit For Men",
+        "url": "https://www.douglas.de/de/p/1053702304?variant=302094",
+        "prices": {
+            "50 ml": {
+                "original_price": 71.0,
+                "reduced_price": 56.8
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    }
+]

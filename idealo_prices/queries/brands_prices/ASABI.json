@@ -1,0 +1,62 @@
+[
+    {
+        "perfume_name": "ASABI Eau de Parfum No 2",
+        "url": "https://www.douglas.de/de/p/5011405024",
+        "prices": {
+            "100 ml": {
+                "original_price": 198.0,
+                "reduced_price": 158.4
+            }
+        }
+    },
+    {
+        "perfume_name": "ASABI Eau de Parfum Oud",
+        "url": "https://www.douglas.de/de/p/5011505006",
+        "prices": {
+            "100 ml": {
+                "original_price": 198.0,
+                "reduced_price": 158.4
+            }
+        }
+    },
+    {
+        "perfume_name": "ASABI Eau de Parfum No 3",
+        "url": "https://www.douglas.de/de/p/5011405025",
+        "prices": {
+            "100 ml": {
+                "original_price": 198.0,
+                "reduced_price": 158.4
+            }
+        }
+    },
+    {
+        "perfume_name": "ASABI Eau de Parfum L'Omertà",
+        "url": "https://www.douglas.de/de/p/5011499047",
+        "prices": {
+            "100 ml": {
+                "original_price": 198.0,
+                "reduced_price": 158.4
+            }
+        }
+    },
+    {
+        "perfume_name": "ASABI Eau de Parfum Intense",
+        "url": "https://www.douglas.de/de/p/5011405027",
+        "prices": {
+            "100 ml": {
+                "original_price": 198.0,
+                "reduced_price": 158.4
+            }
+        }
+    },
+    {
+        "perfume_name": "ASABI Eau de Parfum No 4",
+        "url": "https://www.douglas.de/de/p/5011405026",
+        "prices": {
+            "100 ml": {
+                "original_price": 198.0,
+                "reduced_price": 158.4
+            }
+        }
+    }
+]

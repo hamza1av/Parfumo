@@ -1,0 +1,270 @@
+[
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum Black Tulip",
+        "url": "https://www.douglas.de/de/p/5010101001?variant=034970",
+        "prices": {
+            "10 ml": {
+                "original_price": 25.0,
+                "reduced_price": 17.99
+            },
+            "30 ml": {
+                "original_price": 50.0,
+                "reduced_price": 22.99
+            },
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 39.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum Nashwa Noir",
+        "url": "https://www.douglas.de/de/p/5011548021",
+        "prices": {
+            "10 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum Sicilian Limes",
+        "url": "https://www.douglas.de/de/p/5010100098",
+        "prices": {
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum English Cherry Blossom",
+        "url": "https://www.douglas.de/de/p/5010006038?variant=034946",
+        "prices": {
+            "10 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            },
+            "30 ml": {
+                "original_price": 50.0,
+                "reduced_price": 29.99
+            },
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 39.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum Blacks Club Leather Fragrance Noir",
+        "url": "https://www.douglas.de/de/p/5010101002?variant=034967",
+        "prices": {
+            "10 ml": {
+                "original_price": 25.0,
+                "reduced_price": 17.99
+            },
+            "100 ml": {
+                "original_price": 140.0,
+                "reduced_price": 35.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum Tonka Angelica",
+        "url": "https://www.douglas.de/de/p/5011292001",
+        "prices": {
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum Sicilian Limes",
+        "url": "https://www.douglas.de/de/p/5010100076",
+        "prices": {
+            "30 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum Amber Rose",
+        "url": "https://www.douglas.de/de/p/5010006011",
+        "prices": {
+            "10 ml": {
+                "original_price": 25.0,
+                "reduced_price": 12.99
+            },
+            "30 ml": {
+                "original_price": 50.0,
+                "reduced_price": 22.99
+            },
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 39.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum Blood Oranges",
+        "url": "https://www.douglas.de/de/p/5010100035",
+        "prices": {
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum Lilacs and Gooseberries",
+        "url": "https://www.douglas.de/de/p/5011618162?variant=1208081",
+        "prices": {
+            "10 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            },
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum White Peaches",
+        "url": "https://www.douglas.de/de/p/5010101004",
+        "prices": {
+            "30 ml": {
+                "original_price": 50.0,
+                "reduced_price": 22.99
+            },
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 54.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum Salt Caramel",
+        "url": "https://www.douglas.de/de/p/5010006015",
+        "prices": {
+            "10 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum Salt Caramel",
+        "url": "https://www.douglas.de/de/p/5010100066",
+        "prices": {
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum Blood Oranges",
+        "url": "https://www.douglas.de/de/p/5010100036",
+        "prices": {
+            "30 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum Salt Caramel",
+        "url": "https://www.douglas.de/de/p/5010100070",
+        "prices": {
+            "30 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum Blood Oranges",
+        "url": "https://www.douglas.de/de/p/5010006006",
+        "prices": {
+            "10 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum Cedarwood Grapefruit",
+        "url": "https://www.douglas.de/de/p/5011618161",
+        "prices": {
+            "10 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            },
+            "30 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            },
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum Watermelons",
+        "url": "https://www.douglas.de/de/p/5010100091",
+        "prices": {
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum Watermelons",
+        "url": "https://www.douglas.de/de/p/5010006017",
+        "prices": {
+            "10 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum Watermelons",
+        "url": "https://www.douglas.de/de/p/5010100099",
+        "prices": {
+            "30 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum Oud Alif Fragrance Noir",
+        "url": "https://www.douglas.de/de/p/5010252067?variant=034930",
+        "prices": {
+            "10 ml": {
+                "original_price": 25.0,
+                "reduced_price": 17.99
+            },
+            "100 ml": {
+                "original_price": 140.0,
+                "reduced_price": 59.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Shay & Blue Eau de Parfum White Peaches",
+        "url": "https://www.douglas.de/de/p/5010006028",
+        "prices": {
+            "10 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            }
+        }
+    }
+]

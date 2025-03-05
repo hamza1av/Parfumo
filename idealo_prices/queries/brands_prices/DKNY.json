@@ -1,0 +1,166 @@
+[
+    {
+        "perfume_name": "DKNY Eau de Parfum 24/7",
+        "url": "https://www.douglas.de/de/p/5011522094",
+        "prices": {
+            "30 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            },
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "DKNY Eau de Toilette Be Delicious",
+        "url": "https://www.douglas.de/de/p/5011531009",
+        "prices": {
+            "30 ml": {
+                "original_price": 41.5,
+                "reduced_price": 33.2
+            }
+        }
+    },
+    {
+        "perfume_name": "DKNY Eau de Parfum Be Delicious Orchard Street",
+        "url": "https://www.douglas.de/de/p/5011073015",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.5,
+                "reduced_price": 38.8
+            }
+        }
+    },
+    {
+        "perfume_name": "DKNY Eau de Toilette Women",
+        "url": "https://www.douglas.de/de/p/5011461014",
+        "prices": {
+            "50 ml": {
+                "original_price": 62.0,
+                "reduced_price": 49.6
+            }
+        }
+    },
+    {
+        "perfume_name": "DKNY Eau de Parfum Be Delicious 100 %",
+        "url": "https://www.douglas.de/de/p/5010431080?variant=1122609",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.5,
+                "reduced_price": 38.8
+            },
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            }
+        }
+    },
+    {
+        "perfume_name": "DKNY Bodyspray Be Delicious Fresh Blossom Fresh Blossom",
+        "url": "https://www.douglas.de/de/p/5011403001",
+        "prices": {
+            "250 ml": {
+                "original_price": 19.0,
+                "reduced_price": 15.2
+            }
+        }
+    },
+    {
+        "perfume_name": "DKNY Eau de Parfum Golden Delicious",
+        "url": "https://www.douglas.de/de/p/5011461013",
+        "prices": {
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            }
+        }
+    },
+    {
+        "perfume_name": "DKNY Eau de Parfum Nectar Love",
+        "url": "https://www.douglas.de/de/p/3001037241",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.5,
+                "reduced_price": 38.8
+            }
+        }
+    },
+    {
+        "perfume_name": "DKNY Eau de Parfum Be Delicious",
+        "url": "https://www.douglas.de/de/p/2001002295?variant=1122606",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.5,
+                "reduced_price": 34.99
+            },
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 52.99
+            }
+        }
+    },
+    {
+        "perfume_name": "DKNY Eau de Parfum Be Tempted",
+        "url": "https://www.douglas.de/de/p/3001031468",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.5,
+                "reduced_price": 38.8
+            }
+        }
+    },
+    {
+        "perfume_name": "DKNY Eau de Parfum Women Energizing",
+        "url": "https://www.douglas.de/de/p/1995903295?variant=1122602",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.5,
+                "reduced_price": 38.8
+            },
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "100 ml": {
+                "original_price": 100.0,
+                "reduced_price": 80.0
+            }
+        }
+    },
+    {
+        "perfume_name": "DKNY Bodyspray Golden Delicious",
+        "url": "https://www.douglas.de/de/p/5011403000",
+        "prices": {
+            "250 ml": {
+                "original_price": 19.0,
+                "reduced_price": 15.2
+            }
+        }
+    },
+    {
+        "perfume_name": "DKNY Bodyspray Be Delicious Body Mist",
+        "url": "https://www.douglas.de/de/p/5011406058",
+        "prices": {
+            "250 ml": {
+                "original_price": 19.0,
+                "reduced_price": 15.2
+            }
+        }
+    },
+    {
+        "perfume_name": "DKNY Eau de Parfum Be Extra Delicious",
+        "url": "https://www.douglas.de/de/p/5002561145?variant=683761",
+        "prices": {
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            }
+        }
+    }
+]

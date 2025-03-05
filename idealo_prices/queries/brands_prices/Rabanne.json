@@ -1,0 +1,791 @@
+[
+    {
+        "perfume_name": "Rabanne Eau de Parfum Fame The Couture Edition",
+        "url": "https://www.douglas.de/de/p/5011673035",
+        "prices": {
+            "80 ml": {
+                "original_price": 156.0,
+                "reduced_price": 124.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum Lady Million Fabulous",
+        "url": "https://www.douglas.de/de/p/5009968005?variant=015398",
+        "prices": {
+            "30 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "50 ml": {
+                "original_price": 107.0,
+                "reduced_price": 83.79
+            },
+            "80 ml": {
+                "original_price": 137.5,
+                "reduced_price": 110.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Parfum 1 Million",
+        "url": "https://www.douglas.de/de/p/5001699052?variant=555815",
+        "prices": {
+            "50 ml": {
+                "original_price": 95.5,
+                "reduced_price": 58.99
+            },
+            "100 ml": {
+                "original_price": 126.5,
+                "reduced_price": 77.99
+            },
+            "200 ml": {
+                "original_price": 173.0,
+                "reduced_price": 140.09
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Duftset Phantom Set",
+        "url": "https://www.douglas.de/de/p/5010953062",
+        "prices": {
+            "1 Stück": {
+                "original_price": 84.0,
+                "reduced_price": 58.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Duftset Invictus Set",
+        "url": "https://www.douglas.de/de/p/5011365050",
+        "prices": {
+            "1 Stück": {
+                "original_price": 84.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Toilette 1 Million Spray",
+        "url": "https://www.douglas.de/de/p/3000027901?variant=379790",
+        "prices": {
+            "50 ml": {
+                "original_price": 87.0,
+                "reduced_price": 53.06
+            },
+            "100 ml": {
+                "original_price": 115.5,
+                "reduced_price": 70.44
+            },
+            "200 ml": {
+                "original_price": 157.5,
+                "reduced_price": 96.14
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Toilette XS Pour Homme",
+        "url": "https://www.douglas.de/de/p/2001003778",
+        "prices": {
+            "100 ml": {
+                "original_price": 108.5,
+                "reduced_price": 99.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Deodorant Million Gold For Her e Spray",
+        "url": "https://www.douglas.de/de/p/5011540059",
+        "prices": {
+            "150 ml": {
+                "original_price": 39.0,
+                "reduced_price": 31.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Duftset Phantom Set",
+        "url": "https://www.douglas.de/de/p/5011584110",
+        "prices": {
+            "1 Stück": {
+                "original_price": 84.0,
+                "reduced_price": 58.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum Pure XS For Her",
+        "url": "https://www.douglas.de/de/p/3001047391?variant=041520",
+        "prices": {
+            "30 ml": {
+                "original_price": 68.5,
+                "reduced_price": 46.99
+            },
+            "50 ml": {
+                "original_price": 98.0,
+                "reduced_price": 88.79
+            },
+            "80 ml": {
+                "original_price": 125.5,
+                "reduced_price": 87.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Deodorant 1 Million Stick",
+        "url": "https://www.douglas.de/de/p/3000027905",
+        "prices": {
+            "75 ml": {
+                "original_price": 32.0,
+                "reduced_price": 25.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Parfum Fame Parfum",
+        "url": "https://www.douglas.de/de/p/5011041009?variant=1123734",
+        "prices": {
+            "30 ml": {
+                "original_price": 73.5,
+                "reduced_price": 58.8
+            },
+            "50 ml": {
+                "original_price": 110.5,
+                "reduced_price": 78.99
+            },
+            "80 ml Refillable": {
+                "original_price": 144.5,
+                "reduced_price": 115.6
+            },
+            "200 ml - Refill": {
+                "original_price": 180.0,
+                "reduced_price": 144.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum Million Gold For Her Million Gold For Her Eau de Parfum 90ml - Ricaricabile",
+        "url": "https://www.douglas.de/de/p/5011505008",
+        "prices": {
+            "30 ml": {
+                "original_price": 76.0,
+                "reduced_price": 51.55
+            },
+            "50 ml - Refillable": {
+                "original_price": 109.0,
+                "reduced_price": 74.03
+            },
+            "90 ml - Refillable": {
+                "original_price": 141.5,
+                "reduced_price": 99.85
+            },
+            "200 ml": {
+                "original_price": 184.5,
+                "reduced_price": 131.94
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne After Shave Invictus Lotion",
+        "url": "https://www.douglas.de/de/p/3000066618",
+        "prices": {
+            "100 ml": {
+                "original_price": 66.5,
+                "reduced_price": 53.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum Phantom Elixir",
+        "url": "https://www.douglas.de/de/p/5011656160?variant=1213552",
+        "prices": {
+            "50 ml": {
+                "original_price": 99.5,
+                "reduced_price": 72.99
+            },
+            "100 ml": {
+                "original_price": 136.0,
+                "reduced_price": 92.0
+            },
+            "150 ml": {
+                "original_price": 160.0,
+                "reduced_price": 107.0
+            },
+            "200 ml - Refill": {
+                "original_price": 166.0,
+                "reduced_price": 117.0
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/3000003047",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Rabanne Duftset 1 Million Set",
+        "url": "https://www.douglas.de/de/p/5010966071",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 79.5,
+                "reduced_price": 61.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Toilette Black XS",
+        "url": "https://www.douglas.de/de/p/2010006654?variant=293890",
+        "prices": {
+            "100 ml": {
+                "original_price": 108.5,
+                "reduced_price": 86.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Duftset Fame Set",
+        "url": "https://www.douglas.de/de/p/5011403065",
+        "prices": {
+            "1 Stück": {
+                "original_price": 104.5,
+                "reduced_price": 63.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Toilette Phantom",
+        "url": "https://www.douglas.de/de/p/5010166000?variant=243460",
+        "prices": {
+            "50 ml": {
+                "original_price": 84.0,
+                "reduced_price": 58.99
+            },
+            "100 ml": {
+                "original_price": 115.0,
+                "reduced_price": 72.99
+            },
+            "150 ml - Nachfüllbar": {
+                "original_price": 135.0,
+                "reduced_price": 125.49
+            },
+            "200 ml - Refill": {
+                "original_price": 140.5,
+                "reduced_price": 112.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum Olympéa",
+        "url": "https://www.douglas.de/de/p/3001015535?variant=1031080",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 100.0,
+                "reduced_price": null
+            },
+            "80 ml": {
+                "original_price": 128.5,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum Lady Million Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m001535079",
+        "prices": {
+            "15 ml": {
+                "original_price": 42.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum Fame Intense",
+        "url": "https://www.douglas.de/de/p/5011265017",
+        "prices": {
+            "30 ml": {
+                "original_price": 74.0,
+                "reduced_price": 52.99
+            },
+            "50 ml": {
+                "original_price": 111.5,
+                "reduced_price": 89.2
+            },
+            "80 ml": {
+                "original_price": 146.0,
+                "reduced_price": 113.0
+            },
+            "200 ml - Refill": {
+                "original_price": 182.0,
+                "reduced_price": 145.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne After Shave 1 Million",
+        "url": "https://www.douglas.de/de/p/3000027902",
+        "prices": {
+            "100 ml": {
+                "original_price": 69.0,
+                "reduced_price": 55.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Duftset Fame Set",
+        "url": "https://www.douglas.de/de/p/5010953035",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 105.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Deodorant 1 Million",
+        "url": "https://www.douglas.de/de/p/3000027904",
+        "prices": {
+            "150 ml": {
+                "original_price": 36.0,
+                "reduced_price": 27.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Parfum Olympéa Parfum",
+        "url": "https://www.douglas.de/de/p/5011240004",
+        "prices": {
+            "30 ml": {
+                "original_price": 80.5,
+                "reduced_price": 61.99
+            },
+            "50 ml": {
+                "original_price": 115.0,
+                "reduced_price": 87.0
+            },
+            "80 ml": {
+                "original_price": 148.0,
+                "reduced_price": 113.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum Invictus Victory",
+        "url": "https://www.douglas.de/de/p/5009399003",
+        "prices": {
+            "100 ml": {
+                "original_price": 126.5,
+                "reduced_price": 96.0
+            },
+            "200 ml": {
+                "original_price": 173.5,
+                "reduced_price": 128.69
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Parfum 1 Million Royal",
+        "url": "https://www.douglas.de/de/p/5010883034?variant=1078518",
+        "prices": {
+            "50 ml": {
+                "original_price": 100.0,
+                "reduced_price": 75.99
+            },
+            "100 ml": {
+                "original_price": 132.5,
+                "reduced_price": 94.0
+            },
+            "200 ml": {
+                "original_price": 201.39,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Parfum Invictus Parfum",
+        "url": "https://www.douglas.de/de/p/5011240005?variant=1153168",
+        "prices": {
+            "50 ml": {
+                "original_price": 98.5,
+                "reduced_price": 68.99
+            },
+            "100 ml": {
+                "original_price": 130.0,
+                "reduced_price": 104.0
+            },
+            "200 ml": {
+                "original_price": 178.0,
+                "reduced_price": 129.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum Black XS For Her",
+        "url": "https://www.douglas.de/de/p/3001043814?variant=018903",
+        "prices": {
+            "30 ml": {
+                "original_price": 68.5,
+                "reduced_price": 54.8
+            },
+            "50 ml": {
+                "original_price": 98.0,
+                "reduced_price": 78.4
+            },
+            "80 ml": {
+                "original_price": 125.5,
+                "reduced_price": 100.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum Lady Million",
+        "url": "https://www.douglas.de/de/p/3000036848?variant=538018",
+        "prices": {
+            "30 ml": {
+                "original_price": 71.5,
+                "reduced_price": 43.99
+            },
+            "50 ml": {
+                "original_price": 102.0,
+                "reduced_price": 62.99
+            },
+            "80 ml": {
+                "original_price": 131.0,
+                "reduced_price": 79.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum Ultraviolet",
+        "url": "https://www.douglas.de/de/p/1005911295",
+        "prices": {
+            "80 ml": {
+                "original_price": 127.5,
+                "reduced_price": 102.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum Fame",
+        "url": "https://www.douglas.de/de/p/5010682135?variant=1028058",
+        "prices": {
+            "30 ml": {
+                "original_price": 68.5,
+                "reduced_price": 43.99
+            },
+            "50 ml": {
+                "original_price": 103.5,
+                "reduced_price": 64.99
+            },
+            "80 ml - nachfüllbar": {
+                "original_price": 135.0,
+                "reduced_price": 84.0
+            },
+            "200 ml - Refill": {
+                "original_price": 168.5,
+                "reduced_price": 123.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum Olympéa Flora Intense",
+        "url": "https://www.douglas.de/de/p/5010873053",
+        "prices": {
+            "30 ml": {
+                "original_price": 77.5,
+                "reduced_price": 62.0
+            },
+            "50 ml": {
+                "original_price": 110.5,
+                "reduced_price": 88.4
+            },
+            "80 ml": {
+                "original_price": 142.0,
+                "reduced_price": 113.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Toilette Paco Rabanne Homme",
+        "url": "https://www.douglas.de/de/p/1005901304?variant=191719",
+        "prices": {
+            "100 ml": {
+                "original_price": 108.5,
+                "reduced_price": 86.8
+            },
+            "200 ml": {
+                "original_price": 111.49,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5011163500",
+        "prices": {
+            "80 ml": {
+                "original_price": 128.59,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Bodylotion Olympéa Körperlotion",
+        "url": "https://www.douglas.de/de/p/3001015536",
+        "prices": {
+            "200 ml": {
+                "original_price": 36.5,
+                "reduced_price": 29.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum Invictus Victory Elixir",
+        "url": "https://www.douglas.de/de/p/5010855041",
+        "prices": {
+            "50 ml": {
+                "original_price": 102.5,
+                "reduced_price": 76.99
+            },
+            "100 ml": {
+                "original_price": 135.5,
+                "reduced_price": 97.0
+            },
+            "200 ml": {
+                "original_price": 185.0,
+                "reduced_price": 171.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Duftset Lady Million Set",
+        "url": "https://www.douglas.de/de/p/5010931024",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 102.0,
+                "reduced_price": 91.29
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Duftset 1 Million Set",
+        "url": "https://www.douglas.de/de/p/5011361000",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 87.0,
+                "reduced_price": 56.28
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum Million Gold Intense",
+        "url": "https://www.douglas.de/de/p/5011505007?variant=1188652",
+        "prices": {
+            "50 ml": {
+                "original_price": 100.0,
+                "reduced_price": 76.8
+            },
+            "100 ml": {
+                "original_price": 133.0,
+                "reduced_price": 95.1
+            },
+            "200 ml": {
+                "original_price": 181.0,
+                "reduced_price": 144.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum Lady Million Royal",
+        "url": "https://www.douglas.de/de/p/5010883035?variant=1078520",
+        "prices": {
+            "30 ml": {
+                "original_price": 71.5,
+                "reduced_price": 57.2
+            },
+            "50 ml": {
+                "original_price": 102.0,
+                "reduced_price": 81.6
+            },
+            "80 ml": {
+                "original_price": 131.0,
+                "reduced_price": 104.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Duftset Olympéa Set",
+        "url": "https://www.douglas.de/de/p/5011085083",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 101.0,
+                "reduced_price": 80.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Parfum 1 Million Elixir",
+        "url": "https://www.douglas.de/de/p/5010455049?variant=428259",
+        "prices": {
+            "50 ml": {
+                "original_price": 104.5,
+                "reduced_price": 69.99
+            },
+            "100 ml": {
+                "original_price": 138.0,
+                "reduced_price": 109.0
+            },
+            "200 ml": {
+                "original_price": 189.0,
+                "reduced_price": 165.79
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum Phantom Intense",
+        "url": "https://www.douglas.de/de/p/5011265048?variant=1163295",
+        "prices": {
+            "50 ml": {
+                "original_price": 90.5,
+                "reduced_price": 63.99
+            },
+            "100 ml": {
+                "original_price": 124.0,
+                "reduced_price": 89.0
+            },
+            "150 ml": {
+                "original_price": 145.5,
+                "reduced_price": 116.4
+            },
+            "200 ml": {
+                "original_price": 151.5,
+                "reduced_price": 121.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Toilette Ultraviolet For Man",
+        "url": "https://www.douglas.de/de/p/2001003777",
+        "prices": {
+            "100 ml": {
+                "original_price": 108.5,
+                "reduced_price": 86.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Duftset Lady Million Set",
+        "url": "https://www.douglas.de/de/p/5011399097",
+        "prices": {
+            "1 Stück": {
+                "original_price": 108.0,
+                "reduced_price": 67.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Duftset Olympéa Set",
+        "url": "https://www.douglas.de/de/p/5011403066",
+        "prices": {
+            "1 Stück": {
+                "original_price": 106.0,
+                "reduced_price": 84.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Bodylotion Fame",
+        "url": "https://www.douglas.de/de/p/5010703071",
+        "prices": {
+            "200 ml": {
+                "original_price": 45.5,
+                "reduced_price": 36.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Toilette Pure XS",
+        "url": "https://www.douglas.de/de/p/3001038323?variant=293895",
+        "prices": {
+            "100 ml": {
+                "original_price": 108.5,
+                "reduced_price": 86.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum Olympéa Blossom",
+        "url": "https://www.douglas.de/de/p/5009351000?variant=989640",
+        "prices": {
+            "50 ml": {
+                "original_price": 95.5,
+                "reduced_price": 89.0
+            },
+            "80 ml": {
+                "original_price": 123.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Parfum Olympéa Solar Intense",
+        "url": "https://www.douglas.de/de/p/5010544030?variant=476210",
+        "prices": {
+            "30 ml": {
+                "original_price": 76.5,
+                "reduced_price": 61.2
+            },
+            "50 ml": {
+                "original_price": 109.0,
+                "reduced_price": 87.0
+            },
+            "80 ml": {
+                "original_price": 140.0,
+                "reduced_price": 112.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Parfum Phantom",
+        "url": "https://www.douglas.de/de/p/5011041010",
+        "prices": {
+            "50 ml": {
+                "original_price": 90.0,
+                "reduced_price": 72.0
+            },
+            "100 ml": {
+                "original_price": 123.0,
+                "reduced_price": 98.4
+            },
+            "150 ml": {
+                "original_price": 144.5,
+                "reduced_price": 109.0
+            },
+            "200 ml - Refill": {
+                "original_price": 150.5,
+                "reduced_price": 120.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Rabanne Eau de Toilette Invictus",
+        "url": "https://www.douglas.de/de/p/3000066617?variant=753762",
+        "prices": {
+            "50 ml": {
+                "original_price": 85.5,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 113.0,
+                "reduced_price": 69.01
+            },
+            "200 ml": {
+                "original_price": 154.5,
+                "reduced_price": 142.69
+            }
+        }
+    }
+]

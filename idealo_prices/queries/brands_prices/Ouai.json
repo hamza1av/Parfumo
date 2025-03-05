@@ -1,0 +1,50 @@
+[
+    {
+        "perfume_name": "Ouai Eau de Parfum Melrose Place",
+        "url": "https://www.douglas.de/de/p/5003086038?variant=690195",
+        "prices": {
+            "10 ml": {
+                "original_price": 20.0,
+                "reduced_price": 16.0
+            },
+            "50 ml": {
+                "original_price": 67.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Ouai Eau de Parfum North Bondi",
+        "url": "https://www.douglas.de/de/p/5003086034?variant=690193",
+        "prices": {
+            "10 ml": {
+                "original_price": 20.0,
+                "reduced_price": 16.0
+            },
+            "50 ml": {
+                "original_price": 57.0,
+                "reduced_price": 45.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Ouai Haarparfum Barts St Haar- & Körpernebel",
+        "url": "https://www.douglas.de/de/p/5011503040",
+        "prices": {
+            "97 ml": {
+                "original_price": 35.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Ouai Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5010296096",
+        "prices": {
+            "50 ml": {
+                "original_price": 64.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

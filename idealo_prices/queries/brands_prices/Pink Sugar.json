@@ -1,0 +1,52 @@
+[
+    {
+        "perfume_name": "Pink Sugar Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5010519405",
+        "prices": {
+            "100 ml": {
+                "original_price": 44.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Pink Sugar Haarparfum",
+        "url": "https://www.douglas.de/de/p/5011161241",
+        "prices": {
+            "100 ml": {
+                "original_price": 19.39,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Pink Sugar Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5010519407",
+        "prices": {
+            "100 ml": {
+                "original_price": 42.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Pink Sugar Haarparfum",
+        "url": "https://www.douglas.de/de/p/5011161224",
+        "prices": {
+            "100 ml": {
+                "original_price": 19.59,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Pink Sugar Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5010965073",
+        "prices": {
+            "100 ml": {
+                "original_price": 37.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

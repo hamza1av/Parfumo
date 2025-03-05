@@ -1,0 +1,220 @@
+[
+    {
+        "perfume_name": "Ralph Lauren Parfum Ralph's Club",
+        "url": "https://www.douglas.de/de/p/5010613000?variant=1027914",
+        "prices": {
+            "50 ml": {
+                "original_price": 92.0,
+                "reduced_price": 73.6
+            },
+            "100 ml": {
+                "original_price": 120.0,
+                "reduced_price": 96.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Ralph Lauren Eau de Toilette Polo Black",
+        "url": "https://www.douglas.de/de/p/2001004653?variant=215114",
+        "prices": {
+            "75 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "125 ml": {
+                "original_price": 100.0,
+                "reduced_price": 80.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Ralph Lauren Eau de Toilette Polo Red",
+        "url": "https://www.douglas.de/de/p/3000065050?variant=753275",
+        "prices": {
+            "75 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "125 ml": {
+                "original_price": 100.0,
+                "reduced_price": 80.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Ralph Lauren Parfum Ralph's Club Elixir",
+        "url": "https://www.douglas.de/de/p/5011067049",
+        "prices": {
+            "75 ml": {
+                "original_price": 135.0,
+                "reduced_price": 108.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Ralph Lauren Parfum Polo Red",
+        "url": "https://www.douglas.de/de/p/5010883028?variant=1076419",
+        "prices": {
+            "75 ml": {
+                "original_price": 105.0,
+                "reduced_price": 84.0
+            },
+            "125 ml": {
+                "original_price": 120.0,
+                "reduced_price": 96.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Ralph Lauren Duftset Ralph's Club Eau de Toilette Set",
+        "url": "https://www.douglas.de/de/p/5011564083",
+        "prices": {
+            "1 Stück": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Ralph Lauren Duftset Polo Blue Set",
+        "url": "https://www.douglas.de/de/p/5011564085",
+        "prices": {
+            "1 Stück": {
+                "original_price": 56.0,
+                "reduced_price": 44.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Ralph Lauren Eau de Toilette Ralph's Club",
+        "url": "https://www.douglas.de/de/p/5011583244",
+        "prices": {
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Ralph Lauren Eau de Parfum Romance",
+        "url": "https://www.douglas.de/de/p/1001308295?variant=033835",
+        "prices": {
+            "30 ml": {
+                "original_price": 69.0,
+                "reduced_price": 55.2
+            },
+            "50 ml": {
+                "original_price": 89.0,
+                "reduced_price": 71.2
+            },
+            "100 ml": {
+                "original_price": 115.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Ralph Lauren Eau de Toilette Ralph",
+        "url": "https://www.douglas.de/de/p/2001004656?variant=083295",
+        "prices": {
+            "30 ml": {
+                "original_price": 47.0,
+                "reduced_price": 37.6
+            },
+            "50 ml": {
+                "original_price": 65.0,
+                "reduced_price": 52.0
+            },
+            "100 ml": {
+                "original_price": 85.0,
+                "reduced_price": 68.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Ralph Lauren Eau de Toilette Polo 67",
+        "url": "https://www.douglas.de/de/p/5011434010?variant=1174827",
+        "prices": {
+            "40 ml": {
+                "original_price": 56.0,
+                "reduced_price": 44.8
+            },
+            "75 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "125 ml": {
+                "original_price": 100.0,
+                "reduced_price": 80.0
+            },
+            "150 ml": {
+                "original_price": 105.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Ralph Lauren Eau de Parfum Polo Blue",
+        "url": "https://www.douglas.de/de/p/3001029210?variant=921927",
+        "prices": {
+            "75 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            },
+            "125 ml": {
+                "original_price": 112.0,
+                "reduced_price": 89.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Ralph Lauren Eau de Parfum Ralph's Club",
+        "url": "https://www.douglas.de/de/p/5010091060?variant=170234",
+        "prices": {
+            "30 ml": {
+                "original_price": 67.0,
+                "reduced_price": 53.6
+            },
+            "50 ml": {
+                "original_price": 85.0,
+                "reduced_price": 68.0
+            },
+            "100 ml": {
+                "original_price": 110.0,
+                "reduced_price": 88.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Ralph Lauren Eau de Toilette Big Pony Collection",
+        "url": "https://www.douglas.de/de/p/5003401066",
+        "prices": {
+            "50 ml": {
+                "original_price": 44.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Ralph Lauren Eau de Toilette Polo Blue",
+        "url": "https://www.douglas.de/de/p/2001004654?variant=135289",
+        "prices": {
+            "40 ml": {
+                "original_price": 56.0,
+                "reduced_price": 44.8
+            },
+            "75 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "125 ml": {
+                "original_price": 100.0,
+                "reduced_price": 80.0
+            }
+        }
+    }
+]

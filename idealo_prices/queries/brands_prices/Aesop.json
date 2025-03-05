@@ -1,0 +1,82 @@
+[
+    {
+        "perfume_name": "Aesop Eau de Parfum Ouranon",
+        "url": "https://www.douglas.de/de/p/5011093013",
+        "prices": {
+            "Ouranon": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Aesop Eau de Parfum Miraceti",
+        "url": "https://www.douglas.de/de/p/5010421014",
+        "prices": {
+            "50 ml": {
+                "original_price": 184.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Aesop Eau de Parfum Karst",
+        "url": "https://www.douglas.de/de/p/5010421013",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Aesop After Shave Moroccan Neroli Post-Shave Lotion",
+        "url": "https://www.douglas.de/de/p/5010048018",
+        "prices": {
+            "60 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Aesop Eau de Parfum Virēre",
+        "url": "https://www.douglas.de/de/p/5011571000",
+        "prices": {
+            "50 ml": {
+                "original_price": 143.0,
+                "reduced_price": 114.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Aesop Eau de Parfum Eremia",
+        "url": "https://www.douglas.de/de/p/5010421012",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Aesop Eau de Parfum Marrakech Intense",
+        "url": "https://www.douglas.de/de/p/5010109034",
+        "prices": {
+            "50 ml": {
+                "original_price": 160.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Aesop Eau de Parfum Eidesis",
+        "url": "https://www.douglas.de/de/p/5010796004",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    }
+]

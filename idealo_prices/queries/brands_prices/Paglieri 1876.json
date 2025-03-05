@@ -1,0 +1,32 @@
+[
+    {
+        "perfume_name": "Paglieri 1876 Eau de Parfum Agrigentum",
+        "url": "https://www.douglas.de/de/p/5010073465",
+        "prices": {
+            "100 ml": {
+                "original_price": 150.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Paglieri 1876 Eau de Parfum Florentia",
+        "url": "https://www.douglas.de/de/p/5010073459",
+        "prices": {
+            "100 ml": {
+                "original_price": 149.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Paglieri 1876 Eau de Parfum Genua",
+        "url": "https://www.douglas.de/de/p/5010073469",
+        "prices": {
+            "100 ml": {
+                "original_price": 150.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

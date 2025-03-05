@@ -1,0 +1,81 @@
+[
+    {
+        "perfume_name": "Naomi Campbell Eau de Toilette Spray",
+        "url": "https://www.douglas.de/de/p/5001764963?variant=957237",
+        "prices": {
+            "15 ml": {
+                "original_price": 17.25,
+                "reduced_price": 13.8
+            },
+            "50 ml": {
+                "original_price": 35.55,
+                "reduced_price": 28.44
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5010069761",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Naomi Campbell Eau de Parfum Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/5010071456",
+        "prices": {
+            "30 ml": {
+                "original_price": 35.55,
+                "reduced_price": 28.44
+            }
+        }
+    },
+    {
+        "perfume_name": "Naomi Campbell Eau de Toilette Here To Stay Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5003182042",
+        "prices": {
+            "30 ml": {
+                "original_price": 35.55,
+                "reduced_price": 32.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Naomi Campbell Eau de Toilette Here To Shine",
+        "url": "https://www.douglas.de/de/p/5010431025?variant=409861",
+        "prices": {
+            "30 ml": {
+                "original_price": 25.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Naomi Campbell Eau de Toilette Kollektion Seide",
+        "url": "https://www.douglas.de/de/p/5010070033",
+        "prices": {
+            "15 ml": {
+                "original_price": 17.5,
+                "reduced_price": 14.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Naomi Campbell Eau de Toilette Cat deluxe Silber",
+        "url": "https://www.douglas.de/de/p/5009752147",
+        "prices": {
+            "15 ml": {
+                "original_price": 17.25,
+                "reduced_price": 13.8
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5003182041?variant=722404",
+        "prices": {}
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/3001032609",
+        "prices": {}
+    }
+]

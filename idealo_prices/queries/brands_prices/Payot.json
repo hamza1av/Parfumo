@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "Payot After Shave Optimale Lotion apaisante après-rasage",
+        "url": "https://www.douglas.de/de/p/5011284342",
+        "prices": {
+            "100 ml": {
+                "original_price": 30.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Payot Bodyspray Soin Ensoleillant Elixir",
+        "url": "https://www.douglas.de/de/p/5009960005",
+        "prices": {
+            "150 ml": {
+                "original_price": 29.0,
+                "reduced_price": 23.2
+            }
+        }
+    }
+]

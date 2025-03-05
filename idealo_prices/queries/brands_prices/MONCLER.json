@@ -1,0 +1,190 @@
+[
+    {
+        "perfume_name": "MONCLER Eau de Parfum Pour Femme",
+        "url": "https://www.douglas.de/de/p/5010348026",
+        "prices": {
+            "150 ml": {
+                "original_price": 104.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "MONCLER Eau de Parfum Les Sommets Haute Montagne",
+        "url": "https://www.douglas.de/de/p/5010937028",
+        "prices": {
+            "100 ml": {
+                "original_price": 152.0,
+                "reduced_price": null
+            },
+            "200 ml": {
+                "original_price": 224.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "MONCLER Eau de Parfum Sunrise Pour Homme",
+        "url": "https://www.douglas.de/de/p/5011197010",
+        "prices": {
+            "60 ml": {
+                "original_price": 64.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "MONCLER Eau de Parfum Pour Homme",
+        "url": "https://www.douglas.de/de/p/5010347108",
+        "prices": {
+            "150 ml": {
+                "original_price": 104.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "MONCLER Eau de Parfum Les Sommets Le Bois Glacé",
+        "url": "https://www.douglas.de/de/p/5010907015",
+        "prices": {
+            "100 ml": {
+                "original_price": 152.0,
+                "reduced_price": null
+            },
+            "200 ml": {
+                "original_price": 224.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "MONCLER Eau de Parfum Les Sommets Ciel d Hiver",
+        "url": "https://www.douglas.de/de/p/5011548042",
+        "prices": {
+            "100 ml": {
+                "original_price": 152.0,
+                "reduced_price": null
+            },
+            "200 ml": {
+                "original_price": 224.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "MONCLER Eau de Parfum Les Sommets Les Roches Noires",
+        "url": "https://www.douglas.de/de/p/5010937031",
+        "prices": {
+            "100 ml": {
+                "original_price": 152.0,
+                "reduced_price": null
+            },
+            "200 ml": {
+                "original_price": 224.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "MONCLER Duftset Pour Homme Set",
+        "url": "https://www.douglas.de/de/p/5011006263",
+        "prices": {
+            "1 Stück": {
+                "original_price": 64.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "MONCLER Eau de Parfum Sunrise Pour Femme",
+        "url": "https://www.douglas.de/de/p/5011197009",
+        "prices": {
+            "60 ml": {
+                "original_price": 64.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "MONCLER Eau de Parfum Pour Homme",
+        "url": "https://www.douglas.de/de/p/5010347110",
+        "prices": {
+            "60 ml": {
+                "original_price": 64.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": null
+            },
+            "150 ml": {
+                "original_price": 144.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "MONCLER Duftset Pour Femme Set",
+        "url": "https://www.douglas.de/de/p/5011006264",
+        "prices": {
+            "1 Stück": {
+                "original_price": 64.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "MONCLER Eau de Parfum Les Sommets La Cordée",
+        "url": "https://www.douglas.de/de/p/5010937029",
+        "prices": {
+            "100 ml": {
+                "original_price": 152.0,
+                "reduced_price": null
+            },
+            "200 ml": {
+                "original_price": 224.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "MONCLER Eau de Parfum Les Sommets Le Solstice",
+        "url": "https://www.douglas.de/de/p/5010937030?variant=1089207",
+        "prices": {
+            "100 ml": {
+                "original_price": 152.0,
+                "reduced_price": null
+            },
+            "200 ml": {
+                "original_price": 224.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "MONCLER Eau de Parfum Pour Femme",
+        "url": "https://www.douglas.de/de/p/5010347111",
+        "prices": {
+            "60 ml": {
+                "original_price": 64.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": null
+            },
+            "150 ml": {
+                "original_price": 144.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "perfume_name": "Collistar Eau de Toilette Acqua Attiva",
+        "url": "https://www.douglas.de/de/p/5010878015",
+        "prices": {
+            "100 ml": {
+                "original_price": 57.0,
+                "reduced_price": 45.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Collistar Eau de Toilette Acqua Attiva ACQUA VETIVER 2023",
+        "url": "https://www.douglas.de/de/p/5010878017",
+        "prices": {
+            "100 ml": {
+                "original_price": 57.0,
+                "reduced_price": 45.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Collistar Eau de Toilette ACQUA WOOD 2023",
+        "url": "https://www.douglas.de/de/p/5010878019",
+        "prices": {
+            "100 ml": {
+                "original_price": 57.0,
+                "reduced_price": 45.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Collistar Duftset COFANETTO ATTIVI PURI ROUTINE IDRATANTE LIFTANTE",
+        "url": "https://www.douglas.de/de/p/5011323036",
+        "prices": {
+            "": {
+                "original_price": 56.59,
+                "reduced_price": 47.59
+            }
+        }
+    }
+]

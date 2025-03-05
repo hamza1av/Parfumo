@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "Dr. August Wolff Arzneimittel Intimpflege VAGISAN Schutz-Salbe",
+        "url": "https://www.douglas.de/de/p/m000371097",
+        "prices": {
+            "75 ml": {
+                "original_price": 24.79,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Dr. August Wolff Arzneimittel Körpermilch LINOLA Hautmilch Spender",
+        "url": "https://www.douglas.de/de/p/m000601101",
+        "prices": {
+            "500 ml": {
+                "original_price": 39.49,
+                "reduced_price": null
+            }
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "Excipial Körpercreme EXCIPIAL U Hydrolotio 200 ml",
+        "url": "https://www.douglas.de/de/p/m000492039",
+        "prices": {
+            "EXCIPIAL U HYDROLOTIO 200 ml / Default Title": {
+                "original_price": 27.39,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Excipial Körpercreme EXCIPIAL U Hydrolotio 500 ml",
+        "url": "https://www.douglas.de/de/p/m000492001",
+        "prices": {
+            "EXCIPIAL U HYDROLOTIO 500 ml / Default Title": {
+                "original_price": 38.69,
+                "reduced_price": null
+            }
+        }
+    }
+]

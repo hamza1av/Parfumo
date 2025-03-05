@@ -1,0 +1,142 @@
+[
+    {
+        "perfume_name": "John Varvatos Eau de Toilette Artisan Blu",
+        "url": "https://www.douglas.de/de/p/3001027203?variant=923064",
+        "prices": {
+            "75 ml": {
+                "original_price": 69.0,
+                "reduced_price": 55.2
+            },
+            "125 ml": {
+                "original_price": 89.0,
+                "reduced_price": 71.2
+            }
+        }
+    },
+    {
+        "perfume_name": "John Varvatos Parfum XX Eau de Parfum Spray Intense",
+        "url": "https://www.douglas.de/de/p/m001962056?variant=m3189052",
+        "prices": {
+            "75 ml": {
+                "original_price": 69.99,
+                "reduced_price": null
+            },
+            "125 ml": {
+                "original_price": 85.49,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "John Varvatos Eau de Toilette XX Artisan Eau de Toilette Spray",
+        "url": "https://www.douglas.de/de/p/m000527095",
+        "prices": {
+            "75 ml": {
+                "original_price": 70.09,
+                "reduced_price": null
+            },
+            "125 ml": {
+                "original_price": 90.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "John Varvatos Eau de Parfum EDT",
+        "url": "https://www.douglas.de/de/p/5010322003",
+        "prices": {
+            "75 ml": {
+                "original_price": 69.0,
+                "reduced_price": 45.99
+            },
+            "125 ml": {
+                "original_price": 89.0,
+                "reduced_price": 62.99
+            }
+        }
+    },
+    {
+        "perfume_name": "John Varvatos Eau de Toilette Artisian",
+        "url": "https://www.douglas.de/de/p/3000030056",
+        "prices": {
+            "75 ml": {
+                "original_price": 69.0,
+                "reduced_price": null
+            },
+            "125 ml": {
+                "original_price": 89.0,
+                "reduced_price": 71.2
+            }
+        }
+    },
+    {
+        "perfume_name": "John Varvatos Eau de Toilette Vintage",
+        "url": "https://www.douglas.de/de/p/3001003279",
+        "prices": {
+            "75 ml": {
+                "original_price": 69.0,
+                "reduced_price": 55.2
+            },
+            "125 ml": {
+                "original_price": 89.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "John Varvatos Eau de Toilette Artisan XX  Teal",
+        "url": "https://www.douglas.de/de/p/5010805094",
+        "prices": {
+            "75 ml": {
+                "original_price": 69.0,
+                "reduced_price": 55.2
+            },
+            "125 ml": {
+                "original_price": 89.0,
+                "reduced_price": 71.2
+            }
+        }
+    },
+    {
+        "perfume_name": "John Varvatos Eau de Toilette Artisan Pure",
+        "url": "https://www.douglas.de/de/p/5001768905",
+        "prices": {
+            "75 ml": {
+                "original_price": 69.0,
+                "reduced_price": 55.2
+            },
+            "125 ml": {
+                "original_price": 89.0,
+                "reduced_price": 71.2
+            }
+        }
+    },
+    {
+        "perfume_name": "John Varvatos Eau de Toilette Heritage",
+        "url": "https://www.douglas.de/de/p/5003275005?variant=648523",
+        "prices": {
+            "75 ml": {
+                "original_price": 69.0,
+                "reduced_price": 55.2
+            },
+            "125 ml": {
+                "original_price": 89.0,
+                "reduced_price": 71.2
+            }
+        }
+    },
+    {
+        "perfume_name": "John Varvatos Eau de Toilette Classic",
+        "url": "https://www.douglas.de/de/p/3001003283",
+        "prices": {
+            "75 ml": {
+                "original_price": 69.0,
+                "reduced_price": 62.99
+            },
+            "125 ml": {
+                "original_price": 89.0,
+                "reduced_price": 82.0
+            }
+        }
+    }
+]

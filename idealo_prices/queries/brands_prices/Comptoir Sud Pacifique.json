@@ -1,0 +1,57 @@
+[
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5011157293",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Comptoir Sud Pacifique Eau de Toilette Aloha Tiaré",
+        "url": "https://www.douglas.de/de/p/5010081592",
+        "prices": {
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Comptoir Sud Pacifique Eau de Toilette Vanille Blackberry",
+        "url": "https://www.douglas.de/de/p/5010075855",
+        "prices": {
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Comptoir Sud Pacifique Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5011157318",
+        "prices": {
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Comptoir Sud Pacifique Eau de Toilette Les Eaux de Voyage Vanille Banane",
+        "url": "https://www.douglas.de/de/p/5010973131",
+        "prices": {
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Comptoir Sud Pacifique Eau de Parfum Éclats D'amandes",
+        "url": "https://www.douglas.de/de/p/5011160743",
+        "prices": {
+            "100 ml": {
+                "original_price": 117.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

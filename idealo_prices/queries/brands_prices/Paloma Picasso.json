@@ -1,0 +1,66 @@
+[
+    {
+        "perfume_name": "Paloma Picasso Eau de Toilette Mein Parfum",
+        "url": "https://www.douglas.de/de/p/5011544023",
+        "prices": {
+            "50 ml": {
+                "original_price": 59.0,
+                "reduced_price": 49.89
+            }
+        }
+    },
+    {
+        "perfume_name": "Paloma Picasso Eau de Parfum Minotaure",
+        "url": "https://www.douglas.de/de/p/1001204304",
+        "prices": {
+            "75 ml": {
+                "original_price": 61.0,
+                "reduced_price": 48.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Paloma Picasso Duftset Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5011599001",
+        "prices": {
+            "1 Stück": {
+                "original_price": 79.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Paloma Picasso Eau de Parfum Paloma Picasso Mon Parfüm",
+        "url": "https://www.douglas.de/de/p/5001768078",
+        "prices": {
+            "100 ml": {
+                "original_price": 120.0,
+                "reduced_price": 96.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Paloma Picasso Eau de Toilette Paloma Picasso",
+        "url": "https://www.douglas.de/de/p/1001201304?variant=756197",
+        "prices": {
+            "100 ml": {
+                "original_price": 92.0,
+                "reduced_price": 73.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Paloma Picasso Eau de Parfum Paloma Picasso",
+        "url": "https://www.douglas.de/de/p/2001004686?variant=642843",
+        "prices": {
+            "30 ml": {
+                "original_price": 46.0,
+                "reduced_price": 36.8
+            },
+            "50 ml": {
+                "original_price": 88.0,
+                "reduced_price": 70.4
+            }
+        }
+    }
+]

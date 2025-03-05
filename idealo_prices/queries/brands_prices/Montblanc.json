@@ -1,0 +1,338 @@
+[
+    {
+        "perfume_name": "Montblanc Duschgel Explorer Platinum",
+        "url": "https://www.douglas.de/de/p/5010965152",
+        "prices": {
+            "150 ml": {
+                "original_price": 24.0,
+                "reduced_price": 19.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Duschgel Explorer Explorer Ultra Blue Shower Gel",
+        "url": "https://www.douglas.de/de/p/5010415043",
+        "prices": {
+            "150 ml": {
+                "original_price": 24.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Eau de Parfum Legend",
+        "url": "https://www.douglas.de/de/p/5002619004?variant=691019",
+        "prices": {
+            "50 ml": {
+                "original_price": 71.0,
+                "reduced_price": 56.8
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 68.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Eau de Parfum Emblem Lady",
+        "url": "https://www.douglas.de/de/p/3001027072",
+        "prices": {
+            "75 ml": {
+                "original_price": 88.0,
+                "reduced_price": 70.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Eau de Parfum Legend Blue",
+        "url": "https://www.douglas.de/de/p/5011284282?variant=1164030",
+        "prices": {
+            "30 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            },
+            "50 ml": {
+                "original_price": 71.0,
+                "reduced_price": 56.8
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Eau de Toilette Legend Spirit",
+        "url": "https://www.douglas.de/de/p/3001027074?variant=915135",
+        "prices": {
+            "30 ml": {
+                "original_price": 47.0,
+                "reduced_price": 37.6
+            },
+            "50 ml": {
+                "original_price": 67.0,
+                "reduced_price": 53.6
+            },
+            "100 ml": {
+                "original_price": 93.0,
+                "reduced_price": 74.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Eau de Parfum Patchouli Ink",
+        "url": "https://www.douglas.de/de/p/5011459005",
+        "prices": {
+            "125 ml": {
+                "original_price": 152.0,
+                "reduced_price": 121.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Eau de Parfum Signature Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5002122139?variant=538608",
+        "prices": {
+            "30 ml": {
+                "original_price": 44.0,
+                "reduced_price": 35.2
+            },
+            "50 ml": {
+                "original_price": 77.0,
+                "reduced_price": 61.6
+            },
+            "90 ml": {
+                "original_price": 100.0,
+                "reduced_price": 80.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Duftset Explorer Platinum Set",
+        "url": "https://www.douglas.de/de/p/5011564008",
+        "prices": {
+            "1 Stück": {
+                "original_price": 77.0,
+                "reduced_price": 68.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Duftset Legend Red Set",
+        "url": "https://www.douglas.de/de/p/5011564007",
+        "prices": {
+            "Eau de Parfum Spray 50 ml + Shower Gel 100 ml": {
+                "original_price": 66.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Eau de Parfum Signature Absolue",
+        "url": "https://www.douglas.de/de/p/5010899019",
+        "prices": {
+            "30 ml": {
+                "original_price": 44.0,
+                "reduced_price": 35.2
+            },
+            "50 ml": {
+                "original_price": 77.0,
+                "reduced_price": 61.6
+            },
+            "90 ml": {
+                "original_price": 100.0,
+                "reduced_price": 80.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Eau de Parfum Explorer Explorer Ultra Blue",
+        "url": "https://www.douglas.de/de/p/5009933009?variant=015592",
+        "prices": {
+            "30 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            },
+            "60 ml": {
+                "original_price": 77.0,
+                "reduced_price": 61.6
+            },
+            "100 ml": {
+                "original_price": 102.0,
+                "reduced_price": 81.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Duftset Explorer Set",
+        "url": "https://www.douglas.de/de/p/5011454004",
+        "prices": {
+            "SET": {
+                "original_price": 75.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Eau de Toilette Legend",
+        "url": "https://www.douglas.de/de/p/3000044281?variant=602149",
+        "prices": {
+            "30 ml": {
+                "original_price": 47.0,
+                "reduced_price": 37.6
+            },
+            "50 ml": {
+                "original_price": 67.0,
+                "reduced_price": 53.6
+            },
+            "100 ml": {
+                "original_price": 93.0,
+                "reduced_price": 74.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Eau de Parfum Explorer",
+        "url": "https://www.douglas.de/de/p/3001052849?variant=058201",
+        "prices": {
+            "30 ml": {
+                "original_price": 50.0,
+                "reduced_price": 33.99
+            },
+            "60 ml": {
+                "original_price": 77.0,
+                "reduced_price": 48.99
+            },
+            "100 ml": {
+                "original_price": 102.0,
+                "reduced_price": 65.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Eau de Parfum Extreme Leather",
+        "url": "https://www.douglas.de/de/p/5011459003",
+        "prices": {
+            "125 ml": {
+                "original_price": 152.0,
+                "reduced_price": 121.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Eau de Parfum Vetiver Glacier",
+        "url": "https://www.douglas.de/de/p/5011459006",
+        "prices": {
+            "125 ml": {
+                "original_price": 152.0,
+                "reduced_price": 121.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Eau de Parfum Legend Black Meisterstück",
+        "url": "https://www.douglas.de/de/p/5011459001",
+        "prices": {
+            "125 ml": {
+                "original_price": 152.0,
+                "reduced_price": 121.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Duftset Signature Absolue Set",
+        "url": "https://www.douglas.de/de/p/5011420042",
+        "prices": {
+            "1 Stück": {
+                "original_price": 77.0,
+                "reduced_price": 61.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Eau de Parfum Explorer Platinum",
+        "url": "https://www.douglas.de/de/p/5010965151?variant=1083055",
+        "prices": {
+            "30 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            },
+            "60 ml": {
+                "original_price": 77.0,
+                "reduced_price": 61.6
+            },
+            "100 ml": {
+                "original_price": 102.0,
+                "reduced_price": 81.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc After Shave Explorer Balm",
+        "url": "https://www.douglas.de/de/p/3001052853",
+        "prices": {
+            "150 ml": {
+                "original_price": 28.0,
+                "reduced_price": 22.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Duftset Legend Red Set",
+        "url": "https://www.douglas.de/de/p/5010791229",
+        "prices": {
+            "Eau de Parfum Spray 50 ml + Shower Gel 100 ml": {
+                "original_price": 71.0,
+                "reduced_price": 56.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Deodorant Explorer Platinum",
+        "url": "https://www.douglas.de/de/p/5010965153",
+        "prices": {
+            "75 g": {
+                "original_price": 23.0,
+                "reduced_price": 18.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Eau de Parfum Legend Red",
+        "url": "https://www.douglas.de/de/p/5010517049?variant=471730",
+        "prices": {
+            "30 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            },
+            "50 ml": {
+                "original_price": 71.0,
+                "reduced_price": 56.8
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Eau de Toilette Emblem Eau de Toilette Spray",
+        "url": "https://www.douglas.de/de/p/3001002666?variant=804472",
+        "prices": {
+            "100 ml": {
+                "original_price": 87.0,
+                "reduced_price": 69.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Montblanc Duftset Legend Set",
+        "url": "https://www.douglas.de/de/p/5011565033",
+        "prices": {
+            "SET": {
+                "original_price": 65.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

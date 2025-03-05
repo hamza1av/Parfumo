@@ -1,0 +1,46 @@
+[
+    {
+        "perfume_name": "Jean Couturier Eau de Toilette UN JARDIN A PARIS",
+        "url": "https://www.douglas.de/de/p/5011162783",
+        "prices": {
+            "30 ml": {
+                "original_price": 29.09,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 58.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Couturier Eau de Parfum PARIS BAROQUE",
+        "url": "https://www.douglas.de/de/p/5011166180",
+        "prices": {
+            "100 ml": {
+                "original_price": 62.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Couturier Parfum Coriandre Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m002171013",
+        "prices": {
+            "100 ml": {
+                "original_price": 70.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Couturier Eau de Parfum PARIS BAROQUE",
+        "url": "https://www.douglas.de/de/p/5011172879",
+        "prices": {
+            "50 ml": {
+                "original_price": 41.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

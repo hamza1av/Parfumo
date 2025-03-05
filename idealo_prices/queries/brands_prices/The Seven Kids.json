@@ -1,0 +1,46 @@
+[
+    {
+        "perfume_name": "The Seven Kids Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5011454257",
+        "prices": {
+            "100 ml": {
+                "original_price": 19.96,
+                "reduced_price": 16.96
+            }
+        }
+    },
+    {
+        "perfume_name": "The Seven Kids Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5011500087",
+        "prices": {
+            "100 ml": {
+                "original_price": 22.69,
+                "reduced_price": 19.28
+            }
+        }
+    },
+    {
+        "perfume_name": "The Seven Kids Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5011454258",
+        "prices": {
+            "100 ml": {
+                "original_price": 19.96,
+                "reduced_price": 16.96
+            }
+        }
+    },
+    {
+        "perfume_name": "The Seven Kids Eau de Cologne",
+        "url": "https://www.douglas.de/de/p/5011407356?variant=1112100",
+        "prices": {
+            "100 ml": {
+                "original_price": 18.18,
+                "reduced_price": 15.45
+            },
+            "250 ml": {
+                "original_price": 17.39,
+                "reduced_price": 14.78
+            }
+        }
+    }
+]

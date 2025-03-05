@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "Microcell Eau de Parfum Microcell 2000 Shellfix Nagellack-Entferner Shellfix Remover",
+        "url": "https://www.douglas.de/de/p/3000065739",
+        "prices": {
+            "100 ml": {
+                "original_price": 6.95,
+                "reduced_price": 4.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Microcell Eau de Parfum Microcell 2000 Nail Repair Nail Provita",
+        "url": "https://www.douglas.de/de/p/3000054953",
+        "prices": {
+            "11 ml": {
+                "original_price": 9.95,
+                "reduced_price": 6.99
+            }
+        }
+    }
+]

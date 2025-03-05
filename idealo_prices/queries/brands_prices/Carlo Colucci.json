@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "Carlo Colucci Parfum Carlo Colucci for Him",
+        "url": "https://www.douglas.de/de/p/5011190043",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.9,
+                "reduced_price": 31.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Carlo Colucci Parfum Carlo Colucci for Her",
+        "url": "https://www.douglas.de/de/p/5011190042",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.9,
+                "reduced_price": 31.92
+            }
+        }
+    }
+]

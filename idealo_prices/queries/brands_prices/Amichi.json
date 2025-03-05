@@ -1,0 +1,32 @@
+[
+    {
+        "perfume_name": "Amichi Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5010991217",
+        "prices": {
+            "75 ml": {
+                "original_price": 27.69,
+                "reduced_price": 23.53
+            }
+        }
+    },
+    {
+        "perfume_name": "Amichi Duftset Intense Bouquet",
+        "url": "https://www.douglas.de/de/p/5010992177",
+        "prices": {
+            "75 ml": {
+                "original_price": 34.19,
+                "reduced_price": 28.59
+            }
+        }
+    },
+    {
+        "perfume_name": "Amichi Duftset",
+        "url": "https://www.douglas.de/de/p/5010992042",
+        "prices": {
+            "75 ml": {
+                "original_price": 27.69,
+                "reduced_price": 23.53
+            }
+        }
+    }
+]

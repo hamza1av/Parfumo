@@ -1,0 +1,74 @@
+[
+    {
+        "perfume_name": "Biotherm Eau de Toilette Les Eaux Eau Vitaminée",
+        "url": "https://www.douglas.de/de/p/1005811101?variant=711663",
+        "prices": {
+            "50 ml": {
+                "original_price": 28.0,
+                "reduced_price": 22.4
+            },
+            "100 ml": {
+                "original_price": 53.0,
+                "reduced_price": 32.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Biotherm Körperpflegeset Les Eaux Eau Vitaminée M-Set",
+        "url": "https://www.douglas.de/de/p/5011564045",
+        "prices": {
+            "1 Stück": {
+                "original_price": 40.0,
+                "reduced_price": 19.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Biotherm Eau de Toilette Les Eaux Eau d'Énergie",
+        "url": "https://www.douglas.de/de/p/3000012665?variant=242288",
+        "prices": {
+            "50 ml": {
+                "original_price": 28.0,
+                "reduced_price": 22.4
+            },
+            "100 ml": {
+                "original_price": 53.0,
+                "reduced_price": 34.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Biotherm Eau de Toilette Les Eaux L'Eau by Lait Corporel",
+        "url": "https://www.douglas.de/de/p/3001010526?variant=845201",
+        "prices": {
+            "100 ml": {
+                "original_price": 53.0,
+                "reduced_price": 35.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Biotherm Körperpflegeset Les Eaux L-Set",
+        "url": "https://www.douglas.de/de/p/5011562094",
+        "prices": {
+            "1 Stück": {
+                "original_price": 56.0,
+                "reduced_price": 27.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Biotherm Eau de Toilette Les Eaux Eau Pure",
+        "url": "https://www.douglas.de/de/p/3000002920?variant=374557",
+        "prices": {
+            "50 ml": {
+                "original_price": 28.0,
+                "reduced_price": 22.4
+            },
+            "100 ml": {
+                "original_price": 53.0,
+                "reduced_price": 32.99
+            }
+        }
+    }
+]

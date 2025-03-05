@@ -1,0 +1,384 @@
+[
+    {
+        "perfume_name": "Perris Monte Carlo Parfum Santal Du Pacifique TRAVEL SPRAY REFILL SANTAL EXTRAIT",
+        "url": "https://www.douglas.de/de/p/5003554248",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 88.0,
+                "reduced_price": 70.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Parfum Rose De Taif TRAVEL SPRAY REFILL ROSE DE TAIF EXTRAIT",
+        "url": "https://www.douglas.de/de/p/5003554232",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 88.0,
+                "reduced_price": 70.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum Ambre Gris",
+        "url": "https://www.douglas.de/de/p/5011109088",
+        "prices": {
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Parfum Ylang Ylang Nosy Be YLANG NOSY BE EXTAIT DE PARFUM",
+        "url": "https://www.douglas.de/de/p/5003554241",
+        "prices": {
+            "50 ml": {
+                "original_price": 285.0,
+                "reduced_price": 228.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum TUBÉREUSE ABSOLUTE",
+        "url": "https://www.douglas.de/de/p/5011160128",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": 88.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Parfum ABSOLUE D'OSMANTHE EXTRAIT",
+        "url": "https://www.douglas.de/de/p/5011160132",
+        "prices": {
+            "50 ml": {
+                "original_price": 285.0,
+                "reduced_price": 228.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum VANILLE DE TAHITI",
+        "url": "https://www.douglas.de/de/p/5011095007?variant=697812",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum Essence de Patchouli",
+        "url": "https://www.douglas.de/de/p/5011161007",
+        "prices": {
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum CACAO AZTÈQUE",
+        "url": "https://www.douglas.de/de/p/5011109083?variant=973522",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": 103.59
+            },
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum NEROLI MEDITERRANEO",
+        "url": "https://www.douglas.de/de/p/5010735001",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum Rose De Taif ROSE DE TAIF",
+        "url": "https://www.douglas.de/de/p/5003554229?variant=765056",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": 88.0
+            },
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Parfum Ylang Ylang Nosy Be TAVEL SPRAY BOX YLANG NOSY BE EXTRAIT",
+        "url": "https://www.douglas.de/de/p/5003554243",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 170.0,
+                "reduced_price": 136.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Parfum Rose De Taif TRAVEL SPRAY BOX ROSE DE TAIF EXTRAIT",
+        "url": "https://www.douglas.de/de/p/5003554231",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 170.0,
+                "reduced_price": 136.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Parfum Oud Imperial TRAVEL SPRAY BOX IMPERIAL EXTRAIT",
+        "url": "https://www.douglas.de/de/p/5003554227",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 170.0,
+                "reduced_price": 136.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum ABSOLUE D'OSMANTHE",
+        "url": "https://www.douglas.de/de/p/5011109080",
+        "prices": {
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum Patchouli Nosy Be PATCHOULI NOSY BE",
+        "url": "https://www.douglas.de/de/p/5003554233?variant=842655",
+        "prices": {
+            "50 ml": {
+                "original_price": 109.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Parfum CACAO AZTÈQUE EXTAIT DE PARFUM",
+        "url": "https://www.douglas.de/de/p/5011162721",
+        "prices": {
+            "50 ml": {
+                "original_price": 285.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum MIMOSA TANNERON",
+        "url": "https://www.douglas.de/de/p/5011109086?variant=697856",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": 88.0
+            },
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum ROSE DE MAI",
+        "url": "https://www.douglas.de/de/p/5011109094?variant=257618",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Parfum SANTAL DU PACIFIQUE EXTRAIT DE PARFUM",
+        "url": "https://www.douglas.de/de/p/5011162720",
+        "prices": {
+            "50 ml": {
+                "original_price": 285.0,
+                "reduced_price": 228.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum Carlo Arancia di Sicilia",
+        "url": "https://www.douglas.de/de/p/5011109090?variant=267502",
+        "prices": {
+            "50 ml": {
+                "original_price": 109.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum Lavande Romaine",
+        "url": "https://www.douglas.de/de/p/5011160157",
+        "prices": {
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Parfum QUELQUES FLEURS",
+        "url": "https://www.douglas.de/de/p/5010903119",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": 106.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum JASMIN DE PAYS",
+        "url": "https://www.douglas.de/de/p/5011162689",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": 88.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Parfum CEDRO DI DIAMANTE",
+        "url": "https://www.douglas.de/de/p/5011160158?variant=034834",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum Ylang Ylang Nosy Be YLANG NOSY BE",
+        "url": "https://www.douglas.de/de/p/5003554240",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum Vetiver Java",
+        "url": "https://www.douglas.de/de/p/5010498027",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": 88.0
+            },
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum OUD IMPERIAL",
+        "url": "https://www.douglas.de/de/p/5011161026",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum Mandarino Di Sicilia",
+        "url": "https://www.douglas.de/de/p/5011162665",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Parfum Oud Imperial OUD IMPERIAL EXTRAIT",
+        "url": "https://www.douglas.de/de/p/5003554224",
+        "prices": {
+            "50 ml": {
+                "original_price": 285.0,
+                "reduced_price": 267.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum SHINING MOON",
+        "url": "https://www.douglas.de/de/p/5011142096",
+        "prices": {
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Parfum Absolue D'Osmanthe OSMANTHE EXTRAIT",
+        "url": "https://www.douglas.de/de/p/5003554246",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 170.0,
+                "reduced_price": 136.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Perris Monte Carlo Eau de Parfum BERGAMOTTO DI CALABRIA",
+        "url": "https://www.douglas.de/de/p/5011109091",
+        "prices": {
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    }
+]

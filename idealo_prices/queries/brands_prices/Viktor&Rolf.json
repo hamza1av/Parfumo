@@ -1,0 +1,252 @@
+[
+    {
+        "perfume_name": "Viktor&Rolf Eau de Parfum Good Fortune",
+        "url": "https://www.douglas.de/de/p/5010595132",
+        "prices": {
+            "30 ml": {
+                "original_price": 79.0,
+                "reduced_price": 69.09
+            },
+            "50 ml": {
+                "original_price": 105.99,
+                "reduced_price": null
+            },
+            "90 ml": {
+                "original_price": 150.99,
+                "reduced_price": null
+            },
+            "100 ml - Refill": {
+                "original_price": 120.0,
+                "reduced_price": 96.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Viktor&Rolf Duftset Spicebomb Eau de Toilette Set",
+        "url": "https://www.douglas.de/de/p/5011575006",
+        "prices": {
+            "1 Stück": {
+                "original_price": 117.0,
+                "reduced_price": 93.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Viktor&Rolf Duftset Flowerbomb Set",
+        "url": "https://www.douglas.de/de/p/5011677000",
+        "prices": {
+            "Eau de Parfum Spray 30 ml + Body Cream 40 ml + Body Lotion 50 ml": {
+                "original_price": 88.0,
+                "reduced_price": 70.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Viktor&Rolf Eau de Parfum Spicebomb Infrared",
+        "url": "https://www.douglas.de/de/p/5010931018?variant=1088574",
+        "prices": {
+            "50 ml": {
+                "original_price": 94.99,
+                "reduced_price": null
+            },
+            "90 ml": {
+                "original_price": 125.0,
+                "reduced_price": 100.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Viktor&Rolf Eau de Parfum Bonbon",
+        "url": "https://www.douglas.de/de/p/3001001571?variant=800224",
+        "prices": {
+            "30 ml": {
+                "original_price": 79.0,
+                "reduced_price": 61.99
+            },
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": 85.0
+            },
+            "90 ml": {
+                "original_price": 152.0,
+                "reduced_price": 115.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Viktor&Rolf Eau de Parfum Spicebomb Nightvision Spray",
+        "url": "https://www.douglas.de/de/p/5002557012",
+        "prices": {
+            "50 ml": {
+                "original_price": 90.0,
+                "reduced_price": 72.0
+            },
+            "90 ml": {
+                "original_price": 125.0,
+                "reduced_price": 100.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Viktor&Rolf Eau de Toilette Spicebomb",
+        "url": "https://www.douglas.de/de/p/3000061370?variant=659411",
+        "prices": {
+            "50 ml": {
+                "original_price": 82.0,
+                "reduced_price": 61.99
+            },
+            "90 ml": {
+                "original_price": 112.0,
+                "reduced_price": 86.0
+            },
+            "150 ml": {
+                "original_price": 140.0,
+                "reduced_price": 112.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Viktor&Rolf Eau de Toilette Spicebomb Night Vision",
+        "url": "https://www.douglas.de/de/p/3001052724?variant=063549",
+        "prices": {
+            "50 ml": {
+                "original_price": 82.0,
+                "reduced_price": 65.6
+            },
+            "90 ml": {
+                "original_price": 112.0,
+                "reduced_price": 89.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Viktor&Rolf Eau de Parfum Spicebomb Extreme",
+        "url": "https://www.douglas.de/de/p/3001012427?variant=847317",
+        "prices": {
+            "50 ml": {
+                "original_price": 90.0,
+                "reduced_price": 57.08
+            },
+            "90 ml": {
+                "original_price": 125.0,
+                "reduced_price": 79.28
+            }
+        }
+    },
+    {
+        "perfume_name": "Viktor&Rolf Eau de Parfum Flowerbomb Nectar Intense",
+        "url": "https://www.douglas.de/de/p/3001041642?variant=995450",
+        "prices": {
+            "50 ml": {
+                "original_price": 120.0,
+                "reduced_price": 96.0
+            },
+            "90 ml": {
+                "original_price": 157.0,
+                "reduced_price": 125.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Viktor&Rolf Eau de Parfum Flowerbomb Dew",
+        "url": "https://www.douglas.de/de/p/5000983000",
+        "prices": {
+            "30 ml": {
+                "original_price": 82.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Viktor&Rolf Eau de Parfum Flowerbomb Ruby Orchid",
+        "url": "https://www.douglas.de/de/p/5010463121?variant=1092382",
+        "prices": {
+            "30 ml": {
+                "original_price": 85.0,
+                "reduced_price": 68.0
+            },
+            "50 ml": {
+                "original_price": 120.0,
+                "reduced_price": 96.0
+            },
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": 128.0
+            },
+            "150 ml": {
+                "original_price": 180.0,
+                "reduced_price": 144.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Viktor&Rolf Eau de Toilette Spicebomb Infrared",
+        "url": "https://www.douglas.de/de/p/5009943017",
+        "prices": {
+            "50 ml": {
+                "original_price": 82.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Viktor&Rolf Eau de Parfum Flowerbomb",
+        "url": "https://www.douglas.de/de/p/3000026191?variant=198566",
+        "prices": {
+            "30 ml": {
+                "original_price": 85.0,
+                "reduced_price": 57.99
+            },
+            "50 ml": {
+                "original_price": 120.0,
+                "reduced_price": 78.99
+            },
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": 128.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Viktor&Rolf Eau de Parfum Good Fortune Elixir Intense",
+        "url": "https://www.douglas.de/de/p/5010965402",
+        "prices": {
+            "50 ml": {
+                "original_price": 115.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Viktor&Rolf Eau de Parfum Flowerbomb Tiger Lily",
+        "url": "https://www.douglas.de/de/p/5011236007",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": 88.0
+            },
+            "100 ml": {
+                "original_price": 152.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Viktor&Rolf Eau de Parfum Spicebomb Dark Leather",
+        "url": "https://www.douglas.de/de/p/5011469021?variant=1178511",
+        "prices": {
+            "50 ml": {
+                "original_price": 90.0,
+                "reduced_price": 72.0
+            },
+            "90 ml": {
+                "original_price": 125.0,
+                "reduced_price": 100.0
+            },
+            "150 ml": {
+                "original_price": 154.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

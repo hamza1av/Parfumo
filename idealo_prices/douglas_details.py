@@ -12,7 +12,7 @@ def fetch_and_extract(url: str) -> dict:
     """Fetches the HTML content from a URL and extracts relevant data."""
     time.sleep(1)
     html = dq.fetch_douglas_page(url)
-    result = dq.extract_douglas_prices(html)
+    result = dq.extract_douglas_prices(html, url)
     return result
 
 def process_json_files(source_dir: str, output_dir: str):

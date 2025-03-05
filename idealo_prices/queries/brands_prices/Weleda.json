@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "Weleda After Shave For Men Balsam",
+        "url": "https://www.douglas.de/de/p/5001764745",
+        "prices": {
+            "100 ml": {
+                "original_price": 18.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Weleda After Shave For Men Rasierwasser",
+        "url": "https://www.douglas.de/de/p/3000045224",
+        "prices": {
+            "100 ml": {
+                "original_price": 19.09,
+                "reduced_price": null
+            }
+        }
+    }
+]

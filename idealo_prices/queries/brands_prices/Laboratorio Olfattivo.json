@@ -1,0 +1,442 @@
+[
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum SALINA",
+        "url": "https://www.douglas.de/de/p/m000993003",
+        "prices": {
+            "100ml": {
+                "original_price": 102.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum VANAGLORIA",
+        "url": "https://www.douglas.de/de/p/m000993029",
+        "prices": {
+            "100ml": {
+                "original_price": 144.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum NEROTIC",
+        "url": "https://www.douglas.de/de/p/m000993019",
+        "prices": {
+            "100ml": {
+                "original_price": 119.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum NOBLIGE",
+        "url": "https://www.douglas.de/de/p/m000996290",
+        "prices": {
+            "30ml": {
+                "original_price": 48.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum MELOMIRTILLO",
+        "url": "https://www.douglas.de/de/p/5011230045",
+        "prices": {
+            "500 ml": {
+                "original_price": 21.0,
+                "reduced_price": 16.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum ROSAMUNDA",
+        "url": "https://www.douglas.de/de/p/m000996307",
+        "prices": {
+            "30ml": {
+                "original_price": 48.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum NEROTIC",
+        "url": "https://www.douglas.de/de/p/m000996291",
+        "prices": {
+            "30ml": {
+                "original_price": 54.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Cologne LIMONE",
+        "url": "https://www.douglas.de/de/p/m000993030",
+        "prices": {
+            "100ml": {
+                "original_price": 102.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum MYLO",
+        "url": "https://www.douglas.de/de/p/m000996298",
+        "prices": {
+            "30ml": {
+                "original_price": 48.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum SACRESTE",
+        "url": "https://www.douglas.de/de/p/m000993035",
+        "prices": {
+            "100ml": {
+                "original_price": 119.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum EXPLOUD",
+        "url": "https://www.douglas.de/de/p/m000993018",
+        "prices": {
+            "100ml": {
+                "original_price": 119.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum COZUMEL",
+        "url": "https://www.douglas.de/de/p/m000993016",
+        "prices": {
+            "100ml": {
+                "original_price": 102.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum PATCHOULIFUL",
+        "url": "https://www.douglas.de/de/p/m000993000",
+        "prices": {
+            "100ml": {
+                "original_price": 102.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum PATCHOULIFUL",
+        "url": "https://www.douglas.de/de/p/m000996300",
+        "prices": {
+            "30ml": {
+                "original_price": 48.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum NIRMAL",
+        "url": "https://www.douglas.de/de/p/m000996304",
+        "prices": {
+            "30ml": {
+                "original_price": 48.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum NEED-U",
+        "url": "https://www.douglas.de/de/p/m000993004",
+        "prices": {
+            "100ml": {
+                "original_price": 102.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum ROSAMUNDA",
+        "url": "https://www.douglas.de/de/p/m000993009",
+        "prices": {
+            "100ml": {
+                "original_price": 102.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum NUN",
+        "url": "https://www.douglas.de/de/p/m000993023",
+        "prices": {
+            "100ml": {
+                "original_price": 102.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum BALIFLORA",
+        "url": "https://www.douglas.de/de/p/m001035002",
+        "prices": {
+            "100ml": {
+                "original_price": 147.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Cologne BERGAMOTTO",
+        "url": "https://www.douglas.de/de/p/m000993038",
+        "prices": {
+            "100ml": {
+                "original_price": 102.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum NEROSA",
+        "url": "https://www.douglas.de/de/p/m000993015",
+        "prices": {
+            "100ml": {
+                "original_price": 119.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum NUN",
+        "url": "https://www.douglas.de/de/p/m000996296",
+        "prices": {
+            "30ml": {
+                "original_price": 48.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum NOBLIGE",
+        "url": "https://www.douglas.de/de/p/m000993042",
+        "prices": {
+            "100ml": {
+                "original_price": 102.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum VANHERA",
+        "url": "https://www.douglas.de/de/p/m000993011",
+        "prices": {
+            "100ml": {
+                "original_price": 119.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum TONKADE",
+        "url": "https://www.douglas.de/de/p/m000993013",
+        "prices": {
+            "100ml": {
+                "original_price": 119.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum VETYVERSO",
+        "url": "https://www.douglas.de/de/p/m001035000",
+        "prices": {
+            "100ml": {
+                "original_price": 147.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum NIRMAL",
+        "url": "https://www.douglas.de/de/p/m001035006",
+        "prices": {
+            "100ml": {
+                "original_price": 102.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum KASHNOIR black",
+        "url": "https://www.douglas.de/de/p/m000993026",
+        "prices": {
+            "100ml": {
+                "original_price": 119.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum VANHERA",
+        "url": "https://www.douglas.de/de/p/m000996302",
+        "prices": {
+            "30ml": {
+                "original_price": 54.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum ESVEDRA",
+        "url": "https://www.douglas.de/de/p/m000993002",
+        "prices": {
+            "100ml": {
+                "original_price": 102.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum DECOU-VERT",
+        "url": "https://www.douglas.de/de/p/m000996297",
+        "prices": {
+            "30ml": {
+                "original_price": 48.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Cologne MANDARINO",
+        "url": "https://www.douglas.de/de/p/m000993010",
+        "prices": {
+            "100ml": {
+                "original_price": 102.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum SALINA",
+        "url": "https://www.douglas.de/de/p/m000996305",
+        "prices": {
+            "30ml": {
+                "original_price": 48.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum ALAMBAR",
+        "url": "https://www.douglas.de/de/p/m000996303",
+        "prices": {
+            "30ml": {
+                "original_price": 48.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum Miss_U",
+        "url": "https://www.douglas.de/de/p/m001633000",
+        "prices": {
+            "Miss_U 100ml": {
+                "original_price": 102.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum NEROSA",
+        "url": "https://www.douglas.de/de/p/m000996295",
+        "prices": {
+            "30ml": {
+                "original_price": 54.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum ESVEDRA",
+        "url": "https://www.douglas.de/de/p/m000996306",
+        "prices": {
+            "30ml": {
+                "original_price": 48.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum COZUMEL",
+        "url": "https://www.douglas.de/de/p/m000996292",
+        "prices": {
+            "30ml": {
+                "original_price": 48.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum ALAMBAR",
+        "url": "https://www.douglas.de/de/p/m001035007",
+        "prices": {
+            "100ml": {
+                "original_price": 102.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum TANTRICO",
+        "url": "https://www.douglas.de/de/p/m001035001",
+        "prices": {
+            "100ml": {
+                "original_price": 147.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum KASHNOIR black",
+        "url": "https://www.douglas.de/de/p/m000996294",
+        "prices": {
+            "30ml": {
+                "original_price": 54.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum MYLO",
+        "url": "https://www.douglas.de/de/p/m000993020",
+        "prices": {
+            "100ml": {
+                "original_price": 102.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum SACRESTE",
+        "url": "https://www.douglas.de/de/p/m001035003",
+        "prices": {
+            "30ml": {
+                "original_price": 54.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Laboratorio Olfattivo Eau de Parfum DECOU-VERT",
+        "url": "https://www.douglas.de/de/p/m000993021",
+        "prices": {
+            "100ml": {
+                "original_price": 102.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

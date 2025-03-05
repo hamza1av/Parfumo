@@ -1,0 +1,32 @@
+[
+    {
+        "perfume_name": "Allgäuer Latschenkiefer Fußcreme Allgäuer Latschenkiefer Fuß Verwöhnbalsam",
+        "url": "https://www.douglas.de/de/p/m000229159",
+        "prices": {
+            "ALLGAEUER FUSS VERWOEHNBAL 100 ml / Default Title": {
+                "original_price": 16.39,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Allgäuer Latschenkiefer Fußcreme Allgäuer Latschenkiefer 10% Urea Fußcreme",
+        "url": "https://www.douglas.de/de/p/m000229036",
+        "prices": {
+            "ALLGAEUER 10%UREA FUSS 100 ml / Default Title": {
+                "original_price": 20.79,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Allgäuer Latschenkiefer Deodorant Allgäuer Latschenkiefer Fußpflege Deospray",
+        "url": "https://www.douglas.de/de/p/m000229158",
+        "prices": {
+            "ALLGAEUER LAT FUSSPFL DEO 100 ml / Default Title": {
+                "original_price": 15.49,
+                "reduced_price": null
+            }
+        }
+    }
+]

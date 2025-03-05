@@ -1,0 +1,87 @@
+[
+    {
+        "perfume_name": "NOBILE 1942 Eau de Parfum Pontevecchio Women",
+        "url": "https://www.douglas.de/de/p/3001023663",
+        "prices": {
+            "75 ml": {
+                "original_price": 130.0,
+                "reduced_price": 85.0
+            }
+        }
+    },
+    {
+        "perfume_name": "NOBILE 1942 Parfum Vespri Aromatico",
+        "url": "https://www.douglas.de/de/p/5011539319",
+        "prices": {
+            "75 Stück": {
+                "original_price": 130.0,
+                "reduced_price": 104.0
+            }
+        }
+    },
+    {
+        "perfume_name": "NOBILE 1942 Eau de Parfum Casta Diva",
+        "url": "https://www.douglas.de/de/p/3001023669",
+        "prices": {
+            "75 ml": {
+                "original_price": 130.0,
+                "reduced_price": 85.0
+            }
+        }
+    },
+    {
+        "perfume_name": "NOBILE 1942 Eau de Parfum Estroverso Men",
+        "url": "https://www.douglas.de/de/p/5011543141",
+        "prices": {
+            "75 ml": {
+                "original_price": 130.0,
+                "reduced_price": 104.0
+            }
+        }
+    },
+    {
+        "perfume_name": "NOBILE 1942 Eau de Parfum Rudis",
+        "url": "https://www.douglas.de/de/p/3001023654",
+        "prices": {
+            "75 ml": {
+                "original_price": 205.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5011073034",
+        "prices": {}
+    },
+    {
+        "perfume_name": "NOBILE 1942 Eau de Parfum Café Chantant",
+        "url": "https://www.douglas.de/de/p/3001023686",
+        "prices": {
+            "75 ml": {
+                "original_price": 130.0,
+                "reduced_price": 89.0
+            }
+        }
+    },
+    {
+        "perfume_name": "NOBILE 1942 Eau de Parfum Vespri Esperidati",
+        "url": "https://www.douglas.de/de/p/3001023668",
+        "prices": {
+            "75 ml": {
+                "original_price": 130.0,
+                "reduced_price": 85.0
+            }
+        }
+    },
+    {
+        "perfume_name": "NOBILE 1942 Eau de Parfum NOBILE 26",
+        "url": "https://www.douglas.de/de/p/5011590025",
+        "prices": {
+            "75 ml": {
+                "original_price": 130.0,
+                "reduced_price": 85.0
+            }
+        }
+    }
+]

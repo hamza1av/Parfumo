@@ -1,0 +1,42 @@
+[
+    {
+        "perfume_name": "Hemcael Eau de Parfum RARIS",
+        "url": "https://www.douglas.de/de/p/5011318001",
+        "prices": {
+            "100 ml": {
+                "original_price": 350.0,
+                "reduced_price": 280.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Hemcael Eau de Parfum ABEL",
+        "url": "https://www.douglas.de/de/p/5011318004",
+        "prices": {
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": 220.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Hemcael Eau de Parfum CAELUM",
+        "url": "https://www.douglas.de/de/p/5011318000",
+        "prices": {
+            "100 ml": {
+                "original_price": 295.0,
+                "reduced_price": 236.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Hemcael Eau de Parfum HORRUIT",
+        "url": "https://www.douglas.de/de/p/5011318002",
+        "prices": {
+            "100 ml": {
+                "original_price": 285.0,
+                "reduced_price": 228.0
+            }
+        }
+    }
+]

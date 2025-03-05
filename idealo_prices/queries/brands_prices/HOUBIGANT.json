@@ -1,0 +1,92 @@
+[
+    {
+        "perfume_name": "HOUBIGANT Eau de Parfum BOIS MYSTIQUE",
+        "url": "https://www.douglas.de/de/p/5010081552",
+        "prices": {
+            "100 ml": {
+                "original_price": 175.0,
+                "reduced_price": 140.0
+            }
+        }
+    },
+    {
+        "perfume_name": "HOUBIGANT Eau de Parfum Pivoine Souveraine",
+        "url": "https://www.douglas.de/de/p/5011142095",
+        "prices": {
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "HOUBIGANT Eau de Parfum La Belle Saison Collection Privée",
+        "url": "https://www.douglas.de/de/p/5010081483",
+        "prices": {
+            "100 ml": {
+                "original_price": 190.0,
+                "reduced_price": 152.0
+            }
+        }
+    },
+    {
+        "perfume_name": "HOUBIGANT Eau de Parfum Quelques Fleurs 100ml EDP",
+        "url": "https://www.douglas.de/de/p/5010081482?variant=796656",
+        "prices": {
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": 149.0
+            }
+        }
+    },
+    {
+        "perfume_name": "HOUBIGANT Eau de Parfum Quelques Fleurs QUELQUES FLEURS JARDIN SECRET",
+        "url": "https://www.douglas.de/de/p/5010081468",
+        "prices": {
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": 128.0
+            }
+        }
+    },
+    {
+        "perfume_name": "HOUBIGANT Eau de Parfum BOIS MYSTIQUE EXTRAIT",
+        "url": "https://www.douglas.de/de/p/5011584059",
+        "prices": {
+            "100 ml": {
+                "original_price": 460.0,
+                "reduced_price": 368.0
+            }
+        }
+    },
+    {
+        "perfume_name": "HOUBIGANT Eau de Parfum Pétales de Magnolia",
+        "url": "https://www.douglas.de/de/p/5011379003",
+        "prices": {
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "HOUBIGANT Eau de Parfum DUC DE VERVINS L'EXTREME",
+        "url": "https://www.douglas.de/de/p/5011404014",
+        "prices": {
+            "120 ml": {
+                "original_price": 155.0,
+                "reduced_price": 124.0
+            }
+        }
+    },
+    {
+        "perfume_name": "HOUBIGANT Eau de Parfum Tabac Nomade",
+        "url": "https://www.douglas.de/de/p/5011215007",
+        "prices": {
+            "100 ml": {
+                "original_price": 175.0,
+                "reduced_price": 140.0
+            }
+        }
+    }
+]

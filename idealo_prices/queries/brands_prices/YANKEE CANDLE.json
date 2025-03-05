@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "YANKEE CANDLE Kerze Fondants Schwarzer Tee und Zitrone",
+        "url": "https://www.douglas.de/de/p/5011284213",
+        "prices": {
+            "22 g": {
+                "original_price": 2.9,
+                "reduced_price": 2.32
+            }
+        }
+    },
+    {
+        "perfume_name": "YANKEE CANDLE Kerze Votivglas Vanille Limette",
+        "url": "https://www.douglas.de/de/p/5011284243",
+        "prices": {
+            "37 g": {
+                "original_price": 4.9,
+                "reduced_price": 3.92
+            }
+        }
+    }
+]

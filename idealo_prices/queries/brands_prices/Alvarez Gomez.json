@@ -1,0 +1,131 @@
+[
+    {
+        "perfume_name": "Alvarez Gomez Duftset",
+        "url": "https://www.douglas.de/de/p/5010992504",
+        "prices": {
+            "3 Stk.": {
+                "original_price": 21.91,
+                "reduced_price": 18.62
+            }
+        }
+    },
+    {
+        "perfume_name": "Alvarez Gomez Eau de Cologne Agua De Colonia Agua Fresca Verbena Spray",
+        "url": "https://www.douglas.de/de/p/5010955504",
+        "prices": {
+            "300 ml": {
+                "original_price": 19.14,
+                "reduced_price": 15.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Alvarez Gomez Eau de Cologne Barberia Concentrated Eau de Cologne Spray",
+        "url": "https://www.douglas.de/de/p/m000118165",
+        "prices": {
+            "150 ml": {
+                "original_price": 34.79,
+                "reduced_price": 29.57
+            }
+        }
+    },
+    {
+        "perfume_name": "Alvarez Gomez Eau de Cologne",
+        "url": "https://www.douglas.de/de/p/5010994136",
+        "prices": {
+            "150 ml": {
+                "original_price": 30.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5010993238",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Alvarez Gomez Duftset",
+        "url": "https://www.douglas.de/de/p/5010991474",
+        "prices": {
+            "1 Stück": {
+                "original_price": 24.99,
+                "reduced_price": 19.49
+            }
+        }
+    },
+    {
+        "perfume_name": "Alvarez Gomez Deodorant Classic Deodorant Roll-on",
+        "url": "https://www.douglas.de/de/p/m002078072",
+        "prices": {
+            "75 ml": {
+                "original_price": 12.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Alvarez Gomez Duftset",
+        "url": "https://www.douglas.de/de/p/5011143075",
+        "prices": {
+            "1 Stück": {
+                "original_price": 26.04,
+                "reduced_price": 21.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Alvarez Gomez Eau de Cologne Classic Eau de Cologne Spray",
+        "url": "https://www.douglas.de/de/p/m002087001",
+        "prices": {
+            "80 ml": {
+                "original_price": 20.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Alvarez Gomez Eau de Cologne",
+        "url": "https://www.douglas.de/de/p/5010959317?variant=m1182112",
+        "prices": {
+            "750 ml": {
+                "original_price": 32.93,
+                "reduced_price": 27.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Alvarez Gomez Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5010991185",
+        "prices": {
+            "150 ml": {
+                "original_price": 20.19,
+                "reduced_price": 17.16
+            }
+        }
+    },
+    {
+        "perfume_name": "Alvarez Gomez Eau de Cologne Classic Eau de Cologne Splash",
+        "url": "https://www.douglas.de/de/p/m002087002?variant=m1130169",
+        "prices": {
+            "300 ml": {
+                "original_price": 38.18,
+                "reduced_price": 32.45
+            },
+            "750 ml": {
+                "original_price": 53.61,
+                "reduced_price": 45.56
+            }
+        }
+    },
+    {
+        "perfume_name": "Alvarez Gomez Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5010991649",
+        "prices": {
+            "150 ml": {
+                "original_price": 21.09,
+                "reduced_price": 17.69
+            }
+        }
+    }
+]

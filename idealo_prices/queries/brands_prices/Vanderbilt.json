@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "Vanderbilt Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5010966026?variant=1103186",
+        "prices": {
+            "100 ml": {
+                "original_price": 22.89,
+                "reduced_price": 19.45
+            }
+        }
+    },
+    {
+        "perfume_name": "Vanderbilt Eau de Toilette Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/1060801304?variant=015015",
+        "prices": {
+            "100 ml": {
+                "original_price": 51.49,
+                "reduced_price": 19.69
+            }
+        }
+    }
+]

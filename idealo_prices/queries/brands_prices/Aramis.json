@@ -1,0 +1,42 @@
+[
+    {
+        "perfume_name": "Aramis Eau de Toilette Aramis Classic Tuscany",
+        "url": "https://www.douglas.de/de/p/m000575103?variant=466547",
+        "prices": {
+            "100 ml": {
+                "original_price": 104.0,
+                "reduced_price": 83.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Aramis Deodorant High Performance Antiperspirant Spray",
+        "url": "https://www.douglas.de/de/p/m002041005",
+        "prices": {
+            "200 ml": {
+                "original_price": 36.0,
+                "reduced_price": 30.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Aramis After Shave Aramis Classic Rasierwasser",
+        "url": "https://www.douglas.de/de/p/1007709131?variant=624593",
+        "prices": {
+            "200 ml": {
+                "original_price": 69.0,
+                "reduced_price": 55.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Aramis Eau de Toilette Aramis Classic",
+        "url": "https://www.douglas.de/de/p/1007709304?variant=624833",
+        "prices": {
+            "110 ml": {
+                "original_price": 104.0,
+                "reduced_price": 83.2
+            }
+        }
+    }
+]

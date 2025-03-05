@@ -1,0 +1,98 @@
+[
+    {
+        "perfume_name": "MCM Eau de Parfum Natural Spray-Vaporisateur",
+        "url": "https://www.douglas.de/de/p/5009975060?variant=089810",
+        "prices": {
+            "30 ml": {
+                "original_price": 63.0,
+                "reduced_price": 50.4
+            },
+            "50 ml": {
+                "original_price": 84.0,
+                "reduced_price": 67.2
+            },
+            "75 ml": {
+                "original_price": 105.0,
+                "reduced_price": 84.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MCM Eau de Parfum ULTRA",
+        "url": "https://www.douglas.de/de/p/5010693139?variant=1215394",
+        "prices": {
+            "10 ml": {
+                "original_price": 27.0,
+                "reduced_price": 21.6
+            },
+            "30 ml": {
+                "original_price": 67.0,
+                "reduced_price": 53.6
+            }
+        }
+    },
+    {
+        "perfume_name": "MCM Eau de Parfum Travelsize",
+        "url": "https://www.douglas.de/de/p/5010003245",
+        "prices": {
+            "10 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MCM Eau de Parfum Diamond Eau de Parfum 50 ml",
+        "url": "https://www.douglas.de/de/p/5011545006?variant=1190006",
+        "prices": {
+            "30 ml": {
+                "original_price": 67.0,
+                "reduced_price": 53.6
+            },
+            "50 ml": {
+                "original_price": 88.0,
+                "reduced_price": 70.4
+            },
+            "75 ml": {
+                "original_price": 109.0,
+                "reduced_price": 87.2
+            }
+        }
+    },
+    {
+        "perfume_name": "MCM Eau de Parfum ONXY",
+        "url": "https://www.douglas.de/de/p/5010936104?variant=1087486",
+        "prices": {
+            "30 ml": {
+                "original_price": 63.0,
+                "reduced_price": 50.4
+            },
+            "50 ml": {
+                "original_price": 84.0,
+                "reduced_price": 67.2
+            },
+            "75 ml": {
+                "original_price": 105.0,
+                "reduced_price": 84.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MCM Eau de Parfum CRUSH",
+        "url": "https://www.douglas.de/de/p/5011336025",
+        "prices": {
+            "30 ml": {
+                "original_price": 63.0,
+                "reduced_price": 50.4
+            },
+            "50 ml": {
+                "original_price": 84.0,
+                "reduced_price": 67.2
+            },
+            "75 ml": {
+                "original_price": 105.0,
+                "reduced_price": 84.0
+            }
+        }
+    }
+]

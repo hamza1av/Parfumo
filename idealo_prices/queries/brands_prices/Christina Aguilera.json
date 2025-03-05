@@ -1,0 +1,172 @@
+[
+    {
+        "perfume_name": "Christina Aguilera Eau de Parfum Definition",
+        "url": "https://www.douglas.de/de/p/3001039827?variant=990708",
+        "prices": {
+            "15 ml": {
+                "original_price": 13.99,
+                "reduced_price": 11.19
+            },
+            "30 ml": {
+                "original_price": 18.99,
+                "reduced_price": 15.19
+            },
+            "50 ml": {
+                "original_price": 24.99,
+                "reduced_price": 19.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Christina Aguilera Eau de Parfum Christina Aguilera",
+        "url": "https://www.douglas.de/de/p/2010007086?variant=987493",
+        "prices": {
+            "15 ml": {
+                "original_price": 13.99,
+                "reduced_price": 11.19
+            },
+            "30 ml": {
+                "original_price": 18.99,
+                "reduced_price": 15.19
+            },
+            "50 ml": {
+                "original_price": 24.99,
+                "reduced_price": 19.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Christina Aguilera Eau de Toilette By Night Fine Fragrance Mist",
+        "url": "https://www.douglas.de/de/p/5011511002",
+        "prices": {
+            "236 ml": {
+                "original_price": 8.99,
+                "reduced_price": 7.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Christina Aguilera Eau de Parfum Glam X",
+        "url": "https://www.douglas.de/de/p/3001046909?variant=970505",
+        "prices": {
+            "30 ml": {
+                "original_price": 18.99,
+                "reduced_price": 15.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5011511003",
+        "prices": {
+            "30 ml": {
+                "original_price": 18.99,
+                "reduced_price": 15.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Christina Aguilera Bodyspray Violet Noir",
+        "url": "https://www.douglas.de/de/p/3001046911",
+        "prices": {
+            "236 ml": {
+                "original_price": 8.99,
+                "reduced_price": 7.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Christina Aguilera Eau de Parfum Cherry Noir",
+        "url": "https://www.douglas.de/de/p/5011468009",
+        "prices": {
+            "15 ml": {
+                "original_price": 13.99,
+                "reduced_price": 11.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Christina Aguilera Eau de Parfum Xtina",
+        "url": "https://www.douglas.de/de/p/5011511000?variant=1153975",
+        "prices": {
+            "15 ml": {
+                "original_price": 13.99,
+                "reduced_price": 11.19
+            },
+            "30 ml": {
+                "original_price": 18.99,
+                "reduced_price": 15.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Christina Aguilera Eau de Toilette Definition Fine Fragrance Mist",
+        "url": "https://www.douglas.de/de/p/5011522067",
+        "prices": {
+            "236 ml": {
+                "original_price": 8.99,
+                "reduced_price": 7.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Christina Aguilera Eau de Parfum By Night",
+        "url": "https://www.douglas.de/de/p/3000031128?variant=053393",
+        "prices": {
+            "15 ml": {
+                "original_price": 13.99,
+                "reduced_price": 11.19
+            },
+            "30 ml": {
+                "original_price": 18.99,
+                "reduced_price": 15.19
+            },
+            "50 ml": {
+                "original_price": 24.99,
+                "reduced_price": 19.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Christina Aguilera Eau de Parfum Moonlight Bloom 15 ml",
+        "url": "https://www.douglas.de/de/p/5010380021",
+        "prices": {
+            "15 ml": {
+                "original_price": 13.99,
+                "reduced_price": 11.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Christina Aguilera Eau de Parfum Xtina Infinite",
+        "url": "https://www.douglas.de/de/p/5011543023?variant=1197374",
+        "prices": {
+            "15 ml": {
+                "original_price": 13.99,
+                "reduced_price": 11.19
+            },
+            "30 ml": {
+                "original_price": 18.99,
+                "reduced_price": 15.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Christina Aguilera Eau de Parfum Violet Noir",
+        "url": "https://www.douglas.de/de/p/3001046910?variant=031766",
+        "prices": {
+            "15 ml": {
+                "original_price": 13.99,
+                "reduced_price": 11.19
+            },
+            "30 ml": {
+                "original_price": 18.99,
+                "reduced_price": 15.19
+            },
+            "50 ml": {
+                "original_price": 24.99,
+                "reduced_price": 19.99
+            }
+        }
+    }
+]

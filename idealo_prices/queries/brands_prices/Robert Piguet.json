@@ -1,0 +1,32 @@
+[
+    {
+        "perfume_name": "Robert Piguet Eau de Parfum Fracas",
+        "url": "https://www.douglas.de/de/p/3001031359",
+        "prices": {
+            "100 ml": {
+                "original_price": 185.0,
+                "reduced_price": 148.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Robert Piguet Eau de Parfum Notes",
+        "url": "https://www.douglas.de/de/p/3001031282",
+        "prices": {
+            "100 ml": {
+                "original_price": 185.0,
+                "reduced_price": 148.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Robert Piguet Eau de Parfum Fracas",
+        "url": "https://www.douglas.de/de/p/3001047713",
+        "prices": {
+            "50 ml": {
+                "original_price": 119.0,
+                "reduced_price": 95.2
+            }
+        }
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "perfume_name": "Talbot Runhof Eau de Parfum Purple Tweed EdP Nat. Spray",
+        "url": "https://www.douglas.de/de/p/m001876207",
+        "prices": {
+            "90 ml": {
+                "original_price": 162.49,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Talbot Runhof Eau de Parfum Purple Velvet EdP Nat. Spray",
+        "url": "https://www.douglas.de/de/p/m001876055",
+        "prices": {
+            "90 ml": {
+                "original_price": 170.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Talbot Runhof Eau de Parfum Purple Sequins EdP Nat. Spray",
+        "url": "https://www.douglas.de/de/p/m001876216",
+        "prices": {
+            "90 ml": {
+                "original_price": 162.49,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Talbot Runhof Eau de Parfum Purple Leather EdP Nat. Spray",
+        "url": "https://www.douglas.de/de/p/m001802835",
+        "prices": {
+            "90 ml": {
+                "original_price": 162.49,
+                "reduced_price": null
+            }
+        }
+    }
+]

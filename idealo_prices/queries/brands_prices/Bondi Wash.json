@@ -1,0 +1,32 @@
+[
+    {
+        "perfume_name": "Bondi Wash Bodyspray BODY SPRAY",
+        "url": "https://www.douglas.de/de/p/5002494050",
+        "prices": {
+            "125 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Bondi Wash Deodorant Deodorant Deodorant Spray Sydney Peppermint & Rosemary",
+        "url": "https://www.douglas.de/de/p/m002311043",
+        "prices": {
+            "125 ml": {
+                "original_price": 24.99,
+                "reduced_price": 21.24
+            }
+        }
+    },
+    {
+        "perfume_name": "Bondi Wash Bodyspray BODY SPRAY",
+        "url": "https://www.douglas.de/de/p/5002494032",
+        "prices": {
+            "125 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            }
+        }
+    }
+]

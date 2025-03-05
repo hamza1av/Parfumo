@@ -1,0 +1,32 @@
+[
+    {
+        "perfume_name": "BALR. Eau de Parfum BALR. 3 FOR WOMEN Body Lotion 150 ml",
+        "url": "https://www.douglas.de/de/p/5003621072",
+        "prices": {
+            "150 ml": {
+                "original_price": 25.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5002826008?variant=529655",
+        "prices": {}
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5002826010?variant=529675",
+        "prices": {}
+    },
+    {
+        "perfume_name": "BALR. Eau de Parfum BALR. 2 FOR WOMEN Edp Spray 100 ml",
+        "url": "https://www.douglas.de/de/p/5002826009?variant=529663",
+        "prices": {
+            "50 ml": {
+                "original_price": 60.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

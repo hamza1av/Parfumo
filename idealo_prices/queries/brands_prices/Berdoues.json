@@ -1,109 +1,7 @@
 [
     {
-        "perfume_name": "Berdoues Eau de Toilette BAIES & FUN",
-        "prices": {
-            "30 ml": {
-                "original_price": 12.95,
-                "reduced_price": 10.36
-            }
-        }
-    },
-    {
-        "perfume_name": "Berdoues Eau de Parfum Collection Grand Crus Guaria Morada",
-        "prices": {
-            "100 ml": {
-                "original_price": 85.0,
-                "reduced_price": 68.0
-            }
-        }
-    },
-    {
-        "perfume_name": "Berdoues Eau de Toilette Monoi&Tiaré",
-        "prices": {
-            "100 ml": {
-                "original_price": 32.99,
-                "reduced_price": null
-            }
-        }
-    },
-    {
-        "perfume_name": "Berdoues Eau de Parfum Fleur d´Oranger & Bergamote EDP Bio",
-        "prices": {
-            "50 ml": {
-                "original_price": 29.9,
-                "reduced_price": 23.92
-            }
-        }
-    },
-    {
-        "perfume_name": "Berdoues Eau de Cologne Jasmin",
-        "prices": {
-            "125 ml": {
-                "original_price": 17.39,
-                "reduced_price": null
-            }
-        }
-    },
-    {
-        "perfume_name": "Berdoues Eau de Toilette THÉ VERT & FREE",
-        "prices": {
-            "30 ml": {
-                "original_price": 12.95,
-                "reduced_price": 10.36
-            }
-        }
-    },
-    {
-        "perfume_name": "Berdoues Eau de Parfum Collection Grand Crus Selva Do Brazil",
-        "prices": {
-            "100 ml": {
-                "original_price": 85.0,
-                "reduced_price": 68.0
-            }
-        }
-    },
-    {
-        "perfume_name": "Berdoues Eau de Parfum Fleur de Jasmin & Amandier EDP Bio",
-        "prices": {
-            "50 ml": {
-                "original_price": 29.9,
-                "reduced_price": 23.92
-            }
-        }
-    },
-    {
-        "perfume_name": "Berdoues Eau de Toilette Pivoine & Rhubarbe",
-        "prices": {
-            "100 ml": {
-                "original_price": 32.9,
-                "reduced_price": 26.32
-            }
-        }
-    },
-    {
-        "perfume_name": "",
-        "prices": {}
-    },
-    {
-        "perfume_name": "Berdoues Eau de Parfum Collection Grand Crus Somei Yoshino",
-        "prices": {
-            "100 ml": {
-                "original_price": 85.0,
-                "reduced_price": 68.0
-            }
-        }
-    },
-    {
-        "perfume_name": "Berdoues Eau de Parfum Fleur de Tiaré & Ylang",
-        "prices": {
-            "50 ml": {
-                "original_price": 29.9,
-                "reduced_price": 23.92
-            }
-        }
-    },
-    {
         "perfume_name": "Berdoues Eau de Toilette ROSE & LITCHI",
+        "url": "https://www.douglas.de/de/p/5011491029",
         "prices": {
             "100 ml": {
                 "original_price": 32.99,
@@ -112,65 +10,8 @@
         }
     },
     {
-        "perfume_name": "Berdoues Eau de Cologne Coton",
-        "prices": {
-            "125 ml": {
-                "original_price": 17.39,
-                "reduced_price": null
-            }
-        }
-    },
-    {
-        "perfume_name": "Berdoues Eau de Parfum MATAHARI DI BALI",
-        "prices": {
-            "100 ml": {
-                "original_price": 85.0,
-                "reduced_price": null
-            }
-        }
-    },
-    {
-        "perfume_name": "Berdoues Eau de Toilette NÉROLI & PEACE",
-        "prices": {
-            "30 ml": {
-                "original_price": 12.95,
-                "reduced_price": 10.36
-            }
-        }
-    },
-    {
-        "perfume_name": "Berdoues Eau de Toilette OSMANTHUS & LOVE",
-        "prices": {
-            "30 ml": {
-                "original_price": 12.95,
-                "reduced_price": 10.36
-            }
-        }
-    },
-    {
-        "perfume_name": "Berdoues Eau de Cologne Fleur d´Oranger",
-        "prices": {
-            "125 ml": {
-                "original_price": 16.99,
-                "reduced_price": null
-            }
-        }
-    },
-    {
-        "perfume_name": "Berdoues Eau de Toilette Vanille & Safran",
-        "prices": {
-            "100 ml": {
-                "original_price": 32.9,
-                "reduced_price": 26.32
-            }
-        }
-    },
-    {
-        "perfume_name": "",
-        "prices": {}
-    },
-    {
-        "perfume_name": "Berdoues Eau de Toilette Musc Blanc & Lin",
+        "perfume_name": "Berdoues Eau de Toilette MONOI & COCO",
+        "url": "https://www.douglas.de/de/p/5011556000",
         "prices": {
             "100 ml": {
                 "original_price": 34.99,
@@ -179,7 +20,128 @@
         }
     },
     {
+        "perfume_name": "Berdoues Eau de Toilette THÉ VERT & FREE",
+        "url": "https://www.douglas.de/de/p/5011285362",
+        "prices": {
+            "30 ml": {
+                "original_price": 12.95,
+                "reduced_price": 10.36
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Parfum Verveine & Clémentine",
+        "url": "https://www.douglas.de/de/p/5010606002",
+        "prices": {
+            "50 ml": {
+                "original_price": 29.9,
+                "reduced_price": 23.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Parfum Collection Grand Crus Guaria Morada",
+        "url": "https://www.douglas.de/de/p/5003067016",
+        "prices": {
+            "100 ml": {
+                "original_price": 85.0,
+                "reduced_price": 68.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Toilette Collection Grand Crus Avoine & Coquelicot",
+        "url": "https://www.douglas.de/de/p/5010551005",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.9,
+                "reduced_price": 26.32
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Cologne Jasmin",
+        "url": "https://www.douglas.de/de/p/5011286021",
+        "prices": {
+            "125 ml": {
+                "original_price": 17.39,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Parfum Fleur de Jasmin & Amandier EDP Bio",
+        "url": "https://www.douglas.de/de/p/5010352322",
+        "prices": {
+            "50 ml": {
+                "original_price": 29.9,
+                "reduced_price": 23.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Parfum Fleur de Tiaré & Ylang",
+        "url": "https://www.douglas.de/de/p/5010352318",
+        "prices": {
+            "50 ml": {
+                "original_price": 29.9,
+                "reduced_price": 23.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Parfum Collection Grand Crus Maasai Mara",
+        "url": "https://www.douglas.de/de/p/5001768467",
+        "prices": {
+            "100 ml": {
+                "original_price": 85.0,
+                "reduced_price": 68.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Toilette NÉROLI & PEACE",
+        "url": "https://www.douglas.de/de/p/5011285355",
+        "prices": {
+            "30 ml": {
+                "original_price": 12.95,
+                "reduced_price": 10.36
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Parfum Collection Grand Crus Somei Yoshino",
+        "url": "https://www.douglas.de/de/p/5001768426",
+        "prices": {
+            "100 ml": {
+                "original_price": 85.0,
+                "reduced_price": 68.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Toilette Musc & Néroli",
+        "url": "https://www.douglas.de/de/p/5003121003",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.9,
+                "reduced_price": 26.32
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Cologne Coton",
+        "url": "https://www.douglas.de/de/p/5010606001",
+        "prices": {
+            "125 ml": {
+                "original_price": 17.39,
+                "reduced_price": null
+            }
+        }
+    },
+    {
         "perfume_name": "Berdoues Eau de Cologne Vetiver",
+        "url": "https://www.douglas.de/de/p/5011222023",
         "prices": {
             "125 ml": {
                 "original_price": 16.9,
@@ -188,43 +150,8 @@
         }
     },
     {
-        "perfume_name": "Berdoues Eau de Parfum Verveine & Clémentine",
-        "prices": {
-            "50 ml": {
-                "original_price": 29.9,
-                "reduced_price": 23.92
-            }
-        }
-    },
-    {
-        "perfume_name": "Berdoues Eau de Toilette Collection Grand Crus Avoine & Coquelicot",
-        "prices": {
-            "100 ml": {
-                "original_price": 32.9,
-                "reduced_price": 26.32
-            }
-        }
-    },
-    {
-        "perfume_name": "Berdoues Eau de Toilette Ylang & Fleur de Sel",
-        "prices": {
-            "100 ml": {
-                "original_price": 32.9,
-                "reduced_price": 26.32
-            }
-        }
-    },
-    {
-        "perfume_name": "Berdoues Eau de Toilette Musc & Néroli",
-        "prices": {
-            "100 ml": {
-                "original_price": 32.9,
-                "reduced_price": 26.32
-            }
-        }
-    },
-    {
-        "perfume_name": "Berdoues Eau de Parfum Collection Grand Crus Assam of India",
+        "perfume_name": "Berdoues Eau de Parfum Collection Grand Crus Selva Do Brazil",
+        "url": "https://www.douglas.de/de/p/5001768431",
         "prices": {
             "100 ml": {
                 "original_price": 85.0,
@@ -233,11 +160,117 @@
         }
     },
     {
-        "perfume_name": "Berdoues Eau de Toilette MONOI & COCO",
+        "perfume_name": "Berdoues Eau de Toilette Ylang & Fleur de Sel",
+        "url": "https://www.douglas.de/de/p/5010352016",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.9,
+                "reduced_price": 26.32
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Toilette OSMANTHUS & LOVE",
+        "url": "https://www.douglas.de/de/p/5011285357",
+        "prices": {
+            "30 ml": {
+                "original_price": 12.95,
+                "reduced_price": 10.36
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Toilette Pivoine & Rhubarbe",
+        "url": "https://www.douglas.de/de/p/5003121004",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.9,
+                "reduced_price": 26.32
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Toilette Monoi&Tiaré",
+        "url": "https://www.douglas.de/de/p/5011259038",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Toilette Vanille & Safran",
+        "url": "https://www.douglas.de/de/p/5010589024",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.9,
+                "reduced_price": 26.32
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Parfum MATAHARI DI BALI",
+        "url": "https://www.douglas.de/de/p/5011526021",
+        "prices": {
+            "100 ml": {
+                "original_price": 85.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Cologne Fleur d´Oranger",
+        "url": "https://www.douglas.de/de/p/5011284905",
+        "prices": {
+            "125 ml": {
+                "original_price": 16.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Toilette BAIES & FUN",
+        "url": "https://www.douglas.de/de/p/5011285361",
+        "prices": {
+            "30 ml": {
+                "original_price": 12.95,
+                "reduced_price": 10.36
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Toilette Musc Blanc & Lin",
+        "url": "https://www.douglas.de/de/p/5011582023",
         "prices": {
             "100 ml": {
                 "original_price": 34.99,
                 "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Berdoues Eau de Parfum Collection Grand Crus Assam of India",
+        "url": "https://www.douglas.de/de/p/5001768424",
+        "prices": {
+            "100 ml": {
+                "original_price": 85.0,
+                "reduced_price": 68.0
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5003121008",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Berdoues Eau de Parfum Fleur d´Oranger & Bergamote EDP Bio",
+        "url": "https://www.douglas.de/de/p/5010352325",
+        "prices": {
+            "50 ml": {
+                "original_price": 29.9,
+                "reduced_price": 23.92
             }
         }
     }

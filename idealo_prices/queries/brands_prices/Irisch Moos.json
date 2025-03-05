@@ -1,0 +1,26 @@
+[
+    {
+        "perfume_name": "Irisch Moos After Shave Sir Irisch Moos Rasierwasser",
+        "url": "https://www.douglas.de/de/p/3000002043?variant=500207",
+        "prices": {
+            "50 ml": {
+                "original_price": 11.5,
+                "reduced_price": 9.2
+            },
+            "100 ml": {
+                "original_price": 15.5,
+                "reduced_price": 10.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Irisch Moos Deodorant Sir Irisch Moos Natural Spray",
+        "url": "https://www.douglas.de/de/p/3001024951",
+        "prices": {
+            "75 ml": {
+                "original_price": 11.0,
+                "reduced_price": 7.99
+            }
+        }
+    }
+]

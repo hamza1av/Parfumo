@@ -1,0 +1,92 @@
+[
+    {
+        "perfume_name": "WOMO Parfum Black Cologne",
+        "url": "https://www.douglas.de/de/p/5011392027",
+        "prices": {
+            "100 ml": {
+                "original_price": 55.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "WOMO Eau de Parfum Santal + Coffee",
+        "url": "https://www.douglas.de/de/p/5011392071",
+        "prices": {
+            "100 ml": {
+                "original_price": 120.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "WOMO Parfum Black Amber",
+        "url": "https://www.douglas.de/de/p/5011392026",
+        "prices": {
+            "100 ml": {
+                "original_price": 55.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5011392025",
+        "prices": {}
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5011392020",
+        "prices": {}
+    },
+    {
+        "perfume_name": "WOMO Parfum Incense + Cardamom",
+        "url": "https://www.douglas.de/de/p/5011392022",
+        "prices": {
+            "100 ml": {
+                "original_price": 120.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "WOMO Parfum Black Powder",
+        "url": "https://www.douglas.de/de/p/5011392032",
+        "prices": {
+            "100 ml": {
+                "original_price": 55.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "WOMO Parfum Coiba",
+        "url": "https://www.douglas.de/de/p/5011392024",
+        "prices": {
+            "100 ml": {
+                "original_price": 36.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "WOMO Parfum Figue + Neroli",
+        "url": "https://www.douglas.de/de/p/5011392038",
+        "prices": {
+            "100 ml": {
+                "original_price": 120.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "WOMO Parfum Black Spice",
+        "url": "https://www.douglas.de/de/p/5011392031",
+        "prices": {
+            "100 ml": {
+                "original_price": 55.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

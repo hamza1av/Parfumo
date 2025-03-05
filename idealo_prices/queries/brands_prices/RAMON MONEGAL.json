@@ -1,0 +1,112 @@
+[
+    {
+        "perfume_name": "RAMON MONEGAL Eau de Parfum NEXT TO ME",
+        "url": "https://www.douglas.de/de/p/5011579065",
+        "prices": {
+            "50 ml": {
+                "original_price": 171.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "RAMON MONEGAL Eau de Parfum UMBRA",
+        "url": "https://www.douglas.de/de/p/5011579066",
+        "prices": {
+            "50 ml": {
+                "original_price": 145.0,
+                "reduced_price": 116.0
+            }
+        }
+    },
+    {
+        "perfume_name": "RAMON MONEGAL Eau de Parfum FAÏSA",
+        "url": "https://www.douglas.de/de/p/5011579068",
+        "prices": {
+            "50 ml": {
+                "original_price": 190.0,
+                "reduced_price": 152.0
+            }
+        }
+    },
+    {
+        "perfume_name": "RAMON MONEGAL Eau de Parfum CHERRY MUSK",
+        "url": "https://www.douglas.de/de/p/5011579063",
+        "prices": {
+            "50 ml": {
+                "original_price": 145.0,
+                "reduced_price": 116.0
+            }
+        }
+    },
+    {
+        "perfume_name": "RAMON MONEGAL Eau de Parfum AGAR MUSK",
+        "url": "https://www.douglas.de/de/p/5011583208",
+        "prices": {
+            "50 ml": {
+                "original_price": 146.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "RAMON MONEGAL Eau de Parfum THE NEW PARADISE",
+        "url": "https://www.douglas.de/de/p/5011579067",
+        "prices": {
+            "50 ml": {
+                "original_price": 171.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "RAMON MONEGAL Eau de Parfum IBIZA LAISLABLANCA",
+        "url": "https://www.douglas.de/de/p/5011579070",
+        "prices": {
+            "100 ml": {
+                "original_price": 180.0,
+                "reduced_price": 144.0
+            }
+        }
+    },
+    {
+        "perfume_name": "RAMON MONEGAL Eau de Parfum DRY WOOD",
+        "url": "https://www.douglas.de/de/p/5011579064",
+        "prices": {
+            "50 ml": {
+                "original_price": 145.0,
+                "reduced_price": 116.0
+            }
+        }
+    },
+    {
+        "perfume_name": "RAMON MONEGAL Eau de Parfum SIESTA",
+        "url": "https://www.douglas.de/de/p/5011583207",
+        "prices": {
+            "50 ml": {
+                "original_price": 190.0,
+                "reduced_price": 152.0
+            }
+        }
+    },
+    {
+        "perfume_name": "RAMON MONEGAL Eau de Parfum FLAMENCO",
+        "url": "https://www.douglas.de/de/p/5011579069",
+        "prices": {
+            "50 ml": {
+                "original_price": 190.0,
+                "reduced_price": 152.0
+            }
+        }
+    },
+    {
+        "perfume_name": "RAMON MONEGAL Eau de Parfum Cotton Musk",
+        "url": "https://www.douglas.de/de/p/5011530082",
+        "prices": {
+            "50 ml": {
+                "original_price": 145.0,
+                "reduced_price": 116.0
+            }
+        }
+    }
+]

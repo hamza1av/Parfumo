@@ -1,0 +1,545 @@
+[
+    {
+        "perfume_name": "Chloé Eau de Parfum Nomade Jasmin Naturelle",
+        "url": "https://www.douglas.de/de/p/5010463115",
+        "prices": {
+            "30 ml": {
+                "original_price": 79.0,
+                "reduced_price": 52.99
+            },
+            "50 ml": {
+                "original_price": 112.0,
+                "reduced_price": 89.0
+            },
+            "75 ml": {
+                "original_price": 139.0,
+                "reduced_price": 111.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Toilette Nomade",
+        "url": "https://www.douglas.de/de/p/3001053377?variant=076509",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            },
+            "50 ml": {
+                "original_price": 93.19,
+                "reduced_price": null
+            },
+            "75 ml": {
+                "original_price": 126.0,
+                "reduced_price": 100.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Atelier des Fleurs Immortelle",
+        "url": "https://www.douglas.de/de/p/5011103019",
+        "prices": {
+            "50 ml": {
+                "original_price": 144.0,
+                "reduced_price": 115.2
+            },
+            "150 ml": {
+                "original_price": 260.0,
+                "reduced_price": 208.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Duftset Signature Chloé",
+        "url": "https://www.douglas.de/de/p/5011545289",
+        "prices": {
+            "Eau de Parfum Spray 50 ml + Body Lotion 100 ml": {
+                "original_price": 108.0,
+                "reduced_price": 107.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Signature Chloé L‘Eau de Parfum Lumineuse",
+        "url": "https://www.douglas.de/de/p/5011070002",
+        "prices": {
+            "30 ml": {
+                "original_price": 79.0,
+                "reduced_price": 63.2
+            },
+            "50 ml": {
+                "original_price": 112.0,
+                "reduced_price": 89.6
+            },
+            "100 ml": {
+                "original_price": 161.0,
+                "reduced_price": 128.8
+            },
+            "150 ml": {
+                "original_price": 161.0,
+                "reduced_price": 128.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Signature Chloé",
+        "url": "https://www.douglas.de/de/p/2010007429?variant=680733",
+        "prices": {
+            "20 ml": {
+                "original_price": 49.0,
+                "reduced_price": 47.99
+            },
+            "30 ml": {
+                "original_price": 78.0,
+                "reduced_price": 37.93
+            },
+            "50 ml": {
+                "original_price": 108.0,
+                "reduced_price": 52.51
+            },
+            "75 ml": {
+                "original_price": 130.0,
+                "reduced_price": 63.22
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Atelier des Fleurs Cedrus",
+        "url": "https://www.douglas.de/de/p/5002331008",
+        "prices": {
+            "50 ml": {
+                "original_price": 125.0,
+                "reduced_price": 100.0
+            },
+            "150 ml": {
+                "original_price": 242.0,
+                "reduced_price": 193.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Atelier des Fleurs Hysope",
+        "url": "https://www.douglas.de/de/p/5011103018",
+        "prices": {
+            "50 ml": {
+                "original_price": 144.0,
+                "reduced_price": 99.0
+            },
+            "150 ml": {
+                "original_price": 260.0,
+                "reduced_price": 208.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Atelier des Fleurs Hibiscus Abelmoschus",
+        "url": "https://www.douglas.de/de/p/5002331006",
+        "prices": {
+            "50 ml": {
+                "original_price": 125.0,
+                "reduced_price": 100.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Signature Intense",
+        "url": "https://www.douglas.de/de/p/5011521301",
+        "prices": {
+            "Nachfüllbar": {
+                "original_price": 169.0,
+                "reduced_price": 113.0
+            },
+            "150 ml": {
+                "original_price": 169.0,
+                "reduced_price": 119.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Nomade Lumière d'Egypte",
+        "url": "https://www.douglas.de/de/p/5011687055",
+        "prices": {
+            "30 ml": {
+                "original_price": 79.0,
+                "reduced_price": 53.99
+            },
+            "50 ml": {
+                "original_price": 112.0,
+                "reduced_price": 76.99
+            },
+            "75 ml": {
+                "original_price": 139.0,
+                "reduced_price": 99.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Atelier des Fleurs Verbena",
+        "url": "https://www.douglas.de/de/p/5002331009",
+        "prices": {
+            "50 ml": {
+                "original_price": 125.0,
+                "reduced_price": 100.0
+            },
+            "150 ml": {
+                "original_price": 242.0,
+                "reduced_price": 193.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Atelier des Fleurs Vanilla Planifolia",
+        "url": "https://www.douglas.de/de/p/5003566051",
+        "prices": {
+            "50 ml": {
+                "original_price": 125.0,
+                "reduced_price": 100.0
+            },
+            "150 ml": {
+                "original_price": 242.0,
+                "reduced_price": 193.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Atelier des Fleurs Ylang Cananga",
+        "url": "https://www.douglas.de/de/p/5010393064",
+        "prices": {
+            "50 ml": {
+                "original_price": 144.0,
+                "reduced_price": 115.2
+            },
+            "150 ml": {
+                "original_price": 260.0,
+                "reduced_price": 208.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Nomade",
+        "url": "https://www.douglas.de/de/p/3001042239?variant=996998",
+        "prices": {
+            "20 ml": {
+                "original_price": 51.0,
+                "reduced_price": 47.99
+            },
+            "30 ml": {
+                "original_price": 78.0,
+                "reduced_price": 38.99
+            },
+            "50 ml": {
+                "original_price": 108.0,
+                "reduced_price": 58.99
+            },
+            "75 ml": {
+                "original_price": 130.0,
+                "reduced_price": 73.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Signature Rose Naturelle Intense",
+        "url": "https://www.douglas.de/de/p/5010683008?variant=1032706",
+        "prices": {
+            "30 ml": {
+                "original_price": 83.0,
+                "reduced_price": 66.4
+            },
+            "50 ml": {
+                "original_price": 116.0,
+                "reduced_price": 92.8
+            },
+            "100 ml": {
+                "original_price": 169.0,
+                "reduced_price": 135.2
+            },
+            "150 ml - Refill": {
+                "original_price": 170.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Chloé Love Story",
+        "url": "https://www.douglas.de/de/p/3001009534?variant=818788",
+        "prices": {
+            "30 ml": {
+                "original_price": 78.0,
+                "reduced_price": 51.99
+            },
+            "50 ml": {
+                "original_price": 108.0,
+                "reduced_price": 71.99
+            },
+            "75 ml": {
+                "original_price": 132.0,
+                "reduced_price": 89.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Handcreme Signature Chloé Perfumed Hand Cream",
+        "url": "https://www.douglas.de/de/p/5001830049",
+        "prices": {
+            "75 ml": {
+                "original_price": 46.0,
+                "reduced_price": 36.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Atelier des Fleurs Tuberosa 1974",
+        "url": "https://www.douglas.de/de/p/5003566063",
+        "prices": {
+            "150 ml": {
+                "original_price": 242.0,
+                "reduced_price": 193.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Atelier des Fleurs Néroli",
+        "url": "https://www.douglas.de/de/p/5002331000",
+        "prices": {
+            "50 ml": {
+                "original_price": 125.0,
+                "reduced_price": 100.0
+            },
+            "150 ml": {
+                "original_price": 242.0,
+                "reduced_price": 193.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Nomade Jasmin Naturel Intense",
+        "url": "https://www.douglas.de/de/p/5010887016?variant=1071949",
+        "prices": {
+            "30 ml": {
+                "original_price": 83.0,
+                "reduced_price": 66.4
+            },
+            "50 ml": {
+                "original_price": 116.0,
+                "reduced_price": 92.8
+            },
+            "75 ml": {
+                "original_price": 152.0,
+                "reduced_price": 121.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Nomade Nuit d’Egypte",
+        "url": "https://www.douglas.de/de/p/5011265057",
+        "prices": {
+            "30 ml": {
+                "original_price": 79.0,
+                "reduced_price": 56.99
+            },
+            "50 ml": {
+                "original_price": 112.0,
+                "reduced_price": 89.6
+            },
+            "75 ml": {
+                "original_price": 139.0,
+                "reduced_price": 111.2
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5011103020",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Atelier des Fleurs Jasminum Sambac",
+        "url": "https://www.douglas.de/de/p/5002331001",
+        "prices": {
+            "50 ml": {
+                "original_price": 125.0,
+                "reduced_price": 100.0
+            },
+            "150 ml": {
+                "original_price": 242.0,
+                "reduced_price": 193.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Atelier des Fleurs Orchidée de Minuit",
+        "url": "https://www.douglas.de/de/p/5011545339",
+        "prices": {
+            "50 ml": {
+                "original_price": 144.0,
+                "reduced_price": 115.2
+            },
+            "150 ml": {
+                "original_price": 260.0,
+                "reduced_price": 208.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Atelier des Fleurs Herba Mimosa",
+        "url": "https://www.douglas.de/de/p/5002330010",
+        "prices": {
+            "50 ml": {
+                "original_price": 125.0,
+                "reduced_price": 100.0
+            },
+            "150 ml": {
+                "original_price": 242.0,
+                "reduced_price": 193.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Atelier des Fleurs Magnolia Alba",
+        "url": "https://www.douglas.de/de/p/5002330011",
+        "prices": {
+            "50 ml": {
+                "original_price": 125.0,
+                "reduced_price": 100.0
+            },
+            "150 ml": {
+                "original_price": 242.0,
+                "reduced_price": 193.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Atelier des Fleurs Nuit d'Oranger",
+        "url": "https://www.douglas.de/de/p/5011545337",
+        "prices": {
+            "50 ml": {
+                "original_price": 144.0,
+                "reduced_price": 115.2
+            },
+            "150 ml": {
+                "original_price": 260.0,
+                "reduced_price": 208.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Atelier des Fleurs Rosa Damascena",
+        "url": "https://www.douglas.de/de/p/5002330008",
+        "prices": {
+            "50 ml": {
+                "original_price": 125.0,
+                "reduced_price": 100.0
+            },
+            "150 ml": {
+                "original_price": 242.0,
+                "reduced_price": 193.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Atelier des Fleurs Lavanda",
+        "url": "https://www.douglas.de/de/p/5002331005",
+        "prices": {
+            "50 ml": {
+                "original_price": 125.0,
+                "reduced_price": 100.0
+            },
+            "150 ml": {
+                "original_price": 242.0,
+                "reduced_price": 193.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Atelier des Fleurs Natural Extensions Sandalwood",
+        "url": "https://www.douglas.de/de/p/5010728019",
+        "prices": {
+            "50 ml": {
+                "original_price": 144.0,
+                "reduced_price": 115.2
+            },
+            "150 ml": {
+                "original_price": 260.0,
+                "reduced_price": 208.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Duftset Intense",
+        "url": "https://www.douglas.de/de/p/5011545288",
+        "prices": {
+            "1 Stück": {
+                "original_price": 122.0,
+                "reduced_price": 97.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Signature Rose Naturelle",
+        "url": "https://www.douglas.de/de/p/5010218734",
+        "prices": {
+            "30 ml": {
+                "original_price": 79.0,
+                "reduced_price": 63.2
+            },
+            "50 ml": {
+                "original_price": 106.0,
+                "reduced_price": 100.89
+            },
+            "100 ml": {
+                "original_price": 161.0,
+                "reduced_price": 128.8
+            },
+            "150 ml - Refill": {
+                "original_price": 161.0,
+                "reduced_price": 128.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Toilette Signature Rose Tangerine",
+        "url": "https://www.douglas.de/de/p/5002559000",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            },
+            "50 ml": {
+                "original_price": 102.0,
+                "reduced_price": 81.6
+            },
+            "75 ml": {
+                "original_price": 126.0,
+                "reduced_price": 100.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Eau de Parfum Atelier des Fleurs Tubéreuse Lazuli",
+        "url": "https://www.douglas.de/de/p/5011545338",
+        "prices": {
+            "50 ml": {
+                "original_price": 144.0,
+                "reduced_price": 115.2
+            },
+            "150 ml": {
+                "original_price": 260.0,
+                "reduced_price": 208.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Chloé Parfum Atelier des Fleurs Cedrus Intense",
+        "url": "https://www.douglas.de/de/p/5011703041?variant=1221459",
+        "prices": {
+            "50 ml": {
+                "original_price": 155.0,
+                "reduced_price": 124.0
+            },
+            "150 ml": {
+                "original_price": 293.0,
+                "reduced_price": 234.4
+            }
+        }
+    }
+]

@@ -1,0 +1,458 @@
+[
+    {
+        "perfume_name": "Eisenberg Parfum LES SECRETS Men SECRET VI  CUIR D'ORIENT",
+        "url": "https://www.douglas.de/de/p/3001041445?variant=987210",
+        "prices": {
+            "50 ml": {
+                "original_price": 141.0,
+                "reduced_price": 99.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Parfum L’Art du Parfum  –  Men LOVE AFFAIR",
+        "url": "https://www.douglas.de/de/p/3000043432?variant=614975",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            },
+            "50 ml": {
+                "original_price": 106.0,
+                "reduced_price": 84.8
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Parfum Happiness La Collection YOUNG",
+        "url": "https://www.douglas.de/de/p/5010620428?variant=1008642",
+        "prices": {
+            "100 ml": {
+                "original_price": 134.0,
+                "reduced_price": 94.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Parfum LES SECRETS Men SECRET V AMBRE D'ORIENT",
+        "url": "https://www.douglas.de/de/p/3001041444?variant=987208",
+        "prices": {
+            "30 ml": {
+                "original_price": 118.0,
+                "reduced_price": 82.0
+            },
+            "50 ml": {
+                "original_price": 141.0,
+                "reduced_price": 99.0
+            },
+            "100 ml": {
+                "original_price": 177.0,
+                "reduced_price": 141.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Deodorant L’Art du Parfum  –  Men J'OSE HOMME DEODORANT SPRAY",
+        "url": "https://www.douglas.de/de/p/5010957310",
+        "prices": {
+            "100 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Eau de Parfum LES SECRETS Women SECRET VIII SOUFFLE DU DÉSIR",
+        "url": "https://www.douglas.de/de/p/5011491040",
+        "prices": {
+            "30 ml": {
+                "original_price": 118.0,
+                "reduced_price": 94.4
+            },
+            "50 ml": {
+                "original_price": 141.0,
+                "reduced_price": 112.8
+            },
+            "100 ml": {
+                "original_price": 177.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Eau de Parfum LES SECRETS Women SECRET III VOILE DE CHYPRE",
+        "url": "https://www.douglas.de/de/p/3001041448?variant=987181",
+        "prices": {
+            "30 ml": {
+                "original_price": 118.0,
+                "reduced_price": 82.0
+            },
+            "50 ml": {
+                "original_price": 141.0,
+                "reduced_price": 69.99
+            },
+            "100 ml": {
+                "original_price": 177.0,
+                "reduced_price": 123.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Parfum L’Art du Parfum  –  Women LE PÉCHÉ",
+        "url": "https://www.douglas.de/de/p/3000043423",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 107.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Eau de Parfum L’Art du Parfum  –  Women ROUGE ET NOIR INTENSE",
+        "url": "https://www.douglas.de/de/p/5010983118?variant=1092599",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 48.99
+            },
+            "50 ml": {
+                "original_price": 106.0,
+                "reduced_price": 74.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Eau de Parfum LES SECRETS Men SECRET VIII DE LUMIÈRE ET D'OMBRE",
+        "url": "https://www.douglas.de/de/p/5011491041?variant=1186189",
+        "prices": {
+            "30 ml": {
+                "original_price": 118.0,
+                "reduced_price": 94.4
+            },
+            "50 ml": {
+                "original_price": 141.0,
+                "reduced_price": 112.8
+            },
+            "100 ml": {
+                "original_price": 177.0,
+                "reduced_price": 141.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Eau de Parfum L’Art du Parfum  –  Women I AM",
+        "url": "https://www.douglas.de/de/p/3000043421",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            },
+            "50 ml": {
+                "original_price": 106.0,
+                "reduced_price": 84.8
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Eau de Parfum L’Art du Parfum  –  Women J'OSE",
+        "url": "https://www.douglas.de/de/p/3000043422?variant=614907",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            },
+            "50 ml": {
+                "original_price": 106.0,
+                "reduced_price": 84.8
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Eau de Parfum LES SECRETS Women SECRET VII VELOURS DE NUIT",
+        "url": "https://www.douglas.de/de/p/5011491039",
+        "prices": {
+            "30 ml": {
+                "original_price": 118.0,
+                "reduced_price": 94.4
+            },
+            "50 ml": {
+                "original_price": 143.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 177.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Eau de Parfum L’Art du Parfum  –  Women LOVE AFFAIR",
+        "url": "https://www.douglas.de/de/p/3000043424",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            },
+            "50 ml": {
+                "original_price": 106.0,
+                "reduced_price": 84.8
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Eau de Parfum LES SECRETS Men SECRET II BOIS PRECIEUX",
+        "url": "https://www.douglas.de/de/p/3001041440?variant=987197",
+        "prices": {
+            "50 ml": {
+                "original_price": 141.0,
+                "reduced_price": 99.0
+            },
+            "100 ml": {
+                "original_price": 177.0,
+                "reduced_price": 117.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Parfum LES SECRETS Men SECRET IV RITUEL D'ORIENT",
+        "url": "https://www.douglas.de/de/p/3001041442",
+        "prices": {
+            "30 ml": {
+                "original_price": 118.0,
+                "reduced_price": 82.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Eau de Parfum LES SECRETS Women SECRET IV RITUEL D'ORIENT",
+        "url": "https://www.douglas.de/de/p/3001041449?variant=987184",
+        "prices": {
+            "50 ml": {
+                "original_price": 141.0,
+                "reduced_price": 69.99
+            },
+            "100 ml": {
+                "original_price": 177.0,
+                "reduced_price": 123.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Eau de Parfum LES SECRETS Men SECRET VII ÉCHO LUMINEUX",
+        "url": "https://www.douglas.de/de/p/5011491038?variant=1186180",
+        "prices": {
+            "30 ml": {
+                "original_price": 118.0,
+                "reduced_price": 94.4
+            },
+            "50 ml": {
+                "original_price": 141.0,
+                "reduced_price": 112.8
+            },
+            "100 ml": {
+                "original_price": 177.0,
+                "reduced_price": 141.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Parfum LES SECRETS Women SECRET V AMBRE D'ORIENT",
+        "url": "https://www.douglas.de/de/p/3001041450?variant=987187",
+        "prices": {
+            "30 ml": {
+                "original_price": 118.0,
+                "reduced_price": 82.0
+            },
+            "50 ml": {
+                "original_price": 141.0,
+                "reduced_price": 99.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Deodorant L’Art du Parfum  –  Women I AM DEODORANT SPRAY",
+        "url": "https://www.douglas.de/de/p/5010961286",
+        "prices": {
+            "100 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Parfum Happiness La Collection HAPPY",
+        "url": "https://www.douglas.de/de/p/5010620390?variant=1008639",
+        "prices": {
+            "30 ml": {
+                "original_price": 66.0,
+                "reduced_price": 45.99
+            },
+            "100 ml": {
+                "original_price": 134.0,
+                "reduced_price": 66.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Eau de Parfum L’Art du Parfum  –  Women EAU FRAÎCHE DÉLICATE",
+        "url": "https://www.douglas.de/de/p/5010983116?variant=1092606",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 46.99
+            },
+            "50 ml": {
+                "original_price": 106.0,
+                "reduced_price": 84.8
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 99.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Parfum Happiness La Collection BEAUTIFUL",
+        "url": "https://www.douglas.de/de/p/5010620424",
+        "prices": {
+            "30 ml": {
+                "original_price": 66.0,
+                "reduced_price": 32.99
+            },
+            "50 ml": {
+                "original_price": 89.0,
+                "reduced_price": 63.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg After Shave GEL APRES-RASAGE APAISANT",
+        "url": "https://www.douglas.de/de/p/3000035173",
+        "prices": {
+            "75 ml": {
+                "original_price": 62.0,
+                "reduced_price": 49.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Eau de Parfum L’Art du Parfum  –  Women BACK TO PARIS",
+        "url": "https://www.douglas.de/de/p/3000043418",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 53.99
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Parfum L’Art du Parfum  –  Men EAU FRAÎCHE",
+        "url": "https://www.douglas.de/de/p/3000043429",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            },
+            "50 ml": {
+                "original_price": 106.0,
+                "reduced_price": 84.8
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Eau de Parfum L’Art du Parfum  –  Men J'OSE",
+        "url": "https://www.douglas.de/de/p/3000043430?variant=614969",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            },
+            "50 ml": {
+                "original_price": 106.0,
+                "reduced_price": 84.8
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Eau de Parfum L’Art du Parfum  –  Women DIABOLIQUE",
+        "url": "https://www.douglas.de/de/p/3000043419?variant=614881",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 48.99
+            },
+            "50 ml": {
+                "original_price": 106.0,
+                "reduced_price": 84.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Parfum L’Art du Parfum  –  Men DIABOLIQUE",
+        "url": "https://www.douglas.de/de/p/3000043428?variant=614952",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 48.99
+            },
+            "50 ml": {
+                "original_price": 106.0,
+                "reduced_price": 84.8
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Eisenberg Parfum L’Art du Parfum  –  Men LE PÉCHÉ",
+        "url": "https://www.douglas.de/de/p/3000043431?variant=614972",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            },
+            "50 ml": {
+                "original_price": 106.0,
+                "reduced_price": 84.8
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    }
+]

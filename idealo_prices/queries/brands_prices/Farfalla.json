@@ -1,0 +1,147 @@
+[
+    {
+        "perfume_name": "Farfalla Körperöl Aroma-Roll-on - Kopfklar10ml",
+        "url": "https://www.douglas.de/de/p/m000068221",
+        "prices": {
+            "10 ml": {
+                "original_price": 15.99,
+                "reduced_price": 13.59
+            }
+        }
+    },
+    {
+        "perfume_name": "Farfalla Eau de Cologne Natural Eau de Cologne - Frangipani 50ml",
+        "url": "https://www.douglas.de/de/p/m000063608",
+        "prices": {
+            "50 ml": {
+                "original_price": 31.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Farfalla Eau de Parfum Natural Eau de Parfum - Vanilla Nuvola 50ml",
+        "url": "https://www.douglas.de/de/p/m000069265",
+        "prices": {
+            "50 ml": {
+                "original_price": 48.99,
+                "reduced_price": 41.64
+            }
+        }
+    },
+    {
+        "perfume_name": "Farfalla Eau de Cologne Eau de Cologne Waldzauber 50ml",
+        "url": "https://www.douglas.de/de/p/m001877089",
+        "prices": {
+            "50 ml": {
+                "original_price": 33.99,
+                "reduced_price": 28.89
+            }
+        }
+    },
+    {
+        "perfume_name": "Farfalla Eau de Parfum Natural Eau de Parfum - Woody Bergamot 50ml",
+        "url": "https://www.douglas.de/de/p/m000069145",
+        "prices": {
+            "50 ml": {
+                "original_price": 49.99,
+                "reduced_price": 42.49
+            }
+        }
+    },
+    {
+        "perfume_name": "Farfalla Parfum Eau de Parfum - Alpine Blue 50ml",
+        "url": "https://www.douglas.de/de/p/m001015044",
+        "prices": {
+            "50 ml": {
+                "original_price": 55.99,
+                "reduced_price": 47.59
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/m000069186",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Farfalla Eau de Cologne Natural Eau de Cologne - Mandarine 50ml",
+        "url": "https://www.douglas.de/de/p/m000063549",
+        "prices": {
+            "50 ml": {
+                "original_price": 30.99,
+                "reduced_price": 26.34
+            }
+        }
+    },
+    {
+        "perfume_name": "Farfalla Eau de Parfum Do it yourself - Bio-Parfum 27ml",
+        "url": "https://www.douglas.de/de/p/m000064796",
+        "prices": {
+            "27 ml": {
+                "original_price": 10.99,
+                "reduced_price": 9.34
+            }
+        }
+    },
+    {
+        "perfume_name": "Farfalla Eau de Parfum Natural Eau de Parfum - Nomad 50ml",
+        "url": "https://www.douglas.de/de/p/m000069060",
+        "prices": {
+            "50 ml": {
+                "original_price": 48.99,
+                "reduced_price": 41.64
+            }
+        }
+    },
+    {
+        "perfume_name": "Farfalla Eau de Parfum Natural Eau de Parfum - Hippie Rose",
+        "url": "https://www.douglas.de/de/p/m000069137",
+        "prices": {
+            "50 ml": {
+                "original_price": 48.99,
+                "reduced_price": 41.64
+            }
+        }
+    },
+    {
+        "perfume_name": "Farfalla Eau Fraiche Men",
+        "url": "https://www.douglas.de/de/p/m000069114",
+        "prices": {
+            "Men - Eau Fraiche Cedarwood 100ml": {
+                "original_price": 39.99,
+                "reduced_price": 33.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Farfalla Eau de Parfum Natural Eau de Cologne - Aura 1968 50ml",
+        "url": "https://www.douglas.de/de/p/m000069169",
+        "prices": {
+            "50 ml": {
+                "original_price": 47.99,
+                "reduced_price": 40.79
+            }
+        }
+    },
+    {
+        "perfume_name": "Farfalla Parfum Rose - Natural Eau de Cologne 50ml",
+        "url": "https://www.douglas.de/de/p/m000365052",
+        "prices": {
+            "50 ml": {
+                "original_price": 35.99,
+                "reduced_price": 30.59
+            }
+        }
+    },
+    {
+        "perfume_name": "Farfalla Eau de Parfum Eau de Parfum - Collection 5x2ml",
+        "url": "https://www.douglas.de/de/p/m000365177",
+        "prices": {
+            "10 ml": {
+                "original_price": 20.99,
+                "reduced_price": 17.84
+            }
+        }
+    }
+]

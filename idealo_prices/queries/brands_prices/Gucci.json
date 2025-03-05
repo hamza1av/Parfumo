@@ -1,0 +1,647 @@
+[
+    {
+        "perfume_name": "Gucci Eau de Parfum Gucci Bamboo",
+        "url": "https://www.douglas.de/de/p/3001015327?variant=874110",
+        "prices": {
+            "30 ml": {
+                "original_price": 85.99,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 116.0,
+                "reduced_price": 79.99
+            },
+            "75 ml": {
+                "original_price": 150.0,
+                "reduced_price": 103.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum Flora by Gucci Gorgeous Jasmine",
+        "url": "https://www.douglas.de/de/p/5010657011",
+        "prices": {
+            "30 ml": {
+                "original_price": 84.0,
+                "reduced_price": 55.99
+            },
+            "50 ml": {
+                "original_price": 118.0,
+                "reduced_price": 69.99
+            },
+            "100 ml": {
+                "original_price": 164.0,
+                "reduced_price": 103.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum The Alchemist's Garden A Chant for the Nymph",
+        "url": "https://www.douglas.de/de/p/5002183008",
+        "prices": {
+            "100 ml": {
+                "original_price": 345.0,
+                "reduced_price": 276.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Parfum Gucci Guilty Elixir",
+        "url": "https://www.douglas.de/de/p/5011066008",
+        "prices": {
+            "60 ml": {
+                "original_price": 165.0,
+                "reduced_price": 117.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Parfum Flora by Gucci Gucci Flora Gorgeous Magnolia Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m002165039",
+        "prices": {
+            "Refill": {
+                "original_price": 148.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum Flora by Gucci Gorgeous Gardenia",
+        "url": "https://www.douglas.de/de/p/5010091002?variant=176382",
+        "prices": {
+            "30 ml": {
+                "original_price": 84.0,
+                "reduced_price": 40.94
+            },
+            "50 ml": {
+                "original_price": 118.0,
+                "reduced_price": 57.38
+            },
+            "100 ml": {
+                "original_price": 164.0,
+                "reduced_price": 79.74
+            },
+            "150 ml - Refill": {
+                "original_price": 165.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Toilette Gucci Guilty Pour Homme",
+        "url": "https://www.douglas.de/de/p/3000040211?variant=573646",
+        "prices": {
+            "50 ml": {
+                "original_price": 86.0,
+                "reduced_price": 61.99
+            },
+            "90 ml": {
+                "original_price": 120.0,
+                "reduced_price": 86.0
+            },
+            "150 ml": {
+                "original_price": 148.0,
+                "reduced_price": 118.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum Flora by Gucci Flora Gorgeous Magnolia",
+        "url": "https://www.douglas.de/de/p/5011035030?variant=1116951",
+        "prices": {
+            "30 ml": {
+                "original_price": 84.0,
+                "reduced_price": 59.99
+            },
+            "50 ml": {
+                "original_price": 118.0,
+                "reduced_price": 71.99
+            },
+            "100 ml": {
+                "original_price": 164.0,
+                "reduced_price": 95.0
+            },
+            "150 ml - Refill": {
+                "original_price": 164.0,
+                "reduced_price": 131.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Toilette Gucci Guilty Pour Femme",
+        "url": "https://www.douglas.de/de/p/5009850000?variant=853056",
+        "prices": {
+            "30 ml": {
+                "original_price": 76.0,
+                "reduced_price": 60.8
+            },
+            "50 ml": {
+                "original_price": 105.0,
+                "reduced_price": 84.0
+            },
+            "90 ml": {
+                "original_price": 141.0,
+                "reduced_price": 112.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum Gucci Bloom",
+        "url": "https://www.douglas.de/de/p/3001038253?variant=976243",
+        "prices": {
+            "30 ml": {
+                "original_price": 84.0,
+                "reduced_price": 58.99
+            },
+            "50 ml": {
+                "original_price": 118.0,
+                "reduced_price": 79.99
+            },
+            "100 ml": {
+                "original_price": 164.0,
+                "reduced_price": 113.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum Gucci Guilty Love Edition pour Homme",
+        "url": "https://www.douglas.de/de/p/5011693002?variant=1218783",
+        "prices": {
+            "50 ml": {
+                "original_price": 100.0,
+                "reduced_price": 76.99
+            },
+            "90 ml": {
+                "original_price": 141.0,
+                "reduced_price": 112.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum Gucci Bloom Profumo die Fiori",
+        "url": "https://www.douglas.de/de/p/5002565014?variant=718262",
+        "prices": {
+            "30 ml": {
+                "original_price": 84.0,
+                "reduced_price": 79.09
+            },
+            "50 ml": {
+                "original_price": 118.0,
+                "reduced_price": 109.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Toilette Gucci Bloom",
+        "url": "https://www.douglas.de/de/p/5010508192?variant=457479",
+        "prices": {
+            "30 ml": {
+                "original_price": 72.99,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 102.0,
+                "reduced_price": 81.6
+            },
+            "100 ml": {
+                "original_price": 141.0,
+                "reduced_price": 97.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum Gucci Bloom Intense",
+        "url": "https://www.douglas.de/de/p/5010899020?variant=1087868",
+        "prices": {
+            "30 ml": {
+                "original_price": 92.0,
+                "reduced_price": 73.6
+            },
+            "50 ml": {
+                "original_price": 126.0,
+                "reduced_price": 100.8
+            },
+            "100 ml": {
+                "original_price": 172.0,
+                "reduced_price": 133.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Deodorant Gucci Guilty Spray",
+        "url": "https://www.douglas.de/de/p/5010887021",
+        "prices": {
+            "150 ml": {
+                "original_price": 51.0,
+                "reduced_price": 40.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum The Alchemist's Garden A Gloaming Night",
+        "url": "https://www.douglas.de/de/p/5010334230",
+        "prices": {
+            "100 ml": {
+                "original_price": 345.0,
+                "reduced_price": 276.0
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5000022010",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum Gucci Bloom Ambrosia di Fiori",
+        "url": "https://www.douglas.de/de/p/5000214101?variant=318258",
+        "prices": {
+            "30 ml": {
+                "original_price": 93.99,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 132.0,
+                "reduced_price": 105.6
+            },
+            "100 ml": {
+                "original_price": 183.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum Gucci Guilty pour Homme Guilty Pour Homme",
+        "url": "https://www.douglas.de/de/p/5001525029",
+        "prices": {
+            "50 ml": {
+                "original_price": 100.0,
+                "reduced_price": 65.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Bodylotion Gucci Guilty Pour Femme",
+        "url": "https://www.douglas.de/de/p/5010880003",
+        "prices": {
+            "150 ml": {
+                "original_price": 52.0,
+                "reduced_price": 41.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Duftset Flora by Gucci Gorgeous Orchid",
+        "url": "https://www.douglas.de/de/p/5011575133",
+        "prices": {
+            "1 Stück": {
+                "original_price": 124.0,
+                "reduced_price": 58.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum Gucci Guilty Pour Femme",
+        "url": "https://www.douglas.de/de/p/3001053383?variant=065917",
+        "prices": {
+            "30 ml": {
+                "original_price": 85.99,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 118.0,
+                "reduced_price": 78.99
+            },
+            "90 ml": {
+                "original_price": 164.0,
+                "reduced_price": 125.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum The Alchemist's Garden WINTER'S SPRING  EAU",
+        "url": "https://www.douglas.de/de/p/5000022004",
+        "prices": {
+            "100 ml": {
+                "original_price": 345.0,
+                "reduced_price": 276.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Duftset Gucci Bloom",
+        "url": "https://www.douglas.de/de/p/5011285130",
+        "prices": {
+            "1 Stück": {
+                "original_price": 104.49,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum Gucci Guilty Intense Pour Femme",
+        "url": "https://www.douglas.de/de/p/5010456150",
+        "prices": {
+            "30 ml": {
+                "original_price": 92.0,
+                "reduced_price": 67.99
+            },
+            "50 ml": {
+                "original_price": 127.99,
+                "reduced_price": null
+            },
+            "90 ml": {
+                "original_price": 172.0,
+                "reduced_price": 117.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau Fraiche The Alchemist's Garden FADING AUTUMN",
+        "url": "https://www.douglas.de/de/p/5000022012",
+        "prices": {
+            "150 ml": {
+                "original_price": 241.0,
+                "reduced_price": 192.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum The Alchemist's Garden Vanilla Firenze",
+        "url": "https://www.douglas.de/de/p/5011718161",
+        "prices": {
+            "100 ml": {
+                "original_price": 345.0,
+                "reduced_price": 276.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Duschgel Gucci Guilty Shower Gel",
+        "url": "https://www.douglas.de/de/p/5010880002",
+        "prices": {
+            "150 ml": {
+                "original_price": 45.0,
+                "reduced_price": 36.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum The Alchemist's Garden Osmanthus Nectar",
+        "url": "https://www.douglas.de/de/p/5011719080",
+        "prices": {
+            "100 ml": {
+                "original_price": 345.0,
+                "reduced_price": 276.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum The Alchemist's Garden A Floral Verse",
+        "url": "https://www.douglas.de/de/p/5011081010",
+        "prices": {
+            "100 ml": {
+                "original_price": 345.0,
+                "reduced_price": 276.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Duftset Flora Garden Collection Gorgeous Gardenia",
+        "url": "https://www.douglas.de/de/p/5011573181",
+        "prices": {
+            "1 Stück": {
+                "original_price": 122.0,
+                "reduced_price": 61.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum Flora by Gucci Gorgeous Orchid",
+        "url": "https://www.douglas.de/de/p/5011498043",
+        "prices": {
+            "30 ml": {
+                "original_price": 84.0,
+                "reduced_price": 54.99
+            },
+            "50 ml": {
+                "original_price": 118.0,
+                "reduced_price": 74.99
+            },
+            "100 ml": {
+                "original_price": 164.0,
+                "reduced_price": 116.0
+            },
+            "150 ml - Refill": {
+                "original_price": 164.0,
+                "reduced_price": 162.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Parfum Gucci Guilty Elixir",
+        "url": "https://www.douglas.de/de/p/5011066007",
+        "prices": {
+            "60 ml": {
+                "original_price": 158.0,
+                "reduced_price": 125.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum The Alchemist's Garden Where my Heart beats",
+        "url": "https://www.douglas.de/de/p/5010936004",
+        "prices": {
+            "100 ml": {
+                "original_price": 345.0,
+                "reduced_price": 276.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Parfum Gucci Bloom",
+        "url": "https://www.douglas.de/de/p/5011711165",
+        "prices": {
+            "30 ml": {
+                "original_price": 92.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 127.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 173.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Duftset Flora by Gucci Gorgeous Gardenia",
+        "url": "https://www.douglas.de/de/p/5011580083",
+        "prices": {
+            "1 Stück": {
+                "original_price": 191.0,
+                "reduced_price": 72.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum The Alchemist's Garden A SONG FOR THE ROSE",
+        "url": "https://www.douglas.de/de/p/5000022008",
+        "prices": {
+            "100 ml": {
+                "original_price": 345.0,
+                "reduced_price": 276.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Toilette Gucci Bamboo",
+        "url": "https://www.douglas.de/de/p/3001030775?variant=953355",
+        "prices": {
+            "30 ml": {
+                "original_price": 80.0,
+                "reduced_price": 64.0
+            },
+            "50 ml": {
+                "original_price": 100.0,
+                "reduced_price": 80.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum The Alchemist's Garden Fiori di Neroli",
+        "url": "https://www.douglas.de/de/p/5011719079",
+        "prices": {
+            "100 ml": {
+                "original_price": 345.0,
+                "reduced_price": 276.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Duftset Flora by Gucci Gorgeous Gardenia",
+        "url": "https://www.douglas.de/de/p/5011580074",
+        "prices": {
+            "1 Stück": {
+                "original_price": 92.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Toilette Gucci Rush",
+        "url": "https://www.douglas.de/de/p/1012509304?variant=964718",
+        "prices": {
+            "50 ml": {
+                "original_price": 100.0,
+                "reduced_price": 90.59
+            },
+            "75 ml": {
+                "original_price": 135.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Duschgel Gucci Guilty Shower Gel for Men",
+        "url": "https://www.douglas.de/de/p/5010880001",
+        "prices": {
+            "150 ml": {
+                "original_price": 35.0,
+                "reduced_price": 28.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum Gucci Guilty Love Edition pour Femme",
+        "url": "https://www.douglas.de/de/p/5011690009",
+        "prices": {
+            "50 ml": {
+                "original_price": 118.0,
+                "reduced_price": 89.0
+            },
+            "90 ml": {
+                "original_price": 164.0,
+                "reduced_price": 107.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum The Alchemist's Garden The Heart Of Leo",
+        "url": "https://www.douglas.de/de/p/5011392153",
+        "prices": {
+            "100 ml": {
+                "original_price": 345.0,
+                "reduced_price": 276.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum Gucci Guilty Absolute Pour Femme",
+        "url": "https://www.douglas.de/de/p/3001041551?variant=996960",
+        "prices": {
+            "30 ml": {
+                "original_price": 90.0,
+                "reduced_price": 72.0
+            },
+            "50 ml": {
+                "original_price": 124.0,
+                "reduced_price": 99.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Parfum Gucci Guilty Pour Homme",
+        "url": "https://www.douglas.de/de/p/5010456151?variant=449956",
+        "prices": {
+            "50 ml": {
+                "original_price": 119.0,
+                "reduced_price": 95.2
+            },
+            "90 ml": {
+                "original_price": 165.0,
+                "reduced_price": 129.0
+            },
+            "200 ml": {
+                "original_price": 238.0,
+                "reduced_price": 190.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum The Alchemist's Garden A Reason To Love",
+        "url": "https://www.douglas.de/de/p/5010796007",
+        "prices": {
+            "100 ml": {
+                "original_price": 345.0,
+                "reduced_price": 276.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Toilette Gucci Guilty pour Homme Essence",
+        "url": "https://www.douglas.de/de/p/5011616027?variant=1213635",
+        "prices": {
+            "50 ml": {
+                "original_price": 86.0,
+                "reduced_price": 65.99
+            },
+            "90 ml": {
+                "original_price": 120.0,
+                "reduced_price": 96.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gucci Eau de Parfum Gucci Guilty Pour Homme Absolute",
+        "url": "https://www.douglas.de/de/p/3001034966",
+        "prices": {
+            "90 ml": {
+                "original_price": 141.0,
+                "reduced_price": 112.8
+            }
+        }
+    }
+]

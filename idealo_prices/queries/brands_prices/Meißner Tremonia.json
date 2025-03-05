@@ -1,0 +1,52 @@
+[
+    {
+        "perfume_name": "Meißner Tremonia After Shave Aftershave Gentle Menthol",
+        "url": "https://www.douglas.de/de/p/m000804060",
+        "prices": {
+            "100 ml": {
+                "original_price": 29.89,
+                "reduced_price": 25.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Meißner Tremonia After Shave Aftershave Balm Mint Menthol",
+        "url": "https://www.douglas.de/de/p/m000804048",
+        "prices": {
+            "100 ml": {
+                "original_price": 28.89,
+                "reduced_price": 24.55
+            }
+        }
+    },
+    {
+        "perfume_name": "Meißner Tremonia After Shave Aftershave Balm  Dark Limes",
+        "url": "https://www.douglas.de/de/p/m000804083",
+        "prices": {
+            "100 ml": {
+                "original_price": 28.89,
+                "reduced_price": 24.55
+            }
+        }
+    },
+    {
+        "perfume_name": "Meißner Tremonia After Shave Aftershave Balm  Himalayan Heights",
+        "url": "https://www.douglas.de/de/p/m000804067",
+        "prices": {
+            "100 ml": {
+                "original_price": 28.89,
+                "reduced_price": 24.55
+            }
+        }
+    },
+    {
+        "perfume_name": "Meißner Tremonia After Shave Aftershave Balm Gentle Menthol",
+        "url": "https://www.douglas.de/de/p/m000804037",
+        "prices": {
+            "100 ml": {
+                "original_price": 28.89,
+                "reduced_price": 24.55
+            }
+        }
+    }
+]

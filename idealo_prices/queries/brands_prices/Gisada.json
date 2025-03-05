@@ -1,0 +1,182 @@
+[
+    {
+        "perfume_name": "Gisada Duftset Ambassador Intense Set",
+        "url": "https://www.douglas.de/de/p/5010724008",
+        "prices": {
+            "1 Stück": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gisada Eau de Parfum Iris",
+        "url": "https://www.douglas.de/de/p/5011515019",
+        "prices": {
+            "100 ml": {
+                "original_price": 250.0,
+                "reduced_price": 200.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gisada Eau de Parfum Ambassador",
+        "url": "https://www.douglas.de/de/p/5000191064",
+        "prices": {
+            "100 ml": {
+                "original_price": 115.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gisada Duschgel Ambassadora",
+        "url": "https://www.douglas.de/de/p/5011376046",
+        "prices": {
+            "100 ml": {
+                "original_price": 19.9,
+                "reduced_price": 15.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Gisada Eau de Parfum Ambassadora",
+        "url": "https://www.douglas.de/de/p/5010343006",
+        "prices": {
+            "100 ml": {
+                "original_price": 115.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gisada Eau de Parfum Royal",
+        "url": "https://www.douglas.de/de/p/5011515021",
+        "prices": {
+            "100 ml": {
+                "original_price": 250.0,
+                "reduced_price": 200.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gisada Eau de Parfum Imperial",
+        "url": "https://www.douglas.de/de/p/5011515022",
+        "prices": {
+            "100 ml": {
+                "original_price": 250.0,
+                "reduced_price": 200.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gisada Eau de Parfum Ambassadora Women",
+        "url": "https://www.douglas.de/de/p/5000191065",
+        "prices": {
+            "50 ml": {
+                "original_price": 85.0,
+                "reduced_price": 68.0
+            },
+            "100 ml": {
+                "original_price": 115.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gisada Eau de Toilette Donna",
+        "url": "https://www.douglas.de/de/p/3001049024",
+        "prices": {
+            "50 ml": {
+                "original_price": 85.0,
+                "reduced_price": 68.0
+            },
+            "100 ml": {
+                "original_price": 115.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gisada Eau de Parfum Rose",
+        "url": "https://www.douglas.de/de/p/5011515023",
+        "prices": {
+            "100 ml": {
+                "original_price": 250.0,
+                "reduced_price": 200.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gisada Eau de Parfum Titanium Titanium",
+        "url": "https://www.douglas.de/de/p/5011367006?variant=1178360",
+        "prices": {
+            "50 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            },
+            "100 ml": {
+                "original_price": 135.0,
+                "reduced_price": 108.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gisada Eau de Parfum Oud",
+        "url": "https://www.douglas.de/de/p/5011515020",
+        "prices": {
+            "100 ml": {
+                "original_price": 250.0,
+                "reduced_price": 200.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gisada Eau de Toilette Uomo",
+        "url": "https://www.douglas.de/de/p/3001049025?variant=970812",
+        "prices": {
+            "50 ml": {
+                "original_price": 85.0,
+                "reduced_price": 68.0
+            },
+            "100 ml": {
+                "original_price": 115.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gisada Eau de Parfum Ambassador Intense",
+        "url": "https://www.douglas.de/de/p/5010696094?variant=1027212",
+        "prices": {
+            "50 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            },
+            "100 ml": {
+                "original_price": 135.0,
+                "reduced_price": 108.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gisada Duftset Titanium",
+        "url": "https://www.douglas.de/de/p/5011560007",
+        "prices": {
+            "1 Stück": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gisada Duftset Ambassador",
+        "url": "https://www.douglas.de/de/p/5003563121",
+        "prices": {
+            "1 Stück": {
+                "original_price": 85.0,
+                "reduced_price": 68.0
+            }
+        }
+    }
+]

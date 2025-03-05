@@ -1,0 +1,152 @@
+[
+    {
+        "perfume_name": "Angel Schlesser Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5010748108",
+        "prices": {
+            "100 ml": {
+                "original_price": 53.99,
+                "reduced_price": null
+            },
+            "150 ml": {
+                "original_price": 66.0,
+                "reduced_price": 55.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Angel Schlesser Parfum Luminous Violet",
+        "url": "https://www.douglas.de/de/p/5010942011",
+        "prices": {
+            "100 ml": {
+                "original_price": 54.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Angel Schlesser Eau de Toilette Femme Naturelle",
+        "url": "https://www.douglas.de/de/p/5011543159",
+        "prices": {
+            "100 ml": {
+                "original_price": 90.0,
+                "reduced_price": 58.59
+            }
+        }
+    },
+    {
+        "perfume_name": "Angel Schlesser Eau de Toilette Instant Blooming Grapefruit",
+        "url": "https://www.douglas.de/de/p/5010958383",
+        "prices": {
+            "100 ml": {
+                "original_price": 53.5,
+                "reduced_price": 52.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Angel Schlesser Eau de Toilette Instant Splendid Orange Blossom",
+        "url": "https://www.douglas.de/de/p/5010958341",
+        "prices": {
+            "100 ml": {
+                "original_price": 53.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Angel Schlesser Parfum Vibrant Woody Mandarin",
+        "url": "https://www.douglas.de/de/p/5010942012?variant=1093892",
+        "prices": {
+            "100 ml": {
+                "original_price": 53.5,
+                "reduced_price": null
+            },
+            "150 ml": {
+                "original_price": 65.99,
+                "reduced_price": 47.49
+            }
+        }
+    },
+    {
+        "perfume_name": "Angel Schlesser Eau de Toilette Instant Profound Orange Wood",
+        "url": "https://www.douglas.de/de/p/5010960384",
+        "prices": {
+            "100 ml": {
+                "original_price": 53.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Angel Schlesser Eau de Parfum Angel Schlesser Femme Magique Eau De Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m002080133",
+        "prices": {
+            "100 ml": {
+                "original_price": 61.0,
+                "reduced_price": 51.85
+            }
+        }
+    },
+    {
+        "perfume_name": "Angel Schlesser Eau de Toilette Sofort verführerische Bergamotte",
+        "url": "https://www.douglas.de/de/p/5010748110",
+        "prices": {
+            "100 ml": {
+                "original_price": 53.5,
+                "reduced_price": 45.89
+            }
+        }
+    },
+    {
+        "perfume_name": "Angel Schlesser Eau de Toilette Les Eaux D'un Instant",
+        "url": "https://www.douglas.de/de/p/5010748109?variant=260224",
+        "prices": {
+            "100 ml": {
+                "original_price": 53.5,
+                "reduced_price": null
+            },
+            "150 ml": {
+                "original_price": 66.0,
+                "reduced_price": 47.49
+            }
+        }
+    },
+    {
+        "perfume_name": "Angel Schlesser Eau de Toilette As Instant Citrusy Magnolia",
+        "url": "https://www.douglas.de/de/p/5011455070?variant=1176369",
+        "prices": {
+            "100 ml": {
+                "original_price": 56.0,
+                "reduced_price": 40.99
+            },
+            "150 ml": {
+                "original_price": 70.0,
+                "reduced_price": 46.79
+            }
+        }
+    },
+    {
+        "perfume_name": "Angel Schlesser Eau de Toilette Angel Schlesser Femme Eau De Toilette Spray",
+        "url": "https://www.douglas.de/de/p/m001927262?variant=m3309199",
+        "prices": {
+            "100 ml": {
+                "original_price": 57.55,
+                "reduced_price": 48.91
+            }
+        }
+    },
+    {
+        "perfume_name": "Angel Schlesser Eau de Toilette As Instant Aromatic Sage",
+        "url": "https://www.douglas.de/de/p/5011455068",
+        "prices": {
+            "100 ml": {
+                "original_price": 56.0,
+                "reduced_price": 41.09
+            },
+            "150 ml": {
+                "original_price": 70.0,
+                "reduced_price": 46.79
+            }
+        }
+    }
+]

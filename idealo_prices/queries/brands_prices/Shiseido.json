@@ -1,0 +1,164 @@
+[
+    {
+        "perfume_name": "Shiseido Eau de Parfum GINZA The Soft Fluid Long Wear Spf 20",
+        "url": "https://www.douglas.de/de/p/5009584003",
+        "prices": {
+            "30 ml": {
+                "original_price": 71.0,
+                "reduced_price": 49.99
+            },
+            "50 ml": {
+                "original_price": 107.0,
+                "reduced_price": 71.99
+            },
+            "90 ml": {
+                "original_price": 142.0,
+                "reduced_price": 97.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shiseido Bodylotion GINZA",
+        "url": "https://www.douglas.de/de/p/5009584004",
+        "prices": {
+            "200 ml": {
+                "original_price": 56.0,
+                "reduced_price": 44.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Shiseido Deodorant GINZA",
+        "url": "https://www.douglas.de/de/p/5009584006",
+        "prices": {
+            "100 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Shiseido Eau de Parfum GINZA Ginza Datura Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5011718154",
+        "prices": {
+            "30 ml": {
+                "original_price": 71.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 107.0,
+                "reduced_price": null
+            },
+            "90 ml": {
+                "original_price": 143.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Shiseido Eau de Parfum GINZA Intense",
+        "url": "https://www.douglas.de/de/p/5010872145",
+        "prices": {
+            "30 ml": {
+                "original_price": 76.0,
+                "reduced_price": 60.8
+            },
+            "50 ml": {
+                "original_price": 111.0,
+                "reduced_price": 88.8
+            },
+            "90 ml": {
+                "original_price": 145.0,
+                "reduced_price": 116.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shiseido Eau de Parfum EVER BLOOM",
+        "url": "https://www.douglas.de/de/p/3001021545?variant=876711",
+        "prices": {
+            "30 ml": {
+                "original_price": 68.0,
+                "reduced_price": 54.4
+            },
+            "90 ml": {
+                "original_price": 130.0,
+                "reduced_price": 104.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shiseido Gesichtspflegeset GINZA Eau de Parfum Holiday Kit",
+        "url": "https://www.douglas.de/de/p/5011475278",
+        "prices": {
+            "1 Stück": {
+                "original_price": 107.0,
+                "reduced_price": 71.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Shiseido Eau de Parfum GINZA Murasaki",
+        "url": "https://www.douglas.de/de/p/5010470029",
+        "prices": {
+            "30 ml": {
+                "original_price": 71.0,
+                "reduced_price": 56.8
+            },
+            "50 ml": {
+                "original_price": 107.0,
+                "reduced_price": 65.99
+            },
+            "90 ml": {
+                "original_price": 142.0,
+                "reduced_price": 103.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shiseido Duftset GINZA Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5010900080",
+        "prices": {
+            "1 Stück": {
+                "original_price": 100.0,
+                "reduced_price": 89.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Shiseido Eau de Parfum ZEN Zen",
+        "url": "https://www.douglas.de/de/p/3000027135?variant=333155",
+        "prices": {
+            "30 ml": {
+                "original_price": 68.0,
+                "reduced_price": 59.99
+            },
+            "50 ml": {
+                "original_price": 96.0,
+                "reduced_price": 63.99
+            },
+            "100 ml": {
+                "original_price": 139.0,
+                "reduced_price": 103.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Shiseido Parfum GINZA Night EdP Intense",
+        "url": "https://www.douglas.de/de/p/5011350022",
+        "prices": {
+            "30 ml": {
+                "original_price": 71.0,
+                "reduced_price": 53.99
+            },
+            "50 ml": {
+                "original_price": 107.0,
+                "reduced_price": 79.99
+            },
+            "90 ml": {
+                "original_price": 142.0,
+                "reduced_price": 103.0
+            }
+        }
+    }
+]

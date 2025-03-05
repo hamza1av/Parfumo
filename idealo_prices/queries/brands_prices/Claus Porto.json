@@ -1,0 +1,106 @@
+[
+    {
+        "perfume_name": "Claus Porto Eau de Cologne Nº4 Agua Clementina Cologne",
+        "url": "https://www.douglas.de/de/p/5010026017",
+        "prices": {
+            "125 ml": {
+                "original_price": 90.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Claus Porto Seife Musgo Real 1887 Soap on a Rope",
+        "url": "https://www.douglas.de/de/p/m002010019",
+        "prices": {
+            "190 g": {
+                "original_price": 25.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Claus Porto Eau de Toilette Musgo Real  Alto Mar",
+        "url": "https://www.douglas.de/de/p/5011143145",
+        "prices": {
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Claus Porto Seife Musgo Real 1887 Body Soap",
+        "url": "https://www.douglas.de/de/p/m002007115",
+        "prices": {
+            "50 g": {
+                "original_price": 8.99,
+                "reduced_price": 7.64
+            },
+            "160 g": {
+                "original_price": 17.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Claus Porto Duftset Deco Geschenkset",
+        "url": "https://www.douglas.de/de/p/m001870079",
+        "prices": {
+            "Seife Banho 150 g + Seife Chypre 150 g + Seife Cerina 150 g": {
+                "original_price": 50.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Claus Porto Parfum Musgo Real 1887 Eau de Toilette Spray",
+        "url": "https://www.douglas.de/de/p/m002023085",
+        "prices": {
+            "100 ml": {
+                "original_price": 96.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Claus Porto Parfum Musgo Real Puro Sangue Eau de Toilette Spray",
+        "url": "https://www.douglas.de/de/p/m002023083",
+        "prices": {
+            "100 ml": {
+                "original_price": 106.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Claus Porto Eau de Cologne Nº5 Agua Porto Cologne",
+        "url": "https://www.douglas.de/de/p/5010026018",
+        "prices": {
+            "125 ml": {
+                "original_price": 90.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Claus Porto After Shave Classic Scent Balsam",
+        "url": "https://www.douglas.de/de/p/3001014550",
+        "prices": {
+            "100 ml": {
+                "original_price": 51.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Claus Porto Eau de Parfum Le Parfum",
+        "url": "https://www.douglas.de/de/p/5011468002",
+        "prices": {
+            "30 ml": {
+                "original_price": 80.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

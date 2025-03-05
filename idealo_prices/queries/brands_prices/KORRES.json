@@ -1,0 +1,182 @@
+[
+    {
+        "perfume_name": "KORRES Eau de Toilette BLACK SUGAR",
+        "url": "https://www.douglas.de/de/p/5009227037",
+        "prices": {
+            "50 ml": {
+                "original_price": 46.9,
+                "reduced_price": 37.52
+            }
+        }
+    },
+    {
+        "perfume_name": "KORRES Eau de Toilette SIKINOS",
+        "url": "https://www.douglas.de/de/p/5010965029",
+        "prices": {
+            "50 ml": {
+                "original_price": 46.9,
+                "reduced_price": 33.5
+            }
+        }
+    },
+    {
+        "perfume_name": "KORRES Körpercreme Olive & Olive Blossom",
+        "url": "https://www.douglas.de/de/p/5010438093",
+        "prices": {
+            "200 ml": {
+                "original_price": 18.9,
+                "reduced_price": 11.79
+            }
+        }
+    },
+    {
+        "perfume_name": "KORRES Eau de Toilette WHITE TEA EDT für Sie",
+        "url": "https://www.douglas.de/de/p/5002465034?variant=700958",
+        "prices": {
+            "50 ml": {
+                "original_price": 46.9,
+                "reduced_price": 37.52
+            }
+        }
+    },
+    {
+        "perfume_name": "KORRES Eau de Toilette Blue Sage",
+        "url": "https://www.douglas.de/de/p/5009966026",
+        "prices": {
+            "50 ml": {
+                "original_price": 46.9,
+                "reduced_price": 37.52
+            }
+        }
+    },
+    {
+        "perfume_name": "KORRES Eau de Toilette Vetiver Root",
+        "url": "https://www.douglas.de/de/p/5002465035",
+        "prices": {
+            "50 ml": {
+                "original_price": 46.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "KORRES Eau de Toilette LEFKO",
+        "url": "https://www.douglas.de/de/p/5010954143",
+        "prices": {
+            "50 ml": {
+                "original_price": 49.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "KORRES Eau de Toilette Vanilla Freesia",
+        "url": "https://www.douglas.de/de/p/5010117000",
+        "prices": {
+            "50 ml": {
+                "original_price": 46.9,
+                "reduced_price": 37.52
+            }
+        }
+    },
+    {
+        "perfume_name": "KORRES Bodyspray Relaxing Lavender Spray",
+        "url": "https://www.douglas.de/de/p/5011152028",
+        "prices": {
+            "100 ml": {
+                "original_price": 16.9,
+                "reduced_price": 13.52
+            }
+        }
+    },
+    {
+        "perfume_name": "KORRES Eau de Toilette AVGOUSTOS",
+        "url": "https://www.douglas.de/de/p/5010954141",
+        "prices": {
+            "50 ml": {
+                "original_price": 46.9,
+                "reduced_price": 28.78
+            }
+        }
+    },
+    {
+        "perfume_name": "KORRES Eau de Toilette KYMA",
+        "url": "https://www.douglas.de/de/p/5010788048",
+        "prices": {
+            "50 ml": {
+                "original_price": 46.9,
+                "reduced_price": 36.2
+            }
+        }
+    },
+    {
+        "perfume_name": "KORRES Eau de Toilette Mountain Pepper",
+        "url": "https://www.douglas.de/de/p/5002465036",
+        "prices": {
+            "50 ml": {
+                "original_price": 46.9,
+                "reduced_price": 37.52
+            }
+        }
+    },
+    {
+        "perfume_name": "KORRES Eau de Toilette Oceanic Amber",
+        "url": "https://www.douglas.de/de/p/5009966032",
+        "prices": {
+            "50 ml": {
+                "original_price": 46.9,
+                "reduced_price": 37.52
+            }
+        }
+    },
+    {
+        "perfume_name": "KORRES Eau de Toilette Cashmere Kumquat",
+        "url": "https://www.douglas.de/de/p/5009966028",
+        "prices": {
+            "50 ml": {
+                "original_price": 49.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "KORRES Eau de Toilette Midnight Dahlia",
+        "url": "https://www.douglas.de/de/p/5009966027",
+        "prices": {
+            "50 ml": {
+                "original_price": 49.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "KORRES Körpercreme Olive & Olive Blossom",
+        "url": "https://www.douglas.de/de/p/5010438096",
+        "prices": {
+            "75 ml": {
+                "original_price": 14.9,
+                "reduced_price": 9.02
+            }
+        }
+    },
+    {
+        "perfume_name": "KORRES Eau de Toilette PHILOSIA",
+        "url": "https://www.douglas.de/de/p/5011395013",
+        "prices": {
+            "50 ml": {
+                "original_price": 46.9,
+                "reduced_price": 37.52
+            }
+        }
+    },
+    {
+        "perfume_name": "KORRES Eau de Toilette Black Pepper",
+        "url": "https://www.douglas.de/de/p/5009966030",
+        "prices": {
+            "50 ml": {
+                "original_price": 46.9,
+                "reduced_price": 44.99
+            }
+        }
+    }
+]

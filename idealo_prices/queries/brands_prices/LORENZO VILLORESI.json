@@ -1,0 +1,130 @@
+[
+    {
+        "perfume_name": "LORENZO VILLORESI Eau de Parfum TEINT DE NEIGE",
+        "url": "https://www.douglas.de/de/p/5010321004",
+        "prices": {
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": 128.0
+            }
+        }
+    },
+    {
+        "perfume_name": "LORENZO VILLORESI Eau de Toilette Teint de Neige",
+        "url": "https://www.douglas.de/de/p/3001024735?variant=256072",
+        "prices": {
+            "50 ml": {
+                "original_price": 98.0,
+                "reduced_price": 78.4
+            },
+            "100 ml": {
+                "original_price": 132.0,
+                "reduced_price": 105.6
+            }
+        }
+    },
+    {
+        "perfume_name": "LORENZO VILLORESI Eau de Toilette Piper Nigrum",
+        "url": "https://www.douglas.de/de/p/3001024821",
+        "prices": {
+            "100 ml": {
+                "original_price": 133.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "LORENZO VILLORESI Eau de Parfum Atman Xaman",
+        "url": "https://www.douglas.de/de/p/5011539327",
+        "prices": {
+            "100 ml": {
+                "original_price": 180.0,
+                "reduced_price": 144.0
+            }
+        }
+    },
+    {
+        "perfume_name": "LORENZO VILLORESI Eau de Toilette Kamasurabhi",
+        "url": "https://www.douglas.de/de/p/5011590023",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": 91.0
+            }
+        }
+    },
+    {
+        "perfume_name": "LORENZO VILLORESI Eau de Toilette Sandalo",
+        "url": "https://www.douglas.de/de/p/3001024826",
+        "prices": {
+            "100 ml": {
+                "original_price": 174.0,
+                "reduced_price": 139.2
+            }
+        }
+    },
+    {
+        "perfume_name": "LORENZO VILLORESI Körperpuder Teint de Neige Body Cream",
+        "url": "https://www.douglas.de/de/p/5011355007",
+        "prices": {
+            "200 ml": {
+                "original_price": 105.0,
+                "reduced_price": 84.0
+            }
+        }
+    },
+    {
+        "perfume_name": "LORENZO VILLORESI Eau de Parfum Teint de Neige",
+        "url": "https://www.douglas.de/de/p/3001024756",
+        "prices": {
+            "50 ml": {
+                "original_price": 116.0,
+                "reduced_price": 92.8
+            }
+        }
+    },
+    {
+        "perfume_name": "LORENZO VILLORESI Eau de Toilette Atman Xaman",
+        "url": "https://www.douglas.de/de/p/5011623031",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": 88.0
+            },
+            "100 ml": {
+                "original_price": 152.0,
+                "reduced_price": 121.6
+            }
+        }
+    },
+    {
+        "perfume_name": "LORENZO VILLORESI Deodorant TEINT DE NEIGE",
+        "url": "https://www.douglas.de/de/p/5011215015",
+        "prices": {
+            "100 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            }
+        }
+    },
+    {
+        "perfume_name": "LORENZO VILLORESI Eau de Toilette Yerbamate",
+        "url": "https://www.douglas.de/de/p/3001024822",
+        "prices": {
+            "100 ml": {
+                "original_price": 132.0,
+                "reduced_price": 105.6
+            }
+        }
+    },
+    {
+        "perfume_name": "LORENZO VILLORESI Eau de Toilette MUSK",
+        "url": "https://www.douglas.de/de/p/5010967093",
+        "prices": {
+            "100 ml": {
+                "original_price": 132.0,
+                "reduced_price": 105.6
+            }
+        }
+    }
+]

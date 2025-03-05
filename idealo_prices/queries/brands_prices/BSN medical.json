@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "BSN medical Körpercreme CUTIMED Acute Hydro Cremeschaum 5% Urea",
+        "url": "https://www.douglas.de/de/p/m000520157",
+        "prices": {
+            "CUTIMED ACUTE HYD CRESCH5% 125 ml / Default Title": {
+                "original_price": 27.49,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BSN medical Körpercreme CUTIMED Acute Intensive Cremeschaum 10% Urea",
+        "url": "https://www.douglas.de/de/p/m000377000",
+        "prices": {
+            "CUTIMED ACUTE INT CRESC10% 125 ml / Default Title": {
+                "original_price": 27.79,
+                "reduced_price": null
+            }
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "perfume_name": "Jette Eau de Parfum Dream EAU DE PARFUM",
+        "url": "https://www.douglas.de/de/p/5010067534",
+        "prices": {
+            "30 ml": {
+                "original_price": 27.99,
+                "reduced_price": 22.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Jette Bodylotion Jette Love Körperlotion",
+        "url": "https://www.douglas.de/de/p/3000057875",
+        "prices": {
+            "200 ml": {
+                "original_price": 11.99,
+                "reduced_price": 9.59
+            }
+        }
+    },
+    {
+        "perfume_name": "Jette Eau de Parfum Jette Love Eau de Parfum Nebel",
+        "url": "https://www.douglas.de/de/p/3000054508",
+        "prices": {
+            "30 ml": {
+                "original_price": 27.99,
+                "reduced_price": 22.39
+            }
+        }
+    }
+]

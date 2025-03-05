@@ -1,0 +1,52 @@
+[
+    {
+        "perfume_name": "Tommy Hilfiger Eau de Toilette Tommy Girl",
+        "url": "https://www.douglas.de/de/p/1996002290?variant=1096091",
+        "prices": {
+            "30 ml": {
+                "original_price": 40.0,
+                "reduced_price": 28.99
+            },
+            "50 ml": {
+                "original_price": 58.0,
+                "reduced_price": 29.53
+            },
+            "100 ml": {
+                "original_price": 81.0,
+                "reduced_price": 48.1
+            }
+        }
+    },
+    {
+        "perfume_name": "Tommy Hilfiger Eau de Toilette Impact Together",
+        "url": "https://www.douglas.de/de/p/5011389208?variant=1173445",
+        "prices": {
+            "50 ml": {
+                "original_price": 63.0,
+                "reduced_price": 50.4
+            },
+            "100 ml": {
+                "original_price": 84.0,
+                "reduced_price": 67.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Tommy Hilfiger Eau de Toilette Tommy",
+        "url": "https://www.douglas.de/de/p/1996001290?variant=1096090",
+        "prices": {
+            "30 ml": {
+                "original_price": 40.0,
+                "reduced_price": 29.99
+            },
+            "50 ml": {
+                "original_price": 58.0,
+                "reduced_price": 35.0
+            },
+            "100 ml": {
+                "original_price": 81.0,
+                "reduced_price": 64.8
+            }
+        }
+    }
+]

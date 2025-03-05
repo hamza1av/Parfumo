@@ -1,0 +1,56 @@
+[
+    {
+        "perfume_name": "Balmain Hair Haarparfum HC Travel Silk Perfume",
+        "url": "https://www.douglas.de/de/p/5002492826",
+        "prices": {
+            "50 ml": {
+                "original_price": 14.49,
+                "reduced_price": null
+            },
+            "200 ml": {
+                "original_price": 52.0,
+                "reduced_price": 49.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Balmain Hair Haarparfum Homme",
+        "url": "https://www.douglas.de/de/p/5011451099",
+        "prices": {
+            "1 Stück": {
+                "original_price": 127.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Balmain Hair Haarparfum Ingwer 1974",
+        "url": "https://www.douglas.de/de/p/5011473007",
+        "prices": {
+            "100 ml": {
+                "original_price": 129.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Balmain Hair Haarparfum Vetiver 1974",
+        "url": "https://www.douglas.de/de/p/5011473005",
+        "prices": {
+            "100 ml": {
+                "original_price": 127.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Balmain Hair Haarparfum Cardamom 1974 Hair Perfume",
+        "url": "https://www.douglas.de/de/p/5011473006",
+        "prices": {
+            "100 ml": {
+                "original_price": 126.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

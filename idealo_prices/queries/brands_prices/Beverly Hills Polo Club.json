@@ -1,0 +1,92 @@
+[
+    {
+        "perfume_name": "Beverly Hills Polo Club Eau de Parfum TROPHY",
+        "url": "https://www.douglas.de/de/p/5011546008",
+        "prices": {
+            "100 ml": {
+                "original_price": 59.0,
+                "reduced_price": 47.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Beverly Hills Polo Club Eau de Parfum ROYALE",
+        "url": "https://www.douglas.de/de/p/5011546007",
+        "prices": {
+            "100 ml": {
+                "original_price": 59.0,
+                "reduced_price": 47.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Beverly Hills Polo Club Eau de Parfum KNIGHT",
+        "url": "https://www.douglas.de/de/p/5011546012",
+        "prices": {
+            "100 ml": {
+                "original_price": 59.0,
+                "reduced_price": 47.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Beverly Hills Polo Club Eau de Parfum PASSION",
+        "url": "https://www.douglas.de/de/p/5011546011",
+        "prices": {
+            "100 ml": {
+                "original_price": 59.0,
+                "reduced_price": 47.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Beverly Hills Polo Club Eau de Parfum CHALLENGE",
+        "url": "https://www.douglas.de/de/p/5011546006",
+        "prices": {
+            "100 ml": {
+                "original_price": 59.0,
+                "reduced_price": 47.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Beverly Hills Polo Club Eau de Parfum Heritage Oud",
+        "url": "https://www.douglas.de/de/p/5011546009",
+        "prices": {
+            "100 ml": {
+                "original_price": 59.0,
+                "reduced_price": 47.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Beverly Hills Polo Club Eau de Parfum Mystique",
+        "url": "https://www.douglas.de/de/p/5011632007",
+        "prices": {
+            "100 ml": {
+                "original_price": 59.0,
+                "reduced_price": 47.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Beverly Hills Polo Club Eau de Parfum ELEGANCE",
+        "url": "https://www.douglas.de/de/p/5011546010",
+        "prices": {
+            "100 ml": {
+                "original_price": 59.0,
+                "reduced_price": 47.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Beverly Hills Polo Club Eau de Parfum TITAN",
+        "url": "https://www.douglas.de/de/p/5011546005",
+        "prices": {
+            "100 ml": {
+                "original_price": 59.0,
+                "reduced_price": 47.2
+            }
+        }
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "perfume_name": "NIVEA Körpercreme Black & White Invisible Deodorant Spray",
+        "url": "https://www.douglas.de/de/p/m002369113",
+        "prices": {
+            "200 ml": {
+                "original_price": 15.71,
+                "reduced_price": 13.35
+            }
+        }
+    },
+    {
+        "perfume_name": "NIVEA Körpercreme Men Dry Impact Fresh Deodorant Spray",
+        "url": "https://www.douglas.de/de/p/m002369068",
+        "prices": {
+            "200 ml": {
+                "original_price": 15.71,
+                "reduced_price": 13.35
+            }
+        }
+    },
+    {
+        "perfume_name": "NIVEA Körpercreme Men Black & White Active Deodorant Spray",
+        "url": "https://www.douglas.de/de/p/m002369048",
+        "prices": {
+            "200 ml": {
+                "original_price": 15.71,
+                "reduced_price": 13.35
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5010255038",
+        "prices": {}
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5010122007",
+        "prices": {}
+    },
+    {
+        "perfume_name": "NIVEA Körpercreme Men Deep Black Carbon Deo Spray",
+        "url": "https://www.douglas.de/de/p/m002369138",
+        "prices": {
+            "150 ml": {
+                "original_price": 15.71,
+                "reduced_price": 13.35
+            }
+        }
+    },
+    {
+        "perfume_name": "NIVEA Körpercreme Black & White Invisible Active Deodorant Spray",
+        "url": "https://www.douglas.de/de/p/m002369112",
+        "prices": {
+            "200 ml": {
+                "original_price": 15.71,
+                "reduced_price": 13.35
+            }
+        }
+    }
+]

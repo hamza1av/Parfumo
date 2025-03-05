@@ -1,0 +1,42 @@
+[
+    {
+        "perfume_name": "Etat libre d Orange Eau de Parfum Yosly-you Or Someone Like You Edp Vapo",
+        "url": "https://www.douglas.de/de/p/m002402016",
+        "prices": {
+            "100 ml": {
+                "original_price": 113.18,
+                "reduced_price": 96.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Etat libre d Orange Eau de Parfum Une Amourette Edp Vapo",
+        "url": "https://www.douglas.de/de/p/m002402019",
+        "prices": {
+            "50 ml": {
+                "original_price": 94.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Etat libre d Orange Parfum Eau De Protection Von Rossy Palma Edp Vapo",
+        "url": "https://www.douglas.de/de/p/m002255045",
+        "prices": {
+            "100 ml": {
+                "original_price": 112.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Etat libre d Orange Parfum Like This - EdP 100ml - löschen",
+        "url": "https://www.douglas.de/de/p/m000890296",
+        "prices": {
+            "100 ml": {
+                "original_price": 119.72,
+                "reduced_price": 101.76
+            }
+        }
+    }
+]

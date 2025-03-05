@@ -1,0 +1,516 @@
+[
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Toilette Classique",
+        "url": "https://www.douglas.de/de/p/1094201304?variant=971476",
+        "prices": {
+            "30 ml": {
+                "original_price": 66.5,
+                "reduced_price": 40.45
+            },
+            "50 ml": {
+                "original_price": 90.5,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 124.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Parfum Scandal Pour Homme Le Parfum Intense",
+        "url": "https://www.douglas.de/de/p/5010700222",
+        "prices": {
+            "50 ml - Refillable": {
+                "original_price": 92.0,
+                "reduced_price": 56.99
+            },
+            "100 ml - Refillable": {
+                "original_price": 125.0,
+                "reduced_price": 87.0
+            },
+            "150 ml": {
+                "original_price": 146.5,
+                "reduced_price": 107.0
+            },
+            "200 ml - Refill": {
+                "original_price": 152.5,
+                "reduced_price": 119.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Toilette Scandal Pour Homme",
+        "url": "https://www.douglas.de/de/p/5010037066?variant=163372",
+        "prices": {
+            "50 ml - Refillable": {
+                "original_price": 88.5,
+                "reduced_price": 61.99
+            },
+            "100 ml - Refillable": {
+                "original_price": 119.5,
+                "reduced_price": 79.99
+            },
+            "150 ml": {
+                "original_price": 181.09,
+                "reduced_price": null
+            },
+            "200 ml - Refill": {
+                "original_price": 145.5,
+                "reduced_price": 116.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Toilette Le Male Collector",
+        "url": "https://www.douglas.de/de/p/5011614019",
+        "prices": {
+            "125 ml": {
+                "original_price": 136.5,
+                "reduced_price": 100.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Duftset Classique Geschenkset",
+        "url": "https://www.douglas.de/de/p/5011436016",
+        "prices": {
+            "1 Stück": {
+                "original_price": 96.0,
+                "reduced_price": 66.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Parfum Scandal Le Parfum Intense",
+        "url": "https://www.douglas.de/de/p/5010700220?variant=1031859",
+        "prices": {
+            "30 ml": {
+                "original_price": 77.0,
+                "reduced_price": 48.99
+            },
+            "50 ml": {
+                "original_price": 110.5,
+                "reduced_price": 67.99
+            },
+            "80 ml": {
+                "original_price": 139.0,
+                "reduced_price": 89.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Parfum Scandal Intense",
+        "url": "https://www.douglas.de/de/p/5011719018",
+        "prices": {
+            "30 ml": {
+                "original_price": 82.0,
+                "reduced_price": 65.6
+            },
+            "50 ml": {
+                "original_price": 118.0,
+                "reduced_price": 94.4
+            },
+            "80 ml": {
+                "original_price": 148.5,
+                "reduced_price": 118.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Parfum Scandal Pour Homme Absolu Parfum Concentré",
+        "url": "https://www.douglas.de/de/p/5011313001?variant=1153171",
+        "prices": {
+            "50 ml": {
+                "original_price": 106.0,
+                "reduced_price": 82.0
+            },
+            "100 ml": {
+                "original_price": 143.0,
+                "reduced_price": 114.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Toilette Classique XMAS Collector",
+        "url": "https://www.douglas.de/de/p/5011614018",
+        "prices": {
+            "100 ml": {
+                "original_price": 128.5,
+                "reduced_price": 102.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Parfum Le Beau Paradise Garden",
+        "url": "https://www.douglas.de/de/p/5011240007?variant=1153180",
+        "prices": {
+            "75 ml": {
+                "original_price": 94.0,
+                "reduced_price": 75.2
+            },
+            "125 ml": {
+                "original_price": 129.0,
+                "reduced_price": 103.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Parfum La Belle",
+        "url": "https://www.douglas.de/de/p/5009311004?variant=989048",
+        "prices": {
+            "30 ml": {
+                "original_price": 79.99,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 107.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 144.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier After Shave Le Male",
+        "url": "https://www.douglas.de/de/p/3000004896",
+        "prices": {
+            "125 ml": {
+                "original_price": 73.5,
+                "reduced_price": 72.59
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Toilette Classique Pride Limited Edition",
+        "url": "https://www.douglas.de/de/p/5011328016",
+        "prices": {
+            "100 ml": {
+                "original_price": 109.0,
+                "reduced_price": 79.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Parfum Scandal",
+        "url": "https://www.douglas.de/de/p/3001038303?variant=313508",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.5,
+                "reduced_price": 42.99
+            },
+            "50 ml": {
+                "original_price": 101.5,
+                "reduced_price": 61.99
+            },
+            "80 ml": {
+                "original_price": 127.5,
+                "reduced_price": 97.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Parfum Le Male Elixir",
+        "url": "https://www.douglas.de/de/p/5010945026",
+        "prices": {
+            "75 ml": {
+                "original_price": 104.0,
+                "reduced_price": null
+            },
+            "125 ml": {
+                "original_price": 140.5,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Duftset Scandal Geschenkset",
+        "url": "https://www.douglas.de/de/p/5011399096",
+        "prices": {
+            "1 Stück": {
+                "original_price": 107.5,
+                "reduced_price": 73.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Parfum Le Beau Le Parfum Intense",
+        "url": "https://www.douglas.de/de/p/5010485003",
+        "prices": {
+            "75 ml": {
+                "original_price": 98.5,
+                "reduced_price": 78.8
+            },
+            "125 ml": {
+                "original_price": 135.5,
+                "reduced_price": 108.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Parfum Le Male Le Parfum",
+        "url": "https://www.douglas.de/de/p/5002490497",
+        "prices": {
+            "75 ml": {
+                "original_price": 94.5,
+                "reduced_price": null
+            },
+            "125 ml": {
+                "original_price": 128.0,
+                "reduced_price": null
+            },
+            "200 ml": {
+                "original_price": 166.5,
+                "reduced_price": 128.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Toilette Le Beau",
+        "url": "https://www.douglas.de/de/p/3001056129?variant=285919",
+        "prices": {
+            "75 ml": {
+                "original_price": 85.5,
+                "reduced_price": 64.99
+            },
+            "125 ml": {
+                "original_price": 117.5,
+                "reduced_price": 84.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Duftset Le Male",
+        "url": "https://www.douglas.de/de/p/5011449001",
+        "prices": {
+            "1 Stück": {
+                "original_price": 85.0,
+                "reduced_price": 67.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Toilette Le Male Xmas Collector 2023",
+        "url": "https://www.douglas.de/de/p/5011135023",
+        "prices": {
+            "125 ml": {
+                "original_price": 119.0,
+                "reduced_price": 79.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Parfum Gaultier Divine Le Parfum",
+        "url": "https://www.douglas.de/de/p/5011510009?variant=1188645",
+        "prices": {
+            "30 ml": {
+                "original_price": 84.0,
+                "reduced_price": 67.2
+            },
+            "Nachfüllbar": {
+                "original_price": 156.0,
+                "reduced_price": 117.0
+            },
+            "200 ml - Refill": {
+                "original_price": 199.5,
+                "reduced_price": 159.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Rasurbalsam Le Male Balsam für die Rasur",
+        "url": "https://www.douglas.de/de/p/3000004962",
+        "prices": {
+            "100 ml": {
+                "original_price": 50.5,
+                "reduced_price": 40.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Parfum Scandal Absolu Parfum Concentré",
+        "url": "https://www.douglas.de/de/p/5011313002",
+        "prices": {
+            "30 ml": {
+                "original_price": 84.5,
+                "reduced_price": 62.99
+            },
+            "50 ml": {
+                "original_price": 121.5,
+                "reduced_price": 92.0
+            },
+            "80 ml": {
+                "original_price": 153.0,
+                "reduced_price": 119.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Parfum Scandal SO!",
+        "url": "https://www.douglas.de/de/p/5001699066?variant=313536",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 47.99
+            },
+            "50 ml": {
+                "original_price": 101.5,
+                "reduced_price": 68.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Toilette Le Male",
+        "url": "https://www.douglas.de/de/p/1094202304?variant=971482",
+        "prices": {
+            "40 ml": {
+                "original_price": 66.5,
+                "reduced_price": 40.45
+            },
+            "75 ml": {
+                "original_price": 86.5,
+                "reduced_price": 52.82
+            },
+            "125 ml": {
+                "original_price": 117.0,
+                "reduced_price": 71.39
+            },
+            "200 ml": {
+                "original_price": 154.0,
+                "reduced_price": 102.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Parfum La Belle",
+        "url": "https://www.douglas.de/de/p/m000601076?variant=285909",
+        "prices": {
+            "30 ml": {
+                "original_price": 72.99,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 98.0,
+                "reduced_price": 77.69
+            },
+            "100 ml": {
+                "original_price": 133.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Parfum Scandal Pour Homme Intense",
+        "url": "https://www.douglas.de/de/p/5011719017",
+        "prices": {
+            "50 ml": {
+                "original_price": 101.0,
+                "reduced_price": 80.8
+            },
+            "100 ml": {
+                "original_price": 136.5,
+                "reduced_price": 109.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Parfum Le Male Elixir Absolu",
+        "url": "https://www.douglas.de/de/p/5011695026",
+        "prices": {
+            "75 ml": {
+                "original_price": 118.0,
+                "reduced_price": 74.99
+            },
+            "125 ml": {
+                "original_price": 159.5,
+                "reduced_price": 109.0
+            },
+            "200 ml": {
+                "original_price": 210.0,
+                "reduced_price": 168.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Parfum Gaultier Divine",
+        "url": "https://www.douglas.de/de/p/5011041012?variant=1123677",
+        "prices": {
+            "30 ml.": {
+                "original_price": 76.0,
+                "reduced_price": 46.99
+            },
+            "50 ml - Refillable": {
+                "original_price": 104.5,
+                "reduced_price": 63.99
+            },
+            "100 ml - Refillable": {
+                "original_price": 142.0,
+                "reduced_price": 87.0
+            },
+            "200 ml - Refill": {
+                "original_price": 181.5,
+                "reduced_price": 125.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Toilette Le Male Ultra Intense",
+        "url": "https://www.douglas.de/de/p/3001013508?variant=406072",
+        "prices": {
+            "200 ml": {
+                "original_price": 149.99,
+                "reduced_price": 124.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Duftset Scandal Pour Homme Set",
+        "url": "https://www.douglas.de/de/p/5011398012",
+        "prices": {
+            "1 Stück": {
+                "original_price": 93.5,
+                "reduced_price": 74.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Eau de Parfum La Belle Paradise Garden",
+        "url": "https://www.douglas.de/de/p/5011240006?variant=1153179",
+        "prices": {
+            "30 ml": {
+                "original_price": 79.0,
+                "reduced_price": 63.2
+            },
+            "50 ml": {
+                "original_price": 108.0,
+                "reduced_price": 86.4
+            },
+            "100 ml": {
+                "original_price": 146.0,
+                "reduced_price": 116.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Duftset Gaultier Divine Set",
+        "url": "https://www.douglas.de/de/p/5011375007",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 111.0,
+                "reduced_price": 65.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean Paul Gaultier Duftset Scandal Pour Homme Set 50",
+        "url": "https://www.douglas.de/de/p/5010953063",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 83.0,
+                "reduced_price": 66.4
+            }
+        }
+    }
+]

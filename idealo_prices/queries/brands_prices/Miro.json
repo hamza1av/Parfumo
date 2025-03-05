@@ -1,0 +1,62 @@
+[
+    {
+        "perfume_name": "Miro Eau de Toilette Miro Cabal",
+        "url": "https://www.douglas.de/de/p/3000046274",
+        "prices": {
+            "75 ml": {
+                "original_price": 11.95,
+                "reduced_price": 9.49
+            }
+        }
+    },
+    {
+        "perfume_name": "Miro Eau de Parfum Miro Magic",
+        "url": "https://www.douglas.de/de/p/3000009807",
+        "prices": {
+            "50 ml": {
+                "original_price": 9.95,
+                "reduced_price": 7.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Miro Duftset Miro Cabal 2er Set",
+        "url": "https://www.douglas.de/de/p/5010069013",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 12.95,
+                "reduced_price": 10.36
+            }
+        }
+    },
+    {
+        "perfume_name": "Miro Eau de Parfum Infinity",
+        "url": "https://www.douglas.de/de/p/5010069011",
+        "prices": {
+            "75 ml": {
+                "original_price": 9.95,
+                "reduced_price": 7.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Miro Duftset Miro Femme 2er Set",
+        "url": "https://www.douglas.de/de/p/5010069010",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 14.95,
+                "reduced_price": 11.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Miro Eau de Parfum Miro Femme",
+        "url": "https://www.douglas.de/de/p/3000023016",
+        "prices": {
+            "50 ml": {
+                "original_price": 11.95,
+                "reduced_price": 8.19
+            }
+        }
+    }
+]

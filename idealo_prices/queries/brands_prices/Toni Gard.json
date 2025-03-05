@@ -1,0 +1,110 @@
+[
+    {
+        "perfume_name": "Toni Gard Eau de Parfum TONI ICONIC",
+        "url": "https://www.douglas.de/de/p/5009062017?variant=817204",
+        "prices": {
+            "40 ml": {
+                "original_price": 64.99,
+                "reduced_price": 51.99
+            },
+            "90 ml": {
+                "original_price": 84.99,
+                "reduced_price": 67.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Toni Gard Eau de Parfum Seaside",
+        "url": "https://www.douglas.de/de/p/5000304015",
+        "prices": {
+            "40 ml": {
+                "original_price": 42.99,
+                "reduced_price": 34.39
+            },
+            "90 ml": {
+                "original_price": 63.99,
+                "reduced_price": 51.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Toni Gard Eau de Parfum TONI",
+        "url": "https://www.douglas.de/de/p/5000304017?variant=426738",
+        "prices": {
+            "40 ml": {
+                "original_price": 42.99,
+                "reduced_price": 32.99
+            },
+            "90 ml": {
+                "original_price": 63.99,
+                "reduced_price": 49.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Toni Gard Eau de Parfum True",
+        "url": "https://www.douglas.de/de/p/5010116004?variant=161309",
+        "prices": {
+            "40 ml": {
+                "original_price": 42.99,
+                "reduced_price": 34.39
+            },
+            "90 ml": {
+                "original_price": 63.99,
+                "reduced_price": 51.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Toni Gard Duschgel True",
+        "url": "https://www.douglas.de/de/p/5010438009",
+        "prices": {
+            "150 ml": {
+                "original_price": 13.99,
+                "reduced_price": 11.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Toni Gard Eau de Parfum My Honey",
+        "url": "https://www.douglas.de/de/p/5000304018?variant=426749",
+        "prices": {
+            "40 ml": {
+                "original_price": 42.99,
+                "reduced_price": 34.39
+            },
+            "90 ml": {
+                "original_price": 63.99,
+                "reduced_price": 51.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Toni Gard Eau de Toilette True",
+        "url": "https://www.douglas.de/de/p/5001858003?variant=631593",
+        "prices": {
+            "40 ml": {
+                "original_price": 42.99,
+                "reduced_price": 34.39
+            },
+            "90 ml": {
+                "original_price": 63.99,
+                "reduced_price": 51.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Toni Gard Eau de Toilette Seaside",
+        "url": "https://www.douglas.de/de/p/5000304014",
+        "prices": {
+            "40 ml": {
+                "original_price": 42.99,
+                "reduced_price": null
+            },
+            "90 ml": {
+                "original_price": 63.99,
+                "reduced_price": 51.19
+            }
+        }
+    }
+]

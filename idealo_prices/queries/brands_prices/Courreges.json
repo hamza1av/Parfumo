@@ -1,0 +1,90 @@
+[
+    {
+        "perfume_name": "Courreges Eau de Parfum L'eau de Liesse",
+        "url": "https://www.douglas.de/de/p/5010966144",
+        "prices": {
+            "30 ml": {
+                "original_price": 80.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Courreges Eau de Parfum La Fille de l'air",
+        "url": "https://www.douglas.de/de/p/5010643006",
+        "prices": {
+            "30 ml": {
+                "original_price": 80.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 150.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Courreges Eau de Parfum Slogan",
+        "url": "https://www.douglas.de/de/p/5010643005?variant=1028397",
+        "prices": {
+            "30 ml": {
+                "original_price": 80.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 150.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Courreges Eau de Parfum Seconde Peau",
+        "url": "https://www.douglas.de/de/p/5010643003",
+        "prices": {
+            "30 ml": {
+                "original_price": 80.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Courreges Eau de Parfum L'Empreinte",
+        "url": "https://www.douglas.de/de/p/5010643004",
+        "prices": {
+            "30 ml": {
+                "original_price": 80.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Courreges Eau de Parfum Le Messager",
+        "url": "https://www.douglas.de/de/p/5011352020",
+        "prices": {
+            "30 ml": {
+                "original_price": 80.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 150.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

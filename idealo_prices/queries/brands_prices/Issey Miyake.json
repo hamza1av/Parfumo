@@ -1,0 +1,633 @@
+[
+    {
+        "perfume_name": "Issey Miyake Parfum Nuit d'Issey Parfüm",
+        "url": "https://www.douglas.de/de/p/3001017860?variant=882842",
+        "prices": {
+            "75 ml": {
+                "original_price": 91.0,
+                "reduced_price": 72.8
+            },
+            "125 ml": {
+                "original_price": 131.0,
+                "reduced_price": 104.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette L'Eau d'Issey pour Homme Vétiver Set",
+        "url": "https://www.douglas.de/de/p/5011201015",
+        "prices": {
+            "1 Stück": {
+                "original_price": 80.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Duftset L’Eau d’Issey Set",
+        "url": "https://www.douglas.de/de/p/5011715001",
+        "prices": {
+            "1 Stück": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Parfum L’Eau d’Issey Intense Refill",
+        "url": "https://www.douglas.de/de/p/5011712015",
+        "prices": {
+            "30 ml": {
+                "original_price": 79.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 109.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 163.0,
+                "reduced_price": null
+            },
+            "150 ml": {
+                "original_price": 169.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette Pleats Please Eau de Cologne",
+        "url": "https://www.douglas.de/de/p/3000062575",
+        "prices": {
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette Fusion d‘Issey",
+        "url": "https://www.douglas.de/de/p/5002321007?variant=587800",
+        "prices": {
+            "50 ml": {
+                "original_price": 73.0,
+                "reduced_price": 72.09
+            },
+            "100 ml": {
+                "original_price": 98.0,
+                "reduced_price": 96.79
+            },
+            "150 ml": {
+                "original_price": 113.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette L'Eau d'Issey pour Homme IGO",
+        "url": "https://www.douglas.de/de/p/5001609022",
+        "prices": {
+            "20 ml": {
+                "original_price": 33.59,
+                "reduced_price": 30.89
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette L'Eau d'Issey pour Homme Set",
+        "url": "https://www.douglas.de/de/p/5011584117",
+        "prices": {
+            "1 Stück": {
+                "original_price": 111.0,
+                "reduced_price": 82.79
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette L’Eau d’Issey",
+        "url": "https://www.douglas.de/de/p/1028101304?variant=598227",
+        "prices": {
+            "25 ml": {
+                "original_price": 57.0,
+                "reduced_price": 45.6
+            },
+            "50 ml": {
+                "original_price": 93.0,
+                "reduced_price": 61.99
+            },
+            "100 ml": {
+                "original_price": 129.0,
+                "reduced_price": 86.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake After Shave L'Eau d'Issey pour Homme Lotion",
+        "url": "https://www.douglas.de/de/p/3000001453",
+        "prices": {
+            "100 ml": {
+                "original_price": 64.0,
+                "reduced_price": 51.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Parfum L’Eau d’Issey Refill",
+        "url": "https://www.douglas.de/de/p/3001010460",
+        "prices": {
+            "75 ml": {
+                "original_price": 104.0,
+                "reduced_price": 83.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Duschgel L'Eau d'Issey pour Homme Shower Gel",
+        "url": "https://www.douglas.de/de/p/3000000284",
+        "prices": {
+            "200 ml": {
+                "original_price": 37.0,
+                "reduced_price": 29.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Bodylotion L’Eau d’Issey Body Lotion",
+        "url": "https://www.douglas.de/de/p/3000026520",
+        "prices": {
+            "200 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette L'Eau d'Issey pour Homme",
+        "url": "https://www.douglas.de/de/p/1028102304?variant=207168",
+        "prices": {
+            "40 ml": {
+                "original_price": 63.0,
+                "reduced_price": 43.99
+            },
+            "75 ml": {
+                "original_price": 82.0,
+                "reduced_price": 58.99
+            },
+            "125 ml": {
+                "original_price": 116.0,
+                "reduced_price": 78.99
+            },
+            "200 ml": {
+                "original_price": 149.0,
+                "reduced_price": 99.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Deodorant L'Eau d'Issey pour Homme Alcohol Free",
+        "url": "https://www.douglas.de/de/p/3000001451",
+        "prices": {
+            "75 g": {
+                "original_price": 36.0,
+                "reduced_price": 28.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette Le Sel d‘Issey",
+        "url": "https://www.douglas.de/de/p/5011498064?variant=1176293",
+        "prices": {
+            "50 ml": {
+                "original_price": 85.0,
+                "reduced_price": 59.99
+            },
+            "100 ml": {
+                "original_price": 117.0,
+                "reduced_price": 74.99
+            },
+            "Refill - 150 ml": {
+                "original_price": 133.0,
+                "reduced_price": 95.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette L'Eau d'Issey pour Homme Intense",
+        "url": "https://www.douglas.de/de/p/3000026536?variant=326490",
+        "prices": {
+            "75 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "125 ml": {
+                "original_price": 105.0,
+                "reduced_price": 84.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Duftset L’Eau d’Issey Set",
+        "url": "https://www.douglas.de/de/p/5011715018",
+        "prices": {
+            "1 Stück": {
+                "original_price": 137.0,
+                "reduced_price": 109.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake After Shave L'Eau d'Issey pour Homme Balsam für die Rasur",
+        "url": "https://www.douglas.de/de/p/3000026525",
+        "prices": {
+            "100 ml": {
+                "original_price": 56.0,
+                "reduced_price": 44.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Duftset Le Sel d‘Issey Set",
+        "url": "https://www.douglas.de/de/p/5011715002",
+        "prices": {
+            "1 Stück": {
+                "original_price": 87.0,
+                "reduced_price": 58.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Duftset A Drop d'Issey Fraîche Set",
+        "url": "https://www.douglas.de/de/p/5011545370",
+        "prices": {
+            "1 Stück": {
+                "original_price": 97.0,
+                "reduced_price": 77.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette L'Eau Bleue d'Issey pour Homme",
+        "url": "https://www.douglas.de/de/p/3000026531",
+        "prices": {
+            "75 ml": {
+                "original_price": 57.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette L’Eau d’Issey Eau & Magnolia",
+        "url": "https://www.douglas.de/de/p/5010544026",
+        "prices": {
+            "50 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            },
+            "100 ml": {
+                "original_price": 136.0,
+                "reduced_price": 108.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Deodorant L'Eau d'Issey pour Homme",
+        "url": "https://www.douglas.de/de/p/3000026527",
+        "prices": {
+            "150 ml": {
+                "original_price": 39.0,
+                "reduced_price": 31.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette Nuit d'Issey",
+        "url": "https://www.douglas.de/de/p/3001005157?variant=810472",
+        "prices": {
+            "75 ml": {
+                "original_price": 82.0,
+                "reduced_price": 65.6
+            },
+            "125 ml": {
+                "original_price": 116.0,
+                "reduced_price": 92.8
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5010000023?variant=029844",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette L'Eau d'Issey pour Homme Eau & Cedre",
+        "url": "https://www.douglas.de/de/p/5010544027?variant=496297",
+        "prices": {
+            "50 ml": {
+                "original_price": 82.0,
+                "reduced_price": 65.6
+            },
+            "100 ml": {
+                "original_price": 116.0,
+                "reduced_price": 92.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette L'Eau d'Issey Pure Petale de Nectar",
+        "url": "https://www.douglas.de/de/p/3001053123?variant=074222",
+        "prices": {
+            "90 ml": {
+                "original_price": 118.0,
+                "reduced_price": 106.89
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette L’Eau d’Issey Pivoine",
+        "url": "https://www.douglas.de/de/p/5010887003",
+        "prices": {
+            "50 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            },
+            "100 ml": {
+                "original_price": 136.0,
+                "reduced_price": 108.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Duftset L’Eau d’Issey Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5011555053",
+        "prices": {
+            "1 Stück": {
+                "original_price": 91.0,
+                "reduced_price": 72.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Parfum L'Eau d'Issey pour Homme Wood&Wood",
+        "url": "https://www.douglas.de/de/p/3011043446?variant=272628",
+        "prices": {
+            "50 ml": {
+                "original_price": 82.0,
+                "reduced_price": 65.6
+            },
+            "100 ml": {
+                "original_price": 116.0,
+                "reduced_price": 92.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette L'Eau d'Issey pour Homme Sport L´Eau d´Issey Pour Homme Sport",
+        "url": "https://www.douglas.de/de/p/3000054411?variant=662593",
+        "prices": {
+            "50 ml": {
+                "original_price": 71.0,
+                "reduced_price": 56.8
+            },
+            "100 ml": {
+                "original_price": 98.0,
+                "reduced_price": 78.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette Le Sel d‘Issey Set",
+        "url": "https://www.douglas.de/de/p/5011563021",
+        "prices": {
+            "3 Stk.": {
+                "original_price": 112.0,
+                "reduced_price": 92.79
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Parfum A Drop d'Issey",
+        "url": "https://www.douglas.de/de/p/5009896000",
+        "prices": {
+            "30 ml": {
+                "original_price": 64.0,
+                "reduced_price": 62.39
+            },
+            "50 ml": {
+                "original_price": 97.0,
+                "reduced_price": 85.19
+            },
+            "90 ml": {
+                "original_price": 125.0,
+                "reduced_price": 124.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette Pleats Please L'Eau",
+        "url": "https://www.douglas.de/de/p/3001000781",
+        "prices": {
+            "50 ml": {
+                "original_price": 62.0,
+                "reduced_price": 49.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette L'Eau d'Issey pour Homme Set",
+        "url": "https://www.douglas.de/de/p/5011555054",
+        "prices": {
+            "1 Stück": {
+                "original_price": 80.0,
+                "reduced_price": 64.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Parfum A Drop d'Issey Essentielle",
+        "url": "https://www.douglas.de/de/p/5010976030",
+        "prices": {
+            "30 ml": {
+                "original_price": 64.0,
+                "reduced_price": 51.2
+            },
+            "50 ml": {
+                "original_price": 97.0,
+                "reduced_price": 87.89
+            },
+            "90 ml": {
+                "original_price": 132.0,
+                "reduced_price": 124.29
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette L’Eau d’Issey Set",
+        "url": "https://www.douglas.de/de/p/5011584116",
+        "prices": {
+            "3 Stk.": {
+                "original_price": 128.0,
+                "reduced_price": 91.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Parfum L'Eau d'Issey pour Homme Intense",
+        "url": "https://www.douglas.de/de/p/5011712016",
+        "prices": {
+            "40 ml": {
+                "original_price": 71.0,
+                "reduced_price": null
+            },
+            "75 ml": {
+                "original_price": 94.0,
+                "reduced_price": null
+            },
+            "125 ml": {
+                "original_price": 133.0,
+                "reduced_price": null
+            },
+            "150 ml": {
+                "original_price": 125.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette L'Eau d'Issey pour Homme Solar Lavender",
+        "url": "https://www.douglas.de/de/p/5011367022",
+        "prices": {
+            "50 ml": {
+                "original_price": 82.0,
+                "reduced_price": 65.6
+            },
+            "100 ml": {
+                "original_price": 116.0,
+                "reduced_price": 92.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Parfum A Drop d'Issey Fraîche",
+        "url": "https://www.douglas.de/de/p/5010603016",
+        "prices": {
+            "30 ml": {
+                "original_price": 64.0,
+                "reduced_price": 51.2
+            },
+            "50 ml": {
+                "original_price": 97.0,
+                "reduced_price": 77.6
+            },
+            "90 ml": {
+                "original_price": 132.0,
+                "reduced_price": 105.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Duftset L'Eau d'Issey pour Homme Set",
+        "url": "https://www.douglas.de/de/p/5011715019",
+        "prices": {
+            "1 Stück": {
+                "original_price": 121.0,
+                "reduced_price": 96.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Parfum L’Eau d’Issey",
+        "url": "https://www.douglas.de/de/p/3001010459",
+        "prices": {
+            "50 ml": {
+                "original_price": 100.0,
+                "reduced_price": 80.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette L'Eau d'Issey pour Homme Vétiver",
+        "url": "https://www.douglas.de/de/p/5010884018?variant=1082453",
+        "prices": {
+            "50 ml": {
+                "original_price": 82.0,
+                "reduced_price": 65.6
+            },
+            "100 ml": {
+                "original_price": 116.0,
+                "reduced_price": 92.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette Le Sel d‘Issey Set",
+        "url": "https://www.douglas.de/de/p/5011555058",
+        "prices": {
+            "1 Stück": {
+                "original_price": 83.0,
+                "reduced_price": 66.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Duftset L'Eau d'Issey pour Homme Set",
+        "url": "https://www.douglas.de/de/p/5011338008",
+        "prices": {
+            "1 Stück": {
+                "original_price": 82.0,
+                "reduced_price": 77.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Parfum L’Eau d’Issey Extrait",
+        "url": "https://www.douglas.de/de/p/3000026513?variant=234668",
+        "prices": {
+            "15 ml": {
+                "original_price": 175.0,
+                "reduced_price": 107.0
+            },
+            "25 ml": {
+                "original_price": 63.0,
+                "reduced_price": 50.4
+            },
+            "75 ml": {
+                "original_price": 128.0,
+                "reduced_price": 84.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Eau de Toilette L’Eau d’Issey Solar Violet",
+        "url": "https://www.douglas.de/de/p/5011367021",
+        "prices": {
+            "50 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            },
+            "100 ml": {
+                "original_price": 136.0,
+                "reduced_price": 108.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Duftset Le Sel d‘Issey Set",
+        "url": "https://www.douglas.de/de/p/5011715020",
+        "prices": {
+            "1 Stück": {
+                "original_price": 124.0,
+                "reduced_price": 99.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Issey Miyake Duftset Fusion d‘Issey",
+        "url": "https://www.douglas.de/de/p/5009752137",
+        "prices": {
+            "1 Stück": {
+                "original_price": 73.0,
+                "reduced_price": 62.05
+            }
+        }
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "perfume_name": "Jovan Eau de Parfum Musk Oil",
+        "url": "https://www.douglas.de/de/p/3001044858",
+        "prices": {
+            "59 ml": {
+                "original_price": 18.0,
+                "reduced_price": 14.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Jovan Eau de Toilette Musk Oil",
+        "url": "https://www.douglas.de/de/p/3001044861",
+        "prices": {
+            "26 ml": {
+                "original_price": 12.0,
+                "reduced_price": 9.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Jovan After Shave Musk",
+        "url": "https://www.douglas.de/de/p/3001044852",
+        "prices": {
+            "118 ml": {
+                "original_price": 14.0,
+                "reduced_price": 11.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Jovan Eau de Toilette White Musk",
+        "url": "https://www.douglas.de/de/p/3001044848",
+        "prices": {
+            "59 ml": {
+                "original_price": 14.0,
+                "reduced_price": 11.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Jovan Deodorant Musk",
+        "url": "https://www.douglas.de/de/p/3001044856",
+        "prices": {
+            "150 ml": {
+                "original_price": 7.0,
+                "reduced_price": 5.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Jovan Eau de Parfum Gold Musk",
+        "url": "https://www.douglas.de/de/p/3001044867",
+        "prices": {
+            "59 ml": {
+                "original_price": 18.0,
+                "reduced_price": 14.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Jovan Eau de Toilette Musk Eau de Cologne Spray",
+        "url": "https://www.douglas.de/de/p/m000575221?variant=024311",
+        "prices": {
+            "88 ml": {
+                "original_price": 14.0,
+                "reduced_price": 11.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Jovan Deodorant Musk Oil",
+        "url": "https://www.douglas.de/de/p/3001044863",
+        "prices": {
+            "150 ml": {
+                "original_price": 7.0,
+                "reduced_price": 5.6
+            }
+        }
+    }
+]

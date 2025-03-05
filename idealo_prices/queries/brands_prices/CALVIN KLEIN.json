@@ -1,0 +1,580 @@
+[
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Toilette ckIN2U for her",
+        "url": "https://www.douglas.de/de/p/2010006558?variant=300743",
+        "prices": {
+            "50 ml": {
+                "original_price": 47.0,
+                "reduced_price": 31.99
+            },
+            "100 ml": {
+                "original_price": 51.0,
+                "reduced_price": 39.79
+            },
+            "150 ml": {
+                "original_price": 63.0,
+                "reduced_price": 52.89
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Parfum Calvin Klein Women",
+        "url": "https://www.douglas.de/de/p/3001046092?variant=027846",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 49.99
+            },
+            "50 ml": {
+                "original_price": 100.0,
+                "reduced_price": 86.99
+            },
+            "100 ml": {
+                "original_price": 98.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Parfum Obsession",
+        "url": "https://www.douglas.de/de/p/1003202295?variant=742312",
+        "prices": {
+            "30 ml": {
+                "original_price": 59.0,
+                "reduced_price": 47.2
+            },
+            "50 ml": {
+                "original_price": 89.0,
+                "reduced_price": 66.99
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Parfum my euphoria Calvin Klein My Euphoria Eau de Parfum for Women 100 ml",
+        "url": "https://www.douglas.de/de/p/5011066011?variant=1126057",
+        "prices": {
+            "30 ml": {
+                "original_price": 69.0,
+                "reduced_price": 44.99
+            },
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": 66.99
+            },
+            "100 ml": {
+                "original_price": 124.0,
+                "reduced_price": 82.0
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Parfum Eternity for men",
+        "url": "https://www.douglas.de/de/p/5010716000?variant=1036735",
+        "prices": {
+            "50 ml": {
+                "original_price": 88.0,
+                "reduced_price": 70.4
+            },
+            "100 ml": {
+                "original_price": 105.0,
+                "reduced_price": 84.0
+            },
+            "200 ml": {
+                "original_price": 121.39,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Bodylotion Eternity Körperlotion",
+        "url": "https://www.douglas.de/de/p/3000042308",
+        "prices": {
+            "200 ml": {
+                "original_price": 49.0,
+                "reduced_price": 34.99
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Parfum Eternity for men",
+        "url": "https://www.douglas.de/de/p/5000004028?variant=318476",
+        "prices": {
+            "50 ml": {
+                "original_price": 84.0,
+                "reduced_price": 66.99
+            },
+            "100 ml": {
+                "original_price": 100.0,
+                "reduced_price": 80.0
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Bodylotion ck one Skin Moisturizer",
+        "url": "https://www.douglas.de/de/p/3000000142",
+        "prices": {
+            "250 ml": {
+                "original_price": 34.0,
+                "reduced_price": 27.2
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Parfum ck one Reflections",
+        "url": "https://www.douglas.de/de/p/5010902046",
+        "prices": {
+            "100 ml": {
+                "original_price": 60.0,
+                "reduced_price": 59.49
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Parfum Beauty",
+        "url": "https://www.douglas.de/de/p/3000038402?variant=549935",
+        "prices": {
+            "50 ml": {
+                "original_price": 87.59,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Toilette ckIN2U for him",
+        "url": "https://www.douglas.de/de/p/2010006559?variant=300779",
+        "prices": {
+            "50 ml": {
+                "original_price": 36.0,
+                "reduced_price": 29.99
+            },
+            "100 ml": {
+                "original_price": 51.0,
+                "reduced_price": 44.99
+            },
+            "150 ml": {
+                "original_price": 78.0,
+                "reduced_price": 62.4
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Toilette Euphoria",
+        "url": "https://www.douglas.de/de/p/5010906077",
+        "prices": {
+            "100 ml": {
+                "original_price": 149.0,
+                "reduced_price": 59.69
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Toilette ck one",
+        "url": "https://www.douglas.de/de/p/1003207304?variant=408468",
+        "prices": {
+            "50 ml": {
+                "original_price": 43.0,
+                "reduced_price": 19.86
+            },
+            "100 ml": {
+                "original_price": 62.0,
+                "reduced_price": 28.64
+            },
+            "200 ml": {
+                "original_price": 88.0,
+                "reduced_price": 40.65
+            },
+            "300 ml": {
+                "original_price": 132.79,
+                "reduced_price": 80.19
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN After Shave Eternity for men",
+        "url": "https://www.douglas.de/de/p/3000001531",
+        "prices": {
+            "100 ml": {
+                "original_price": 60.0,
+                "reduced_price": 48.0
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Parfum ck one essence Intense",
+        "url": "https://www.douglas.de/de/p/5011498047?variant=1189715",
+        "prices": {
+            "50 ml": {
+                "original_price": 49.0,
+                "reduced_price": 38.5
+            },
+            "100 ml": {
+                "original_price": 72.0,
+                "reduced_price": 57.6
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Parfum Eternity Calvin Klein Eternity Amber Essence for Women 50 ml",
+        "url": "https://www.douglas.de/de/p/5011714021?variant=1221438",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            },
+            "50 ml": {
+                "original_price": 100.0,
+                "reduced_price": 80.0
+            },
+            "100 ml": {
+                "original_price": 135.0,
+                "reduced_price": 108.0
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Toilette Eternity for men",
+        "url": "https://www.douglas.de/de/p/1003205304?variant=525378",
+        "prices": {
+            "30 ml": {
+                "original_price": 55.0,
+                "reduced_price": 44.0
+            },
+            "50 ml": {
+                "original_price": 76.0,
+                "reduced_price": 57.99
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 64.99
+            },
+            "200 ml": {
+                "original_price": 125.49,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Parfum Eternity Reflections",
+        "url": "https://www.douglas.de/de/p/5010991974",
+        "prices": {
+            "100 ml": {
+                "original_price": 116.0,
+                "reduced_price": 96.09
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Toilette CK Everyone",
+        "url": "https://www.douglas.de/de/p/5000420093?variant=506485",
+        "prices": {
+            "50 ml": {
+                "original_price": 47.0,
+                "reduced_price": 36.99
+            },
+            "100 ml": {
+                "original_price": 67.0,
+                "reduced_price": 42.99
+            },
+            "200 ml": {
+                "original_price": 90.0,
+                "reduced_price": 72.0
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Deodorant Eternity for men",
+        "url": "https://www.douglas.de/de/p/3000001530",
+        "prices": {
+            "75 g": {
+                "original_price": 29.0,
+                "reduced_price": 23.2
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Toilette ck one Gold",
+        "url": "https://www.douglas.de/de/p/3001031490?variant=935467",
+        "prices": {
+            "50 ml": {
+                "original_price": 47.0,
+                "reduced_price": 32.99
+            },
+            "100 ml": {
+                "original_price": 67.0,
+                "reduced_price": 45.99
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Toilette Obsession for men",
+        "url": "https://www.douglas.de/de/p/1003203304",
+        "prices": {
+            "75 ml": {
+                "original_price": 74.0,
+                "reduced_price": 59.2
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Parfum Eternity Intense",
+        "url": "https://www.douglas.de/de/p/5010716001?variant=1036739",
+        "prices": {
+            "30 ml": {
+                "original_price": 68.99,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 96.0,
+                "reduced_price": 63.99
+            },
+            "100 ml": {
+                "original_price": 125.0,
+                "reduced_price": 75.99
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Toilette Eternity for men",
+        "url": "https://www.douglas.de/de/p/5002559057?variant=707372",
+        "prices": {
+            "100 ml": {
+                "original_price": 92.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Toilette ck be",
+        "url": "https://www.douglas.de/de/p/1003209304?variant=995209",
+        "prices": {
+            "50 ml": {
+                "original_price": 47.0,
+                "reduced_price": 31.99
+            },
+            "100 ml": {
+                "original_price": 67.0,
+                "reduced_price": 39.99
+            },
+            "200 ml": {
+                "original_price": 90.0,
+                "reduced_price": 57.99
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Toilette Eternity",
+        "url": "https://www.douglas.de/de/p/5010992691",
+        "prices": {
+            "100 ml": {
+                "original_price": 89.0,
+                "reduced_price": 73.79
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Deodorant Obsession for men",
+        "url": "https://www.douglas.de/de/p/3000001959",
+        "prices": {
+            "75 g": {
+                "original_price": 30.49,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Duftset ck one Spring Set",
+        "url": "https://www.douglas.de/de/p/5010707004",
+        "prices": {
+            "1 Stück": {
+                "original_price": 43.0,
+                "reduced_price": 42.99
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Parfum Eternity Aromatic Essence",
+        "url": "https://www.douglas.de/de/p/5011319005?variant=1163664",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 44.99
+            },
+            "50 ml": {
+                "original_price": 100.0,
+                "reduced_price": 61.99
+            },
+            "100 ml": {
+                "original_price": 135.0,
+                "reduced_price": 89.0
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Parfum Eternity Women",
+        "url": "https://www.douglas.de/de/p/1003204295?variant=525303",
+        "prices": {
+            "30 ml": {
+                "original_price": 63.0,
+                "reduced_price": 29.99
+            },
+            "50 ml": {
+                "original_price": 89.0,
+                "reduced_price": 42.99
+            },
+            "100 ml": {
+                "original_price": 120.0,
+                "reduced_price": 58.99
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Toilette Euphoria Men Euphoria Men",
+        "url": "https://www.douglas.de/de/p/2010005757?variant=469256",
+        "prices": {
+            "100 ml": {
+                "original_price": 92.53,
+                "reduced_price": 68.79
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Parfum Eternity Eau Fresh Spray",
+        "url": "https://www.douglas.de/de/p/5002559053?variant=707384",
+        "prices": {
+            "100 ml": {
+                "original_price": 115.0,
+                "reduced_price": 104.19
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Deodorant ck one Spray",
+        "url": "https://www.douglas.de/de/p/3001047214",
+        "prices": {
+            "150 ml": {
+                "original_price": 23.79,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Toilette ck free for men",
+        "url": "https://www.douglas.de/de/p/5010352732?variant=337672",
+        "prices": {
+            "100 ml": {
+                "original_price": 81.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Toilette Sheer Beauty",
+        "url": "https://www.douglas.de/de/p/3000050196?variant=661159",
+        "prices": {
+            "100 ml": {
+                "original_price": 94.79,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Toilette CK All All",
+        "url": "https://www.douglas.de/de/p/3001035132?variant=956377",
+        "prices": {
+            "50 ml": {
+                "original_price": 38.0,
+                "reduced_price": 32.99
+            },
+            "100 ml": {
+                "original_price": 62.0,
+                "reduced_price": 56.19
+            },
+            "200 ml": {
+                "original_price": 82.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Parfum CK Everyone EDP",
+        "url": "https://www.douglas.de/de/p/5010480022?variant=449946",
+        "prices": {
+            "50 ml": {
+                "original_price": 49.0,
+                "reduced_price": 31.99
+            },
+            "100 ml": {
+                "original_price": 68.0,
+                "reduced_price": 54.4
+            },
+            "200 ml": {
+                "original_price": 98.0,
+                "reduced_price": 62.99
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Deodorant ck free",
+        "url": "https://www.douglas.de/de/p/3000030523",
+        "prices": {
+            "75,0 g": {
+                "original_price": 23.69,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Eau de Parfum Euphoria",
+        "url": "https://www.douglas.de/de/p/2001004269?variant=257533",
+        "prices": {
+            "30 ml": {
+                "original_price": 59.49,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": 59.99
+            },
+            "100 ml": {
+                "original_price": 124.0,
+                "reduced_price": 78.99
+            },
+            "160 ml": {
+                "original_price": 118.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Parfum Eternity for men Calvin Klein Eternity Amber Essence for Men 50 ml",
+        "url": "https://www.douglas.de/de/p/5011714022?variant=1221441",
+        "prices": {
+            "50 ml": {
+                "original_price": 89.0,
+                "reduced_price": 71.2
+            },
+            "100 ml": {
+                "original_price": 110.0,
+                "reduced_price": 88.0
+            }
+        }
+    },
+    {
+        "perfume_name": "CALVIN KLEIN Parfum Eternity for men Aromatic Essence",
+        "url": "https://www.douglas.de/de/p/5011319004?variant=1163667",
+        "prices": {
+            "50 ml": {
+                "original_price": 89.0,
+                "reduced_price": 71.2
+            },
+            "100 ml": {
+                "original_price": 110.0,
+                "reduced_price": 88.0
+            },
+            "200 ml": {
+                "original_price": 120.0,
+                "reduced_price": 96.0
+            }
+        }
+    }
+]

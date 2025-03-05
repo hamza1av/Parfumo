@@ -1,0 +1,164 @@
+[
+    {
+        "perfume_name": "Ellis Brooklyn Duftset ROM COM Fragrance Gift Set",
+        "url": "https://www.douglas.de/de/p/m002256001",
+        "prices": {
+            "40 ml": {
+                "original_price": 174.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Ellis Brooklyn Eau de Parfum BEE",
+        "url": "https://www.douglas.de/de/p/m001638019?variant=m2827006",
+        "prices": {
+            "10 ml": {
+                "original_price": 49.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Ellis Brooklyn Duftset DAY-TO-NIGHT Gift Set",
+        "url": "https://www.douglas.de/de/p/m002254020",
+        "prices": {
+            "1 Stück": {
+                "original_price": 173.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Ellis Brooklyn Eau de Parfum VANILLA MILK",
+        "url": "https://www.douglas.de/de/p/m001639025?variant=m2826032",
+        "prices": {
+            "10 ml": {
+                "original_price": 49.99,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 167.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Ellis Brooklyn Parfum LOVE TRIANGLE",
+        "url": "https://www.douglas.de/de/p/m002254015",
+        "prices": {
+            "30 ml": {
+                "original_price": 103.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Ellis Brooklyn Eau de Parfum Sweet",
+        "url": "https://www.douglas.de/de/p/m000351336",
+        "prices": {
+            "10 ml": {
+                "original_price": 49.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Ellis Brooklyn Duftset HAIKU Fragrance Rollerball Trio",
+        "url": "https://www.douglas.de/de/p/m002254018",
+        "prices": {
+            "30 ml": {
+                "original_price": 100.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Ellis Brooklyn Eau de Parfum Salt",
+        "url": "https://www.douglas.de/de/p/m000337000?variant=m2984134",
+        "prices": {
+            "10 ml": {
+                "original_price": 49.99,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 167.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 220.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Ellis Brooklyn Bodyspray PEACHES Hair and Body Fragrance Mist",
+        "url": "https://www.douglas.de/de/p/m001950078",
+        "prices": {
+            "100 ml": {
+                "original_price": 74.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Ellis Brooklyn Eau de Parfum FLORIST",
+        "url": "https://www.douglas.de/de/p/m001639003?variant=m2984132",
+        "prices": {
+            "7,5 ml": {
+                "original_price": 41.99,
+                "reduced_price": null
+            },
+            "10 ml": {
+                "original_price": 49.99,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 167.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Ellis Brooklyn Eau de Parfum SUN FRUIT Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/m001639016",
+        "prices": {
+            "7,5 ml": {
+                "original_price": 41.99,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 167.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 220.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Ellis Brooklyn Eau de Parfum BIOGRAPHY Fragrance Discovery Set",
+        "url": "https://www.douglas.de/de/p/m001831263",
+        "prices": {
+            "18 ml": {
+                "original_price": 56.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Ellis Brooklyn Eau de Parfum APPLE LOVE",
+        "url": "https://www.douglas.de/de/p/m001794130",
+        "prices": {
+            "10 ml": {
+                "original_price": 49.99,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 167.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

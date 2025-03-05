@@ -1,0 +1,102 @@
+[
+    {
+        "perfume_name": "Lolita Lempicka Parfum 50 ml",
+        "url": "https://www.douglas.de/de/p/5010352475?variant=206085",
+        "prices": {
+            "100 ml": {
+                "original_price": 90.99,
+                "reduced_price": 56.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Lolita Lempicka Parfum 100 ml",
+        "url": "https://www.douglas.de/de/p/5010353075?variant=205264",
+        "prices": {
+            "50 ml": {
+                "original_price": 108.29,
+                "reduced_price": 56.19
+            },
+            "100 ml": {
+                "original_price": 148.79,
+                "reduced_price": 75.49
+            }
+        }
+    },
+    {
+        "perfume_name": "Lolita Lempicka Parfum",
+        "url": "https://www.douglas.de/de/p/5002484474",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.49,
+                "reduced_price": 47.09
+            },
+            "50 ml": {
+                "original_price": 91.0,
+                "reduced_price": 70.79
+            },
+            "100 ml": {
+                "original_price": 125.0,
+                "reduced_price": 74.89
+            }
+        }
+    },
+    {
+        "perfume_name": "Lolita Lempicka Parfum 80 ml",
+        "url": "https://www.douglas.de/de/p/5010352477",
+        "prices": {
+            "40 ml": {
+                "original_price": 96.39,
+                "reduced_price": 48.29
+            },
+            "80 ml": {
+                "original_price": 125.0,
+                "reduced_price": 92.89
+            }
+        }
+    },
+    {
+        "perfume_name": "Lolita Lempicka Duftset Box Mon Premier Parfum",
+        "url": "https://www.douglas.de/de/p/5011157631",
+        "prices": {
+            "": {
+                "original_price": 47.79,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Lolita Lempicka Duftset",
+        "url": "https://www.douglas.de/de/p/5011171240",
+        "prices": {
+            "1 Stück": {
+                "original_price": 74.19,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Lolita Lempicka Parfum Green Lover",
+        "url": "https://www.douglas.de/de/p/5010352469?variant=206083",
+        "prices": {
+            "100 ml": {
+                "original_price": 90.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Lolita Lempicka Parfum",
+        "url": "https://www.douglas.de/de/p/5002484480?variant=276586",
+        "prices": {
+            "30 ml": {
+                "original_price": 65.0,
+                "reduced_price": 49.39
+            },
+            "50 ml": {
+                "original_price": 91.0,
+                "reduced_price": 62.89
+            }
+        }
+    }
+]

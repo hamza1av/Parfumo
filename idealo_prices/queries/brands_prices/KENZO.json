@@ -1,0 +1,538 @@
+[
+    {
+        "perfume_name": "KENZO Duftset Intense",
+        "url": "https://www.douglas.de/de/p/5011407385",
+        "prices": {
+            "1 Stück": {
+                "original_price": 104.0,
+                "reduced_price": 83.2
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Parfum Flower by Kenzo LA RÉCOLTE PARISIENNE",
+        "url": "https://www.douglas.de/de/p/5011406140?variant=1177903",
+        "prices": {
+            "40 ml": {
+                "original_price": 98.0,
+                "reduced_price": 78.4
+            },
+            "75 ml": {
+                "original_price": 122.0,
+                "reduced_price": 97.6
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Duftset Flower by Kenzo Geschenkset",
+        "url": "https://www.douglas.de/de/p/5011502047",
+        "prices": {
+            "1 Stück": {
+                "original_price": 71.0,
+                "reduced_price": 56.8
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Parfum Parfum D´Été D'ÉTÉ",
+        "url": "https://www.douglas.de/de/p/5010519401",
+        "prices": {
+            "75 ml": {
+                "original_price": 122.0,
+                "reduced_price": 97.6
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Parfum Kenzo Jungle JUNGLE",
+        "url": "https://www.douglas.de/de/p/3000002199",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            },
+            "100 ml": {
+                "original_price": 136.0,
+                "reduced_price": 108.8
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5010758126",
+        "prices": {}
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5010566092",
+        "prices": {}
+    },
+    {
+        "perfume_name": "KENZO Eau de Parfum La Collection KENZO Memori Ciel Magnolia",
+        "url": "https://www.douglas.de/de/p/5010566097",
+        "prices": {
+            "75 ml": {
+                "original_price": 97.0,
+                "reduced_price": 77.6
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Parfum Kenzo World",
+        "url": "https://www.douglas.de/de/p/3001036852",
+        "prices": {
+            "30 ml": {
+                "original_price": 71.0,
+                "reduced_price": 56.8
+            },
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": 79.2
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Parfum La Collection KENZO Memori Encens Lumière",
+        "url": "https://www.douglas.de/de/p/5010952019",
+        "prices": {
+            "75 ml": {
+                "original_price": 97.0,
+                "reduced_price": 77.6
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Toilette Kenzo Homme Intense",
+        "url": "https://www.douglas.de/de/p/5010142011?variant=138378",
+        "prices": {
+            "40 ml": {
+                "original_price": 60.0,
+                "reduced_price": 48.0
+            },
+            "60 ml": {
+                "original_price": 84.0,
+                "reduced_price": null
+            },
+            "110 ml": {
+                "original_price": 109.0,
+                "reduced_price": 87.2
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Parfum La Collection KENZO Memori LA COLLECTION MEMORI Nuage Cerisier",
+        "url": "https://www.douglas.de/de/p/5011286027",
+        "prices": {
+            "75 ml": {
+                "original_price": 97.0,
+                "reduced_price": 77.6
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Duftset Flower by Kenzo Geschenkset",
+        "url": "https://www.douglas.de/de/p/5010943004",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 107.0,
+                "reduced_price": 85.6
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Parfum Flower by Kenzo Ikebana Indigo",
+        "url": "https://www.douglas.de/de/p/5011699026",
+        "prices": {
+            "40 ml": {
+                "original_price": 99.0,
+                "reduced_price": null
+            },
+            "75 ml": {
+                "original_price": 123.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Toilette Aqua Kenzo Pour Femme",
+        "url": "https://www.douglas.de/de/p/3001043868?variant=011362",
+        "prices": {
+            "30 ml": {
+                "original_price": 49.0,
+                "reduced_price": 39.2
+            },
+            "50 ml": {
+                "original_price": 73.0,
+                "reduced_price": 58.4
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Toilette Le Monde Est Beau",
+        "url": "https://www.douglas.de/de/p/5011414075",
+        "prices": {
+            "50 ml": {
+                "original_price": 83.0,
+                "reduced_price": 66.4
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Toilette Flower by Kenzo",
+        "url": "https://www.douglas.de/de/p/3000010448",
+        "prices": {
+            "30 ml": {
+                "original_price": 63.0,
+                "reduced_price": 50.4
+            },
+            "50 ml": {
+                "original_price": 90.0,
+                "reduced_price": 72.0
+            },
+            "100 ml": {
+                "original_price": 123.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Parfum Kenzo Homme",
+        "url": "https://www.douglas.de/de/p/5010632025?variant=492624",
+        "prices": {
+            "60 ml": {
+                "original_price": 87.0,
+                "reduced_price": 69.6
+            },
+            "110 ml": {
+                "original_price": 113.0,
+                "reduced_price": 90.4
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Parfum La Collection KENZO Memori Poudre Matcha",
+        "url": "https://www.douglas.de/de/p/5010566094",
+        "prices": {
+            "75 ml": {
+                "original_price": 97.0,
+                "reduced_price": 77.6
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Duftset Flower by Kenzo Geschenkset",
+        "url": "https://www.douglas.de/de/p/5011563072",
+        "prices": {
+            "1 Stück": {
+                "original_price": 99.0,
+                "reduced_price": 79.2
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Duftset Kenzo Homme Intense Geschenkset",
+        "url": "https://www.douglas.de/de/p/5011574325",
+        "prices": {
+            "1 Stück": {
+                "original_price": 84.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5011159410",
+        "prices": {
+            "75 ml": {
+                "original_price": 70.49,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Parfum Kenzo Homme Indigo",
+        "url": "https://www.douglas.de/de/p/5011699027?variant=1217313",
+        "prices": {
+            "60 ml": {
+                "original_price": 84.0,
+                "reduced_price": 67.2
+            },
+            "110 ml": {
+                "original_price": 109.0,
+                "reduced_price": 87.2
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Toilette Kenzo Homme Eau Marine",
+        "url": "https://www.douglas.de/de/p/5010909015?variant=1078950",
+        "prices": {
+            "60 ml": {
+                "original_price": 80.0,
+                "reduced_price": 64.0
+            },
+            "110 ml": {
+                "original_price": 104.0,
+                "reduced_price": 83.2
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Parfum Flower by Kenzo EdP",
+        "url": "https://www.douglas.de/de/p/5000888032?variant=1118310",
+        "prices": {
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": 79.2
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Toilette Kenzo Homme",
+        "url": "https://www.douglas.de/de/p/1013702304?variant=462740",
+        "prices": {
+            "40 ml": {
+                "original_price": 57.0,
+                "reduced_price": 45.6
+            },
+            "60 ml": {
+                "original_price": 80.0,
+                "reduced_price": 64.0
+            },
+            "110 ml": {
+                "original_price": 104.0,
+                "reduced_price": 83.2
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Toilette Aqua Kenzo Pour Homme",
+        "url": "https://www.douglas.de/de/p/3001043869",
+        "prices": {
+            "30 ml": {
+                "original_price": 49.0,
+                "reduced_price": 39.2
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Parfum Flower by Kenzo IKEBANA",
+        "url": "https://www.douglas.de/de/p/5010975039?variant=1098847",
+        "prices": {
+            "40 ml": {
+                "original_price": 98.0,
+                "reduced_price": 78.4
+            },
+            "75 ml": {
+                "original_price": 122.0,
+                "reduced_price": 97.6
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Parfum Flower by Kenzo L'Absolue",
+        "url": "https://www.douglas.de/de/p/5010604034?variant=492629",
+        "prices": {
+            "30 ml": {
+                "original_price": 77.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 107.0,
+                "reduced_price": 85.6
+            },
+            "100 ml": {
+                "original_price": 149.0,
+                "reduced_price": 119.2
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Toilette Flower by Kenzo Poppy Bouquet",
+        "url": "https://www.douglas.de/de/p/5010464060",
+        "prices": {
+            "30 ml": {
+                "original_price": 63.0,
+                "reduced_price": 50.4
+            },
+            "50 ml": {
+                "original_price": 90.0,
+                "reduced_price": 72.0
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Parfum La Collection KENZO Memori Cèdre Secret",
+        "url": "https://www.douglas.de/de/p/5010566095",
+        "prices": {
+            "75 ml": {
+                "original_price": 97.0,
+                "reduced_price": 77.6
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Toilette L´Eau Kenzo Homme",
+        "url": "https://www.douglas.de/de/p/2010006513?variant=1194337",
+        "prices": {
+            "30 ml": {
+                "original_price": 49.0,
+                "reduced_price": 39.2
+            },
+            "50 ml": {
+                "original_price": 73.0,
+                "reduced_price": 58.4
+            },
+            "100 ml": {
+                "original_price": 97.0,
+                "reduced_price": 77.6
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Parfum Kenzo Homme Santal Marin",
+        "url": "https://www.douglas.de/de/p/5011438025",
+        "prices": {
+            "110 ml": {
+                "original_price": 109.0,
+                "reduced_price": 87.1
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Toilette Kenzo World",
+        "url": "https://www.douglas.de/de/p/3001042289?variant=996357",
+        "prices": {
+            "30 ml": {
+                "original_price": 63.0,
+                "reduced_price": 57.99
+            },
+            "50 ml": {
+                "original_price": 90.0,
+                "reduced_price": 72.0
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Toilette Ca Sent Beau",
+        "url": "https://www.douglas.de/de/p/3000004804?variant=677574",
+        "prices": {
+            "50 ml": {
+                "original_price": 83.0,
+                "reduced_price": 66.4
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Duftset Kenzo Homme Geschenkset",
+        "url": "https://www.douglas.de/de/p/5011574243",
+        "prices": {
+            "1 Stück": {
+                "original_price": 104.0,
+                "reduced_price": 83.2
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Parfum Kenzo Jeu d’Amour JEU D’AMOUR",
+        "url": "https://www.douglas.de/de/p/3001004881?variant=1134244",
+        "prices": {
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": 79.2
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Parfum Flower by Kenzo IKEBANA MIMOSA",
+        "url": "https://www.douglas.de/de/p/5011286018",
+        "prices": {
+            "40 ml": {
+                "original_price": 98.0,
+                "reduced_price": 78.4
+            },
+            "75 ml": {
+                "original_price": 122.0,
+                "reduced_price": 97.6
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Parfum La Collection KENZO Memori Rêve Lotus",
+        "url": "https://www.douglas.de/de/p/5010566093",
+        "prices": {
+            "75 ml": {
+                "original_price": 97.0,
+                "reduced_price": 77.6
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Parfum Kenzo Amour",
+        "url": "https://www.douglas.de/de/p/2010005893?variant=023668",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            },
+            "50 ml": {
+                "original_price": 97.0,
+                "reduced_price": 77.6
+            },
+            "100 ml": {
+                "original_price": 136.0,
+                "reduced_price": 108.8
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Parfum La Collection KENZO Memori Nuit Tatami",
+        "url": "https://www.douglas.de/de/p/5010566096",
+        "prices": {
+            "75 ml": {
+                "original_price": 97.0,
+                "reduced_price": 77.6
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Toilette L´Eau Kenzo",
+        "url": "https://www.douglas.de/de/p/2010006512?variant=1014227",
+        "prices": {
+            "30 ml": {
+                "original_price": 49.0,
+                "reduced_price": 39.2
+            },
+            "50 ml": {
+                "original_price": 73.0,
+                "reduced_price": 58.4
+            },
+            "100 ml": {
+                "original_price": 97.0,
+                "reduced_price": 85.19
+            }
+        }
+    },
+    {
+        "perfume_name": "KENZO Eau de Parfum Flower by Kenzo Couture Edition",
+        "url": "https://www.douglas.de/de/p/1013705295?variant=565310",
+        "prices": {
+            "15 ml Refillable": {
+                "original_price": 43.29,
+                "reduced_price": null
+            },
+            "30 ml": {
+                "original_price": 71.0,
+                "reduced_price": 45.99
+            },
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": 72.99
+            },
+            "100 ml Refillable": {
+                "original_price": 138.0,
+                "reduced_price": 110.4
+            }
+        }
+    }
+]

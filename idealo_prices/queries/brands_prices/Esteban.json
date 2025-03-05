@@ -1,0 +1,180 @@
+[
+    {
+        "perfume_name": "Esteban Raumduft Deco Bouquet - Cèdre",
+        "url": "https://www.douglas.de/de/p/5002491123",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.95,
+                "reduced_price": 26.36
+            }
+        }
+    },
+    {
+        "perfume_name": "Esteban Raumduft Refresher Oil - Esprit de Thé",
+        "url": "https://www.douglas.de/de/p/5002488732",
+        "prices": {
+            "15 ml": {
+                "original_price": 11.95,
+                "reduced_price": 9.56
+            }
+        }
+    },
+    {
+        "perfume_name": "Esteban Raumduft Nachfüllbares parfümiertes Bukett Initial Sommerjasmin",
+        "url": "https://www.douglas.de/de/p/5011160835",
+        "prices": {
+            "100 ml": {
+                "original_price": 19.95,
+                "reduced_price": 15.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Esteban Raumduft Thé en Fleur",
+        "url": "https://www.douglas.de/de/p/5011160855",
+        "prices": {
+            "100 ml": {
+                "original_price": 19.95,
+                "reduced_price": 15.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Esteban Raumduft Nachfüllbares parfümiertes Bukett Initial Wilder zeder",
+        "url": "https://www.douglas.de/de/p/5011160805",
+        "prices": {
+            "100 ml": {
+                "original_price": 19.95,
+                "reduced_price": 15.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Esteban Raumduft INITIAL BOUQUET",
+        "url": "https://www.douglas.de/de/p/5002488258",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.95,
+                "reduced_price": 26.36
+            }
+        }
+    },
+    {
+        "perfume_name": "Esteban Raumduft INITIAL BOUQUET",
+        "url": "https://www.douglas.de/de/p/5002488729",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.95,
+                "reduced_price": 26.36
+            }
+        }
+    },
+    {
+        "perfume_name": "Esteban Raumduft INITIAL BOUQUET",
+        "url": "https://www.douglas.de/de/p/5002488270?variant=544033",
+        "prices": {
+            "250 ml - Refill": {
+                "original_price": 20.95,
+                "reduced_price": 16.76
+            },
+            "500 ml - Refill": {
+                "original_price": 32.95,
+                "reduced_price": 26.36
+            }
+        }
+    },
+    {
+        "perfume_name": "Esteban Raumduft INITIAL BOUQUET",
+        "url": "https://www.douglas.de/de/p/5002488305",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.95,
+                "reduced_price": 19.99
+            },
+            "250 ml - Refill": {
+                "original_price": 20.95,
+                "reduced_price": 16.76
+            },
+            "500 ml - Refill": {
+                "original_price": 32.95,
+                "reduced_price": 26.36
+            }
+        }
+    },
+    {
+        "perfume_name": "Esteban Raumduft Duftverteiler Parfümnebel - Edition Art",
+        "url": "https://www.douglas.de/de/p/5002488731",
+        "prices": {
+            "950 g": {
+                "original_price": 89.95,
+                "reduced_price": 71.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Esteban Raumduft INITIAL BOUQUET",
+        "url": "https://www.douglas.de/de/p/5002488757?variant=544221",
+        "prices": {
+            "250 ml - Refill": {
+                "original_price": 20.95,
+                "reduced_price": 16.76
+            },
+            "500 ml - Refill": {
+                "original_price": 32.95,
+                "reduced_price": 26.36
+            }
+        }
+    },
+    {
+        "perfume_name": "Esteban Raumduft Parfümiertes Bukett Triptyque - Teck & Tonka",
+        "url": "https://www.douglas.de/de/p/5002484500",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.95,
+                "reduced_price": 26.36
+            },
+            "250 ml - Refill": {
+                "original_price": 20.95,
+                "reduced_price": 16.76
+            },
+            "500 ml - Refill": {
+                "original_price": 32.95,
+                "reduced_price": 26.36
+            }
+        }
+    },
+    {
+        "perfume_name": "Esteban Raumduft Nachfüllbares parfümiertes Bukett Initial Rebpfirsich",
+        "url": "https://www.douglas.de/de/p/5011160857",
+        "prices": {
+            "100 ml": {
+                "original_price": 19.95,
+                "reduced_price": 15.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Esteban Raumduft Parfümiertes Bukett Triptyque - Figue Noire",
+        "url": "https://www.douglas.de/de/p/5002491109?variant=544122",
+        "prices": {
+            "250 ml - Refill": {
+                "original_price": 20.95,
+                "reduced_price": 16.76
+            },
+            "500 ml - Refill": {
+                "original_price": 32.95,
+                "reduced_price": 26.36
+            }
+        }
+    },
+    {
+        "perfume_name": "Esteban Raumduft Deco Bouquet - Néroli",
+        "url": "https://www.douglas.de/de/p/5002491100",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.95,
+                "reduced_price": 26.36
+            }
+        }
+    }
+]

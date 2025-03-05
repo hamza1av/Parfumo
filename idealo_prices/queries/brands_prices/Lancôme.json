@@ -1,0 +1,787 @@
+[
+    {
+        "perfume_name": "Lancôme Eau de Toilette Magie Noire",
+        "url": "https://www.douglas.de/de/p/3000008973",
+        "prices": {
+            "75 ml": {
+                "original_price": 105.0,
+                "reduced_price": 84.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Absolu Les Parfums Le Parfum",
+        "url": "https://www.douglas.de/de/p/5011594002",
+        "prices": {
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": 220.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Etui Idôle Le Case",
+        "url": "https://www.douglas.de/de/p/3011043719",
+        "prices": {
+            "1 Stück": {
+                "original_price": 23.51,
+                "reduced_price": 19.89
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Idôle Now",
+        "url": "https://www.douglas.de/de/p/5010980002?variant=1092264",
+        "prices": {
+            "25 ml": {
+                "original_price": 63.0,
+                "reduced_price": 43.99
+            },
+            "50 ml": {
+                "original_price": 102.0,
+                "reduced_price": 73.99
+            },
+            "100 ml": {
+                "original_price": 133.0,
+                "reduced_price": 97.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Duftset Miracle Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011564068",
+        "prices": {
+            "1 Stück": {
+                "original_price": 61.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Duftset Idôle Set",
+        "url": "https://www.douglas.de/de/p/5011701017",
+        "prices": {
+            "1 Stück": {
+                "original_price": 103.0,
+                "reduced_price": 82.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Absolu Les Parfums Rose on the Moon",
+        "url": "https://www.douglas.de/de/p/5011594005",
+        "prices": {
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": 220.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Hypnôse",
+        "url": "https://www.douglas.de/de/p/2001004164",
+        "prices": {
+            "30 ml": {
+                "original_price": 62.0,
+                "reduced_price": 41.99
+            },
+            "75 ml": {
+                "original_price": 120.0,
+                "reduced_price": 87.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Bodylotion Trésor Body Lotion",
+        "url": "https://www.douglas.de/de/p/3000019706",
+        "prices": {
+            "150 ml": {
+                "original_price": 22.0,
+                "reduced_price": 16.09
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Körpermilch La vie est belle",
+        "url": "https://www.douglas.de/de/p/3001035931",
+        "prices": {
+            "200 ml": {
+                "original_price": 61.69,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum La Nuit Trésor Vanille Noire",
+        "url": "https://www.douglas.de/de/p/5011701022?variant=1216776",
+        "prices": {
+            "30 ml": {
+                "original_price": 67.0,
+                "reduced_price": 53.6
+            },
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": 79.2
+            },
+            "100 ml": {
+                "original_price": 130.0,
+                "reduced_price": 104.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Absolu Les Parfums Rose or die",
+        "url": "https://www.douglas.de/de/p/5011594009",
+        "prices": {
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": 220.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Absolu Les Parfums 6AM Rose",
+        "url": "https://www.douglas.de/de/p/5011594010",
+        "prices": {
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": 220.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Toilette Magie Noire Edt Vapo Ed. Lim.",
+        "url": "https://www.douglas.de/de/p/m002051219",
+        "prices": {
+            "75 ml": {
+                "original_price": 108.36,
+                "reduced_price": 92.1
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Idôle Aura",
+        "url": "https://www.douglas.de/de/p/5010113001?variant=167919",
+        "prices": {
+            "50 ml": {
+                "original_price": 100.0,
+                "reduced_price": 66.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Duftset Idôle Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011564065",
+        "prices": {
+            "1 Stück": {
+                "original_price": 133.0,
+                "reduced_price": 126.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum La vie est belle Rose Extraordinaire",
+        "url": "https://www.douglas.de/de/p/5011313000?variant=1158772",
+        "prices": {
+            "30 ml": {
+                "original_price": 72.0,
+                "reduced_price": 57.6
+            },
+            "50 ml": {
+                "original_price": 107.0,
+                "reduced_price": 72.99
+            },
+            "100 ml": {
+                "original_price": 137.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Duftset Trésor Set",
+        "url": "https://www.douglas.de/de/p/5010897028",
+        "prices": {
+            "Eau de Parfum Spray 30 ml + Body Lotion 50 ml": {
+                "original_price": 61.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Absolu Les Parfums Oud Bouquet",
+        "url": "https://www.douglas.de/de/p/5011594011",
+        "prices": {
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": 220.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum La vie est belle L'Extrait",
+        "url": "https://www.douglas.de/de/p/5011068039?variant=1113381",
+        "prices": {
+            "30 ml": {
+                "original_price": 96.39,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": 103.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Duftset Idôle Set",
+        "url": "https://www.douglas.de/de/p/5011286112",
+        "prices": {
+            "": {
+                "original_price": 102.0,
+                "reduced_price": 99.89
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Duschgel La vie est belle",
+        "url": "https://www.douglas.de/de/p/3001035927",
+        "prices": {
+            "200 ml": {
+                "original_price": 47.0,
+                "reduced_price": 35.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum La vie est belle Soleil Cristal",
+        "url": "https://www.douglas.de/de/p/5009627002?variant=832880",
+        "prices": {
+            "15 ml": {
+                "original_price": 51.79,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 105.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 135.0,
+                "reduced_price": 108.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum La vie est belle L'Elixir",
+        "url": "https://www.douglas.de/de/p/5011520024?variant=1185795",
+        "prices": {
+            "10 ml": {
+                "original_price": 30.0,
+                "reduced_price": null
+            },
+            "30 ml": {
+                "original_price": 79.0,
+                "reduced_price": 50.46
+            },
+            "50 ml": {
+                "original_price": 120.0,
+                "reduced_price": 74.03
+            },
+            "100 ml": {
+                "original_price": 150.0,
+                "reduced_price": 96.65
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum La vie est belle Intensément",
+        "url": "https://www.douglas.de/de/p/5001544014?variant=521327",
+        "prices": {
+            "30 ml": {
+                "original_price": 80.0,
+                "reduced_price": 49.99
+            },
+            "50 ml": {
+                "original_price": 117.0,
+                "reduced_price": 72.99
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 95.0
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5011073028",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Idôle Nectar",
+        "url": "https://www.douglas.de/de/p/5010632090?variant=1009984",
+        "prices": {
+            "25 ml": {
+                "original_price": 60.0,
+                "reduced_price": 41.99
+            },
+            "50 ml": {
+                "original_price": 100.0,
+                "reduced_price": 71.99
+            },
+            "100 ml": {
+                "original_price": 130.0,
+                "reduced_price": 89.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Duftset La vie est belle Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011720128",
+        "prices": {
+            "1 Stück": {
+                "original_price": 72.0,
+                "reduced_price": 57.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Absolu Les Parfums Hot as rose",
+        "url": "https://www.douglas.de/de/p/5011594006",
+        "prices": {
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": 220.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Poême",
+        "url": "https://www.douglas.de/de/p/1011413295?variant=698274",
+        "prices": {
+            "100 ml": {
+                "original_price": 135.0,
+                "reduced_price": 108.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Idôle Power",
+        "url": "https://www.douglas.de/de/p/5011699059",
+        "prices": {
+            "25 ml": {
+                "original_price": 65.0,
+                "reduced_price": 47.99
+            },
+            "50 ml": {
+                "original_price": 107.0,
+                "reduced_price": 85.6
+            },
+            "100 ml": {
+                "original_price": 140.0,
+                "reduced_price": 109.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Idôle",
+        "url": "https://www.douglas.de/de/p/3011043718?variant=692722",
+        "prices": {
+            "25 ml": {
+                "original_price": 63.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 102.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 133.0,
+                "reduced_price": null
+            },
+            "100 ml - Refill": {
+                "original_price": 113.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Duftset Trésor Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011562113",
+        "prices": {
+            "Eau de Parfum Spray 30 ml + Body Lotion 50 ml + Hypnôse Mascara 2 ml": {
+                "original_price": 59.0,
+                "reduced_price": 32.95
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Trésor",
+        "url": "https://www.douglas.de/de/p/1011405295?variant=104597",
+        "prices": {
+            "10 ml - Travel Size": {
+                "original_price": 19.99,
+                "reduced_price": null
+            },
+            "30 ml": {
+                "original_price": 59.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 95.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 130.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Duftset La vie est belle Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5011573051",
+        "prices": {
+            "1 Stück": {
+                "original_price": 72.0,
+                "reduced_price": 39.9
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Toilette Ô de Lancôme",
+        "url": "https://www.douglas.de/de/p/1011407304",
+        "prices": {
+            "75 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "125 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Toilette Idôle",
+        "url": "https://www.douglas.de/de/p/5011398024?variant=1177705",
+        "prices": {
+            "25 ml": {
+                "original_price": 57.0,
+                "reduced_price": 45.6
+            },
+            "50 ml": {
+                "original_price": 92.0,
+                "reduced_price": 73.6
+            },
+            "100 ml": {
+                "original_price": 120.0,
+                "reduced_price": 96.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Duftset Trésor",
+        "url": "https://www.douglas.de/de/p/5011720129",
+        "prices": {
+            "1 Stück": {
+                "original_price": 59.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Absolu Les Parfums Storm & roses",
+        "url": "https://www.douglas.de/de/p/5011594007",
+        "prices": {
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": 220.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Absolu Les Parfums Not your rose",
+        "url": "https://www.douglas.de/de/p/5011594008",
+        "prices": {
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": 220.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Duftset La vie est belle Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011562112",
+        "prices": {
+            "1 Stück": {
+                "original_price": 72.0,
+                "reduced_price": 39.17
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Parfum La Nuit Trésor La Nuit",
+        "url": "https://www.douglas.de/de/p/5011276001",
+        "prices": {
+            "30 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            },
+            "50 ml": {
+                "original_price": 109.0,
+                "reduced_price": 87.2
+            },
+            "100 ml": {
+                "original_price": 140.0,
+                "reduced_price": 112.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Duftset La vie est belle Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011720127",
+        "prices": {
+            "1 Stück": {
+                "original_price": 107.0,
+                "reduced_price": 85.6
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5011460050",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Lancôme Duftset La vie est belle Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011564061",
+        "prices": {
+            "1 Stück": {
+                "original_price": 107.0,
+                "reduced_price": 58.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum La Nuit Trésor",
+        "url": "https://www.douglas.de/de/p/3001010424?variant=841322",
+        "prices": {
+            "30 ml": {
+                "original_price": 67.0,
+                "reduced_price": 46.99
+            },
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": 79.2
+            },
+            "75 ml": {
+                "original_price": 120.0,
+                "reduced_price": 82.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Duftset Idôle Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011562111",
+        "prices": {
+            "1 Stück": {
+                "original_price": 103.59,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Absolu Les Parfums I flamed a rose",
+        "url": "https://www.douglas.de/de/p/5011594003",
+        "prices": {
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": 220.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum La Nuit Trésor Intense",
+        "url": "https://www.douglas.de/de/p/5010488002?variant=469231",
+        "prices": {
+            "50 ml": {
+                "original_price": 109.0,
+                "reduced_price": 87.2
+            },
+            "100 ml": {
+                "original_price": 141.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Absolu Les Parfums 1001 Roses",
+        "url": "https://www.douglas.de/de/p/5011594001",
+        "prices": {
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": 220.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Duftset La vie est belle L'Elixir Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5011701016",
+        "prices": {
+            "1 Stück": {
+                "original_price": 120.0,
+                "reduced_price": 74.03
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Duftset La vie est belle Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011720126",
+        "prices": {
+            "1 Stück": {
+                "original_price": 137.0,
+                "reduced_price": 109.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum La vie est belle Iris Absolu",
+        "url": "https://www.douglas.de/de/p/5010891024",
+        "prices": {
+            "30 ml": {
+                "original_price": 80.0,
+                "reduced_price": 52.99
+            },
+            "50 ml": {
+                "original_price": 117.0,
+                "reduced_price": 82.0
+            },
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Absolu Les Parfums Hell of a rose",
+        "url": "https://www.douglas.de/de/p/5011594004",
+        "prices": {
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": 220.0
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5001699003",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Miracle Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/1011424295?variant=069714",
+        "prices": {
+            "30 ml": {
+                "original_price": 62.0,
+                "reduced_price": 41.99
+            },
+            "50 ml": {
+                "original_price": 92.0,
+                "reduced_price": 65.99
+            },
+            "100 ml": {
+                "original_price": 135.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Duftset Miracle Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011398018",
+        "prices": {
+            "1 Stück": {
+                "original_price": 62.0,
+                "reduced_price": 41.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Duftset La vie est belle 100ml Set",
+        "url": "https://www.douglas.de/de/p/5010897031",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 137.0,
+                "reduced_price": 79.9
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum Trésor Midnight Rose",
+        "url": "https://www.douglas.de/de/p/3000045725",
+        "prices": {
+            "30 ml": {
+                "original_price": 59.0,
+                "reduced_price": 36.99
+            },
+            "50 ml": {
+                "original_price": 89.0,
+                "reduced_price": 67.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Eau de Parfum La vie est belle Nachfüllbar",
+        "url": "https://www.douglas.de/de/p/3000056790?variant=790924",
+        "prices": {
+            "15 ml - Happiness Shot": {
+                "original_price": 37.0,
+                "reduced_price": 29.6
+            },
+            "30 ml - refillable": {
+                "original_price": 72.0,
+                "reduced_price": 39.17
+            },
+            "50 ml - refillable": {
+                "original_price": 107.0,
+                "reduced_price": 58.19
+            },
+            "50 ml - Special Edition": {
+                "original_price": 107.0,
+                "reduced_price": null
+            },
+            "75 ml - refillable": {
+                "original_price": 127.0,
+                "reduced_price": 74.95
+            },
+            "100 ml - refillable": {
+                "original_price": 137.0,
+                "reduced_price": 79.9
+            },
+            "100 ml - Refill": {
+                "original_price": 117.0,
+                "reduced_price": 79.9
+            },
+            "150 ml - refillable": {
+                "original_price": 165.0,
+                "reduced_price": 98.95
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Körpercreme Idôle La Power Crème",
+        "url": "https://www.douglas.de/de/p/5009296045",
+        "prices": {
+            "200 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Lancôme Duftset La vie est belle L'Elixir Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011564066",
+        "prices": {
+            "1 Stück": {
+                "original_price": 120.0,
+                "reduced_price": 105.19
+            }
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "MAAR Eau de Parfum Mina",
+        "url": "https://www.douglas.de/de/p/5010532223?variant=288225",
+        "prices": {
+            "100 ml": {
+                "original_price": 65.64,
+                "reduced_price": 55.79
+            }
+        }
+    },
+    {
+        "perfume_name": "MAAR Eau de Parfum Nayla",
+        "url": "https://www.douglas.de/de/p/5010532742?variant=260723",
+        "prices": {
+            "50 ml": {
+                "original_price": 53.17,
+                "reduced_price": 45.19
+            }
+        }
+    }
+]

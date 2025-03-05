@@ -133,7 +133,7 @@ from bs4 import BeautifulSoup
 
 #     return {"perfume_name": perfume_name, "prices": size_price_dict}
 
-def extract_douglas_prices(html: str) -> dict:
+def extract_douglas_prices(html: str, url: str) -> dict:
     soup = BeautifulSoup(html, "html.parser")
     size_price_dict = {}
 
@@ -169,7 +169,7 @@ def extract_douglas_prices(html: str) -> dict:
                 "reduced_price": reduced_price
             }
 
-    return {"perfume_name": perfume_name, "prices": size_price_dict}
+    return {"perfume_name": perfume_name, "url": url, "prices": size_price_dict}
 
 
 def extract_flaconi_prices(html):

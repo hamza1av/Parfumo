@@ -1,0 +1,126 @@
+[
+    {
+        "perfume_name": "Ted Baker Eau de Toilette FLORET POLLY",
+        "url": "https://www.douglas.de/de/p/5011551159",
+        "prices": {
+            "50 ml": {
+                "original_price": 29.95,
+                "reduced_price": 23.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Ted Baker Eau de Toilette FLORET POLLY",
+        "url": "https://www.douglas.de/de/p/5010892001",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.95,
+                "reduced_price": 31.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Ted Baker Eau de Toilette SKINWEAR",
+        "url": "https://www.douglas.de/de/p/5011579061",
+        "prices": {
+            "100 ml": {
+                "original_price": 34.95,
+                "reduced_price": 27.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Ted Baker Eau de Toilette FLORET ELODIE",
+        "url": "https://www.douglas.de/de/p/5011551157",
+        "prices": {
+            "50 ml": {
+                "original_price": 29.95,
+                "reduced_price": 23.96
+            },
+            "100 ml": {
+                "original_price": 39.95,
+                "reduced_price": 31.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Ted Baker Eau de Toilette WOMAN PINK",
+        "url": "https://www.douglas.de/de/p/5011543079",
+        "prices": {
+            "200 ml": {
+                "original_price": 49.95,
+                "reduced_price": 39.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Ted Baker Eau de Toilette SKINWEAR",
+        "url": "https://www.douglas.de/de/p/5011543078",
+        "prices": {
+            "200 ml": {
+                "original_price": 49.95,
+                "reduced_price": 39.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Ted Baker Eau de Toilette TONICS Ag SILVER",
+        "url": "https://www.douglas.de/de/p/5010892012",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.95,
+                "reduced_price": 31.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Ted Baker Eau de Toilette TONICS Cu COPPER",
+        "url": "https://www.douglas.de/de/p/5011548116",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.95,
+                "reduced_price": 31.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Ted Baker Eau de Toilette FLORET MIA",
+        "url": "https://www.douglas.de/de/p/5011551158",
+        "prices": {
+            "50 ml": {
+                "original_price": 29.95,
+                "reduced_price": 23.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Ted Baker Eau de Toilette FLORET MIA",
+        "url": "https://www.douglas.de/de/p/5010892005",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.95,
+                "reduced_price": 31.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Ted Baker Eau de Toilette WOMAN PINK",
+        "url": "https://www.douglas.de/de/p/5011579062",
+        "prices": {
+            "100 ml": {
+                "original_price": 34.95,
+                "reduced_price": 27.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Ted Baker Eau de Toilette TONICS Au GOLD",
+        "url": "https://www.douglas.de/de/p/5011548115",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.95,
+                "reduced_price": 31.96
+            }
+        }
+    }
+]

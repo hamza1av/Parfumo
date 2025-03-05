@@ -1,0 +1,32 @@
+[
+    {
+        "perfume_name": "Atelier Oblique Eau de Parfum Voodoo Flowers",
+        "url": "https://www.douglas.de/de/p/m001639010",
+        "prices": {
+            "50 ml": {
+                "original_price": 145.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Atelier Oblique Eau de Parfum Saint",
+        "url": "https://www.douglas.de/de/p/m001775103",
+        "prices": {
+            "50 ml": {
+                "original_price": 145.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Atelier Oblique Eau de Parfum Closer",
+        "url": "https://www.douglas.de/de/p/m001739036",
+        "prices": {
+            "50 ml": {
+                "original_price": 145.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

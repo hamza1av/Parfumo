@@ -1,0 +1,160 @@
+[
+    {
+        "perfume_name": "OPTICO Parfum OPTICAL ART ITALY",
+        "url": "https://www.douglas.de/de/p/5011392186",
+        "prices": {
+            "20 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 150.0,
+                "reduced_price": 120.0
+            }
+        }
+    },
+    {
+        "perfume_name": "OPTICO Parfum OPTICAL ART MALABAR",
+        "url": "https://www.douglas.de/de/p/5011392195?variant=1173700",
+        "prices": {
+            "20 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 150.0,
+                "reduced_price": 120.0
+            }
+        }
+    },
+    {
+        "perfume_name": "OPTICO Parfum POP ART BBG - Be Bubblegum",
+        "url": "https://www.douglas.de/de/p/5011392189",
+        "prices": {
+            "50 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "OPTICO Parfum OPTICAL ART Art Discovery Kit",
+        "url": "https://www.douglas.de/de/p/5011634029",
+        "prices": {
+            "1 Stück": {
+                "original_price": 44.9,
+                "reduced_price": 35.92
+            }
+        }
+    },
+    {
+        "perfume_name": "OPTICO Parfum POP ART THC - The Highest Component",
+        "url": "https://www.douglas.de/de/p/5011392188",
+        "prices": {
+            "50 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "OPTICO Parfum OPTICAL ART COSTA RICA - TRAVEL EDITION",
+        "url": "https://www.douglas.de/de/p/5011392193",
+        "prices": {
+            "20 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 150.0,
+                "reduced_price": 120.0
+            }
+        }
+    },
+    {
+        "perfume_name": "OPTICO Parfum POP ART SBE - Salty Breeze Explosion",
+        "url": "https://www.douglas.de/de/p/5011392190",
+        "prices": {
+            "50 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "OPTICO Parfum OPTICAL ART GABON - TRAVEL EDITION",
+        "url": "https://www.douglas.de/de/p/5011392191",
+        "prices": {
+            "20 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 150.0,
+                "reduced_price": 120.0
+            }
+        }
+    },
+    {
+        "perfume_name": "OPTICO Parfum POP ART BSX - Boost Smell Experience",
+        "url": "https://www.douglas.de/de/p/5011392187",
+        "prices": {
+            "50 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "OPTICO Parfum POP ART Pop Art Discovery Kit",
+        "url": "https://www.douglas.de/de/p/5011634030",
+        "prices": {
+            "1 Stück": {
+                "original_price": 34.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "OPTICO Parfum OPTICAL ART SRI LANKA",
+        "url": "https://www.douglas.de/de/p/5011392194?variant=1173699",
+        "prices": {
+            "20 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 150.0,
+                "reduced_price": 120.0
+            }
+        }
+    },
+    {
+        "perfume_name": "OPTICO Parfum OPTICAL ART Brazil",
+        "url": "https://www.douglas.de/de/p/5011572102",
+        "prices": {
+            "20 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 150.0,
+                "reduced_price": 120.0
+            }
+        }
+    },
+    {
+        "perfume_name": "OPTICO Parfum OPTICAL ART REUNION",
+        "url": "https://www.douglas.de/de/p/5011392192?variant=1173697",
+        "prices": {
+            "20 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 150.0,
+                "reduced_price": 120.0
+            }
+        }
+    }
+]

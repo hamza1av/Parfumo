@@ -1,0 +1,64 @@
+[
+    {
+        "perfume_name": "Kylie Jenner Fragrances Duftset cosmic kylie jenner cosmic – zestaw prezentowy, 2 sztuki",
+        "url": "https://www.douglas.de/de/p/5011563015",
+        "prices": {
+            "1 Stück": {
+                "original_price": 45.0,
+                "reduced_price": 35.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Kylie Jenner Fragrances Duftset cosmic Bodylotion Set",
+        "url": "https://www.douglas.de/de/p/5011574443",
+        "prices": {
+            "1 Stück": {
+                "original_price": 58.0,
+                "reduced_price": 44.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Kylie Jenner Fragrances Duftset cosmic Kylie Cosmetics 2-Pc. Cosmic Kylie Jenner Eau de Parfum Gift Set",
+        "url": "https://www.douglas.de/de/p/5011699063",
+        "prices": {
+            "1 Stück": {
+                "original_price": 47.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Kylie Jenner Fragrances Bodyspray cosmic Hair & Body Mist",
+        "url": "https://www.douglas.de/de/p/5011551104",
+        "prices": {
+            "100 ml": {
+                "original_price": 31.99,
+                "reduced_price": 25.59
+            }
+        }
+    },
+    {
+        "perfume_name": "Kylie Jenner Fragrances Eau de Parfum cosmic",
+        "url": "https://www.douglas.de/de/p/5011311021?variant=1162296",
+        "prices": {
+            "Rollerball - 10 ml": {
+                "original_price": 24.0,
+                "reduced_price": 18.4
+            },
+            "30 ml": {
+                "original_price": 45.0,
+                "reduced_price": 35.2
+            },
+            "50 ml": {
+                "original_price": 58.0,
+                "reduced_price": 44.8
+            },
+            "100 ml": {
+                "original_price": 73.0,
+                "reduced_price": 56.8
+            }
+        }
+    }
+]

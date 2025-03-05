@@ -1,0 +1,102 @@
+[
+    {
+        "perfume_name": "French Avenue Eau de Parfum AETHER",
+        "url": "https://www.douglas.de/de/p/5011710011",
+        "prices": {
+            "100 ml": {
+                "original_price": 62.58,
+                "reduced_price": 50.06
+            }
+        }
+    },
+    {
+        "perfume_name": "French Avenue Eau de Parfum SWEET PARADISE",
+        "url": "https://www.douglas.de/de/p/5011710009",
+        "prices": {
+            "100 ml": {
+                "original_price": 57.23,
+                "reduced_price": 45.78
+            }
+        }
+    },
+    {
+        "perfume_name": "French Avenue Eau de Parfum SPECTRE WRAITH",
+        "url": "https://www.douglas.de/de/p/5011710017",
+        "prices": {
+            "100 ml": {
+                "original_price": 58.32,
+                "reduced_price": 46.65
+            }
+        }
+    },
+    {
+        "perfume_name": "French Avenue Eau de Parfum SULTRY WOODS",
+        "url": "https://www.douglas.de/de/p/5011710018",
+        "prices": {
+            "80 ml": {
+                "original_price": 67.91,
+                "reduced_price": 54.32
+            }
+        }
+    },
+    {
+        "perfume_name": "French Avenue Eau de Parfum PINNACE NOIR",
+        "url": "https://www.douglas.de/de/p/5011710014",
+        "prices": {
+            "100 ml": {
+                "original_price": 66.84,
+                "reduced_price": 53.47
+            }
+        }
+    },
+    {
+        "perfume_name": "French Avenue Eau de Parfum ROYAL BLEND",
+        "url": "https://www.douglas.de/de/p/5011710015",
+        "prices": {
+            "100 ml": {
+                "original_price": 51.9,
+                "reduced_price": 41.52
+            }
+        }
+    },
+    {
+        "perfume_name": "French Avenue Eau de Parfum TROPICAL KISS",
+        "url": "https://www.douglas.de/de/p/5011710010",
+        "prices": {
+            "80 ml": {
+                "original_price": 67.91,
+                "reduced_price": 54.32
+            }
+        }
+    },
+    {
+        "perfume_name": "French Avenue Eau de Parfum LIQUID BRUN",
+        "url": "https://www.douglas.de/de/p/5011710013",
+        "prices": {
+            "100 ml": {
+                "original_price": 55.1,
+                "reduced_price": 44.08
+            }
+        }
+    },
+    {
+        "perfume_name": "French Avenue Eau de Parfum AZZURE AOUD",
+        "url": "https://www.douglas.de/de/p/5011710012",
+        "prices": {
+            "100 ml": {
+                "original_price": 55.1,
+                "reduced_price": 44.08
+            }
+        }
+    },
+    {
+        "perfume_name": "French Avenue Eau de Parfum SPECTRE GHOST",
+        "url": "https://www.douglas.de/de/p/5011710016",
+        "prices": {
+            "80 ml": {
+                "original_price": 58.32,
+                "reduced_price": 46.65
+            }
+        }
+    }
+]

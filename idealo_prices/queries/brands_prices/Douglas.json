@@ -1,0 +1,24 @@
+[
+    {
+        "perfume_name": "Douglas Gutschein im Wert von 10-100 € Gutscheinkarte Mint",
+        "url": "https://www.douglas.de/de/p/3001001433",
+        "prices": {
+            "10€ Gutscheinkarte": {
+                "original_price": 10.0,
+                "reduced_price": null
+            },
+            "15€ Gutscheinkarte": {
+                "original_price": 15.0,
+                "reduced_price": null
+            },
+            "20€ Gutscheinkarte": {
+                "original_price": 20.0,
+                "reduced_price": null
+            },
+            "25€ Gutscheinkarte": {
+                "original_price": 25.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

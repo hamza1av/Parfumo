@@ -1,0 +1,150 @@
+[
+    {
+        "perfume_name": "Sol de Janeiro Körperpflegeset Bum Bum Brazilian  Duo Holiday 2024",
+        "url": "https://www.douglas.de/de/p/5011574221",
+        "prices": {
+            "1 Stück": {
+                "original_price": 25.99,
+                "reduced_price": 20.79
+            }
+        }
+    },
+    {
+        "perfume_name": "Sol de Janeiro Bodyspray Brazilian Crush Cheirosa 62 Perfume Mist",
+        "url": "https://www.douglas.de/de/p/5010554132?variant=1000702",
+        "prices": {
+            "90 ml": {
+                "original_price": 24.0,
+                "reduced_price": 16.95
+            },
+            "240 ml": {
+                "original_price": 38.0,
+                "reduced_price": 28.46
+            }
+        }
+    },
+    {
+        "perfume_name": "Sol de Janeiro Bodyspray Brazilian Crush Cheirosa 40 Perfume Mist",
+        "url": "https://www.douglas.de/de/p/5009976017?variant=491747",
+        "prices": {
+            "90 ml": {
+                "original_price": 24.0,
+                "reduced_price": 19.2
+            },
+            "240 ml": {
+                "original_price": 38.0,
+                "reduced_price": 30.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Sol de Janeiro Bodyspray Brazilian Crush Cheirosa 71 Perfume Mist",
+        "url": "https://www.douglas.de/de/p/5010109057",
+        "prices": {
+            "90 ml": {
+                "original_price": 24.0,
+                "reduced_price": 19.2
+            },
+            "240 ml": {
+                "original_price": 38.0,
+                "reduced_price": 30.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Sol de Janeiro Körperpflegeset Brazilian Crush Cheirosa Perfume Mist Set",
+        "url": "https://www.douglas.de/de/p/5011574212",
+        "prices": {
+            "1 Stück": {
+                "original_price": 32.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Sol de Janeiro Körperpflegeset Brazilian Crush Perfume Mist Discovery Trio",
+        "url": "https://www.douglas.de/de/p/5011574214",
+        "prices": {
+            "1 Stück": {
+                "original_price": 24.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Sol de Janeiro Bodyspray Brazilian Crush Cheirosa 59 Perfume Mist",
+        "url": "https://www.douglas.de/de/p/5011251060",
+        "prices": {
+            "90 ml": {
+                "original_price": 24.0,
+                "reduced_price": 19.2
+            },
+            "240 ml": {
+                "original_price": 38.0,
+                "reduced_price": 30.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Sol de Janeiro Bodyspray Cheirosa 48 Perfume Mist",
+        "url": "https://www.douglas.de/de/p/5011488032",
+        "prices": {
+            "90 ml": {
+                "original_price": 23.99,
+                "reduced_price": 19.19
+            },
+            "240 ml": {
+                "original_price": 37.99,
+                "reduced_price": 30.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Sol de Janeiro Eau de Parfum Cheirosa '62",
+        "url": "https://www.douglas.de/de/p/5011463008",
+        "prices": {
+            "50 ml": {
+                "original_price": 77.99,
+                "reduced_price": 62.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Sol de Janeiro Bodyspray Rio Radiance Spf 50 Body Spray",
+        "url": "https://www.douglas.de/de/p/5011389087",
+        "prices": {
+            "200 ml": {
+                "original_price": 35.95,
+                "reduced_price": 28.76
+            }
+        }
+    },
+    {
+        "perfume_name": "Sol de Janeiro Bodyspray Brazilian Crush Cheirosa 68 Perfume Mist",
+        "url": "https://www.douglas.de/de/p/5010671005",
+        "prices": {
+            "90 ml": {
+                "original_price": 24.0,
+                "reduced_price": 19.2
+            },
+            "240 ml": {
+                "original_price": 38.0,
+                "reduced_price": 26.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Sol de Janeiro Bodyspray Rio Radiance Perfume Mist",
+        "url": "https://www.douglas.de/de/p/5010980033?variant=1075888",
+        "prices": {
+            "90 ml": {
+                "original_price": 24.0,
+                "reduced_price": 19.2
+            },
+            "240 ml": {
+                "original_price": 38.0,
+                "reduced_price": 30.4
+            }
+        }
+    }
+]

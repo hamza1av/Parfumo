@@ -1,0 +1,68 @@
+[
+    {
+        "perfume_name": "Cristiano Ronaldo Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5011500000?variant=1186298",
+        "prices": {
+            "100 ml": {
+                "original_price": 38.29,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Cristiano Ronaldo Eau de Toilette CR7 Rot",
+        "url": "https://www.douglas.de/de/p/5010010017",
+        "prices": {
+            "30 ml": {
+                "original_price": 47.69,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 52.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Cristiano Ronaldo Eau de Toilette CR7 Play It Cool",
+        "url": "https://www.douglas.de/de/p/5010010014?variant=128230",
+        "prices": {
+            "30 ml": {
+                "original_price": 32.99,
+                "reduced_price": 26.39
+            },
+            "100 ml": {
+                "original_price": 52.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Cristiano Ronaldo Eau de Toilette CR7 Game on",
+        "url": "https://www.douglas.de/de/p/5010010016?variant=732134",
+        "prices": {
+            "30 ml": {
+                "original_price": 33.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 52.99,
+                "reduced_price": 49.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Cristiano Ronaldo Eau de Toilette Fearless",
+        "url": "https://www.douglas.de/de/p/5011111031",
+        "prices": {
+            "30 ml": {
+                "original_price": 32.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 45.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

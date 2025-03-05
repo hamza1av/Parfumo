@@ -1,0 +1,136 @@
+[
+    {
+        "perfume_name": "Instituto Español Eau de Cologne Fresh Drops Baby",
+        "url": "https://www.douglas.de/de/p/5011254040",
+        "prices": {
+            "80 ml": {
+                "original_price": 17.59,
+                "reduced_price": 13.79
+            }
+        }
+    },
+    {
+        "perfume_name": "Instituto Español Körpercreme Creamy Deo Roll-on",
+        "url": "https://www.douglas.de/de/p/m002097004",
+        "prices": {
+            "75 ml": {
+                "original_price": 14.51,
+                "reduced_price": 12.33
+            }
+        }
+    },
+    {
+        "perfume_name": "Instituto Español Kinderparfum",
+        "url": "https://www.douglas.de/de/p/5011402095",
+        "prices": {
+            "250 ml": {
+                "original_price": 17.59,
+                "reduced_price": 14.95
+            },
+            "750 ml": {
+                "original_price": 20.59,
+                "reduced_price": 17.5
+            }
+        }
+    },
+    {
+        "perfume_name": "Instituto Español Eau de Cologne Fresh Drops Family",
+        "url": "https://www.douglas.de/de/p/5011006021?variant=1106840",
+        "prices": {
+            "250 ml": {
+                "original_price": 20.09,
+                "reduced_price": 16.99
+            },
+            "750 ml": {
+                "original_price": 24.09,
+                "reduced_price": 20.29
+            }
+        }
+    },
+    {
+        "perfume_name": "Instituto Español Eau de Cologne Fresh Drops Konzentriertes Köln Für Männer",
+        "url": "https://www.douglas.de/de/p/m001009066",
+        "prices": {
+            "250 ml": {
+                "original_price": 16.86,
+                "reduced_price": 14.33
+            },
+            "750 ml": {
+                "original_price": 20.24,
+                "reduced_price": 17.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Instituto Español Eau de Cologne Fresh Drops",
+        "url": "https://www.douglas.de/de/p/5011254041?variant=696433",
+        "prices": {
+            "80 ml": {
+                "original_price": 15.99,
+                "reduced_price": 13.59
+            },
+            "250 ml": {
+                "original_price": 18.19,
+                "reduced_price": 15.39
+            },
+            "750 ml": {
+                "original_price": 21.49,
+                "reduced_price": 18.26
+            }
+        }
+    },
+    {
+        "perfume_name": "Instituto Español Eau de Cologne Gold Drops Classic",
+        "url": "https://www.douglas.de/de/p/5010991870",
+        "prices": {
+            "600 ml": {
+                "original_price": 20.47,
+                "reduced_price": 17.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Instituto Español Eau de Cologne Gold Droplets",
+        "url": "https://www.douglas.de/de/p/5011255017?variant=157674",
+        "prices": {
+            "65 ml": {
+                "original_price": 17.15,
+                "reduced_price": 13.49
+            },
+            "750 ml": {
+                "original_price": 18.72,
+                "reduced_price": 14.79
+            }
+        }
+    },
+    {
+        "perfume_name": "Instituto Español Eau de Cologne Rosenwasser Badewasser",
+        "url": "https://www.douglas.de/de/p/m001009079",
+        "prices": {
+            "750 ml": {
+                "original_price": 16.73,
+                "reduced_price": 14.22
+            }
+        }
+    },
+    {
+        "perfume_name": "Instituto Español Körpercreme Detox 0% Aluminium Deo Roll-on",
+        "url": "https://www.douglas.de/de/p/m002094005",
+        "prices": {
+            "75 ml": {
+                "original_price": 14.54,
+                "reduced_price": 12.35
+            }
+        }
+    },
+    {
+        "perfume_name": "Instituto Español Körpercreme Urea Deodorant Roll-on",
+        "url": "https://www.douglas.de/de/p/m002097010",
+        "prices": {
+            "75 ml": {
+                "original_price": 14.51,
+                "reduced_price": 12.33
+            }
+        }
+    }
+]

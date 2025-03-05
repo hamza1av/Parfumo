@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "Fantasia Parfum Zerstäuber",
+        "url": "https://www.douglas.de/de/p/5010068704",
+        "prices": {
+            "1 Stück": {
+                "original_price": 9.99,
+                "reduced_price": 7.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Fantasia Parfümzerstäuber Taschenzerstäuber Silber",
+        "url": "https://www.douglas.de/de/p/5010069612",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 8.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

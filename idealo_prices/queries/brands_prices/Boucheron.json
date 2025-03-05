@@ -1,0 +1,95 @@
+[
+    {
+        "perfume_name": "Boucheron Eau de Parfum Galerie Olfactive Ambre d'Alexandrie",
+        "url": "https://www.douglas.de/de/p/5002489178",
+        "prices": {
+            "125 ml": {
+                "original_price": 152.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Boucheron Eau de Parfum Boucheron Pour Femme",
+        "url": "https://www.douglas.de/de/p/1090801295?variant=653573",
+        "prices": {
+            "100 ml": {
+                "original_price": 84.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Boucheron Eau de Parfum Galerie Olfactive Feve Tonka de Canaima",
+        "url": "https://www.douglas.de/de/p/5010517087",
+        "prices": {
+            "125 ml": {
+                "original_price": 152.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Boucheron Eau de Parfum Quatre pour Femme Iconic",
+        "url": "https://www.douglas.de/de/p/5010616002?variant=1020505",
+        "prices": {
+            "50 ml": {
+                "original_price": 44.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Boucheron Eau de Parfum Galerie Olfactive Iris de Syracuse",
+        "url": "https://www.douglas.de/de/p/5002489188",
+        "prices": {
+            "125 ml": {
+                "original_price": 152.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5002489184",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Boucheron Eau de Parfum Quatre pour Femme BOUCHERON",
+        "url": "https://www.douglas.de/de/p/3001015236",
+        "prices": {
+            "30 ml": {
+                "original_price": 39.2,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 52.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 76.8,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Boucheron Eau de Parfum Jaïpur Homme",
+        "url": "https://www.douglas.de/de/p/3000043303",
+        "prices": {
+            "100 ml": {
+                "original_price": 75.2,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Boucheron Eau de Parfum Boucheron Pour Homme",
+        "url": "https://www.douglas.de/de/p/3000043301",
+        "prices": {
+            "100 ml": {
+                "original_price": 75.2,
+                "reduced_price": null
+            }
+        }
+    }
+]

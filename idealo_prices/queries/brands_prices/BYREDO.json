@@ -1,0 +1,530 @@
+[
+    {
+        "perfume_name": "BYREDO Eau de Parfum Eleventh Hour",
+        "url": "https://www.douglas.de/de/p/5000005097?variant=051495",
+        "prices": {
+            "50 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Sunday Cologne",
+        "url": "https://www.douglas.de/de/p/5000004137",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Haarparfum Blanche",
+        "url": "https://www.douglas.de/de/p/5000004189?variant=502375",
+        "prices": {
+            "75 ml": {
+                "original_price": 65.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Blanche",
+        "url": "https://www.douglas.de/de/p/5011718142",
+        "prices": {
+            "50 ml": {
+                "original_price": 210.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 290.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Haarparfum Mojave Ghost",
+        "url": "https://www.douglas.de/de/p/5000005115?variant=502379",
+        "prices": {
+            "75 ml": {
+                "original_price": 65.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Parfum Extrait de Parfum Night Veils Sellier",
+        "url": "https://www.douglas.de/de/p/5003312006",
+        "prices": {
+            "50 ml": {
+                "original_price": 300.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum SLOW DANCE",
+        "url": "https://www.douglas.de/de/p/5000148010?variant=431061",
+        "prices": {
+            "50 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 266.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum La Tulipe",
+        "url": "https://www.douglas.de/de/p/5000004144?variant=489539",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 266.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Parfum Extrait de Parfum Night Veils Tobacco Mandarin",
+        "url": "https://www.douglas.de/de/p/5003312007",
+        "prices": {
+            "50 ml": {
+                "original_price": 300.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum De Los Santos",
+        "url": "https://www.douglas.de/de/p/5010516048",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Oud Immortel",
+        "url": "https://www.douglas.de/de/p/5000004143?variant=501898",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Extrait de Parfum Mojave Ghost Absolu",
+        "url": "https://www.douglas.de/de/p/5011656134?variant=1209150",
+        "prices": {
+            "50ml": {
+                "original_price": 233.99,
+                "reduced_price": null
+            },
+            "100ml": {
+                "original_price": 290.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Bal D' Afrique",
+        "url": "https://www.douglas.de/de/p/5000004140?variant=501876",
+        "prices": {
+            "100 ml": {
+                "original_price": 266.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Haarparfum Bal d'Afrique",
+        "url": "https://www.douglas.de/de/p/5010516046",
+        "prices": {
+            "75 ml": {
+                "original_price": 65.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Pulp",
+        "url": "https://www.douglas.de/de/p/5000004138?variant=1213632",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Sundazed",
+        "url": "https://www.douglas.de/de/p/5000005098?variant=076487",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Accord Oud - EdP 100ml",
+        "url": "https://www.douglas.de/de/p/m000571023?variant=501891",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Black Saffron",
+        "url": "https://www.douglas.de/de/p/5000004130?variant=1213621",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Rose of No Man´s Land",
+        "url": "https://www.douglas.de/de/p/5000004145",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Mumbai Noise",
+        "url": "https://www.douglas.de/de/p/5010428058?variant=294146",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Parfum Extrait de Parfum Vanille Antique",
+        "url": "https://www.douglas.de/de/p/5010633008",
+        "prices": {
+            "50 ml": {
+                "original_price": 332.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Haarparfum Gypsy Water",
+        "url": "https://www.douglas.de/de/p/5000004190?variant=502376",
+        "prices": {
+            "75 ml": {
+                "original_price": 65.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Young Rose",
+        "url": "https://www.douglas.de/de/p/5011552088",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Mojave Ghost Alcohol-free",
+        "url": "https://www.douglas.de/de/p/m002256049",
+        "prices": {
+            "100 ml": {
+                "original_price": 266.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Mojave Ghost",
+        "url": "https://www.douglas.de/de/p/5000004134?variant=1198875",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Blanche",
+        "url": "https://www.douglas.de/de/p/5000004141?variant=1213626",
+        "prices": {
+            "100 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Duftset Extrait de Parfum Night Veils Casablanca Lily",
+        "url": "https://www.douglas.de/de/p/5001611029?variant=593103",
+        "prices": {
+            "50 ml": {
+                "original_price": 300.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Parfümzerstäuber Leather Travel Case",
+        "url": "https://www.douglas.de/de/p/5001609070",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 90.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Inflorescence",
+        "url": "https://www.douglas.de/de/p/5000004131?variant=750179",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 266.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Parfum Desert Dawn",
+        "url": "https://www.douglas.de/de/p/5011601054",
+        "prices": {
+            "50ml": {
+                "original_price": 184.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Haarparfum Rose Of No Man's Land",
+        "url": "https://www.douglas.de/de/p/5010510059",
+        "prices": {
+            "75 ml": {
+                "original_price": 65.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Haarparfum La Tulipe",
+        "url": "https://www.douglas.de/de/p/5000004191?variant=502378",
+        "prices": {
+            "75 ml": {
+                "original_price": 65.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Duftset La Sélection Nomade",
+        "url": "https://www.douglas.de/de/p/5010516030",
+        "prices": {
+            "36 ml": {
+                "original_price": 129.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum 1996",
+        "url": "https://www.douglas.de/de/p/5000004133?variant=501890",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Gypsy Water",
+        "url": "https://www.douglas.de/de/p/5000004135",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Bibliothèque",
+        "url": "https://www.douglas.de/de/p/5000004147",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Parfum Animalique",
+        "url": "https://www.douglas.de/de/p/5011125064",
+        "prices": {
+            "50 ml": {
+                "original_price": 184.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Duftset Extrait de Parfum Rouge Chaotique",
+        "url": "https://www.douglas.de/de/p/5011050013",
+        "prices": {
+            "50 ml": {
+                "original_price": 300.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Mixed Emotions",
+        "url": "https://www.douglas.de/de/p/5009880018",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Duftset La Sélection Boisée",
+        "url": "https://www.douglas.de/de/p/5010516032",
+        "prices": {
+            "36 ml": {
+                "original_price": 129.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Bal D´Afrique",
+        "url": "https://www.douglas.de/de/p/5011651009",
+        "prices": {
+            "50 ml": {
+                "original_price": 184.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum SUPER CEDAR",
+        "url": "https://www.douglas.de/de/p/5000004146",
+        "prices": {
+            "50 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 240.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Eau de Parfum Eyes Closed",
+        "url": "https://www.douglas.de/de/p/5010740541?variant=1044461",
+        "prices": {
+            "100 ml": {
+                "original_price": 266.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "BYREDO Duftset La Sélection Florale",
+        "url": "https://www.douglas.de/de/p/5010516031",
+        "prices": {
+            "La Sélection Florale": {
+                "original_price": 129.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

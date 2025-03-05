@@ -1,0 +1,98 @@
+[
+    {
+        "perfume_name": "Tabac Eau de Cologne Tabac Original Natural",
+        "url": "https://www.douglas.de/de/p/3001013510?variant=832498",
+        "prices": {
+            "100 ml": {
+                "original_price": 31.0,
+                "reduced_price": 24.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Tabac After Shave Tabac Original Lotion",
+        "url": "https://www.douglas.de/de/p/1017301131?variant=500967",
+        "prices": {
+            "50 ml": {
+                "original_price": 17.25,
+                "reduced_price": 13.8
+            },
+            "100 ml": {
+                "original_price": 22.25,
+                "reduced_price": 17.8
+            },
+            "150 ml": {
+                "original_price": 31.0,
+                "reduced_price": 24.8
+            },
+            "300 ml": {
+                "original_price": 51.5,
+                "reduced_price": 46.69
+            }
+        }
+    },
+    {
+        "perfume_name": "Tabac Deodorant Tabac Original Spray",
+        "url": "https://www.douglas.de/de/p/1017301170?variant=230581",
+        "prices": {
+            "200 ml": {
+                "original_price": 15.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Tabac After Shave Tabac Original Balsam",
+        "url": "https://www.douglas.de/de/p/3000004926",
+        "prices": {
+            "75 ml": {
+                "original_price": 15.89,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Tabac Eau de Cologne Tabac Original Schüttflakon",
+        "url": "https://www.douglas.de/de/p/3000002284?variant=500884",
+        "prices": {
+            "100 ml": {
+                "original_price": 26.5,
+                "reduced_price": 12.99
+            },
+            "150 ml": {
+                "original_price": 33.0,
+                "reduced_price": 29.89
+            }
+        }
+    },
+    {
+        "perfume_name": "Tabac Eau de Toilette Tabac Original",
+        "url": "https://www.douglas.de/de/p/5010382007",
+        "prices": {
+            "30 ml": {
+                "original_price": 13.5,
+                "reduced_price": 10.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Tabac After Shave Tabac Original Lotion Natural Spray",
+        "url": "https://www.douglas.de/de/p/5010382010",
+        "prices": {
+            "100 ml": {
+                "original_price": 26.5,
+                "reduced_price": 21.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Tabac After Shave Tabac Original Mild Fluid",
+        "url": "https://www.douglas.de/de/p/3000011773",
+        "prices": {
+            "100 ml": {
+                "original_price": 23.5,
+                "reduced_price": 18.8
+            }
+        }
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "perfume_name": "NAILTIME Eau de Parfum Organic Ashwagandha Regenerate Serum",
+        "url": "https://www.douglas.de/de/p/m002057042",
+        "prices": {
+            "8 ml": {
+                "original_price": 15.19,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "NAILTIME Nagellack Organic Super Strong Nail Hardener",
+        "url": "https://www.douglas.de/de/p/m002184069",
+        "prices": {
+            "8 ml": {
+                "original_price": 15.19,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "NAILTIME Eau de Parfum Organic Manuka Honey Nail Cream",
+        "url": "https://www.douglas.de/de/p/m002056015",
+        "prices": {
+            "30 ml": {
+                "original_price": 15.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "NAILTIME Eau de Parfum 21 Days UV Nail Polish",
+        "url": "https://www.douglas.de/de/p/m002055041?variant=m3419078",
+        "prices": {
+            "BOHO RED 34": {
+                "original_price": 15.19,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "NAILTIME Eau de Parfum Duplex UV Nail Polish",
+        "url": "https://www.douglas.de/de/p/m002057034?variant=1007726",
+        "prices": {
+            "8 ml": {
+                "original_price": 15.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "NAILTIME Eau de Parfum 21 Days Top Coat Ultra Shine",
+        "url": "https://www.douglas.de/de/p/m002056037",
+        "prices": {
+            "8 ml": {
+                "original_price": 15.19,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "NAILTIME Eau de Parfum Organic Sweet Almond Luxurious Nail Oil",
+        "url": "https://www.douglas.de/de/p/m002057041",
+        "prices": {
+            "8 ml": {
+                "original_price": 15.19,
+                "reduced_price": null
+            }
+        }
+    }
+]

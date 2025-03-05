@@ -1,0 +1,72 @@
+[
+    {
+        "perfume_name": "Matica Cosmetics Deodorant Deodorant KAIA – Blutorange – mit Nachfüllpack",
+        "url": "https://www.douglas.de/de/p/m000928005",
+        "prices": {
+            "150 ml": {
+                "original_price": 24.49,
+                "reduced_price": 20.81
+            }
+        }
+    },
+    {
+        "perfume_name": "Matica Cosmetics Körperbutter Tattoopflege Heart over Head - Kokos by Matica Cosmetics",
+        "url": "https://www.douglas.de/de/p/m001943017?variant=m3168036",
+        "prices": {
+            "1 Stück": {
+                "original_price": 15.99,
+                "reduced_price": 13.59
+            }
+        }
+    },
+    {
+        "perfume_name": "Matica Cosmetics Körperbutter Matica Cosmetics AMBROSIA Skincare Collection",
+        "url": "https://www.douglas.de/de/p/m000928002",
+        "prices": {
+            "Ambrosia Set": {
+                "original_price": 59.89,
+                "reduced_price": 50.9
+            }
+        }
+    },
+    {
+        "perfume_name": "Matica Cosmetics Deodorant Deodorant TRUT – Tabak – mit Nachfüllpack",
+        "url": "https://www.douglas.de/de/p/m000928006",
+        "prices": {
+            "150 ml": {
+                "original_price": 24.49,
+                "reduced_price": 20.81
+            }
+        }
+    },
+    {
+        "perfume_name": "Matica Cosmetics Gesichtscreme Gesichtsmaske HONEY, BEE DEEP - Apfel",
+        "url": "https://www.douglas.de/de/p/m001942000",
+        "prices": {
+            "100ml HB Deep": {
+                "original_price": 11.49,
+                "reduced_price": 9.76
+            }
+        }
+    },
+    {
+        "perfume_name": "Matica Cosmetics Körperbutter Bodybutter HONEY, BEE SMOOTH – Blackberry-Vanille",
+        "url": "https://www.douglas.de/de/p/m001943043",
+        "prices": {
+            "100ml Smooth": {
+                "original_price": 10.49,
+                "reduced_price": 8.91
+            }
+        }
+    },
+    {
+        "perfume_name": "Matica Cosmetics Körperpflegeset Matica Cosmetics Honey Bee Naturkosmetik Collection mit Beautybag",
+        "url": "https://www.douglas.de/de/p/m000928003",
+        "prices": {
+            "Set HB mit Beautybag": {
+                "original_price": 59.89,
+                "reduced_price": 50.9
+            }
+        }
+    }
+]

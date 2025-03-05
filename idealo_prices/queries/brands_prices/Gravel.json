@@ -1,0 +1,42 @@
+[
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5010971036",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Gravel Eau de Parfum EVOLUTION",
+        "url": "https://www.douglas.de/de/p/5011221002",
+        "prices": {
+            "100 ml": {
+                "original_price": 150.0,
+                "reduced_price": 120.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gravel Eau de Parfum American Dream",
+        "url": "https://www.douglas.de/de/p/5010971034",
+        "prices": {
+            "100 ml": {
+                "original_price": 150.0,
+                "reduced_price": 120.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Gravel Eau de Parfum HAZEL",
+        "url": "https://www.douglas.de/de/p/5011221001",
+        "prices": {
+            "100 ml": {
+                "original_price": 150.0,
+                "reduced_price": 120.0
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5010951060",
+        "prices": {}
+    }
+]

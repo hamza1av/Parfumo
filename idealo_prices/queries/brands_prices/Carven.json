@@ -1,0 +1,114 @@
+[
+    {
+        "perfume_name": "Carven Eau de Parfum Dans Ma Bulle Paris Seville",
+        "url": "https://www.douglas.de/de/p/5002491554",
+        "prices": {
+            "100 ml": {
+                "original_price": 197.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Carven Eau de Parfum Dans Ma Bulle Paris Florence",
+        "url": "https://www.douglas.de/de/p/5002491552",
+        "prices": {
+            "100 ml": {
+                "original_price": 197.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Carven Eau de Parfum Dans Ma Bulle Paris Bangalore",
+        "url": "https://www.douglas.de/de/p/5002491549",
+        "prices": {
+            "100 ml": {
+                "original_price": 197.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Carven Duftset Dans Ma Bulle",
+        "url": "https://www.douglas.de/de/p/5001764475?variant=093049",
+        "prices": {
+            "50 ml": {
+                "original_price": 89.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 110.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Carven Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5011285334",
+        "prices": {
+            "125 ml": {
+                "original_price": 197.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Carven Duftset Dans Ma Bulle DE FLEURS",
+        "url": "https://www.douglas.de/de/p/5010662078",
+        "prices": {
+            "30 ml": {
+                "original_price": 59.99,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 89.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 110.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Carven Eau de Parfum Dans Ma Bulle Paris Manille",
+        "url": "https://www.douglas.de/de/p/5002491551",
+        "prices": {
+            "100 ml": {
+                "original_price": 197.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Carven Duftset Carven L'Eau Intense L'Eau Intense Homme",
+        "url": "https://www.douglas.de/de/p/5001764417",
+        "prices": {
+            "30 ml": {
+                "original_price": 52.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Carven Eau de Parfum Dans Ma Bulle Paris Izmir",
+        "url": "https://www.douglas.de/de/p/5002491548",
+        "prices": {
+            "100 ml": {
+                "original_price": 197.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Carven Eau de Parfum Dans Ma Bulle Paris Mascate",
+        "url": "https://www.douglas.de/de/p/5002491547",
+        "prices": {
+            "100 ml": {
+                "original_price": 197.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

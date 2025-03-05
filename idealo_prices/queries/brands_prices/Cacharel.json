@@ -1,0 +1,122 @@
+[
+    {
+        "perfume_name": "Cacharel Eau de Toilette Anais Anais",
+        "url": "https://www.douglas.de/de/p/1001001304",
+        "prices": {
+            "30 ml": {
+                "original_price": 40.0,
+                "reduced_price": 32.0
+            },
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "100 ml": {
+                "original_price": 99.0,
+                "reduced_price": 79.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Cacharel Eau de Parfum Lou Lou",
+        "url": "https://www.douglas.de/de/p/1001002295",
+        "prices": {
+            "30 ml": {
+                "original_price": 40.0,
+                "reduced_price": 28.99
+            },
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 49.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Cacharel Eau de Parfum Yes I Am Bloom Up",
+        "url": "https://www.douglas.de/de/p/5010907069",
+        "prices": {
+            "30 ml": {
+                "original_price": 52.0,
+                "reduced_price": 41.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Cacharel Eau de Toilette Amor Amor",
+        "url": "https://www.douglas.de/de/p/2001003596",
+        "prices": {
+            "30 ml": {
+                "original_price": 42.0,
+                "reduced_price": 27.99
+            },
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 48.99
+            },
+            "100 ml": {
+                "original_price": 98.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Cacharel Eau de Parfum Yes I Am",
+        "url": "https://www.douglas.de/de/p/3001052586?variant=017733",
+        "prices": {
+            "30 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            },
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "75 ml": {
+                "original_price": 109.0,
+                "reduced_price": 87.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Cacharel Eau de Toilette Noa",
+        "url": "https://www.douglas.de/de/p/1001007304",
+        "prices": {
+            "30 ml": {
+                "original_price": 40.0,
+                "reduced_price": 25.99
+            },
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 46.99
+            },
+            "100 ml": {
+                "original_price": 99.0,
+                "reduced_price": 89.69
+            }
+        }
+    },
+    {
+        "perfume_name": "Cacharel Eau de Parfum Eden",
+        "url": "https://www.douglas.de/de/p/2001003598",
+        "prices": {
+            "30 ml": {
+                "original_price": 42.0,
+                "reduced_price": 33.6
+            },
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Cacharel Eau de Toilette Pour l'Homme Pour Homme",
+        "url": "https://www.douglas.de/de/p/2001003601",
+        "prices": {
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    }
+]

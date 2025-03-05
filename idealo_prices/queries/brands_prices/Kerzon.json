@@ -1,0 +1,72 @@
+[
+    {
+        "perfume_name": "Kerzon Parfum Feuilles de Figuier",
+        "url": "https://www.douglas.de/de/p/m001637013",
+        "prices": {
+            "120 ml": {
+                "original_price": 48.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Kerzon Raumduft Tuilleries Palais-Royal",
+        "url": "https://www.douglas.de/de/p/m001775313",
+        "prices": {
+            "100 ml": {
+                "original_price": 38.99,
+                "reduced_price": 33.14
+            }
+        }
+    },
+    {
+        "perfume_name": "Kerzon Raumduft La Tour Eiffel",
+        "url": "https://www.douglas.de/de/p/m001684041",
+        "prices": {
+            "100 ml": {
+                "original_price": 44.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Kerzon Parfum L'Eau",
+        "url": "https://www.douglas.de/de/p/m001639024",
+        "prices": {
+            "120 ml": {
+                "original_price": 41.99,
+                "reduced_price": 35.69
+            }
+        }
+    },
+    {
+        "perfume_name": "Kerzon Raumduft Ile Saint-Louis",
+        "url": "https://www.douglas.de/de/p/m001786349",
+        "prices": {
+            "100 ml": {
+                "original_price": 44.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Kerzon Parfum La Plage",
+        "url": "https://www.douglas.de/de/p/m001789047",
+        "prices": {
+            "120 ml": {
+                "original_price": 41.99,
+                "reduced_price": 35.69
+            }
+        }
+    },
+    {
+        "perfume_name": "Kerzon Parfum Le Soleil",
+        "url": "https://www.douglas.de/de/p/m001639019",
+        "prices": {
+            "120 ml": {
+                "original_price": 41.99,
+                "reduced_price": 35.69
+            }
+        }
+    }
+]

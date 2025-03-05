@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "ACCENDIS Eau de Parfum Luna Dulcius",
+        "url": "https://www.douglas.de/de/p/5010218466",
+        "prices": {
+            "100 ml": {
+                "original_price": 165.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "ACCENDIS Eau de Parfum Nooria",
+        "url": "https://www.douglas.de/de/p/5010219009",
+        "prices": {
+            "100 ml": {
+                "original_price": 165.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

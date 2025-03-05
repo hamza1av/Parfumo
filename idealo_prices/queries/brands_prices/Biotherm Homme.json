@@ -1,0 +1,32 @@
+[
+    {
+        "perfume_name": "Biotherm Homme After Shave Basics Line Ultra Comfort Baume",
+        "url": "https://www.douglas.de/de/p/5010485004",
+        "prices": {
+            "75 ml": {
+                "original_price": 50.0,
+                "reduced_price": 33.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Biotherm Homme After Shave Basics Line Lotion",
+        "url": "https://www.douglas.de/de/p/3000002360",
+        "prices": {
+            "100 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Biotherm Homme After Shave Basics Line Emulsion",
+        "url": "https://www.douglas.de/de/p/5010481033",
+        "prices": {
+            "75 ml": {
+                "original_price": 40.0,
+                "reduced_price": 32.0
+            }
+        }
+    }
+]

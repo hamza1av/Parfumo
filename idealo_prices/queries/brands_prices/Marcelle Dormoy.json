@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "Marcelle Dormoy Eau de Parfum Gemma Veneris",
+        "url": "https://www.douglas.de/de/p/5003518001",
+        "prices": {
+            "50 ml": {
+                "original_price": 98.0,
+                "reduced_price": 78.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Marcelle Dormoy Eau de Parfum Heliodor",
+        "url": "https://www.douglas.de/de/p/5003518002",
+        "prices": {
+            "50 ml": {
+                "original_price": 98.0,
+                "reduced_price": 78.4
+            }
+        }
+    }
+]

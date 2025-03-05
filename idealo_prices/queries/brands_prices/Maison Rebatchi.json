@@ -1,0 +1,70 @@
+[
+    {
+        "perfume_name": "Maison Rebatchi Eau de Parfum Rose Rebatchi",
+        "url": "https://www.douglas.de/de/p/5011590008",
+        "prices": {
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Maison Rebatchi Eau de Parfum BOIS D ENFANTS",
+        "url": "https://www.douglas.de/de/p/5010903162",
+        "prices": {
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Maison Rebatchi Eau de Parfum Bois d'Enfants",
+        "url": "https://www.douglas.de/de/p/5011590007",
+        "prices": {
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": 128.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Maison Rebatchi Eau de Parfum Feu Patchouli",
+        "url": "https://www.douglas.de/de/p/5011635029",
+        "prices": {
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Maison Rebatchi Eau de Parfum Joyeux Osmanthe",
+        "url": "https://www.douglas.de/de/p/5011590006",
+        "prices": {
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Maison Rebatchi Eau de Parfum Cuir Tassili",
+        "url": "https://www.douglas.de/de/p/5011590004",
+        "prices": {
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": 79.2
+            },
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

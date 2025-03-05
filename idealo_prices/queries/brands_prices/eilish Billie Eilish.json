@@ -1,0 +1,72 @@
+[
+    {
+        "perfume_name": "eilish Billie Eilish Duftset Eilish Gift Set by Billie Eilish",
+        "url": "https://www.douglas.de/de/p/5011575004",
+        "prices": {
+            "1 Stück": {
+                "original_price": 165.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "eilish Billie Eilish Bodyspray Eilish Fragrance Mist",
+        "url": "https://www.douglas.de/de/p/5011127159",
+        "prices": {
+            "236 ml": {
+                "original_price": 27.99,
+                "reduced_price": 22.39
+            }
+        }
+    },
+    {
+        "perfume_name": "eilish Billie Eilish Parfum Eilish No. 3",
+        "url": "https://www.douglas.de/de/p/5011332002",
+        "prices": {
+            "100 ml": {
+                "original_price": 75.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "eilish Billie Eilish Eau de Parfum Eilish No. 2",
+        "url": "https://www.douglas.de/de/p/5010966019?variant=1097129",
+        "prices": {
+            "30 ml": {
+                "original_price": 56.99,
+                "reduced_price": 45.59
+            },
+            "50 ml": {
+                "original_price": 66.99,
+                "reduced_price": 53.59
+            },
+            "100 ml": {
+                "original_price": 91.29,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "eilish Billie Eilish Eau de Parfum Eilish",
+        "url": "https://www.douglas.de/de/p/5010582336?variant=1056362",
+        "prices": {
+            "10 ml": {
+                "original_price": 27.99,
+                "reduced_price": 22.39
+            },
+            "30 ml": {
+                "original_price": 56.99,
+                "reduced_price": 45.59
+            },
+            "50 ml": {
+                "original_price": 66.99,
+                "reduced_price": 53.59
+            },
+            "100 ml": {
+                "original_price": 77.99,
+                "reduced_price": 62.39
+            }
+        }
+    }
+]

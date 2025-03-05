@@ -1,0 +1,980 @@
+[
+    {
+        "perfume_name": "TOM FORD Parfum Herren Signature Düfte Eau d'Ombré Leather",
+        "url": "https://www.douglas.de/de/p/5011532012?variant=1190773",
+        "prices": {
+            "50 ml": {
+                "original_price": 92.8,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 130.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Private Blend Düfte Jasmin Rouge",
+        "url": "https://www.douglas.de/de/p/3000073061",
+        "prices": {
+            "50 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Herren Signature Düfte Ombré Leather",
+        "url": "https://www.douglas.de/de/p/5010271004?variant=185316",
+        "prices": {
+            "50 ml": {
+                "original_price": 138.4,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 192.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Bodyspray Herren Signature Düfte Fucking Fabulous All Over Body Spray",
+        "url": "https://www.douglas.de/de/p/3001004796",
+        "prices": {
+            "150 ml": {
+                "original_price": 78.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Bodyspray Private Blend Düfte Neroli Portofino",
+        "url": "https://www.douglas.de/de/p/3001002900",
+        "prices": {
+            "150 ml": {
+                "original_price": 62.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Private Blend Düfte Tabacco Oud",
+        "url": "https://www.douglas.de/de/p/3000073076",
+        "prices": {
+            "50 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Private Blend Düfte Neroli Portofino",
+        "url": "https://www.douglas.de/de/p/5011438000",
+        "prices": {
+            "50 ml": {
+                "original_price": 308.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Herren Signature Düfte Noir",
+        "url": "https://www.douglas.de/de/p/3000058780?variant=710172",
+        "prices": {
+            "100 ml": {
+                "original_price": 162.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Private Blend Düfte White Suede",
+        "url": "https://www.douglas.de/de/p/5001668019?variant=555475",
+        "prices": {
+            "10 ml": {
+                "original_price": 56.0,
+                "reduced_price": null
+            },
+            "30 ml": {
+                "original_price": 128.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Herren Signature Düfte Costa Azzurra",
+        "url": "https://www.douglas.de/de/p/5010462000?variant=379179",
+        "prices": {
+            "100 ml": {
+                "original_price": 192.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Duftset Damen Signature Düfte Black Orchid Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011128046?variant=1201394",
+        "prices": {
+            "1 Stück": {
+                "original_price": 144.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Bodyspray Private Blend Düfte Oud Wood",
+        "url": "https://www.douglas.de/de/p/3001008743",
+        "prices": {
+            "150 ml": {
+                "original_price": 62.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Damen Signature Düfte Café Rose",
+        "url": "https://www.douglas.de/de/p/5011561035",
+        "prices": {
+            "EDP 50 ml + Travelspray 10 ml": {
+                "original_price": 116.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Bodyspray Damen Signature Düfte Rose Prick All Over Body Spray",
+        "url": "https://www.douglas.de/de/p/5009398041",
+        "prices": {
+            "150 ml": {
+                "original_price": 78.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Private Blend Düfte Mandarino Di Amalfi",
+        "url": "https://www.douglas.de/de/p/3001004978",
+        "prices": {
+            "50 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Private Blend Düfte Noir de Noir",
+        "url": "https://www.douglas.de/de/p/3000073066?variant=437321",
+        "prices": {
+            "50 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Bodyspray Ebene Fumé Ébène Fumé All Over Body Spray",
+        "url": "https://www.douglas.de/de/p/5011619000",
+        "prices": {
+            "150 ml": {
+                "original_price": 62.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Private Blend Düfte Bitter Peach",
+        "url": "https://www.douglas.de/de/p/5003298047?variant=727968",
+        "prices": {
+            "10 ml": {
+                "original_price": 72.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Private Blend Düfte Rose Prick",
+        "url": "https://www.douglas.de/de/p/5000727061?variant=916379",
+        "prices": {
+            "10 ml": {
+                "original_price": 72.0,
+                "reduced_price": null
+            },
+            "30 ml": {
+                "original_price": 172.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 376.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Bodyspray Private Blend Düfte Tabacco Vanille",
+        "url": "https://www.douglas.de/de/p/3001031991",
+        "prices": {
+            "150 ml": {
+                "original_price": 62.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Private Blend Düfte Fleur de Portofino",
+        "url": "https://www.douglas.de/de/p/3001014388",
+        "prices": {
+            "50 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Private Blend Düfte Bois Marocain",
+        "url": "https://www.douglas.de/de/p/5010730074",
+        "prices": {
+            "30 ml": {
+                "original_price": 128.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Herren Signature Düfte Ombré Leather",
+        "url": "https://www.douglas.de/de/p/3001047540?variant=035233",
+        "prices": {
+            "50 ml": {
+                "original_price": 107.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 149.0,
+                "reduced_price": null
+            },
+            "150 ml": {
+                "original_price": 201.6,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Bodyspray Damen Signature Düfte Black Orchid All Over Body Spray",
+        "url": "https://www.douglas.de/de/p/3001051127",
+        "prices": {
+            "150 ml": {
+                "original_price": 40.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Damen Signature Düfte Black Orchid",
+        "url": "https://www.douglas.de/de/p/5002834026",
+        "prices": {
+            "50 ml": {
+                "original_price": 138.4,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 192.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Private Blend Düfte Rose d'Amalfi",
+        "url": "https://www.douglas.de/de/p/5010478111",
+        "prices": {
+            "30 ml": {
+                "original_price": 128.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Herren Signature Düfte Grey Vetiver",
+        "url": "https://www.douglas.de/de/p/3000031800?variant=558156",
+        "prices": {
+            "50 ml": {
+                "original_price": 116.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 162.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Private Blend Düfte Soleil Neige",
+        "url": "https://www.douglas.de/de/p/5000143341?variant=606238",
+        "prices": {
+            "30 ml": {
+                "original_price": 128.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Private Blend Düfte Rose Exposed",
+        "url": "https://www.douglas.de/de/p/5011693014",
+        "prices": {
+            "30 ml": {
+                "original_price": 128.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/3001043301?variant=096296",
+        "prices": {}
+    },
+    {
+        "perfume_name": "TOM FORD Duftset Private Blend Düfte Oud Wood",
+        "url": "https://www.douglas.de/de/p/5011545291",
+        "prices": {
+            "1 Stück": {
+                "original_price": 189.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Private Blend Düfte Neroli Portofino",
+        "url": "https://www.douglas.de/de/p/3000072936?variant=737737",
+        "prices": {
+            "10 ml": {
+                "original_price": 56.0,
+                "reduced_price": null
+            },
+            "30 ml": {
+                "original_price": 128.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Duftset Herren Signature Düfte Ombré Leather Eau de Parfum + Travel Spray",
+        "url": "https://www.douglas.de/de/p/5011545292",
+        "prices": {
+            "1 Stück": {
+                "original_price": 149.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Private Blend Düfte Oud Wood",
+        "url": "https://www.douglas.de/de/p/3000073069?variant=902442",
+        "prices": {
+            "10 ml": {
+                "original_price": 56.0,
+                "reduced_price": null
+            },
+            "30 ml": {
+                "original_price": 128.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 189.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Private Blend Düfte Vanille Fatale",
+        "url": "https://www.douglas.de/de/p/5011250005?variant=1150964",
+        "prices": {
+            "30 ml": {
+                "original_price": 172.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Duftset Private Blend Düfte Soleil Blanc Endless Summer Set",
+        "url": "https://www.douglas.de/de/p/5011561030",
+        "prices": {
+            "Soleil Blanc Eau de Parfum 50 ml + Soleil Blanc Shimmering Body Oil 45 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Private Blend Düfte Electric Cherry",
+        "url": "https://www.douglas.de/de/p/5010865228",
+        "prices": {
+            "30 ml": {
+                "original_price": 172.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Bodyspray Herren Signature Düfte Ombré Leather All Over Body Spray",
+        "url": "https://www.douglas.de/de/p/5010419023",
+        "prices": {
+            "150 ml": {
+                "original_price": 40.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Private Blend Düfte Cherry Smoke",
+        "url": "https://www.douglas.de/de/p/5010865229",
+        "prices": {
+            "30 ml": {
+                "original_price": 172.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Herren Signature Düfte Beau de Jour",
+        "url": "https://www.douglas.de/de/p/5000527043?variant=542716",
+        "prices": {
+            "100 ml": {
+                "original_price": 162.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Private Blend Düfte Soleil Blanc",
+        "url": "https://www.douglas.de/de/p/3001027689?variant=997496",
+        "prices": {
+            "10 ml": {
+                "original_price": 56.0,
+                "reduced_price": null
+            },
+            "30 ml": {
+                "original_price": 128.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Private Blend Düfte Fougère d’Argent",
+        "url": "https://www.douglas.de/de/p/3001046601",
+        "prices": {
+            "50 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/3001041808?variant=993316",
+        "prices": {}
+    },
+    {
+        "perfume_name": "TOM FORD Bodyspray Private Blend Düfte Lost Cherry All Over Body Spray",
+        "url": "https://www.douglas.de/de/p/5003429008",
+        "prices": {
+            "150 ml": {
+                "original_price": 78.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Private Blend Düfte Lost Cherry",
+        "url": "https://www.douglas.de/de/p/3001004783?variant=606236",
+        "prices": {
+            "10 ml": {
+                "original_price": 72.0,
+                "reduced_price": null
+            },
+            "30 ml": {
+                "original_price": 172.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 376.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Private Blend Düfte Vanilla Sex",
+        "url": "https://www.douglas.de/de/p/5011250004",
+        "prices": {
+            "30 ml": {
+                "original_price": 172.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Private Blend Düfte Myrrhe Mystère",
+        "url": "https://www.douglas.de/de/p/5011077011",
+        "prices": {
+            "30 ml": {
+                "original_price": 172.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 376.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Deodorant Private Blend Düfte Oud Wood Deodorant Stick",
+        "url": "https://www.douglas.de/de/p/m000575164?variant=811128",
+        "prices": {
+            "75 ml": {
+                "original_price": 52.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Private Blend Düfte Soleil Brûlant",
+        "url": "https://www.douglas.de/de/p/5009884021",
+        "prices": {
+            "50 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Private Blend Düfte Black Lacquer",
+        "url": "https://www.douglas.de/de/p/5011548022",
+        "prices": {
+            "30 ml": {
+                "original_price": 172.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Private Blend Düfte Oud Wood",
+        "url": "https://www.douglas.de/de/p/5011343000",
+        "prices": {
+            "50 ml": {
+                "original_price": 312.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Private Blend Düfte Azure Lime",
+        "url": "https://www.douglas.de/de/p/5010967127",
+        "prices": {
+            "50 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Bodyspray Private Blend Düfte Tuscan Leather",
+        "url": "https://www.douglas.de/de/p/3001031992",
+        "prices": {
+            "150 ml": {
+                "original_price": 62.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Duftset Private Blend Düfte Private Blend Ébène Fumé Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011561032",
+        "prices": {
+            "50-ml-Flakon Eau de Parfum + 10-ml-Reisespray": {
+                "original_price": 208.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Duftset Private Blend Düfte Private Blend  Rose Prick Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011561031",
+        "prices": {
+            "50-ml-Flakon Eau de Parfum + 10-ml-Reisespray": {
+                "original_price": 280.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Herren Signature Düfte Noir Extreme",
+        "url": "https://www.douglas.de/de/p/3001012536?variant=843172",
+        "prices": {
+            "50 ml": {
+                "original_price": 116.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 143.0,
+                "reduced_price": null
+            },
+            "150 ml": {
+                "original_price": 185.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Damen Signature Düfte Velvet Orchid",
+        "url": "https://www.douglas.de/de/p/3001002180?variant=765601",
+        "prices": {
+            "50 ml": {
+                "original_price": 116.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 162.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Soleil Neige Soleil Neige",
+        "url": "https://www.douglas.de/de/p/5011580080",
+        "prices": {
+            "50 ml": {
+                "original_price": 312.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Damen Signature Düfte Black Orchid",
+        "url": "https://www.douglas.de/de/p/3000031779",
+        "prices": {
+            "30 ml": {
+                "original_price": 69.99,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 116.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 162.4,
+                "reduced_price": null
+            },
+            "150 ml": {
+                "original_price": 201.6,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Herren Signature Düfte Oud Minérale",
+        "url": "https://www.douglas.de/de/p/5011250013?variant=1150960",
+        "prices": {
+            "50 ml": {
+                "original_price": 116.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 162.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Bodyspray Private Blend Düfte Soleil Blanc",
+        "url": "https://www.douglas.de/de/p/3001035455",
+        "prices": {
+            "150 ml": {
+                "original_price": 62.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Private Blend Düfte Tobacco Vanille",
+        "url": "https://www.douglas.de/de/p/3000073072?variant=437326",
+        "prices": {
+            "10 ml": {
+                "original_price": 56.0,
+                "reduced_price": null
+            },
+            "30 ml": {
+                "original_price": 128.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Bodyspray Herren Signature Düfte Noir Extreme All Over Body Spray",
+        "url": "https://www.douglas.de/de/p/5009749058",
+        "prices": {
+            "150 ml": {
+                "original_price": 40.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Private Blend Düfte Soleil de Feu",
+        "url": "https://www.douglas.de/de/p/5010914021",
+        "prices": {
+            "30 ml": {
+                "original_price": 128.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Private Blend Düfte Santal Blush",
+        "url": "https://www.douglas.de/de/p/5010738096?variant=1029464",
+        "prices": {
+            "30 ml": {
+                "original_price": 128.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Private Blend Düfte Tuscan Leather",
+        "url": "https://www.douglas.de/de/p/3000073073?variant=485727",
+        "prices": {
+            "50 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Damen Signature Düfte Café Rose",
+        "url": "https://www.douglas.de/de/p/5011067056",
+        "prices": {
+            "30 ml": {
+                "original_price": 76.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 116.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 162.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Herren Signature Düfte Noir Extreme",
+        "url": "https://www.douglas.de/de/p/5010693076?variant=1029459",
+        "prices": {
+            "50 ml": {
+                "original_price": 138.4,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 192.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Herren Signature Düfte Grey Vetiver",
+        "url": "https://www.douglas.de/de/p/5010947037?variant=1084025",
+        "prices": {
+            "50 ml": {
+                "original_price": 138.4,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 192.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Bodyspray Private Blend Düfte Bitter Peach All Over Body Spray",
+        "url": "https://www.douglas.de/de/p/5010466035",
+        "prices": {
+            "150 ml": {
+                "original_price": 92.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Parfum Damen Signature Düfte Black Orchid EdT",
+        "url": "https://www.douglas.de/de/p/5010937181?variant=1083990",
+        "prices": {
+            "50 ml": {
+                "original_price": 92.8,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Private Blend Düfte Ébène Fumé",
+        "url": "https://www.douglas.de/de/p/5010352637?variant=1029466",
+        "prices": {
+            "10 ml": {
+                "original_price": 56.0,
+                "reduced_price": null
+            },
+            "30 ml": {
+                "original_price": 128.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 208.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 280.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Herren Signature Düfte Bois Pacifique",
+        "url": "https://www.douglas.de/de/p/5011634016",
+        "prices": {
+            "50 ml": {
+                "original_price": 116.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 162.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "TOM FORD Eau de Parfum Herren Signature Düfte Costa Azzurra",
+        "url": "https://www.douglas.de/de/p/5009062000?variant=904269",
+        "prices": {
+            "10 ml": {
+                "original_price": 31.2,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 116.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 162.4,
+                "reduced_price": null
+            }
+        }
+    }
+]

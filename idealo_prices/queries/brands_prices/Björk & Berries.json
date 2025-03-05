@@ -1,0 +1,87 @@
+[
+    {
+        "perfume_name": "Björk & Berries Parfum White Forest Roll-on Parfum Oil",
+        "url": "https://www.douglas.de/de/p/m002311061",
+        "prices": {
+            "10 ml": {
+                "original_price": 50.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Björk & Berries Parfum Botanist Roll-on Parfum Oil",
+        "url": "https://www.douglas.de/de/p/m002102002",
+        "prices": {
+            "10 ml": {
+                "original_price": 48.99,
+                "reduced_price": 41.64
+            }
+        }
+    },
+    {
+        "perfume_name": "Björk & Berries Parfum Violet Sky Roll-on Parfum Oil",
+        "url": "https://www.douglas.de/de/p/m002102004",
+        "prices": {
+            "50 ml": {
+                "original_price": 55.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Björk & Berries Parfum Synchrony Perfume Oil",
+        "url": "https://www.douglas.de/de/p/m002311059",
+        "prices": {
+            "10 ml": {
+                "original_price": 50.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Björk & Berries Parfum Never Spring",
+        "url": "https://www.douglas.de/de/p/m002179154",
+        "prices": {
+            "100 ml": {
+                "original_price": 206.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/m002348016",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Björk & Berries Parfum Never Spring Roll-on Parfum Oil",
+        "url": "https://www.douglas.de/de/p/m002311045",
+        "prices": {
+            "10 ml": {
+                "original_price": 50.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Björk & Berries Parfum Fjällslö Roll-on Parfum Oil",
+        "url": "https://www.douglas.de/de/p/m002311035",
+        "prices": {
+            "10 ml": {
+                "original_price": 50.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Björk & Berries Duftset Duftset Travel Spray Set",
+        "url": "https://www.douglas.de/de/p/m002348024",
+        "prices": {
+            "1 Stück": {
+                "original_price": 140.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

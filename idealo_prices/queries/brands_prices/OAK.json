@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "OAK Eau de Parfum URSPRUNG Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/m001861183",
+        "prices": {
+            "100 ml": {
+                "original_price": 129.99,
+                "reduced_price": 110.49
+            }
+        }
+    },
+    {
+        "perfume_name": "OAK Eau de Parfum URSPRUNG Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/m001861178",
+        "prices": {
+            "50 ml": {
+                "original_price": 84.99,
+                "reduced_price": 72.24
+            }
+        }
+    }
+]

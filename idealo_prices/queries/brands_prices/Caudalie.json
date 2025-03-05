@@ -1,0 +1,76 @@
+[
+    {
+        "perfume_name": "Caudalie Eau Fraiche Eau Fraîche Eau des Vignes",
+        "url": "https://www.douglas.de/de/p/5002484529?variant=1011725",
+        "prices": {
+            "50 ml": {
+                "original_price": 21.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Caudalie Bodyspray Ange des Vignes",
+        "url": "https://www.douglas.de/de/p/5010928012",
+        "prices": {
+            "50 ml": {
+                "original_price": 26.39,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Caudalie Sonnenbalsam Vinosun Protect Sonnenlotion LSF50+",
+        "url": "https://www.douglas.de/de/p/5010902150",
+        "prices": {
+            "150 ml": {
+                "original_price": 27.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Caudalie Eau Fraiche Eau Fraîche Fleur de Vigne",
+        "url": "https://www.douglas.de/de/p/5002484518?variant=1011721",
+        "prices": {
+            "50 ml": {
+                "original_price": 21.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Caudalie Eau Fraiche Eau Fraîche Rose de Vigne",
+        "url": "https://www.douglas.de/de/p/5002484526?variant=1011724",
+        "prices": {
+            "50 ml": {
+                "original_price": 21.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Caudalie Eau Fraiche The des Vignes Thé des Vignes",
+        "url": "https://www.douglas.de/de/p/5002484522?variant=1011723",
+        "prices": {
+            "50 ml": {
+                "original_price": 21.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 30.65,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Caudalie Eau Fraiche Eau Fraîche Soleil des Vignes",
+        "url": "https://www.douglas.de/de/p/5002489906?variant=1011726",
+        "prices": {
+            "50 ml": {
+                "original_price": 21.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

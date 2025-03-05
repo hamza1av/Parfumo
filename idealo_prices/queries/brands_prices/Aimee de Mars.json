@@ -1,0 +1,72 @@
+[
+    {
+        "perfume_name": "Aimee de Mars Parfum Elixir de Parfum - Lily Ambre Legère",
+        "url": "https://www.douglas.de/de/p/m001455077",
+        "prices": {
+            "30 ml": {
+                "original_price": 45.99,
+                "reduced_price": 39.09
+            }
+        }
+    },
+    {
+        "perfume_name": "Aimee de Mars Parfum Elixir de Parfum - Mystique Amethyste",
+        "url": "https://www.douglas.de/de/p/m000421090",
+        "prices": {
+            "30 ml": {
+                "original_price": 50.99,
+                "reduced_price": 43.34
+            }
+        }
+    },
+    {
+        "perfume_name": "Aimee de Mars Parfum Elixir de Parfum - Divine Emeraude",
+        "url": "https://www.douglas.de/de/p/m000421149",
+        "prices": {
+            "30 ml": {
+                "original_price": 45.99,
+                "reduced_price": 39.09
+            }
+        }
+    },
+    {
+        "perfume_name": "Aimee de Mars Parfum Eau de Parfum - Eau 21 Legère",
+        "url": "https://www.douglas.de/de/p/m001456148",
+        "prices": {
+            "30 ml": {
+                "original_price": 45.99,
+                "reduced_price": 39.09
+            }
+        }
+    },
+    {
+        "perfume_name": "Aimee de Mars Parfum Eau de Parfum - JE SUIS 100% naturel",
+        "url": "https://www.douglas.de/de/p/m001135026",
+        "prices": {
+            "50 ml": {
+                "original_price": 61.99,
+                "reduced_price": 52.69
+            }
+        }
+    },
+    {
+        "perfume_name": "Aimee de Mars Parfum Elixir de Parfum - Mythique Iris",
+        "url": "https://www.douglas.de/de/p/m000395183",
+        "prices": {
+            "30 ml": {
+                "original_price": 50.99,
+                "reduced_price": 43.34
+            }
+        }
+    },
+    {
+        "perfume_name": "Aimee de Mars Parfum Eau de Parfum - Acqua di Orta",
+        "url": "https://www.douglas.de/de/p/m000421007",
+        "prices": {
+            "30 ml": {
+                "original_price": 50.99,
+                "reduced_price": 43.34
+            }
+        }
+    }
+]

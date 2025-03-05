@@ -1,0 +1,42 @@
+[
+    {
+        "perfume_name": "Captain Fawcett's Eau de Parfum Triumphant EDP",
+        "url": "https://www.douglas.de/de/p/m001795283",
+        "prices": {
+            "50 ml": {
+                "original_price": 95.99,
+                "reduced_price": 81.59
+            }
+        }
+    },
+    {
+        "perfume_name": "Captain Fawcett's Eau de Parfum Alessandro Manfredini EDP",
+        "url": "https://www.douglas.de/de/p/m001795286",
+        "prices": {
+            "50 ml": {
+                "original_price": 95.99,
+                "reduced_price": 81.59
+            }
+        }
+    },
+    {
+        "perfume_name": "Captain Fawcett's Eau de Parfum Barberism EDP",
+        "url": "https://www.douglas.de/de/p/m001795287",
+        "prices": {
+            "50 ml": {
+                "original_price": 95.99,
+                "reduced_price": 81.59
+            }
+        }
+    },
+    {
+        "perfume_name": "Captain Fawcett's Eau de Parfum Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/m000095387",
+        "prices": {
+            "50 ml": {
+                "original_price": 65.99,
+                "reduced_price": 56.09
+            }
+        }
+    }
+]

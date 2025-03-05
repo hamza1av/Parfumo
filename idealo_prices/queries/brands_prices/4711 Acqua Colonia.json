@@ -1,0 +1,294 @@
+[
+    {
+        "perfume_name": "4711 Acqua Colonia Eau de Cologne Acqua Colonia Intense Intense Floral Fields of Ireland",
+        "url": "https://www.douglas.de/de/p/5000004172",
+        "prices": {
+            "50 ml": {
+                "original_price": 35.0,
+                "reduced_price": 28.0
+            },
+            "100 ml": {
+                "original_price": 55.0,
+                "reduced_price": 44.0
+            },
+            "170 ml": {
+                "original_price": 102.29,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Eau de Cologne Acqua Colonia Intense Refreshing Lagoons of Laos",
+        "url": "https://www.douglas.de/de/p/5010087007",
+        "prices": {
+            "50 ml": {
+                "original_price": 35.0,
+                "reduced_price": 28.0
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Eau de Cologne Peony & Sandalwood Acqua Colonia",
+        "url": "https://www.douglas.de/de/p/5011007004",
+        "prices": {
+            "50 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            },
+            "100 ml": {
+                "original_price": 40.0,
+                "reduced_price": 32.0
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Eau de Cologne Acqua Colonia Intense Intense Pure Breeze of Himalaya",
+        "url": "https://www.douglas.de/de/p/5000004167?variant=1119431",
+        "prices": {
+            "50 ml": {
+                "original_price": 35.0,
+                "reduced_price": 28.0
+            },
+            "100 ml": {
+                "original_price": 55.0,
+                "reduced_price": 44.0
+            },
+            "170 ml": {
+                "original_price": 102.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Eau de Cologne Lemon & Ginger Aqua Colonia",
+        "url": "https://www.douglas.de/de/p/3000028249",
+        "prices": {
+            "50 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            },
+            "100 ml": {
+                "original_price": 40.0,
+                "reduced_price": 32.0
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Eau de Cologne 4711 Original",
+        "url": "https://www.douglas.de/de/p/5011539220",
+        "prices": {
+            "8 ml": {
+                "original_price": 3.75,
+                "reduced_price": 3.0
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Duschgel Freesia & Musk",
+        "url": "https://www.douglas.de/de/p/5011341005",
+        "prices": {
+            "200 ml": {
+                "original_price": 12.5,
+                "reduced_price": 10.0
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Eau de Cologne Lime & Nutmeg Spritzen & Sprühen",
+        "url": "https://www.douglas.de/de/p/3001010766?variant=1119307",
+        "prices": {
+            "50 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            },
+            "100 ml": {
+                "original_price": 40.0,
+                "reduced_price": 32.0
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Eau de Cologne Starfruit & White Flowers",
+        "url": "https://www.douglas.de/de/p/5010507272",
+        "prices": {
+            "50 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            },
+            "170 ml": {
+                "original_price": 47.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Eau de Cologne Lychee & White Mint",
+        "url": "https://www.douglas.de/de/p/5001642034",
+        "prices": {
+            "50 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            },
+            "170 ml": {
+                "original_price": 44.5,
+                "reduced_price": 44.19
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Eau de Cologne Coconut Water & Yuzu",
+        "url": "https://www.douglas.de/de/p/5010675025",
+        "prices": {
+            "50 ml": {
+                "original_price": 25.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Eau de Cologne Freesia & Musk Aqua Colonia",
+        "url": "https://www.douglas.de/de/p/5011341006",
+        "prices": {
+            "50 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            },
+            "100 ml": {
+                "original_price": 40.0,
+                "reduced_price": 32.0
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Duschgel Blood Orange & Basil Aroma",
+        "url": "https://www.douglas.de/de/p/3001001139",
+        "prices": {
+            "200 ml": {
+                "original_price": 12.5,
+                "reduced_price": 8.99
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Eau de Cologne Fig & Vetiver",
+        "url": "https://www.douglas.de/de/p/5011708001",
+        "prices": {
+            "50 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            },
+            "100 ml": {
+                "original_price": 40.0,
+                "reduced_price": 32.0
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Eau de Cologne Yuzu & Cedarwood Eau de Cologne 50 ml Cedarwood & Yuzu",
+        "url": "https://www.douglas.de/de/p/5011483021?variant=1186211",
+        "prices": {
+            "50 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            },
+            "100 ml": {
+                "original_price": 40.0,
+                "reduced_price": 32.0
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Eau de Cologne Pink Pepper & Grapefruit Aqua Colonia",
+        "url": "https://www.douglas.de/de/p/3000062540",
+        "prices": {
+            "50 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            },
+            "100 ml": {
+                "original_price": 40.0,
+                "reduced_price": 32.0
+            },
+            "170 ml": {
+                "original_price": 44.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Duftset MINIATUREN SET",
+        "url": "https://www.douglas.de/de/p/5011497325",
+        "prices": {
+            "1 Stück": {
+                "original_price": 21.5,
+                "reduced_price": 17.2
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Eau de Cologne Blood Orange & Basil Aqua Colonia",
+        "url": "https://www.douglas.de/de/p/3000036153",
+        "prices": {
+            "50 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            },
+            "100 ml": {
+                "original_price": 40.0,
+                "reduced_price": 32.0
+            },
+            "170 ml": {
+                "original_price": 54.59,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Duschgel Lemon & Ginger",
+        "url": "https://www.douglas.de/de/p/3001001137",
+        "prices": {
+            "200 ml": {
+                "original_price": 12.5,
+                "reduced_price": 10.0
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Eau de Cologne Acqua Colonia Intense Intense Wakening Woods of Scandinavia",
+        "url": "https://www.douglas.de/de/p/5000004178",
+        "prices": {
+            "50 ml": {
+                "original_price": 35.0,
+                "reduced_price": 28.0
+            },
+            "100 ml": {
+                "original_price": 55.0,
+                "reduced_price": 44.0
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Eau de Cologne White Peach & Coriander Lippen Creamy",
+        "url": "https://www.douglas.de/de/p/3001034696",
+        "prices": {
+            "50 ml": {
+                "original_price": 25.0,
+                "reduced_price": 20.0
+            },
+            "170 ml": {
+                "original_price": 44.5,
+                "reduced_price": 44.19
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Acqua Colonia Eau de Parfum Collection Absolue Amber Mandarin EdP Nat. Spray",
+        "url": "https://www.douglas.de/de/p/m002255034",
+        "prices": {
+            "100 ml": {
+                "original_price": 113.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

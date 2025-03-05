@@ -1,0 +1,57 @@
+[
+    {
+        "perfume_name": "Geo. F. Trumper Eau de Cologne Skye Eau de Cologne  Glasflakon mit Zerstäuber",
+        "url": "https://www.douglas.de/de/p/m000091359",
+        "prices": {
+            "50 ml": {
+                "original_price": 51.99,
+                "reduced_price": 44.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Geo. F. Trumper Eau de Cologne San Remo Cologne Spray",
+        "url": "https://www.douglas.de/de/p/m000091355",
+        "prices": {
+            "100 ml": {
+                "original_price": 53.99,
+                "reduced_price": 45.89
+            }
+        }
+    },
+    {
+        "perfume_name": "Geo. F. Trumper Eau de Cologne Bay Rum Cologne Travel",
+        "url": "https://www.douglas.de/de/p/m000091341",
+        "prices": {
+            "100 ml": {
+                "original_price": 41.99,
+                "reduced_price": 35.69
+            }
+        }
+    },
+    {
+        "perfume_name": "Geo. F. Trumper Eau de Cologne Milk of Flowers Cologne & Body Spray",
+        "url": "https://www.douglas.de/de/p/m000091336",
+        "prices": {
+            "50 ml": {
+                "original_price": 52.99,
+                "reduced_price": 45.04
+            }
+        }
+    },
+    {
+        "perfume_name": "Geo. F. Trumper Eau de Cologne Spanish Leather Cologne",
+        "url": "https://www.douglas.de/de/p/m000091292",
+        "prices": {
+            "100 ml": {
+                "original_price": 70.99,
+                "reduced_price": 60.34
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/m000091299",
+        "prices": {}
+    }
+]

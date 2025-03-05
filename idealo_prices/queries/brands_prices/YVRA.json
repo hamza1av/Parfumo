@@ -1,0 +1,32 @@
+[
+    {
+        "perfume_name": "YVRA Eau de Parfum 91 L'Essence de L'Explorance Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m002023056",
+        "prices": {
+            "50 ml": {
+                "original_price": 86.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "YVRA Eau de Parfum 79 L'Essence de Présence Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m002023052",
+        "prices": {
+            "50 ml": {
+                "original_price": 86.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "YVRA Eau de Parfum 65 L'Essence de Flamboyance Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m002023053",
+        "prices": {
+            "100 ml": {
+                "original_price": 121.09,
+                "reduced_price": null
+            }
+        }
+    }
+]

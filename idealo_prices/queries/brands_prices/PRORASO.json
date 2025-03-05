@@ -1,0 +1,102 @@
+[
+    {
+        "perfume_name": "PRORASO After Shave Balsam nach der Rasur Erfrischung",
+        "url": "https://www.douglas.de/de/p/5002490039",
+        "prices": {
+            "100 ml": {
+                "original_price": 12.69,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "PRORASO After Shave After Shave Balsam",
+        "url": "https://www.douglas.de/de/p/5002490032",
+        "prices": {
+            "100 ml": {
+                "original_price": 19.49,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "PRORASO Eau de Cologne Azur Lime",
+        "url": "https://www.douglas.de/de/p/5002490016",
+        "prices": {
+            "100 ml": {
+                "original_price": 36.0,
+                "reduced_price": 33.99
+            }
+        }
+    },
+    {
+        "perfume_name": "PRORASO Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5010571087",
+        "prices": {
+            "100 ml": {
+                "original_price": 22.55,
+                "reduced_price": 18.39
+            }
+        }
+    },
+    {
+        "perfume_name": "PRORASO Eau de Cologne COLONIA",
+        "url": "https://www.douglas.de/de/p/5002490013",
+        "prices": {
+            "100 ml": {
+                "original_price": 36.0,
+                "reduced_price": 35.89
+            }
+        }
+    },
+    {
+        "perfume_name": "PRORASO After Shave Balsam",
+        "url": "https://www.douglas.de/de/p/5002490029",
+        "prices": {
+            "100 ml": {
+                "original_price": 19.49,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "PRORASO After Shave",
+        "url": "https://www.douglas.de/de/p/5002490026",
+        "prices": {
+            "100 ml": {
+                "original_price": 14.95,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "PRORASO Eau de Cologne Cypress & Vetyver",
+        "url": "https://www.douglas.de/de/p/5002490018",
+        "prices": {
+            "100 ml": {
+                "original_price": 36.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "PRORASO After Shave Professional After Shave Lotion",
+        "url": "https://www.douglas.de/de/p/m000108171?variant=m2650302",
+        "prices": {
+            "400 ml": {
+                "original_price": 31.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "PRORASO After Shave Red Nourish After Shave Lotion",
+        "url": "https://www.douglas.de/de/p/m000371056?variant=m2482088",
+        "prices": {
+            "400 ml": {
+                "original_price": 35.23,
+                "reduced_price": 29.94
+            }
+        }
+    }
+]

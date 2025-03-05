@@ -1,0 +1,580 @@
+[
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Women & Men Silver Mountain Water",
+        "url": "https://www.douglas.de/de/p/5011524119",
+        "prices": {
+            "30 ml": {
+                "original_price": 150.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Parfum Aventus Perfume Oil",
+        "url": "https://www.douglas.de/de/p/m001312000",
+        "prices": {
+            "75 ml": {
+                "original_price": 130.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Men Erolfa",
+        "url": "https://www.douglas.de/de/p/3001045296",
+        "prices": {
+            "50 ml": {
+                "original_price": 195.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Acqua Originale Green Neroli",
+        "url": "https://www.douglas.de/de/p/5003052007",
+        "prices": {
+            "100 ml": {
+                "original_price": 230.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Men Himalaya",
+        "url": "https://www.douglas.de/de/p/3000019534?variant=988605",
+        "prices": {
+            "50 ml": {
+                "original_price": 195.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Women & Men Delphinus",
+        "url": "https://www.douglas.de/de/p/5011543020?variant=1197349",
+        "prices": {
+            "50 ml": {
+                "original_price": 235.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 330.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Women Love in White",
+        "url": "https://www.douglas.de/de/p/3000048456?variant=252255",
+        "prices": {
+            "30 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "75 ml": {
+                "original_price": 260.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Women & Men Royal Oud",
+        "url": "https://www.douglas.de/de/p/3001045299?variant=028667",
+        "prices": {
+            "50 ml": {
+                "original_price": 210.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 295.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Viking Viking Cologne",
+        "url": "https://www.douglas.de/de/p/5010010195?variant=129723",
+        "prices": {
+            "50 ml": {
+                "original_price": 195.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Men Original Vetiver",
+        "url": "https://www.douglas.de/de/p/3000015899",
+        "prices": {
+            "50 ml": {
+                "original_price": 195.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Acqua Originale Iris Tubereuse",
+        "url": "https://www.douglas.de/de/p/3001003976",
+        "prices": {
+            "100 ml": {
+                "original_price": 230.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Toilette Millesime for Women & Men Imperial Schüttflakon",
+        "url": "https://www.douglas.de/de/p/3000066770",
+        "prices": {
+            "250 ml": {
+                "original_price": 249.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Men Green Irish Tweed",
+        "url": "https://www.douglas.de/de/p/3001045297",
+        "prices": {
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Men Silver Mountain Water",
+        "url": "https://www.douglas.de/de/p/3000048457?variant=988604",
+        "prices": {
+            "50 ml": {
+                "original_price": 195.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Absolu Aventus",
+        "url": "https://www.douglas.de/de/p/5011202048",
+        "prices": {
+            "75 ml": {
+                "original_price": 340.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Aventus for her Aventus for Her",
+        "url": "https://www.douglas.de/de/p/3001031659?variant=941440",
+        "prices": {
+            "30 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "75 ml": {
+                "original_price": 260.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Men Green Irish Tweed",
+        "url": "https://www.douglas.de/de/p/3000019937",
+        "prices": {
+            "50 ml": {
+                "original_price": 195.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Les Royales Exclusives Sublime Vanille",
+        "url": "https://www.douglas.de/de/p/5009229081?variant=098693",
+        "prices": {
+            "75 ml": {
+                "original_price": 410.0,
+                "reduced_price": null
+            },
+            "250 ml": {
+                "original_price": 890.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Cologne Les Royales Exclusives Pure White Cologne",
+        "url": "https://www.douglas.de/de/p/5002465023",
+        "prices": {
+            "75 ml": {
+                "original_price": 410.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Women Royal Princess Oud",
+        "url": "https://www.douglas.de/de/p/3001026132",
+        "prices": {
+            "75 ml": {
+                "original_price": 260.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Men Tabarome",
+        "url": "https://www.douglas.de/de/p/3000019473",
+        "prices": {
+            "50 ml": {
+                "original_price": 195.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Les Royales Exclusives White Amber",
+        "url": "https://www.douglas.de/de/p/5010102058",
+        "prices": {
+            "75 ml": {
+                "original_price": 410.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Aventus Cologne",
+        "url": "https://www.douglas.de/de/p/3001056269?variant=095626",
+        "prices": {
+            "50 ml": {
+                "original_price": 195.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Viking",
+        "url": "https://www.douglas.de/de/p/3001041714",
+        "prices": {
+            "50 ml": {
+                "original_price": 210.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 295.0,
+                "reduced_price": null
+            },
+            "250 ml": {
+                "original_price": 485.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Women Acqua Fiorentina",
+        "url": "https://www.douglas.de/de/p/3000031049",
+        "prices": {
+            "75 ml": {
+                "original_price": 260.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Les Royales Exclusives Jardin d'Amalfi",
+        "url": "https://www.douglas.de/de/p/5009229084",
+        "prices": {
+            "75 ml": {
+                "original_price": 410.0,
+                "reduced_price": null
+            },
+            "250 ml": {
+                "original_price": 890.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Women & Men Royal Water",
+        "url": "https://www.douglas.de/de/p/3000019935",
+        "prices": {
+            "50 ml": {
+                "original_price": 195.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": null
+            },
+            "Refill": {
+                "original_price": 229.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Men Original Vetiver",
+        "url": "https://www.douglas.de/de/p/3001045298",
+        "prices": {
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Toilette Millesime for Women & Men Virgin Island Water",
+        "url": "https://www.douglas.de/de/p/3000048458",
+        "prices": {
+            "50 ml": {
+                "original_price": 195.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Women Carmina",
+        "url": "https://www.douglas.de/de/p/5011152038?variant=1130190",
+        "prices": {
+            "30 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "75 ml": {
+                "original_price": 260.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Women Love in Black",
+        "url": "https://www.douglas.de/de/p/2010007963",
+        "prices": {
+            "75 ml": {
+                "original_price": 260.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Women & Men Centaurus",
+        "url": "https://www.douglas.de/de/p/5011543021?variant=1197355",
+        "prices": {
+            "50 ml": {
+                "original_price": 235.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 330.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Men Bois du Portugal",
+        "url": "https://www.douglas.de/de/p/3001046964?variant=039804",
+        "prices": {
+            "50 ml": {
+                "original_price": 195.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Women Fleurissimo",
+        "url": "https://www.douglas.de/de/p/3000019686",
+        "prices": {
+            "75 ml": {
+                "original_price": 260.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Les Royales Exclusives Spice and Wood",
+        "url": "https://www.douglas.de/de/p/5009229082",
+        "prices": {
+            "75 ml": {
+                "original_price": 410.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Toilette Millesime for Women & Men Millesime Imperial",
+        "url": "https://www.douglas.de/de/p/3000019936?variant=996501",
+        "prices": {
+            "50 ml": {
+                "original_price": 195.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Parfümzerstäuber Refillable Travel Spray",
+        "url": "https://www.douglas.de/de/p/5011539325?variant=1154923",
+        "prices": {
+            "für 5 Milliliter": {
+                "original_price": 55.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Aventus Aventus",
+        "url": "https://www.douglas.de/de/p/3000039681?variant=973095",
+        "prices": {
+            "50 ml": {
+                "original_price": 210.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 295.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Women & Men Neroli Sauvage",
+        "url": "https://www.douglas.de/de/p/5001764570?variant=996502",
+        "prices": {
+            "50 ml": {
+                "original_price": 195.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Women Spring Flower",
+        "url": "https://www.douglas.de/de/p/3000017521?variant=1112489",
+        "prices": {
+            "30 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "75 ml": {
+                "original_price": 221.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Women Queen of Silk",
+        "url": "https://www.douglas.de/de/p/5011413038?variant=1171968",
+        "prices": {
+            "30 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "75 ml": {
+                "original_price": 260.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Les Royales Exclusives White Flowers",
+        "url": "https://www.douglas.de/de/p/5010102056",
+        "prices": {
+            "75 ml": {
+                "original_price": 411.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Women Love In White For Summer",
+        "url": "https://www.douglas.de/de/p/3001045293",
+        "prices": {
+            "30 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            },
+            "75 ml": {
+                "original_price": 260.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Millesime for Men Original Santal",
+        "url": "https://www.douglas.de/de/p/3000014501?variant=996507",
+        "prices": {
+            "50 ml": {
+                "original_price": 195.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 275.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Parfum Millesime for Women Wind Flowers",
+        "url": "https://www.douglas.de/de/p/5010536176?variant=1006599",
+        "prices": {
+            "75 ml": {
+                "original_price": 260.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Acqua Originale Citrus Bigarade",
+        "url": "https://www.douglas.de/de/p/5003052008",
+        "prices": {
+            "100 ml": {
+                "original_price": 230.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Creed Eau de Parfum Acqua Originale Zeste Mandarine",
+        "url": "https://www.douglas.de/de/p/5002962009",
+        "prices": {
+            "100 ml": {
+                "original_price": 230.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

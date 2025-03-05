@@ -1,0 +1,94 @@
+[
+    {
+        "perfume_name": "Knize Parfum Ten Toilet Water Schüttflakon",
+        "url": "https://www.douglas.de/de/p/m000091164?variant=494173",
+        "prices": {
+            "225 ml": {
+                "original_price": 129.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Knize Parfum Forest Toilet Water Splash",
+        "url": "https://www.douglas.de/de/p/m000091167",
+        "prices": {
+            "15 ml": {
+                "original_price": 17.59,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Knize Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5010078308?variant=470022",
+        "prices": {
+            "50 ml": {
+                "original_price": 61.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Knize Parfum Forest Toilet Water Spray",
+        "url": "https://www.douglas.de/de/p/m000091163?variant=m1103655",
+        "prices": {
+            "50 ml": {
+                "original_price": 62.09,
+                "reduced_price": null
+            },
+            "125 ml": {
+                "original_price": 99.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Knize Parfum Two Toilet Water Splash",
+        "url": "https://www.douglas.de/de/p/m000091176",
+        "prices": {
+            "15 ml": {
+                "original_price": 17.59,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Knize Eau de Toilette TEN Toilet Water Natural Spray",
+        "url": "https://www.douglas.de/de/p/m000091162?variant=m1103673",
+        "prices": {
+            "TEN Toilet Water Natural Spray": {
+                "original_price": 36.99,
+                "reduced_price": 31.44
+            },
+            "125 ml": {
+                "original_price": 103.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Knize Parfum Sec Toilet Water Splash",
+        "url": "https://www.douglas.de/de/p/m000091184",
+        "prices": {
+            "15 ml": {
+                "original_price": 17.59,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Knize Parfum Two Toilet Water Spray",
+        "url": "https://www.douglas.de/de/p/m000091165",
+        "prices": {
+            "50 ml": {
+                "original_price": 62.09,
+                "reduced_price": null
+            },
+            "125 ml": {
+                "original_price": 99.99,
+                "reduced_price": 84.99
+            }
+        }
+    }
+]

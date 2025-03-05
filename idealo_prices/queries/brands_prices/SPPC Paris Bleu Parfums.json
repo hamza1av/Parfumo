@@ -1,0 +1,132 @@
+[
+    {
+        "perfume_name": "SPPC Paris Bleu Parfums Eau de Parfum Mondaine",
+        "url": "https://www.douglas.de/de/p/3001013342",
+        "prices": {
+            "95 ml": {
+                "original_price": 24.99,
+                "reduced_price": 19.99
+            }
+        }
+    },
+    {
+        "perfume_name": "SPPC Paris Bleu Parfums Eau de Toilette Writer Gold Schriftsteller Gold",
+        "url": "https://www.douglas.de/de/p/3001041632",
+        "prices": {
+            "100 ml": {
+                "original_price": 29.99,
+                "reduced_price": 19.99
+            }
+        }
+    },
+    {
+        "perfume_name": "SPPC Paris Bleu Parfums Eau de Toilette Writer White",
+        "url": "https://www.douglas.de/de/p/3001054323",
+        "prices": {
+            "100 ml": {
+                "original_price": 29.99,
+                "reduced_price": 23.99
+            }
+        }
+    },
+    {
+        "perfume_name": "SPPC Paris Bleu Parfums Eau de Toilette Once Upon A Fragrance Kiss & Spell",
+        "url": "https://www.douglas.de/de/p/5011251026",
+        "prices": {
+            "100 ml": {
+                "original_price": 16.99,
+                "reduced_price": 13.59
+            }
+        }
+    },
+    {
+        "perfume_name": "SPPC Paris Bleu Parfums Eau de Toilette Once Upon A Fragrance Without You",
+        "url": "https://www.douglas.de/de/p/5011251025",
+        "prices": {
+            "100 ml": {
+                "original_price": 16.99,
+                "reduced_price": 13.59
+            }
+        }
+    },
+    {
+        "perfume_name": "SPPC Paris Bleu Parfums Eau de Toilette Aviator Black Leather",
+        "url": "https://www.douglas.de/de/p/5010309084",
+        "prices": {
+            "100 ml": {
+                "original_price": 24.99,
+                "reduced_price": 19.99
+            }
+        }
+    },
+    {
+        "perfume_name": "SPPC Paris Bleu Parfums Eau de Toilette French Club For Her",
+        "url": "https://www.douglas.de/de/p/5011245016",
+        "prices": {
+            "90 ml": {
+                "original_price": 16.99,
+                "reduced_price": 13.59
+            }
+        }
+    },
+    {
+        "perfume_name": "SPPC Paris Bleu Parfums Eau de Toilette Writer Writer",
+        "url": "https://www.douglas.de/de/p/3001041631",
+        "prices": {
+            "100 ml": {
+                "original_price": 29.99,
+                "reduced_price": 23.99
+            }
+        }
+    },
+    {
+        "perfume_name": "SPPC Paris Bleu Parfums Eau de Toilette Once Upon A Fragrance Traveller",
+        "url": "https://www.douglas.de/de/p/5011251028",
+        "prices": {
+            "100 ml": {
+                "original_price": 16.99,
+                "reduced_price": 13.59
+            }
+        }
+    },
+    {
+        "perfume_name": "SPPC Paris Bleu Parfums Eau de Toilette Once Upon A Fragrance Love at first Scent",
+        "url": "https://www.douglas.de/de/p/5011251024",
+        "prices": {
+            "100 ml": {
+                "original_price": 16.99,
+                "reduced_price": 13.59
+            }
+        }
+    },
+    {
+        "perfume_name": "SPPC Paris Bleu Parfums Eau de Toilette Once Upon A Fragrance It's About Time",
+        "url": "https://www.douglas.de/de/p/5011251029",
+        "prices": {
+            "100 ml": {
+                "original_price": 16.99,
+                "reduced_price": 13.59
+            }
+        }
+    },
+    {
+        "perfume_name": "SPPC Paris Bleu Parfums Eau de Toilette Once Upon A Fragrance Someone",
+        "url": "https://www.douglas.de/de/p/5011251027",
+        "prices": {
+            "100 ml": {
+                "original_price": 16.99,
+                "reduced_price": 13.59
+            }
+        }
+    },
+    {
+        "perfume_name": "SPPC Paris Bleu Parfums Eau de Toilette French Club For Him",
+        "url": "https://www.douglas.de/de/p/5011245017",
+        "prices": {
+            "90 ml": {
+                "original_price": 16.99,
+                "reduced_price": 13.59
+            }
+        }
+    }
+]

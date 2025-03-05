@@ -1,0 +1,72 @@
+[
+    {
+        "perfume_name": "JARDIN DE FRANCE Eau de Parfum Cuir Éternel",
+        "url": "https://www.douglas.de/de/p/5011583204",
+        "prices": {
+            "100 ml": {
+                "original_price": 127.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "JARDIN DE FRANCE Eau de Parfum Bois Premier",
+        "url": "https://www.douglas.de/de/p/5011583206",
+        "prices": {
+            "100 ml": {
+                "original_price": 127.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "JARDIN DE FRANCE Eau de Cologne Impérieux Vétiver Eau de Cologne Spray",
+        "url": "https://www.douglas.de/de/p/m000399305",
+        "prices": {
+            "95 ml": {
+                "original_price": 25.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "JARDIN DE FRANCE Eau de Parfum Sources d'Origines Pierre Originelle",
+        "url": "https://www.douglas.de/de/p/5011551012",
+        "prices": {
+            "30 ml": {
+                "original_price": 35.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "JARDIN DE FRANCE Eau de Cologne Secret Hespéridé Eau de Cologne Spray",
+        "url": "https://www.douglas.de/de/p/m000286288?variant=m1332695",
+        "prices": {
+            "95 ml": {
+                "original_price": 25.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "JARDIN DE FRANCE Eau de Parfum Pierre Originelle",
+        "url": "https://www.douglas.de/de/p/5011583205",
+        "prices": {
+            "100 ml": {
+                "original_price": 124.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "JARDIN DE FRANCE Eau de Cologne Ame de Thé vert Eau de Cologne Spray",
+        "url": "https://www.douglas.de/de/p/m000399456",
+        "prices": {
+            "95 ml": {
+                "original_price": 25.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

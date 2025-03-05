@@ -1,0 +1,62 @@
+[
+    {
+        "perfume_name": "Taylor of Old Bond Street After Shave Alcohol Free Cologne for sensitive Skin",
+        "url": "https://www.douglas.de/de/p/m000088150",
+        "prices": {
+            "100 ml": {
+                "original_price": 53.49,
+                "reduced_price": 45.46
+            }
+        }
+    },
+    {
+        "perfume_name": "Taylor of Old Bond Street Eau de Cologne No. 74 Collection Victorian Lime Fragrance",
+        "url": "https://www.douglas.de/de/p/m000087720",
+        "prices": {
+            "100 ml": {
+                "original_price": 46.49,
+                "reduced_price": 39.51
+            }
+        }
+    },
+    {
+        "perfume_name": "Taylor of Old Bond Street Duschgel Seife",
+        "url": "https://www.douglas.de/de/p/m000088189",
+        "prices": {
+            "200 g": {
+                "original_price": 15.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Taylor of Old Bond Street Eau de Parfum Luxury Sandalwood Deodorant Stick",
+        "url": "https://www.douglas.de/de/p/m000088157",
+        "prices": {
+            "75 ml": {
+                "original_price": 18.99,
+                "reduced_price": 16.14
+            }
+        }
+    },
+    {
+        "perfume_name": "Taylor of Old Bond Street After Shave Aftershave for sensitive Skin",
+        "url": "https://www.douglas.de/de/p/m000088074",
+        "prices": {
+            "100 ml": {
+                "original_price": 34.99,
+                "reduced_price": 29.74
+            }
+        }
+    },
+    {
+        "perfume_name": "Taylor of Old Bond Street After Shave Sandalwood",
+        "url": "https://www.douglas.de/de/p/5010918056",
+        "prices": {
+            "100 ml": {
+                "original_price": 53.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

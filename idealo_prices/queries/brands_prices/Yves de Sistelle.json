@@ -1,0 +1,82 @@
+[
+    {
+        "perfume_name": "Yves de Sistelle Eau de Parfum Galice Gold",
+        "url": "https://www.douglas.de/de/p/5009917118",
+        "prices": {
+            "100 ml": {
+                "original_price": 24.99,
+                "reduced_price": 19.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves de Sistelle Parfum Sheyda",
+        "url": "https://www.douglas.de/de/p/5011252037",
+        "prices": {
+            "100 ml": {
+                "original_price": 24.95,
+                "reduced_price": 19.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves de Sistelle Eau de Toilette Ivanhoe",
+        "url": "https://www.douglas.de/de/p/5009917120",
+        "prices": {
+            "100 ml": {
+                "original_price": 24.99,
+                "reduced_price": 19.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves de Sistelle Eau de Parfum Incidence Blossom",
+        "url": "https://www.douglas.de/de/p/5009917119",
+        "prices": {
+            "100 ml": {
+                "original_price": 24.99,
+                "reduced_price": 19.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves de Sistelle Eau de Parfum Forbidden Dreams",
+        "url": "https://www.douglas.de/de/p/5009917116",
+        "prices": {
+            "100 ml": {
+                "original_price": 24.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves de Sistelle Eau de Parfum Sheyda Thallium II",
+        "url": "https://www.douglas.de/de/p/5011724112",
+        "prices": {
+            "100 ml": {
+                "original_price": 29.99,
+                "reduced_price": 23.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves de Sistelle Eau de Parfum Predilection Dreams",
+        "url": "https://www.douglas.de/de/p/5009917121",
+        "prices": {
+            "100 ml": {
+                "original_price": 24.99,
+                "reduced_price": 19.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves de Sistelle Eau de Parfum Venitienne",
+        "url": "https://www.douglas.de/de/p/5009917122",
+        "prices": {
+            "100 ml": {
+                "original_price": 24.99,
+                "reduced_price": 19.99
+            }
+        }
+    }
+]

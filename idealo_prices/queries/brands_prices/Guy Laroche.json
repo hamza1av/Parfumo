@@ -1,0 +1,72 @@
+[
+    {
+        "perfume_name": "Guy Laroche Eau de Parfum Drakkar Intense",
+        "url": "https://www.douglas.de/de/p/5010784014?variant=474979",
+        "prices": {
+            "50 ml": {
+                "original_price": 66.0,
+                "reduced_price": 52.8
+            },
+            "100 ml": {
+                "original_price": 87.0,
+                "reduced_price": 69.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Guy Laroche Eau de Parfum Fidji",
+        "url": "https://www.douglas.de/de/p/5003217011",
+        "prices": {
+            "50 ml": {
+                "original_price": 74.0,
+                "reduced_price": 59.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Guy Laroche Duftset Coffret Drakkar Noir",
+        "url": "https://www.douglas.de/de/p/5011167360",
+        "prices": {
+            "1 Stück": {
+                "original_price": 99.79,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Guy Laroche Eau de Toilette Drakkar Noir",
+        "url": "https://www.douglas.de/de/p/1001103304?variant=642116",
+        "prices": {
+            "30 ml": {
+                "original_price": 40.0,
+                "reduced_price": 20.49
+            },
+            "50 ml": {
+                "original_price": 63.0,
+                "reduced_price": 50.4
+            },
+            "100 ml": {
+                "original_price": 82.0,
+                "reduced_price": 65.6
+            },
+            "200 ml": {
+                "original_price": 118.0,
+                "reduced_price": 53.69
+            }
+        }
+    },
+    {
+        "perfume_name": "Guy Laroche Eau de Toilette Fidji Fidji EDT 50 ml",
+        "url": "https://www.douglas.de/de/p/1001102304?variant=642348",
+        "prices": {
+            "50 ml": {
+                "original_price": 68.0,
+                "reduced_price": 54.4
+            },
+            "100 ml": {
+                "original_price": 92.0,
+                "reduced_price": 73.6
+            }
+        }
+    }
+]

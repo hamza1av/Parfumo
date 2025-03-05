@@ -1,0 +1,52 @@
+[
+    {
+        "perfume_name": "Wacken Parfum FLAME",
+        "url": "https://www.douglas.de/de/p/5011483023",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.9,
+                "reduced_price": 31.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Wacken Parfum THUNDER",
+        "url": "https://www.douglas.de/de/p/5011483024",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.9,
+                "reduced_price": 31.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Wacken Parfum WACKEN WITCH",
+        "url": "https://www.douglas.de/de/p/5011483022",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.9,
+                "reduced_price": 31.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Wacken Parfum PINK BLOOD",
+        "url": "https://www.douglas.de/de/p/5011490030",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.9,
+                "reduced_price": 31.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Wacken Parfum RAIN",
+        "url": "https://www.douglas.de/de/p/5011483025",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.9,
+                "reduced_price": 31.92
+            }
+        }
+    }
+]

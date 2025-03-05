@@ -1,0 +1,20 @@
+[
+    {
+        "perfume_name": "CHANEL Eau de Parfum BLEU DE CHANEL",
+        "url": "https://www.douglas.de/de/p/3001004983?variant=843605",
+        "prices": {
+            "50 ml": {
+                "original_price": 102.0,
+                "reduced_price": 81.6
+            },
+            "100 ml": {
+                "original_price": 144.0,
+                "reduced_price": 115.2
+            },
+            "150 ml": {
+                "original_price": 180.0,
+                "reduced_price": 144.0
+            }
+        }
+    }
+]

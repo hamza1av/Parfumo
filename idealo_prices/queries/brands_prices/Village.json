@@ -1,0 +1,42 @@
+[
+    {
+        "perfume_name": "Village Eau de Toilette Rose",
+        "url": "https://www.douglas.de/de/p/5011521020",
+        "prices": {
+            "50 ml": {
+                "original_price": 13.59,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Village Eau de Toilette Barony Brazil Coconut Eau de Toilette Spray",
+        "url": "https://www.douglas.de/de/p/m000030928",
+        "prices": {
+            "50 ml": {
+                "original_price": 12.69,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Village Eau de Toilette Barony Brazil Vanilla",
+        "url": "https://www.douglas.de/de/p/5011545173",
+        "prices": {
+            "50 ml": {
+                "original_price": 13.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Village Eau de Toilette Lavender",
+        "url": "https://www.douglas.de/de/p/5011521019",
+        "prices": {
+            "50 ml": {
+                "original_price": 13.59,
+                "reduced_price": null
+            }
+        }
+    }
+]

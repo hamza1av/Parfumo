@@ -1,0 +1,126 @@
+[
+    {
+        "perfume_name": "Yves Rocher Eau de Parfum Comme Une Evidence",
+        "url": "https://www.douglas.de/de/p/5011618035",
+        "prices": {
+            "50 ml": {
+                "original_price": 29.95,
+                "reduced_price": 23.96
+            },
+            "100 ml": {
+                "original_price": 41.95,
+                "reduced_price": 33.56
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Rocher Bodyspray Mango-Koriander Parfümiertes Duftspray Körper & Haare",
+        "url": "https://www.douglas.de/de/p/5011618102",
+        "prices": {
+            "100 ml": {
+                "original_price": 9.95,
+                "reduced_price": 7.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Rocher Eau de Parfum Sur la Lande",
+        "url": "https://www.douglas.de/de/p/5011618150",
+        "prices": {
+            "100 ml": {
+                "original_price": 41.95,
+                "reduced_price": 33.56
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Rocher Bodyspray Wildalge & Meerfenchel Parfümiertes Duftspray Körper & Haare",
+        "url": "https://www.douglas.de/de/p/5011618108",
+        "prices": {
+            "100 ml": {
+                "original_price": 9.95,
+                "reduced_price": 7.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Rocher Eau de Toilette Naturelle",
+        "url": "https://www.douglas.de/de/p/5011618137",
+        "prices": {
+            "75 ml": {
+                "original_price": 21.95,
+                "reduced_price": 17.56
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Rocher Eau de Toilette Monoï Vague d'été",
+        "url": "https://www.douglas.de/de/p/5011618123",
+        "prices": {
+            "100 ml": {
+                "original_price": 19.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Rocher Eau Fraiche Maiglöckchen",
+        "url": "https://www.douglas.de/de/p/5011618136",
+        "prices": {
+            "100 ml": {
+                "original_price": 19.95,
+                "reduced_price": 15.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Rocher Bodyspray Monoï Parfümiertes Duftspray Körper",
+        "url": "https://www.douglas.de/de/p/5011618116",
+        "prices": {
+            "125 ml": {
+                "original_price": 11.95,
+                "reduced_price": 9.56
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Rocher Bodyspray Kokosnuss Parfümiertes Duftspray Körper & Haare",
+        "url": "https://www.douglas.de/de/p/5011618107",
+        "prices": {
+            "100 ml": {
+                "original_price": 9.95,
+                "reduced_price": 7.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Rocher Bodyspray Arganöl & Rosenblüten Parfümiertes Duftspray Körper & Haare",
+        "url": "https://www.douglas.de/de/p/5011618099",
+        "prices": {
+            "100 ml": {
+                "original_price": 9.95,
+                "reduced_price": 7.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Rocher Bodyspray Bourbon-Vanille Parfümiertes Duftspray Körper & Haare",
+        "url": "https://www.douglas.de/de/p/5011618095",
+        "prices": {
+            "100 ml": {
+                "original_price": 9.95,
+                "reduced_price": 7.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Rocher Bodyspray Himbeere & Pfefferminze Parfümiertes Duftspray Körper & Haare",
+        "url": "https://www.douglas.de/de/p/5011618088",
+        "prices": {
+            "100 ml": {
+                "original_price": 9.95,
+                "reduced_price": 7.96
+            }
+        }
+    }
+]

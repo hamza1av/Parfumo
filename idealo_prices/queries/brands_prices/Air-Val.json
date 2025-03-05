@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "Air-Val Kinder-Duftset Minnie Maus",
+        "url": "https://www.douglas.de/de/p/5011166471",
+        "prices": {
+            "": {
+                "original_price": 29.14,
+                "reduced_price": 24.76
+            }
+        }
+    },
+    {
+        "perfume_name": "Air-Val Kinder-Duftset Captain America",
+        "url": "https://www.douglas.de/de/p/5011135058",
+        "prices": {
+            "": {
+                "original_price": 29.14,
+                "reduced_price": 24.76
+            }
+        }
+    }
+]

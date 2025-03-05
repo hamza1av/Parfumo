@@ -1,0 +1,52 @@
+[
+    {
+        "perfume_name": "Oilily Eau de Parfum Classic",
+        "url": "https://www.douglas.de/de/p/5011048016?variant=1092184",
+        "prices": {
+            "30 ml": {
+                "original_price": 27.5,
+                "reduced_price": 22.0
+            },
+            "50 ml": {
+                "original_price": 32.5,
+                "reduced_price": 26.0
+            },
+            "75 ml": {
+                "original_price": 39.95,
+                "reduced_price": 31.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Oilily Eau de Toilette Lucky Girl",
+        "url": "https://www.douglas.de/de/p/5011009000",
+        "prices": {
+            "30 ml": {
+                "original_price": 27.5,
+                "reduced_price": 22.0
+            },
+            "50 ml": {
+                "original_price": 32.5,
+                "reduced_price": 26.0
+            },
+            "75 ml": {
+                "original_price": 39.95,
+                "reduced_price": 31.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Oilily Parfum Blue Sparkle",
+        "url": "https://www.douglas.de/de/p/5011009002",
+        "prices": {
+            "25 ml": {
+                "original_price": 24.95,
+                "reduced_price": 19.96
+            },
+            "50 ml": {
+                "original_price": 34.95,
+                "reduced_price": 27.96
+            }
+        }
+    }
+]

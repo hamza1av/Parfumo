@@ -1,0 +1,68 @@
+[
+    {
+        "perfume_name": "PHILIPP PLEIN Eau de Parfum NO LIMIT$",
+        "url": "https://www.douglas.de/de/p/5002298066",
+        "prices": {
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 65.99
+            },
+            "90 ml": {
+                "original_price": 95.0,
+                "reduced_price": 84.0
+            }
+        }
+    },
+    {
+        "perfume_name": "PHILIPP PLEIN Eau de Parfum Plein Fatale Plein Fatale Rosé",
+        "url": "https://www.douglas.de/de/p/5011406295",
+        "prices": {
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "90 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "PHILIPP PLEIN Eau de Parfum NO LIMIT$ Gold",
+        "url": "https://www.douglas.de/de/p/5011115029",
+        "prices": {
+            "50 ml": {
+                "original_price": 77.99,
+                "reduced_price": null
+            },
+            "90 ml": {
+                "original_price": 99.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "PHILIPP PLEIN Eau de Parfum Plein Fatale",
+        "url": "https://www.douglas.de/de/p/5010824115?variant=1058919",
+        "prices": {
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "90 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "PHILIPP PLEIN NO LIMIT$ NO LIMIT$ Deodorant Stick",
+        "url": "https://www.douglas.de/de/p/5003623090",
+        "prices": {
+            "75 g": {
+                "original_price": 38.0,
+                "reduced_price": 30.4
+            }
+        }
+    }
+]

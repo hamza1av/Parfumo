@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "Dita von Teese Parfum DITA VON TEESE VEDETTE",
+        "url": "https://www.douglas.de/de/p/5011190039",
+        "prices": {
+            "100 ml": {
+                "original_price": 49.9,
+                "reduced_price": 39.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Dita von Teese Parfum DITA VON TEESE VICTRESSE",
+        "url": "https://www.douglas.de/de/p/5011190041",
+        "prices": {
+            "100 ml": {
+                "original_price": 49.9,
+                "reduced_price": 39.92
+            }
+        }
+    }
+]

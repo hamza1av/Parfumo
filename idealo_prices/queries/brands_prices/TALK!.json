@@ -1,0 +1,52 @@
+[
+    {
+        "perfume_name": "TALK! Eau de Parfum Hero",
+        "url": "https://www.douglas.de/de/p/5003724209",
+        "prices": {
+            "50 ml": {
+                "original_price": 12.99,
+                "reduced_price": 10.39
+            }
+        }
+    },
+    {
+        "perfume_name": "TALK! Eau de Parfum Fighter",
+        "url": "https://www.douglas.de/de/p/5003724211",
+        "prices": {
+            "50 ml": {
+                "original_price": 12.99,
+                "reduced_price": 10.39
+            }
+        }
+    },
+    {
+        "perfume_name": "TALK! Eau de Parfum Virgin",
+        "url": "https://www.douglas.de/de/p/5003726037",
+        "prices": {
+            "50 ml": {
+                "original_price": 12.99,
+                "reduced_price": 10.39
+            }
+        }
+    },
+    {
+        "perfume_name": "TALK! Eau de Parfum Amazon",
+        "url": "https://www.douglas.de/de/p/5003726048",
+        "prices": {
+            "50 ml": {
+                "original_price": 12.99,
+                "reduced_price": 10.39
+            }
+        }
+    },
+    {
+        "perfume_name": "TALK! Eau de Parfum Dangerous",
+        "url": "https://www.douglas.de/de/p/5003724208",
+        "prices": {
+            "50 ml": {
+                "original_price": 12.99,
+                "reduced_price": 10.39
+            }
+        }
+    }
+]

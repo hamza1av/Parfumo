@@ -1,0 +1,350 @@
+[
+    {
+        "perfume_name": "Cartier Parfum LA PANTHÈRE Elixir",
+        "url": "https://www.douglas.de/de/p/5011548038",
+        "prices": {
+            "50 ml": {
+                "original_price": 123.0,
+                "reduced_price": 98.4
+            },
+            "100 ml": {
+                "original_price": 171.0,
+                "reduced_price": 136.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Parfum DÉCLARATION",
+        "url": "https://www.douglas.de/de/p/3001041928?variant=1203919",
+        "prices": {
+            "50 ml": {
+                "original_price": 106.0,
+                "reduced_price": 84.8
+            },
+            "100 ml": {
+                "original_price": 149.0,
+                "reduced_price": 119.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Eau de Toilette RIVIÈRES DE CARTIER INSOUCIANCE",
+        "url": "https://www.douglas.de/de/p/5010055010",
+        "prices": {
+            "100 ml": {
+                "original_price": 114.0,
+                "reduced_price": 91.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Parfum PASHA DE CARTIER Noir Absolu",
+        "url": "https://www.douglas.de/de/p/5011076003",
+        "prices": {
+            "50 ml": {
+                "original_price": 106.0,
+                "reduced_price": 84.8
+            },
+            "100 ml": {
+                "original_price": 149.0,
+                "reduced_price": 119.2
+            },
+            "200 ml - Refill": {
+                "original_price": 164.0,
+                "reduced_price": 131.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Eau de Parfum LA PANTHÈRE",
+        "url": "https://www.douglas.de/de/p/3000073731?variant=1149464",
+        "prices": {
+            "30 ml": {
+                "original_price": 81.0,
+                "reduced_price": 64.8
+            },
+            "50 ml": {
+                "original_price": 117.0,
+                "reduced_price": 93.6
+            },
+            "100 ml": {
+                "original_price": 163.0,
+                "reduced_price": 130.4
+            },
+            "200 ml - Refill": {
+                "original_price": 179.0,
+                "reduced_price": 143.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Eau de Toilette DÉCLARATION Haute Fraicheur",
+        "url": "https://www.douglas.de/de/p/5010457010?variant=438646",
+        "prices": {
+            "50 ml": {
+                "original_price": 84.0,
+                "reduced_price": 67.2
+            },
+            "100 ml": {
+                "original_price": 119.0,
+                "reduced_price": 95.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Parfum LA PANTHÈRE",
+        "url": "https://www.douglas.de/de/p/5003421008?variant=1149462",
+        "prices": {
+            "30 ml": {
+                "original_price": 84.0,
+                "reduced_price": 67.2
+            },
+            "50 ml": {
+                "original_price": 123.0,
+                "reduced_price": 98.4
+            },
+            "100 ml": {
+                "original_price": 171.0,
+                "reduced_price": 136.8
+            },
+            "200 ml - Refill": {
+                "original_price": 188.0,
+                "reduced_price": 150.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Eau de Toilette MUST DE CARTIER Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/3000031608?variant=072338",
+        "prices": {
+            "100 ml": {
+                "original_price": 140.0,
+                "reduced_price": 112.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Eau de Toilette RIVIÈRES DE CARTIER LUXURIANCE REFILL",
+        "url": "https://www.douglas.de/de/p/5010409020",
+        "prices": {
+            "200 ml": {
+                "original_price": 134.0,
+                "reduced_price": 107.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Eau de Toilette PASHA DE CARTIER",
+        "url": "https://www.douglas.de/de/p/3000034827",
+        "prices": {
+            "100 ml": {
+                "original_price": 119.0,
+                "reduced_price": 95.2
+            },
+            "Nachfüllung": {
+                "original_price": 131.0,
+                "reduced_price": 104.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Haarparfum LA PANTHÈRE Hairmist",
+        "url": "https://www.douglas.de/de/p/5011511016",
+        "prices": {
+            "HAIR MIST": {
+                "original_price": 65.0,
+                "reduced_price": 52.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Parfum BAISER VOLÉ",
+        "url": "https://www.douglas.de/de/p/5010780032?variant=1044741",
+        "prices": {
+            "50 ml": {
+                "original_price": 123.0,
+                "reduced_price": 98.4
+            },
+            "100 ml": {
+                "original_price": 171.0,
+                "reduced_price": 136.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Eau de Toilette RIVIÈRES DE CARTIER ALLÈGRESSE REFILL",
+        "url": "https://www.douglas.de/de/p/5010409019",
+        "prices": {
+            "200 ml": {
+                "original_price": 134.0,
+                "reduced_price": 107.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Parfum MUST DE CARTIER Parfum",
+        "url": "https://www.douglas.de/de/p/3001017698",
+        "prices": {
+            "50 ml": {
+                "original_price": 170.0,
+                "reduced_price": 136.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Eau de Toilette RIVIÈRES DE CARTIER INSOUCIANCE",
+        "url": "https://www.douglas.de/de/p/5010409021",
+        "prices": {
+            "200 ml": {
+                "original_price": 134.0,
+                "reduced_price": 107.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Eau de Toilette LA PANTHÈRE",
+        "url": "https://www.douglas.de/de/p/3001043362?variant=1149463",
+        "prices": {
+            "50 ml": {
+                "original_price": 97.0,
+                "reduced_price": 77.6
+            },
+            "100 ml": {
+                "original_price": 140.0,
+                "reduced_price": 112.0
+            },
+            "Nachfüllung": {
+                "original_price": 154.0,
+                "reduced_price": 123.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Eau de Parfum BAISER VOLÉ",
+        "url": "https://www.douglas.de/de/p/3000047199",
+        "prices": {
+            "30 ml": {
+                "original_price": 81.0,
+                "reduced_price": 64.8
+            },
+            "50 ml": {
+                "original_price": 117.0,
+                "reduced_price": 93.6
+            },
+            "100 ml": {
+                "original_price": 163.0,
+                "reduced_price": 130.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Eau de Toilette DÉCLARATION",
+        "url": "https://www.douglas.de/de/p/3000031598?variant=1186444",
+        "prices": {
+            "100 ml": {
+                "original_price": 119.0,
+                "reduced_price": 95.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Eau de Parfum DÉCLARATION",
+        "url": "https://www.douglas.de/de/p/5011711082?variant=1219315",
+        "prices": {
+            "50 ml": {
+                "original_price": 106.0,
+                "reduced_price": 84.8
+            },
+            "100 ml": {
+                "original_price": 149.0,
+                "reduced_price": 119.2
+            },
+            "200 ml - Refill": {
+                "original_price": 164.0,
+                "reduced_price": 131.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Eau de Toilette RIVIÈRES DE CARTIER ALLÈGRESSE",
+        "url": "https://www.douglas.de/de/p/5010055008",
+        "prices": {
+            "100 ml": {
+                "original_price": 114.0,
+                "reduced_price": 91.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Parfum PASHA DE CARTIER",
+        "url": "https://www.douglas.de/de/p/5001807007?variant=1097116",
+        "prices": {
+            "50 ml": {
+                "original_price": 106.0,
+                "reduced_price": 84.8
+            },
+            "100 ml": {
+                "original_price": 149.0,
+                "reduced_price": 119.2
+            },
+            "150 ml": {
+                "original_price": 177.0,
+                "reduced_price": 141.6
+            },
+            "Nachfüllung": {
+                "original_price": 164.0,
+                "reduced_price": 131.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Eau de Toilette RIVIÈRES DE CARTIER LUXURIANCE",
+        "url": "https://www.douglas.de/de/p/5010055009",
+        "prices": {
+            "100 ml": {
+                "original_price": 114.0,
+                "reduced_price": 91.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Eau de Toilette PASHA DE CARTIER Edition Noire",
+        "url": "https://www.douglas.de/de/p/3001004115?variant=1080638",
+        "prices": {
+            "50 ml": {
+                "original_price": 84.0,
+                "reduced_price": 67.2
+            },
+            "100 ml": {
+                "original_price": 119.0,
+                "reduced_price": 95.2
+            },
+            "150 ml": {
+                "original_price": 141.0,
+                "reduced_price": 112.8
+            },
+            "Nachfüllung": {
+                "original_price": 131.0,
+                "reduced_price": 104.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Cartier Eau de Toilette PASHA DE CARTIER Edition Noire Sport",
+        "url": "https://www.douglas.de/de/p/3001026498?variant=1097114",
+        "prices": {
+            "100 ml": {
+                "original_price": 119.0,
+                "reduced_price": 95.2
+            },
+            "150 ml": {
+                "original_price": 141.0,
+                "reduced_price": 112.8
+            },
+            "Nachfüllung": {
+                "original_price": 131.0,
+                "reduced_price": 104.8
+            }
+        }
+    }
+]

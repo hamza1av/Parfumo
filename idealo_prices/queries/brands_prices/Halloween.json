@@ -1,0 +1,102 @@
+[
+    {
+        "perfume_name": "Halloween Eau de Parfum MAN Mystery",
+        "url": "https://www.douglas.de/de/p/5011047006?variant=1116531",
+        "prices": {
+            "125 ml": {
+                "original_price": 58.99,
+                "reduced_price": 47.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Halloween Eau de Toilette HALLOWEEN",
+        "url": "https://www.douglas.de/de/p/5010958247",
+        "prices": {
+            "50 ml": {
+                "original_price": 35.99,
+                "reduced_price": 28.79
+            }
+        }
+    },
+    {
+        "perfume_name": "Halloween Eau de Toilette Man",
+        "url": "https://www.douglas.de/de/p/5010091027?variant=708070",
+        "prices": {
+            "75 ml": {
+                "original_price": 39.99,
+                "reduced_price": 31.99
+            },
+            "125 ml": {
+                "original_price": 52.99,
+                "reduced_price": 52.89
+            }
+        }
+    },
+    {
+        "perfume_name": "Halloween Eau de Toilette BLUE DROP",
+        "url": "https://www.douglas.de/de/p/5010959459",
+        "prices": {
+            "30 ml": {
+                "original_price": 27.69,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Halloween Eau de Parfum MY WISH",
+        "url": "https://www.douglas.de/de/p/5011532001?variant=1197767",
+        "prices": {
+            "30 ml": {
+                "original_price": 76.59,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 132.59,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 89.0,
+                "reduced_price": 72.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Halloween Eau de Toilette Magic",
+        "url": "https://www.douglas.de/de/p/5010960047?variant=025712",
+        "prices": {
+            "50 ml": {
+                "original_price": 54.0,
+                "reduced_price": 43.89
+            },
+            "100 ml": {
+                "original_price": 80.0,
+                "reduced_price": 56.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Halloween Eau de Parfum Blossom",
+        "url": "https://www.douglas.de/de/p/5010955757",
+        "prices": {
+            "100 ml": {
+                "original_price": 62.0,
+                "reduced_price": 51.69
+            }
+        }
+    },
+    {
+        "perfume_name": "Halloween Eau de Toilette Man X",
+        "url": "https://www.douglas.de/de/p/5010091026?variant=267823",
+        "prices": {
+            "75 ml": {
+                "original_price": 41.99,
+                "reduced_price": 33.59
+            },
+            "125 ml": {
+                "original_price": 62.89,
+                "reduced_price": null
+            }
+        }
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "perfume_name": "MAISON NOIR Parfum Quandoley 805 Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m002254129",
+        "prices": {
+            "100 ml": {
+                "original_price": 195.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "MAISON NOIR Eau de Parfum VERTIGO 236",
+        "url": "https://www.douglas.de/de/p/5010905069",
+        "prices": {
+            "100 ml": {
+                "original_price": 195.0,
+                "reduced_price": 156.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MAISON NOIR Eau de Parfum ALTER EGO 786",
+        "url": "https://www.douglas.de/de/p/5010905071",
+        "prices": {
+            "100 ml": {
+                "original_price": 195.0,
+                "reduced_price": 156.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MAISON NOIR Eau de Parfum ICARUS 347",
+        "url": "https://www.douglas.de/de/p/5011250055",
+        "prices": {
+            "100 ml": {
+                "original_price": 195.0,
+                "reduced_price": 156.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MAISON NOIR Eau de Parfum SOMNIA 517",
+        "url": "https://www.douglas.de/de/p/5010971043",
+        "prices": {
+            "100 ml": {
+                "original_price": 195.0,
+                "reduced_price": 156.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MAISON NOIR Eau de Parfum BOHEMIA 265",
+        "url": "https://www.douglas.de/de/p/5010905070",
+        "prices": {
+            "100 ml": {
+                "original_price": 195.0,
+                "reduced_price": 156.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MAISON NOIR Eau de Parfum VOLANTIS 685",
+        "url": "https://www.douglas.de/de/p/5011004011",
+        "prices": {
+            "100 ml": {
+                "original_price": 195.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

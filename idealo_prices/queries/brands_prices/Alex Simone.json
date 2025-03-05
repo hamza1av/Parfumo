@@ -1,0 +1,42 @@
+[
+    {
+        "perfume_name": "Alex Simone Parfum Aprés Vous",
+        "url": "https://www.douglas.de/de/p/5010538273",
+        "prices": {
+            "100 ml": {
+                "original_price": 250.0,
+                "reduced_price": 200.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Alex Simone Parfum Encore un Peu",
+        "url": "https://www.douglas.de/de/p/5010538272",
+        "prices": {
+            "100 ml": {
+                "original_price": 250.0,
+                "reduced_price": 200.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Alex Simone Eau Fraiche En Terrasse",
+        "url": "https://www.douglas.de/de/p/5010538271",
+        "prices": {
+            "100 ml": {
+                "original_price": 128.0,
+                "reduced_price": 102.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Alex Simone Eau de Parfum French Riviera Collection Tellement Bleu",
+        "url": "https://www.douglas.de/de/p/5001568082",
+        "prices": {
+            "30 ml": {
+                "original_price": 78.0,
+                "reduced_price": 62.4
+            }
+        }
+    }
+]

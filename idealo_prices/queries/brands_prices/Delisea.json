@@ -1,0 +1,31 @@
+[
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/m000856087",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Delisea Eau de Parfum Sea Bloom Vegan Eau Parfum",
+        "url": "https://www.douglas.de/de/p/m000856084",
+        "prices": {
+            "30 ml": {
+                "original_price": 35.89,
+                "reduced_price": 30.5
+            },
+            "150 ml": {
+                "original_price": 55.09,
+                "reduced_price": 46.82
+            }
+        }
+    },
+    {
+        "perfume_name": "Delisea Eau de Parfum Kay Vegan Eau Parfum",
+        "url": "https://www.douglas.de/de/p/m000856083",
+        "prices": {
+            "30 ml": {
+                "original_price": 35.85,
+                "reduced_price": 30.47
+            }
+        }
+    }
+]

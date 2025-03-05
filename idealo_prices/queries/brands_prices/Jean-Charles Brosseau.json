@@ -1,24 +1,45 @@
 [
     {
-        "perfume_name": "Jean-Charles Brosseau Eau de Parfum Ombre Orientale",
+        "perfume_name": "Jean-Charles Brosseau Eau de Toilette Collection Homme Fruit de Bois",
+        "url": "https://www.douglas.de/de/p/5009734092",
         "prices": {
             "100 ml": {
-                "original_price": 149.0,
+                "original_price": 103.0,
                 "reduced_price": null
             }
         }
     },
     {
-        "perfume_name": "Jean-Charles Brosseau Parfum Ombre Rose Splash",
+        "perfume_name": "Jean-Charles Brosseau Bodylotion Ombre Rose",
+        "url": "https://www.douglas.de/de/p/5009734080",
         "prices": {
-            "15 ml": {
-                "original_price": 209.0,
+            "200 ml": {
+                "original_price": 48.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean-Charles Brosseau Eau de Parfum Fleurs d'Ombre JASMIN-LILAS",
+        "url": "https://www.douglas.de/de/p/5009734068",
+        "prices": {
+            "30 ml": {
+                "original_price": 57.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 89.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 127.0,
                 "reduced_price": null
             }
         }
     },
     {
         "perfume_name": "Jean-Charles Brosseau Eau de Toilette Ombre Rose",
+        "url": "https://www.douglas.de/de/p/5009734072?variant=195233",
         "prices": {
             "30 ml": {
                 "original_price": 53.0,
@@ -35,7 +56,48 @@
         }
     },
     {
+        "perfume_name": "Jean-Charles Brosseau Eau de Parfum Ombre Rose Edition d'Exception",
+        "url": "https://www.douglas.de/de/p/5009734077",
+        "prices": {
+            "100 ml": {
+                "original_price": 149.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean-Charles Brosseau Parfum Ombre Rose Splash",
+        "url": "https://www.douglas.de/de/p/5009734078",
+        "prices": {
+            "15 ml": {
+                "original_price": 209.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean-Charles Brosseau Eau de Parfum Ombre Rubis",
+        "url": "https://www.douglas.de/de/p/5009734087",
+        "prices": {
+            "100 ml": {
+                "original_price": 149.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean-Charles Brosseau Eau de Parfum Fleurs d'Ombre Nymphéa",
+        "url": "https://www.douglas.de/de/p/5009734067?variant=141671",
+        "prices": {
+            "100 ml": {
+                "original_price": 127.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
         "perfume_name": "Jean-Charles Brosseau Parfum Fleurs d'Ombre Jasmin-Lilas",
+        "url": "https://www.douglas.de/de/p/5009734061?variant=303709",
         "prices": {
             "100 ml": {
                 "original_price": 117.0,
@@ -44,7 +106,28 @@
         }
     },
     {
+        "perfume_name": "Jean-Charles Brosseau Eau de Parfum Ombre Ombre Rose",
+        "url": "https://www.douglas.de/de/p/5009734074",
+        "prices": {
+            "75 ml": {
+                "original_price": 121.0,
+                "reduced_price": 117.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean-Charles Brosseau Eau de Parfum Ombre Platine",
+        "url": "https://www.douglas.de/de/p/5009734085",
+        "prices": {
+            "100 ml": {
+                "original_price": 149.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
         "perfume_name": "Jean-Charles Brosseau Eau de Toilette Collection Homme Atlas Cedar",
+        "url": "https://www.douglas.de/de/p/5009734091?variant=247379",
         "prices": {
             "50 ml": {
                 "original_price": 75.0,
@@ -57,8 +140,27 @@
         }
     },
     {
-        "perfume_name": "Jean-Charles Brosseau Eau de Parfum Fleurs d'Ombre Nymphéa",
+        "perfume_name": "Jean-Charles Brosseau Parfum Ombre Musquèe Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m002042004",
         "prices": {
+            "100 ml": {
+                "original_price": 149.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean-Charles Brosseau Eau de Parfum Fleurs d'Ombre Héliotrope",
+        "url": "https://www.douglas.de/de/p/5009734069",
+        "prices": {
+            "30 ml": {
+                "original_price": 57.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 89.0,
+                "reduced_price": null
+            },
             "100 ml": {
                 "original_price": 127.0,
                 "reduced_price": null
@@ -66,7 +168,28 @@
         }
     },
     {
+        "perfume_name": "Jean-Charles Brosseau Eau de Parfum Ombre Orientale",
+        "url": "https://www.douglas.de/de/p/5009734086",
+        "prices": {
+            "100 ml": {
+                "original_price": 149.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Jean-Charles Brosseau Eau de Parfum Ombre AZURITE",
+        "url": "https://www.douglas.de/de/p/5009734088",
+        "prices": {
+            "100 ml": {
+                "original_price": 148.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
         "perfume_name": "Jean-Charles Brosseau Eau de Toilette Fleurs d'Ombre Rose",
+        "url": "https://www.douglas.de/de/p/5009734065",
         "prices": {
             "30 ml": {
                 "original_price": 53.09,
@@ -78,112 +201,6 @@
             },
             "100 ml": {
                 "original_price": 117.0,
-                "reduced_price": null
-            }
-        }
-    },
-    {
-        "perfume_name": "Jean-Charles Brosseau Eau de Parfum Ombre Rose Edition d'Exception",
-        "prices": {
-            "100 ml": {
-                "original_price": 149.0,
-                "reduced_price": null
-            }
-        }
-    },
-    {
-        "perfume_name": "Jean-Charles Brosseau Eau de Parfum Ombre Ombre Rose",
-        "prices": {
-            "75 ml": {
-                "original_price": 121.0,
-                "reduced_price": 117.99
-            }
-        }
-    },
-    {
-        "perfume_name": "Jean-Charles Brosseau Eau de Toilette Collection Homme Fruit de Bois",
-        "prices": {
-            "100 ml": {
-                "original_price": 103.0,
-                "reduced_price": null
-            }
-        }
-    },
-    {
-        "perfume_name": "Jean-Charles Brosseau Eau de Parfum Ombre Rubis",
-        "prices": {
-            "100 ml": {
-                "original_price": 149.0,
-                "reduced_price": null
-            }
-        }
-    },
-    {
-        "perfume_name": "Jean-Charles Brosseau Parfum Ombre Musquèe Eau de Parfum Spray",
-        "prices": {
-            "100 ml": {
-                "original_price": 149.09,
-                "reduced_price": null
-            }
-        }
-    },
-    {
-        "perfume_name": "Jean-Charles Brosseau Eau de Parfum Fleurs d'Ombre Héliotrope",
-        "prices": {
-            "30 ml": {
-                "original_price": 57.0,
-                "reduced_price": null
-            },
-            "50 ml": {
-                "original_price": 89.0,
-                "reduced_price": null
-            },
-            "100 ml": {
-                "original_price": 127.0,
-                "reduced_price": null
-            }
-        }
-    },
-    {
-        "perfume_name": "Jean-Charles Brosseau Eau de Parfum Ombre Platine",
-        "prices": {
-            "100 ml": {
-                "original_price": 149.0,
-                "reduced_price": null
-            }
-        }
-    },
-    {
-        "perfume_name": "Jean-Charles Brosseau Eau de Parfum Fleurs d'Ombre JASMIN-LILAS",
-        "prices": {
-            "30 ml": {
-                "original_price": 57.0,
-                "reduced_price": null
-            },
-            "50 ml": {
-                "original_price": 89.0,
-                "reduced_price": null
-            },
-            "100 ml": {
-                "original_price": 127.0,
-                "reduced_price": null
-            }
-        }
-    },
-    {
-        "perfume_name": "Jean-Charles Brosseau Bodylotion Ombre Rose",
-        "prices": {
-            "200 ml": {
-                "original_price": 48.0,
-                "reduced_price": null
-            }
-        }
-    },
-    {
-        "perfume_name": "Jean-Charles Brosseau Eau de Parfum Ombre AZURITE",
-        "prices": {
-            "100 ml": {
-                "original_price": 148.0,
                 "reduced_price": null
             }
         }

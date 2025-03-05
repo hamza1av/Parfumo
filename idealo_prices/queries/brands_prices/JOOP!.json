@@ -1,0 +1,195 @@
+[
+    {
+        "perfume_name": "JOOP! Eau de Toilette JOOP! Go",
+        "url": "https://www.douglas.de/de/p/2010006393?variant=812888",
+        "prices": {
+            "100 ml": {
+                "original_price": 75.0,
+                "reduced_price": 42.99
+            },
+            "200 ml": {
+                "original_price": 82.0,
+                "reduced_price": 46.99
+            }
+        }
+    },
+    {
+        "perfume_name": "JOOP! Eau de Toilette Parfums Pour Femme",
+        "url": "https://www.douglas.de/de/p/1011101304",
+        "prices": {
+            "100 ml": {
+                "original_price": 82.0,
+                "reduced_price": 48.99
+            }
+        }
+    },
+    {
+        "perfume_name": "JOOP! Eau de Toilette JOOP! WOW!",
+        "url": "https://www.douglas.de/de/p/3001034677?variant=954975",
+        "prices": {
+            "40 ml": {
+                "original_price": 55.0,
+                "reduced_price": 37.99
+            },
+            "60 ml": {
+                "original_price": 68.0,
+                "reduced_price": 46.99
+            },
+            "100 ml": {
+                "original_price": 87.0,
+                "reduced_price": 63.99
+            }
+        }
+    },
+    {
+        "perfume_name": "JOOP! After Shave JOOP! Homme",
+        "url": "https://www.douglas.de/de/p/1011105131",
+        "prices": {
+            "75 ml": {
+                "original_price": 42.5,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "JOOP! Duftset Le Bain Geschenkset für Sie",
+        "url": "https://www.douglas.de/de/p/5011106062",
+        "prices": {
+            "1 Stück": {
+                "original_price": 48.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "JOOP! Deodorant JOOP! Homme Natural",
+        "url": "https://www.douglas.de/de/p/3000002433",
+        "prices": {
+            "75 ml": {
+                "original_price": 29.0,
+                "reduced_price": 23.2
+            }
+        }
+    },
+    {
+        "perfume_name": "JOOP! Eau de Toilette JOOP! Jump",
+        "url": "https://www.douglas.de/de/p/2001002288?variant=811113",
+        "prices": {
+            "30 ml": {
+                "original_price": 41.0,
+                "reduced_price": 26.99
+            },
+            "100 ml": {
+                "original_price": 75.0,
+                "reduced_price": 42.99
+            },
+            "200 ml": {
+                "original_price": 82.0,
+                "reduced_price": 51.99
+            }
+        }
+    },
+    {
+        "perfume_name": "JOOP! Parfum JOOP! Homme",
+        "url": "https://www.douglas.de/de/p/5010473013",
+        "prices": {
+            "75 ml": {
+                "original_price": 70.0,
+                "reduced_price": 46.99
+            },
+            "125 ml": {
+                "original_price": 97.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "JOOP! Homme",
+        "url": "https://www.douglas.de/de/p/3000055739?variant=692401",
+        "prices": {}
+    },
+    {
+        "perfume_name": "JOOP! Duftset JOOP! Homme Eau de Toilette 75 ML Set",
+        "url": "https://www.douglas.de/de/p/5011580082",
+        "prices": {
+            "1 Stück": {
+                "original_price": 62.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "JOOP! Eau de Parfum Le Bain",
+        "url": "https://www.douglas.de/de/p/1011102295?variant=611624",
+        "prices": {
+            "40 ml": {
+                "original_price": 48.0,
+                "reduced_price": 22.99
+            },
+            "75 ml": {
+                "original_price": 62.0,
+                "reduced_price": 31.99
+            }
+        }
+    },
+    {
+        "perfume_name": "JOOP! Eau de Toilette JOOP! Homme Homme Neon",
+        "url": "https://www.douglas.de/de/p/5011450008",
+        "prices": {
+            "75 ml": {
+                "original_price": 63.0,
+                "reduced_price": 39.99
+            },
+            "125 ml": {
+                "original_price": 87.0,
+                "reduced_price": 54.99
+            }
+        }
+    },
+    {
+        "perfume_name": "JOOP! Eau de Toilette JOOP! Homme",
+        "url": "https://www.douglas.de/de/p/1011105304?variant=637123",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": null
+            },
+            "75 ml": {
+                "original_price": 62.0,
+                "reduced_price": null
+            },
+            "125 ml": {
+                "original_price": 87.0,
+                "reduced_price": null
+            },
+            "200 ml": {
+                "original_price": 94.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "JOOP! Eau de Parfum All About Eve",
+        "url": "https://www.douglas.de/de/p/1011108295",
+        "prices": {
+            "40 ml": {
+                "original_price": 39.0,
+                "reduced_price": 28.99
+            }
+        }
+    },
+    {
+        "perfume_name": "JOOP! Eau de Parfum JOOP! Homme",
+        "url": "https://www.douglas.de/de/p/5009945045",
+        "prices": {
+            "75 ml": {
+                "original_price": 66.0,
+                "reduced_price": 39.99
+            },
+            "125 ml": {
+                "original_price": 94.0,
+                "reduced_price": 61.99
+            }
+        }
+    }
+]

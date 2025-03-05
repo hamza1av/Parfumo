@@ -1,0 +1,80 @@
+[
+    {
+        "perfume_name": "Lalique Eau de Parfum Blue Rise",
+        "url": "https://www.douglas.de/de/p/5002578012",
+        "prices": {
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Lalique Eau de Parfum Soleil Vibrant",
+        "url": "https://www.douglas.de/de/p/5010888067?variant=1020089",
+        "prices": {
+            "100 ml": {
+                "original_price": 107.2,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Lalique Parfum Lalique de Lalique Les Compositions Parfumées Imperial Green",
+        "url": "https://www.douglas.de/de/p/5010077557",
+        "prices": {
+            "100 ml": {
+                "original_price": 153.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Lalique Eau de Toilette Soleil Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/5000132004",
+        "prices": {
+            "30 ml": {
+                "original_price": 54.4,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 76.8,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 107.2,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Lalique Eau de Parfum Les Compositions Parfumees Les Compositions Parfumées Glorious Indigo",
+        "url": "https://www.douglas.de/de/p/5010219182",
+        "prices": {
+            "100 ml": {
+                "original_price": 176.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Lalique Eau de Parfum Les Compositions Parfumees Holziges Gold",
+        "url": "https://www.douglas.de/de/p/5010219143",
+        "prices": {
+            "100 ml": {
+                "original_price": 176.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Lalique Eau de Parfum Amethyst",
+        "url": "https://www.douglas.de/de/p/3000063902?variant=342599",
+        "prices": {
+            "100 ml": {
+                "original_price": 88.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

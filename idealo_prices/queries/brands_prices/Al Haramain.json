@@ -1,0 +1,26 @@
+[
+    {
+        "perfume_name": "Al Haramain Eau de Parfum DETOUR NOIR",
+        "url": "https://www.douglas.de/de/p/5011499058",
+        "prices": {
+            "100 ml": {
+                "original_price": 36.51,
+                "reduced_price": 29.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Al Haramain Eau de Parfum AMBER OUD GOLD EDITION",
+        "url": "https://www.douglas.de/de/p/5011499064",
+        "prices": {
+            "60 ml": {
+                "original_price": 68.63,
+                "reduced_price": 54.9
+            },
+            "120 ml": {
+                "original_price": 93.46,
+                "reduced_price": 74.76
+            }
+        }
+    }
+]

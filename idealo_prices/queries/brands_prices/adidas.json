@@ -1,0 +1,132 @@
+[
+    {
+        "perfume_name": "adidas Eau de Parfum Vibes Energy Drive",
+        "url": "https://www.douglas.de/de/p/5011568063",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.99,
+                "reduced_price": 28.04
+            }
+        }
+    },
+    {
+        "perfume_name": "adidas After Shave Dynamic Pulse",
+        "url": "https://www.douglas.de/de/p/5011465055",
+        "prices": {
+            "100 ml": {
+                "original_price": 7.99,
+                "reduced_price": 6.39
+            }
+        }
+    },
+    {
+        "perfume_name": "adidas Eau de Toilette UEFA 10 Star",
+        "url": "https://www.douglas.de/de/p/5011465057",
+        "prices": {
+            "50 ml": {
+                "original_price": 7.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "adidas After Shave Victory League",
+        "url": "https://www.douglas.de/de/p/5011465053",
+        "prices": {
+            "100 ml": {
+                "original_price": 7.99,
+                "reduced_price": 6.39
+            }
+        }
+    },
+    {
+        "perfume_name": "adidas Eau de Toilette PURE GAME Pure Game",
+        "url": "https://www.douglas.de/de/p/5011156827",
+        "prices": {
+            "100 ml": {
+                "original_price": 20.69,
+                "reduced_price": 17.58
+            }
+        }
+    },
+    {
+        "perfume_name": "adidas After Shave UEFA 10 Star",
+        "url": "https://www.douglas.de/de/p/5011465056",
+        "prices": {
+            "100 ml": {
+                "original_price": 7.99,
+                "reduced_price": 6.39
+            }
+        }
+    },
+    {
+        "perfume_name": "adidas Deodorant Uplift Best of the Best 48H Dry Protection",
+        "url": "https://www.douglas.de/de/p/5010937043",
+        "prices": {
+            "50 ml": {
+                "original_price": 3.29,
+                "reduced_price": 2.63
+            }
+        }
+    },
+    {
+        "perfume_name": "adidas Eau de Parfum Vibes Spark Up",
+        "url": "https://www.douglas.de/de/p/5011568062",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.99,
+                "reduced_price": 27.49
+            }
+        }
+    },
+    {
+        "perfume_name": "adidas After Shave Ice Dive",
+        "url": "https://www.douglas.de/de/p/5011465054",
+        "prices": {
+            "100 ml": {
+                "original_price": 7.99,
+                "reduced_price": 6.39
+            }
+        }
+    },
+    {
+        "perfume_name": "adidas Eau de Parfum Vibes Full Recharge",
+        "url": "https://www.douglas.de/de/p/5011568060",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.99,
+                "reduced_price": 27.59
+            }
+        }
+    },
+    {
+        "perfume_name": "adidas Eau de Parfum Vibes Get Comfy",
+        "url": "https://www.douglas.de/de/p/5011568066",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.99,
+                "reduced_price": 27.59
+            }
+        }
+    },
+    {
+        "perfume_name": "adidas Eau de Parfum Vibes Happy Feels",
+        "url": "https://www.douglas.de/de/p/5011568064",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.99,
+                "reduced_price": 27.59
+            }
+        }
+    },
+    {
+        "perfume_name": "adidas Eau de Parfum Vibes Chill Zone",
+        "url": "https://www.douglas.de/de/p/5011568065",
+        "prices": {
+            "100 ml": {
+                "original_price": 32.99,
+                "reduced_price": 27.59
+            }
+        }
+    }
+]

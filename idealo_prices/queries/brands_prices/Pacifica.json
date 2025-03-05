@@ -1,0 +1,122 @@
+[
+    {
+        "perfume_name": "Pacifica Bodyspray Silver Moon Hair & Body Mist",
+        "url": "https://www.douglas.de/de/p/5010372022",
+        "prices": {
+            "194 ml": {
+                "original_price": 14.0,
+                "reduced_price": 11.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Pacifica Bodyspray Flower Moon Hair & Body Mist",
+        "url": "https://www.douglas.de/de/p/5010372023",
+        "prices": {
+            "194 ml": {
+                "original_price": 14.0,
+                "reduced_price": 11.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Pacifica Parfum Dream Moon",
+        "url": "https://www.douglas.de/de/p/5010372021",
+        "prices": {
+            "29 ml": {
+                "original_price": 26.0,
+                "reduced_price": 20.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Pacifica Parfum Silver Moon Silver Moon Perfume",
+        "url": "https://www.douglas.de/de/p/5010372009",
+        "prices": {
+            "29 ml": {
+                "original_price": 26.0,
+                "reduced_price": 20.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Pacifica Parfum Island Vanilla",
+        "url": "https://www.douglas.de/de/p/5010372006",
+        "prices": {
+            "29 ml": {
+                "original_price": 26.0,
+                "reduced_price": 20.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Pacifica Parfum Indian Coconut Nectar",
+        "url": "https://www.douglas.de/de/p/5010372005",
+        "prices": {
+            "29 ml": {
+                "original_price": 26.0,
+                "reduced_price": 20.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Pacifica Parfum Lavender Moon Body & Pillow Mist",
+        "url": "https://www.douglas.de/de/p/5010370063",
+        "prices": {
+            "118 ml": {
+                "original_price": 12.0,
+                "reduced_price": 9.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Pacifica Bodyspray French Lilac Hair & Body Mist",
+        "url": "https://www.douglas.de/de/p/5010372002",
+        "prices": {
+            "177 ml": {
+                "original_price": 14.0,
+                "reduced_price": 11.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Pacifica Parfum Flower Moon Perfume",
+        "url": "https://www.douglas.de/de/p/5010372010",
+        "prices": {
+            "29 ml": {
+                "original_price": 26.0,
+                "reduced_price": 20.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Pacifica Bodyspray Hair & Body Mist",
+        "url": "https://www.douglas.de/de/p/5010372000",
+        "prices": {
+            "177 ml": {
+                "original_price": 14.0,
+                "reduced_price": 11.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Pacifica Bodyspray Island Vanilla Perfumed Hair & Body Mist",
+        "url": "https://www.douglas.de/de/p/5010370073",
+        "prices": {
+            "177 ml": {
+                "original_price": 14.0,
+                "reduced_price": 11.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Pacifica Bodyspray Himalayan Patchouli Berry Perfumed Hair & Body Mist",
+        "url": "https://www.douglas.de/de/p/5010372003",
+        "prices": {
+            "177 ml": {
+                "original_price": 14.0,
+                "reduced_price": 11.2
+            }
+        }
+    }
+]

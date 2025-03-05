@@ -1,0 +1,92 @@
+[
+    {
+        "perfume_name": "Roja Parfums Parfum Enigma Aoud",
+        "url": "https://www.douglas.de/de/p/5011728023",
+        "prices": {
+            "50 ml": {
+                "original_price": 360.0,
+                "reduced_price": 288.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Roja Parfums Parfum Isola Sol",
+        "url": "https://www.douglas.de/de/p/5011728017",
+        "prices": {
+            "50 ml": {
+                "original_price": 462.0,
+                "reduced_price": 369.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Roja Parfums Eau de Parfum Elysium Eau Intense Pour Homme",
+        "url": "https://www.douglas.de/de/p/5011728020",
+        "prices": {
+            "100 ml": {
+                "original_price": 335.0,
+                "reduced_price": 268.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Roja Parfums Parfum Elysium Pour Femme",
+        "url": "https://www.douglas.de/de/p/5011728015",
+        "prices": {
+            "50 ml": {
+                "original_price": 495.0,
+                "reduced_price": 396.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Roja Parfums Eau de Parfum Elysium Pour Femme",
+        "url": "https://www.douglas.de/de/p/5011728016",
+        "prices": {
+            "75 ml": {
+                "original_price": 300.0,
+                "reduced_price": 240.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Roja Parfums Eau de Parfum Enigma Pour Homme",
+        "url": "https://www.douglas.de/de/p/5011728019",
+        "prices": {
+            "100 ml": {
+                "original_price": 335.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Roja Parfums Eau de Parfum Apex Pour Homme",
+        "url": "https://www.douglas.de/de/p/5011728018",
+        "prices": {
+            "100 ml": {
+                "original_price": 335.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Roja Parfums Parfum Amber Aoud",
+        "url": "https://www.douglas.de/de/p/5011728022",
+        "prices": {
+            "50 ml": {
+                "original_price": 360.0,
+                "reduced_price": 288.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Roja Parfums Parfum Aoud Extraordinaire",
+        "url": "https://www.douglas.de/de/p/5011728021",
+        "prices": {
+            "50 ml": {
+                "original_price": 360.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

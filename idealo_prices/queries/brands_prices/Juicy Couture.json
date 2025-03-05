@@ -1,0 +1,168 @@
+[
+    {
+        "perfume_name": "Juicy Couture Eau de Parfum Oui Play Sweet Diva",
+        "url": "https://www.douglas.de/de/p/5011052000",
+        "prices": {
+            "15 ml": {
+                "original_price": 32.0,
+                "reduced_price": 21.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Juicy Couture Eau de Parfum Juicy Couture",
+        "url": "https://www.douglas.de/de/p/2010007135?variant=280993",
+        "prices": {
+            "30 ml": {
+                "original_price": 45.0,
+                "reduced_price": 34.36
+            },
+            "50 ml": {
+                "original_price": 65.0,
+                "reduced_price": 50.36
+            }
+        }
+    },
+    {
+        "perfume_name": "Juicy Couture Eau de Parfum Oui Play Sparkling Rebel",
+        "url": "https://www.douglas.de/de/p/5011052002",
+        "prices": {
+            "15 ml": {
+                "original_price": 32.0,
+                "reduced_price": 21.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Juicy Couture Eau de Parfum Oui Play Blooming Babe",
+        "url": "https://www.douglas.de/de/p/5011052003",
+        "prices": {
+            "15 ml": {
+                "original_price": 32.0,
+                "reduced_price": 21.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Juicy Couture Eau de Parfum Viva la Juicy",
+        "url": "https://www.douglas.de/de/p/3000026262?variant=397882",
+        "prices": {
+            "30 ml": {
+                "original_price": 45.0,
+                "reduced_price": 34.36
+            },
+            "50 ml": {
+                "original_price": 65.0,
+                "reduced_price": 50.36
+            },
+            "100 ml": {
+                "original_price": 105.0,
+                "reduced_price": 79.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Juicy Couture Eau de Parfum Viva la Juicy SUCRÉ",
+        "url": "https://www.douglas.de/de/p/5011404011",
+        "prices": {
+            "50 ml": {
+                "original_price": 65.0,
+                "reduced_price": 51.96
+            },
+            "100 ml": {
+                "original_price": 105.0,
+                "reduced_price": 79.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Juicy Couture Eau de Toilette Viva la Juicy Rose Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/3001026128?variant=911484",
+        "prices": {
+            "50 ml": {
+                "original_price": 65.0,
+                "reduced_price": 50.36
+            },
+            "100 ml": {
+                "original_price": 105.0,
+                "reduced_price": 79.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Juicy Couture Eau de Parfum Oui Play Glowing Glamazon",
+        "url": "https://www.douglas.de/de/p/5011522051",
+        "prices": {
+            "PLAY GLOWING GAMAZON EDP": {
+                "original_price": 32.0,
+                "reduced_price": 25.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Juicy Couture Eau de Parfum Oui Play Rosy Darling",
+        "url": "https://www.douglas.de/de/p/5011522052",
+        "prices": {
+            "15 ml": {
+                "original_price": 32.0,
+                "reduced_price": 25.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Juicy Couture Eau de Parfum I am Juicy",
+        "url": "https://www.douglas.de/de/p/3001015333",
+        "prices": {
+            "30 ml": {
+                "original_price": 42.95,
+                "reduced_price": 34.36
+            }
+        }
+    },
+    {
+        "perfume_name": "Juicy Couture Eau de Parfum Viva la Juicy Noir",
+        "url": "https://www.douglas.de/de/p/3000068899?variant=772826",
+        "prices": {
+            "100 ml": {
+                "original_price": 105.0,
+                "reduced_price": 79.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Juicy Couture Eau de Parfum Oui",
+        "url": "https://www.douglas.de/de/p/3001046276",
+        "prices": {
+            "30 ml": {
+                "original_price": 44.95,
+                "reduced_price": 35.96
+            },
+            "50 ml": {
+                "original_price": 64.95,
+                "reduced_price": 51.96
+            },
+            "100 ml": {
+                "original_price": 108.0,
+                "reduced_price": 75.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Juicy Couture Eau de Parfum Viva la Juicy Gold Couture",
+        "url": "https://www.douglas.de/de/p/3001003158?variant=816226",
+        "prices": {
+            "30 ml": {
+                "original_price": 45.0,
+                "reduced_price": 34.36
+            },
+            "50 ml": {
+                "original_price": 65.0,
+                "reduced_price": 50.36
+            },
+            "100 ml": {
+                "original_price": 105.0,
+                "reduced_price": 79.2
+            }
+        }
+    }
+]

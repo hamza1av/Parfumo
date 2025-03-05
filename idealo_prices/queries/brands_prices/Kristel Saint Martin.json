@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "Kristel Saint Martin Eau de Parfum Un Été à Paris",
+        "url": "https://www.douglas.de/de/p/5009917112",
+        "prices": {
+            "100 ml": {
+                "original_price": 29.99,
+                "reduced_price": 23.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Kristel Saint Martin Eau de Parfum d'Or Good Elixir",
+        "url": "https://www.douglas.de/de/p/5009917111",
+        "prices": {
+            "100 ml": {
+                "original_price": 29.99,
+                "reduced_price": 23.99
+            }
+        }
+    }
+]

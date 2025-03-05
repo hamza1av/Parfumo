@@ -1,0 +1,90 @@
+[
+    {
+        "perfume_name": "Scalpers Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5010961059?variant=1034609",
+        "prices": {
+            "75 ml": {
+                "original_price": 62.0,
+                "reduced_price": 51.69
+            },
+            "125 ml": {
+                "original_price": 83.0,
+                "reduced_price": 68.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Scalpers Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5010994093",
+        "prices": {
+            "30 ml": {
+                "original_price": 44.0,
+                "reduced_price": 36.69
+            },
+            "50 ml": {
+                "original_price": 64.0,
+                "reduced_price": 51.99
+            },
+            "100 ml": {
+                "original_price": 86.0,
+                "reduced_price": 70.79
+            }
+        }
+    },
+    {
+        "perfume_name": "Scalpers Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5010962418",
+        "prices": {
+            "100 ml": {
+                "original_price": 52.0,
+                "reduced_price": 43.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Scalpers Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5011328001?variant=1173938",
+        "prices": {
+            "75 ml": {
+                "original_price": 62.0,
+                "reduced_price": 44.59
+            },
+            "125 ml": {
+                "original_price": 83.0,
+                "reduced_price": 54.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Scalpers Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5010959256",
+        "prices": {
+            "75 ml": {
+                "original_price": 62.0,
+                "reduced_price": 51.69
+            },
+            "125 ml": {
+                "original_price": 83.0,
+                "reduced_price": 70.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Scalpers Eau de Parfum Here & The Wild Flowers",
+        "url": "https://www.douglas.de/de/p/5011490000",
+        "prices": {
+            "30 ml": {
+                "original_price": 44.0,
+                "reduced_price": 34.99
+            },
+            "50 ml": {
+                "original_price": 64.0,
+                "reduced_price": 53.39
+            },
+            "100 ml": {
+                "original_price": 86.0,
+                "reduced_price": 61.59
+            }
+        }
+    }
+]
