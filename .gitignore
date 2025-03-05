@@ -1,3 +1,11 @@
-data/
+# data/
 */.DS_Store
 /encoded_perfumes.pkl
+data/encoded_perfumes.pkl
+idealo_prices/queries/.DS_Store
+idealo_prices/.DS_Store
+.DS_Store
+test_merged.xlsx
+douglas_preise.xlsx
+data/male_perfumes.json
+data/uni_perfumes.json
