@@ -1,0 +1,172 @@
+[
+    {
+        "perfume_name": "ARMAF Eau de Parfum CLUB DE NUIT",
+        "url": "https://www.douglas.de/de/p/5010991567",
+        "prices": {
+            "105 ml": {
+                "original_price": 44.99,
+                "reduced_price": 34.3
+            }
+        }
+    },
+    {
+        "perfume_name": "ARMAF Eau de Toilette CLUB DE NUIT INTENSE",
+        "url": "https://www.douglas.de/de/p/5010993644",
+        "prices": {
+            "105 ml": {
+                "original_price": 54.99,
+                "reduced_price": 41.4
+            }
+        }
+    },
+    {
+        "perfume_name": "ARMAF Eau de Parfum NERO",
+        "url": "https://www.douglas.de/de/p/5011550044",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.99,
+                "reduced_price": 25.7
+            }
+        }
+    },
+    {
+        "perfume_name": "ARMAF Eau de Parfum COLORATA",
+        "url": "https://www.douglas.de/de/p/5011550041",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.99,
+                "reduced_price": 31.99
+            }
+        }
+    },
+    {
+        "perfume_name": "ARMAF Eau de Parfum 03 LEGNI DOLCI BRUCIATI",
+        "url": "https://www.douglas.de/de/p/5011550045",
+        "prices": {
+            "105 ml": {
+                "original_price": 129.99,
+                "reduced_price": 103.99
+            }
+        }
+    },
+    {
+        "perfume_name": "ARMAF Eau de Parfum CLUB DE NUIT UNTOLD",
+        "url": "https://www.douglas.de/de/p/5010993195",
+        "prices": {
+            "105 ml": {
+                "original_price": 61.99,
+                "reduced_price": 48.3
+            }
+        }
+    },
+    {
+        "perfume_name": "ARMAF Eau de Parfum HOMME",
+        "url": "https://www.douglas.de/de/p/5011666023",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.99,
+                "reduced_price": 31.99
+            }
+        }
+    },
+    {
+        "perfume_name": "ARMAF Eau de Parfum WILD ONE",
+        "url": "https://www.douglas.de/de/p/5011550040",
+        "prices": {
+            "100 ml": {
+                "original_price": 44.99,
+                "reduced_price": 35.99
+            }
+        }
+    },
+    {
+        "perfume_name": "ARMAF Eau de Parfum DI TERRA",
+        "url": "https://www.douglas.de/de/p/5011550042",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.99,
+                "reduced_price": 25.9
+            }
+        }
+    },
+    {
+        "perfume_name": "ARMAF Eau de Parfum CLUB DE NUIT IMPERIALE",
+        "url": "https://www.douglas.de/de/p/5010991585",
+        "prices": {
+            "105 ml": {
+                "original_price": 61.99,
+                "reduced_price": 49.59
+            }
+        }
+    },
+    {
+        "perfume_name": "ARMAF Eau de Parfum CLUB DE NUIT SILLAGE",
+        "url": "https://www.douglas.de/de/p/5010993462",
+        "prices": {
+            "105 ml": {
+                "original_price": 58.99,
+                "reduced_price": 34.6
+            }
+        }
+    },
+    {
+        "perfume_name": "ARMAF Eau de Parfum ROSSO",
+        "url": "https://www.douglas.de/de/p/5011550043",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.99,
+                "reduced_price": 31.99
+            }
+        }
+    },
+    {
+        "perfume_name": "ARMAF Eau de Parfum HOMME WHITE",
+        "url": "https://www.douglas.de/de/p/5011550038",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.99,
+                "reduced_price": 31.99
+            }
+        }
+    },
+    {
+        "perfume_name": "ARMAF Eau de Parfum MEGA",
+        "url": "https://www.douglas.de/de/p/5011550039",
+        "prices": {
+            "100 ml": {
+                "original_price": 44.99,
+                "reduced_price": 35.99
+            }
+        }
+    },
+    {
+        "perfume_name": "ARMAF Eau de Parfum 01 ACQUA MIA",
+        "url": "https://www.douglas.de/de/p/5011506018",
+        "prices": {
+            "105 ml": {
+                "original_price": 129.99,
+                "reduced_price": 103.99
+            }
+        }
+    },
+    {
+        "perfume_name": "ARMAF Eau de Parfum CLUB DE NUIT MILESTONE",
+        "url": "https://www.douglas.de/de/p/5010992179",
+        "prices": {
+            "105 ml": {
+                "original_price": 54.99,
+                "reduced_price": 43.99
+            }
+        }
+    },
+    {
+        "perfume_name": "ARMAF Eau de Parfum CLUB DE NUIT ICONIC",
+        "url": "https://www.douglas.de/de/p/5010994532",
+        "prices": {
+            "105 ml": {
+                "original_price": 61.99,
+                "reduced_price": 49.59
+            }
+        }
+    }
+]

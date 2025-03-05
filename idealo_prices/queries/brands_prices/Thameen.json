@@ -1,0 +1,102 @@
+[
+    {
+        "perfume_name": "Thameen Eau de Parfum Das Cora Extrait de Parfum",
+        "url": "https://www.douglas.de/de/p/5011027054",
+        "prices": {
+            "50 ml": {
+                "original_price": 190.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Thameen Eau de Parfum Riviere Extrait de Parfum",
+        "url": "https://www.douglas.de/de/p/5011027058",
+        "prices": {
+            "50 ml": {
+                "original_price": 190.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Thameen Eau de Parfum Green Pearl Extrait de Parfum",
+        "url": "https://www.douglas.de/de/p/5011404028",
+        "prices": {
+            "50 ml": {
+                "original_price": 155.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Thameen Eau de Parfum Diadem Extrait de Parfum",
+        "url": "https://www.douglas.de/de/p/5011027057",
+        "prices": {
+            "50 ml": {
+                "original_price": 250.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Thameen Eau de Parfum Regent Leather",
+        "url": "https://www.douglas.de/de/p/5011407014",
+        "prices": {
+            "50 ml": {
+                "original_price": 250.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Thameen Eau de Parfum The Hope",
+        "url": "https://www.douglas.de/de/p/5011027059",
+        "prices": {
+            "50 ml": {
+                "original_price": 190.0,
+                "reduced_price": 152.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Thameen Eau de Parfum Royal Sapphire Extrait de Parfum",
+        "url": "https://www.douglas.de/de/p/5011027052",
+        "prices": {
+            "50 ml": {
+                "original_price": 250.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Thameen Eau de Parfum Cullinan Diamond Extrait de Parfum",
+        "url": "https://www.douglas.de/de/p/5011407008",
+        "prices": {
+            "50 ml": {
+                "original_price": 250.0,
+                "reduced_price": 200.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Thameen Eau de Parfum Sceptre Extrait",
+        "url": "https://www.douglas.de/de/p/5011024024",
+        "prices": {
+            "50 ml": {
+                "original_price": 250.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Thameen Eau de Parfum Amber Room",
+        "url": "https://www.douglas.de/de/p/5011580203",
+        "prices": {
+            "50 ml": {
+                "original_price": 190.0,
+                "reduced_price": 152.0
+            }
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "perfume_name": "Maison Matine Eau de Parfum Nature Insolente",
+        "url": "https://www.douglas.de/de/p/5010871154",
+        "prices": {
+            "15 ml": {
+                "original_price": 28.19,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Maison Matine Eau de Parfum Lost In Translation",
+        "url": "https://www.douglas.de/de/p/5010871147",
+        "prices": {
+            "15 ml": {
+                "original_price": 28.19,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 60.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Maison Matine Eau de Parfum Hasard Bazar",
+        "url": "https://www.douglas.de/de/p/5011469052",
+        "prices": {
+            "15 ml": {
+                "original_price": 28.19,
+                "reduced_price": null
+            }
+        }
+    }
+]

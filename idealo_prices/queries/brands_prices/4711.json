@@ -1,0 +1,288 @@
+[
+    {
+        "perfume_name": "4711 Eau de Cologne 4711 Nachfüllbar",
+        "url": "https://www.douglas.de/de/p/3000047271?variant=188441",
+        "prices": {
+            "20 ml": {
+                "original_price": 6.75,
+                "reduced_price": 5.4
+            },
+            "60 ml": {
+                "original_price": 17.75,
+                "reduced_price": 8.99
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Duftset 4711 Trio Set",
+        "url": "https://www.douglas.de/de/p/5011253027",
+        "prices": {
+            "1 Stück": {
+                "original_price": 13.95,
+                "reduced_price": 11.16
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne Remix Cologne Sparkling Island",
+        "url": "https://www.douglas.de/de/p/5010965107",
+        "prices": {
+            "100 ml": {
+                "original_price": 24.5,
+                "reduced_price": 19.6
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne 4711 Aerosol Spray",
+        "url": "https://www.douglas.de/de/p/5003495062",
+        "prices": {
+            "50 ml": {
+                "original_price": 12.5,
+                "reduced_price": 8.99
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Parfum Remix Cologne Electric Night",
+        "url": "https://www.douglas.de/de/p/5011130026",
+        "prices": {
+            "100 ml": {
+                "original_price": 27.5,
+                "reduced_price": 22.0
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne Remix Cologne Exotic Paradise",
+        "url": "https://www.douglas.de/de/p/5010585001",
+        "prices": {
+            "100 ml": {
+                "original_price": 23.5,
+                "reduced_price": 18.8
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne 4711 Molanusflasche",
+        "url": "https://www.douglas.de/de/p/3000004849?variant=490078",
+        "prices": {
+            "50 ml": {
+                "original_price": 11.5,
+                "reduced_price": 9.2
+            },
+            "75 ml": {
+                "original_price": 15.5,
+                "reduced_price": 12.4
+            },
+            "100 ml": {
+                "original_price": 19.95,
+                "reduced_price": 15.96
+            },
+            "150 ml": {
+                "original_price": 29.75,
+                "reduced_price": 23.8
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne Floral Collection Jasmine EdC",
+        "url": "https://www.douglas.de/de/p/5000143178",
+        "prices": {
+            "100ml": {
+                "original_price": 23.5,
+                "reduced_price": 18.8
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 After Shave Original",
+        "url": "https://www.douglas.de/de/p/5011114015",
+        "prices": {
+            "100 ml": {
+                "original_price": 9.0,
+                "reduced_price": 7.2
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne Acqua Colonia Starfruit & White Flowers",
+        "url": "https://www.douglas.de/de/p/5011108027",
+        "prices": {
+            "100 ml": {
+                "original_price": 40.0,
+                "reduced_price": 32.0
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne Acqua Colonia Intense Refreshing Lagoons of Laos",
+        "url": "https://www.douglas.de/de/p/5011108030",
+        "prices": {
+            "100 ml": {
+                "original_price": 55.0,
+                "reduced_price": 44.0
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne Remix Cologne Urban Summer",
+        "url": "https://www.douglas.de/de/p/5002122001",
+        "prices": {
+            "100 ml": {
+                "original_price": 23.5,
+                "reduced_price": 18.8
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne Floral Collection Rose",
+        "url": "https://www.douglas.de/de/p/5000143198",
+        "prices": {
+            "100 ml": {
+                "original_price": 23.5,
+                "reduced_price": 18.8
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne 4711",
+        "url": "https://www.douglas.de/de/p/5010076301",
+        "prices": {
+            "150 ml": {
+                "original_price": 45.49,
+                "reduced_price": 29.89
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne Acqua Colonia White Peach & Coriander",
+        "url": "https://www.douglas.de/de/p/5011108026",
+        "prices": {
+            "100 ml": {
+                "original_price": 40.0,
+                "reduced_price": 32.0
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne Floral Collection Daisy",
+        "url": "https://www.douglas.de/de/p/5011693000",
+        "prices": {
+            "100 ml": {
+                "original_price": 24.5,
+                "reduced_price": 19.6
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne 4711 ICE 4711 ICE BLUE de Cologne Frischestift",
+        "url": "https://www.douglas.de/de/p/3000004937",
+        "prices": {
+            "40 ml": {
+                "original_price": 6.25,
+                "reduced_price": 5.0
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne Acqua Colonia Lychee & White Mint",
+        "url": "https://www.douglas.de/de/p/5011108025",
+        "prices": {
+            "100 ml": {
+                "original_price": 40.0,
+                "reduced_price": 32.0
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne Remix Cologne Festival Vibes",
+        "url": "https://www.douglas.de/de/p/5009974020",
+        "prices": {
+            "100 ml": {
+                "original_price": 23.5,
+                "reduced_price": 23.19
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne Floral Collection 4711 Magnolia Edc Natural Spray",
+        "url": "https://www.douglas.de/de/p/5003563040",
+        "prices": {
+            "100 ml": {
+                "original_price": 23.5,
+                "reduced_price": 18.8
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne 4711 Natural Spray",
+        "url": "https://www.douglas.de/de/p/5011181002",
+        "prices": {
+            "50 ml": {
+                "original_price": 12.79,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne Remix Cologne Green Oasis",
+        "url": "https://www.douglas.de/de/p/5011368002",
+        "prices": {
+            "100 ml": {
+                "original_price": 24.5,
+                "reduced_price": 19.6
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Toilette Portugal",
+        "url": "https://www.douglas.de/de/p/5003517062",
+        "prices": {
+            "80 ml": {
+                "original_price": 23.95,
+                "reduced_price": 19.16
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Bodyspray Remix Cologne Sparkling Island",
+        "url": "https://www.douglas.de/de/p/5011368000",
+        "prices": {
+            "250 ml": {
+                "original_price": 7.45,
+                "reduced_price": 5.96
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Deodorant 4711",
+        "url": "https://www.douglas.de/de/p/3001010734",
+        "prices": {
+            "150 ml": {
+                "original_price": 15.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne Floral Collection Lily of the Valley",
+        "url": "https://www.douglas.de/de/p/5011030001",
+        "prices": {
+            "100 ml": {
+                "original_price": 24.5,
+                "reduced_price": 11.99
+            }
+        }
+    },
+    {
+        "perfume_name": "4711 Eau de Cologne 4711 Real Kölnisch Wasser Natural",
+        "url": "https://www.douglas.de/de/p/5010977055",
+        "prices": {
+            "100 ml": {
+                "original_price": 26.19,
+                "reduced_price": null
+            }
+        }
+    }
+]

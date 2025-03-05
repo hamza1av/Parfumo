@@ -1,0 +1,52 @@
+[
+    {
+        "perfume_name": "Pegador Parfum No Safety",
+        "url": "https://www.douglas.de/de/p/5011483026",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.9,
+                "reduced_price": 31.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Pegador Parfum Rosy Dreamscapes",
+        "url": "https://www.douglas.de/de/p/5011483030",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.9,
+                "reduced_price": 31.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Pegador Parfum Cloud Chaser",
+        "url": "https://www.douglas.de/de/p/5011483027",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.9,
+                "reduced_price": 31.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Pegador Parfum Aurora Bliss",
+        "url": "https://www.douglas.de/de/p/5011483029",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.9,
+                "reduced_price": 31.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Pegador Parfum Dark Storm",
+        "url": "https://www.douglas.de/de/p/5011483028",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.9,
+                "reduced_price": 31.92
+            }
+        }
+    }
+]

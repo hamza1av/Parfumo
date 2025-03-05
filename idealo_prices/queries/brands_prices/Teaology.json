@@ -1,0 +1,32 @@
+[
+    {
+        "perfume_name": "Teaology Eau de Toilette Black Rose Tea",
+        "url": "https://www.douglas.de/de/p/5000341040",
+        "prices": {
+            "100 ml": {
+                "original_price": 45.0,
+                "reduced_price": 36.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Teaology Eau de Toilette Passionstee",
+        "url": "https://www.douglas.de/de/p/5010447063",
+        "prices": {
+            "100 ml": {
+                "original_price": 45.0,
+                "reduced_price": 36.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Teaology Parfum Black Rose Tea EDT Gift Box",
+        "url": "https://www.douglas.de/de/p/5003423001",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 45.0,
+                "reduced_price": 38.25
+            }
+        }
+    }
+]

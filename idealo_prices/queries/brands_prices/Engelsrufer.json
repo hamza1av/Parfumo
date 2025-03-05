@@ -1,0 +1,82 @@
+[
+    {
+        "perfume_name": "Engelsrufer Eau de Parfum Luna",
+        "url": "https://www.douglas.de/de/p/3001024736",
+        "prices": {
+            "100 ml": {
+                "original_price": 52.99,
+                "reduced_price": 42.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Engelsrufer Eau de Parfum Love",
+        "url": "https://www.douglas.de/de/p/3001024731",
+        "prices": {
+            "100 ml": {
+                "original_price": 52.99,
+                "reduced_price": 46.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Engelsrufer Eau de Parfum Engelsrufer Heaven Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/5010068689",
+        "prices": {
+            "100 ml": {
+                "original_price": 52.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Engelsrufer Eau de Parfum Adore You",
+        "url": "https://www.douglas.de/de/p/5011544171",
+        "prices": {
+            "100 ml": {
+                "original_price": 52.99,
+                "reduced_price": 42.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Engelsrufer Eau de Parfum Golden Wings",
+        "url": "https://www.douglas.de/de/p/3001028618",
+        "prices": {
+            "100 ml": {
+                "original_price": 52.99,
+                "reduced_price": 42.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Engelsrufer Eau de Parfum With Love",
+        "url": "https://www.douglas.de/de/p/3001035667",
+        "prices": {
+            "100 ml": {
+                "original_price": 52.99,
+                "reduced_price": 39.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Engelsrufer Eau de Parfum Aurora",
+        "url": "https://www.douglas.de/de/p/3001024733",
+        "prices": {
+            "100 ml": {
+                "original_price": 52.99,
+                "reduced_price": 42.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Engelsrufer Eau de Parfum EDP SPRAY",
+        "url": "https://www.douglas.de/de/p/5010068688",
+        "prices": {
+            "100 ml": {
+                "original_price": 52.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "perfume_name": "Aire Sevilla Eau de Toilette Pretty",
+        "url": "https://www.douglas.de/de/p/5011223000",
+        "prices": {
+            "150 ml": {
+                "original_price": 25.69,
+                "reduced_price": 21.69
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Eau de Toilette Pink",
+        "url": "https://www.douglas.de/de/p/5010993559",
+        "prices": {
+            "150 ml": {
+                "original_price": 25.49,
+                "reduced_price": 21.49
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5010993645",
+        "prices": {
+            "150 ml": {
+                "original_price": 26.69,
+                "reduced_price": 22.49
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Eau de Toilette Gardenias",
+        "url": "https://www.douglas.de/de/p/5010993384",
+        "prices": {
+            "150 ml": {
+                "original_price": 25.59,
+                "reduced_price": 21.59
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Eau de Toilette Rosas Blancas",
+        "url": "https://www.douglas.de/de/p/5010992985",
+        "prices": {
+            "150 ml": {
+                "original_price": 25.29,
+                "reduced_price": 21.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Duftset Spring",
+        "url": "https://www.douglas.de/de/p/5011223008",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 27.29,
+                "reduced_price": 23.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Eau de Toilette Blue Fresh",
+        "url": "https://www.douglas.de/de/p/5011223009",
+        "prices": {
+            "150 ml": {
+                "original_price": 28.09,
+                "reduced_price": 23.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Eau de Toilette Man",
+        "url": "https://www.douglas.de/de/p/5011223019",
+        "prices": {
+            "150 ml": {
+                "original_price": 27.79,
+                "reduced_price": 23.09
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Duftset Star Estuche",
+        "url": "https://www.douglas.de/de/p/5010991844",
+        "prices": {
+            "": {
+                "original_price": 28.49,
+                "reduced_price": 23.69
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Duftset Peonia Estuche",
+        "url": "https://www.douglas.de/de/p/5010991712",
+        "prices": {
+            "": {
+                "original_price": 27.79,
+                "reduced_price": 22.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Eau de Toilette Oh My God",
+        "url": "https://www.douglas.de/de/p/5010992511",
+        "prices": {
+            "150 ml": {
+                "original_price": 26.09,
+                "reduced_price": 21.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Duftset Blue Fresh",
+        "url": "https://www.douglas.de/de/p/5011223015",
+        "prices": {
+            "1 Stk.": {
+                "original_price": 28.19,
+                "reduced_price": 23.96
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5011223007",
+        "prices": {
+            "150 ml": {
+                "original_price": 27.09,
+                "reduced_price": 22.69
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Eau de Toilette Orange Blossom",
+        "url": "https://www.douglas.de/de/p/5011223002",
+        "prices": {
+            "150 ml": {
+                "original_price": 23.19,
+                "reduced_price": 19.71
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Duftset Love Estuche",
+        "url": "https://www.douglas.de/de/p/5010991510",
+        "prices": {
+            "": {
+                "original_price": 28.49,
+                "reduced_price": 23.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Eau de Toilette Roses",
+        "url": "https://www.douglas.de/de/p/5011223001",
+        "prices": {
+            "150 ml": {
+                "original_price": 25.29,
+                "reduced_price": 21.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Eau de Toilette Si Quiero",
+        "url": "https://www.douglas.de/de/p/5010994298",
+        "prices": {
+            "150 ml": {
+                "original_price": 26.09,
+                "reduced_price": 21.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Duftset Pink",
+        "url": "https://www.douglas.de/de/p/5010959300",
+        "prices": {
+            "150 ml": {
+                "original_price": 26.73,
+                "reduced_price": 22.29
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Duftset Si Quiero",
+        "url": "https://www.douglas.de/de/p/5010957116",
+        "prices": {
+            "150 ml": {
+                "original_price": 26.86,
+                "reduced_price": 22.29
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Eau de Toilette Rosé",
+        "url": "https://www.douglas.de/de/p/5010992858",
+        "prices": {
+            "150 ml": {
+                "original_price": 26.29,
+                "reduced_price": 22.34
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Eau de Toilette Spring",
+        "url": "https://www.douglas.de/de/p/5011223003",
+        "prices": {
+            "150 ml": {
+                "original_price": 25.59,
+                "reduced_price": 21.75
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Duftset",
+        "url": "https://www.douglas.de/de/p/5010994315",
+        "prices": {
+            "3 Stk.": {
+                "original_price": 26.44,
+                "reduced_price": 21.89
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Eau de Toilette Chicca Bonita",
+        "url": "https://www.douglas.de/de/p/5010993620",
+        "prices": {
+            "150 ml": {
+                "original_price": 27.59,
+                "reduced_price": 22.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Aire Sevilla Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5010991981",
+        "prices": {
+            "150 ml": {
+                "original_price": 26.39,
+                "reduced_price": 22.19
+            }
+        }
+    }
+]

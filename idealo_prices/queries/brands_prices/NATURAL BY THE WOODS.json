@@ -1,0 +1,82 @@
+[
+    {
+        "perfume_name": "NATURAL BY THE WOODS Parfum North Star",
+        "url": "https://www.douglas.de/de/p/5011634027",
+        "prices": {
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": 128.0
+            }
+        }
+    },
+    {
+        "perfume_name": "NATURAL BY THE WOODS Parfum Bloom",
+        "url": "https://www.douglas.de/de/p/5011634021",
+        "prices": {
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": 128.0
+            }
+        }
+    },
+    {
+        "perfume_name": "NATURAL BY THE WOODS Eau de Parfum Essence",
+        "url": "https://www.douglas.de/de/p/5011634026",
+        "prices": {
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": 128.0
+            }
+        }
+    },
+    {
+        "perfume_name": "NATURAL BY THE WOODS Parfum Glow",
+        "url": "https://www.douglas.de/de/p/5011634022",
+        "prices": {
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": 128.0
+            }
+        }
+    },
+    {
+        "perfume_name": "NATURAL BY THE WOODS Parfum Dusk",
+        "url": "https://www.douglas.de/de/p/5011634025",
+        "prices": {
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": 128.0
+            }
+        }
+    },
+    {
+        "perfume_name": "NATURAL BY THE WOODS Eau de Parfum Eclipse",
+        "url": "https://www.douglas.de/de/p/5011634028",
+        "prices": {
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": 128.0
+            }
+        }
+    },
+    {
+        "perfume_name": "NATURAL BY THE WOODS Parfum Secret",
+        "url": "https://www.douglas.de/de/p/5011634023",
+        "prices": {
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": 128.0
+            }
+        }
+    },
+    {
+        "perfume_name": "NATURAL BY THE WOODS Parfum Royal Night",
+        "url": "https://www.douglas.de/de/p/5011634024",
+        "prices": {
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": 128.0
+            }
+        }
+    }
+]

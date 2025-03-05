@@ -1,0 +1,194 @@
+[
+    {
+        "perfume_name": "GOLDFIELD+BANKS Eau de Parfum INGENIOUS GINGER EDP 10ML TRAVEL SPRAY",
+        "url": "https://www.douglas.de/de/p/5011006024?variant=1111330",
+        "prices": {
+            "10 ml": {
+                "original_price": 30.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 155.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GOLDFIELD+BANKS Parfum Blue Cypress",
+        "url": "https://www.douglas.de/de/p/5002054055",
+        "prices": {
+            "100 ml": {
+                "original_price": 167.0,
+                "reduced_price": 133.6
+            }
+        }
+    },
+    {
+        "perfume_name": "GOLDFIELD+BANKS Eau de Parfum Island Lush Travel Spray",
+        "url": "https://www.douglas.de/de/p/5010887075",
+        "prices": {
+            "10 ml": {
+                "original_price": 40.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GOLDFIELD+BANKS Eau de Parfum Purple Suede",
+        "url": "https://www.douglas.de/de/p/5011068060?variant=1024082",
+        "prices": {
+            "10 ml": {
+                "original_price": 40.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 221.0,
+                "reduced_price": 176.8
+            }
+        }
+    },
+    {
+        "perfume_name": "GOLDFIELD+BANKS Eau de Parfum Silky Woods",
+        "url": "https://www.douglas.de/de/p/5010969096",
+        "prices": {
+            "10 ml": {
+                "original_price": 43.0,
+                "reduced_price": 34.4
+            },
+            "100 ml": {
+                "original_price": 205.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GOLDFIELD+BANKS Eau de Parfum Sunset Hour",
+        "url": "https://www.douglas.de/de/p/5011066012",
+        "prices": {
+            "10 ml": {
+                "original_price": 32.0,
+                "reduced_price": 25.6
+            },
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 155.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GOLDFIELD+BANKS Eau de Parfum Wood Infusion",
+        "url": "https://www.douglas.de/de/p/5002054083",
+        "prices": {
+            "100 ml": {
+                "original_price": 167.0,
+                "reduced_price": 133.6
+            }
+        }
+    },
+    {
+        "perfume_name": "GOLDFIELD+BANKS Parfum Velvet Splendour",
+        "url": "https://www.douglas.de/de/p/5002054081",
+        "prices": {
+            "100 ml": {
+                "original_price": 167.0,
+                "reduced_price": 133.6
+            }
+        }
+    },
+    {
+        "perfume_name": "GOLDFIELD+BANKS Parfum Bohemian Lime",
+        "url": "https://www.douglas.de/de/p/5002054056",
+        "prices": {
+            "10 ml": {
+                "original_price": 32.0,
+                "reduced_price": 25.6
+            },
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 167.0,
+                "reduced_price": 133.6
+            }
+        }
+    },
+    {
+        "perfume_name": "GOLDFIELD+BANKS Eau de Parfum Pacific Rock Moss",
+        "url": "https://www.douglas.de/de/p/5011068059?variant=029551",
+        "prices": {
+            "10 ml": {
+                "original_price": 30.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 119.0,
+                "reduced_price": 95.2
+            },
+            "100 ml": {
+                "original_price": 167.0,
+                "reduced_price": 133.6
+            }
+        }
+    },
+    {
+        "perfume_name": "GOLDFIELD+BANKS Eau de Parfum Silky Woods Elixir",
+        "url": "https://www.douglas.de/de/p/5011379000",
+        "prices": {
+            "10 ml": {
+                "original_price": 49.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 250.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "GOLDFIELD+BANKS Eau de Parfum Southern Bloom",
+        "url": "https://www.douglas.de/de/p/5002054080?variant=056767",
+        "prices": {
+            "10 ml": {
+                "original_price": 30.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 186.0,
+                "reduced_price": 148.8
+            }
+        }
+    },
+    {
+        "perfume_name": "GOLDFIELD+BANKS Parfum White Sandalwood",
+        "url": "https://www.douglas.de/de/p/5002054082",
+        "prices": {
+            "100 ml": {
+                "original_price": 167.0,
+                "reduced_price": 133.6
+            }
+        }
+    },
+    {
+        "perfume_name": "GOLDFIELD+BANKS Eau de Toilette Desert Rosewood",
+        "url": "https://www.douglas.de/de/p/5002054057?variant=029550",
+        "prices": {
+            "10 ml": {
+                "original_price": 30.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 167.0,
+                "reduced_price": 133.6
+            }
+        }
+    }
+]

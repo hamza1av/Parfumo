@@ -1,0 +1,32 @@
+[
+    {
+        "perfume_name": "ERBE Parfum Eau de Cologne Original Citrus, 100 ml",
+        "url": "https://www.douglas.de/de/p/5011579011",
+        "prices": {
+            "100 ml": {
+                "original_price": 52.95,
+                "reduced_price": 42.36
+            }
+        }
+    },
+    {
+        "perfume_name": "ERBE Bodylotion Gillette Fusion",
+        "url": "https://www.douglas.de/de/p/m000095391",
+        "prices": {
+            "Weiß": {
+                "original_price": 94.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "ERBE After Shave BayRum 3 in 1",
+        "url": "https://www.douglas.de/de/p/5011579010",
+        "prices": {
+            "150 ml": {
+                "original_price": 34.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

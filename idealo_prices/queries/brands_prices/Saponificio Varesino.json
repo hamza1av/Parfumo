@@ -1,0 +1,102 @@
+[
+    {
+        "perfume_name": "Saponificio Varesino Deodorant Morado Deodorant Spray",
+        "url": "https://www.douglas.de/de/p/m001802348",
+        "prices": {
+            "100 ml": {
+                "original_price": 21.99,
+                "reduced_price": 18.69
+            }
+        }
+    },
+    {
+        "perfume_name": "Saponificio Varesino Eau de Parfum 70th Anniversary Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/m001793140",
+        "prices": {
+            "100 ml": {
+                "original_price": 74.99,
+                "reduced_price": 63.74
+            }
+        }
+    },
+    {
+        "perfume_name": "Saponificio Varesino Deodorant Opuntia Deodorant Spray",
+        "url": "https://www.douglas.de/de/p/m001797009",
+        "prices": {
+            "100 ml": {
+                "original_price": 21.99,
+                "reduced_price": 18.69
+            }
+        }
+    },
+    {
+        "perfume_name": "Saponificio Varesino Deodorant Cubebe Deodorant Spray",
+        "url": "https://www.douglas.de/de/p/m001802195",
+        "prices": {
+            "100 ml": {
+                "original_price": 21.99,
+                "reduced_price": 18.69
+            }
+        }
+    },
+    {
+        "perfume_name": "Saponificio Varesino Eau de Parfum Cubebe Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/m000095027",
+        "prices": {
+            "100 ml": {
+                "original_price": 74.99,
+                "reduced_price": 63.74
+            }
+        }
+    },
+    {
+        "perfume_name": "Saponificio Varesino Deodorant Felce Aromatica Deodorant Spray",
+        "url": "https://www.douglas.de/de/p/m001876037",
+        "prices": {
+            "100 ml": {
+                "original_price": 21.99,
+                "reduced_price": 18.69
+            }
+        }
+    },
+    {
+        "perfume_name": "Saponificio Varesino Deodorant 70th Anniversary Deodorant Spray",
+        "url": "https://www.douglas.de/de/p/m001876158",
+        "prices": {
+            "100 ml": {
+                "original_price": 21.99,
+                "reduced_price": 18.69
+            }
+        }
+    },
+    {
+        "perfume_name": "Saponificio Varesino Eau de Parfum Felce Aromatica Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/m001793144",
+        "prices": {
+            "100 ml": {
+                "original_price": 74.99,
+                "reduced_price": 63.74
+            }
+        }
+    },
+    {
+        "perfume_name": "Saponificio Varesino Eau de Parfum Desert Vetiver Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/m001797000",
+        "prices": {
+            "100 ml": {
+                "original_price": 74.99,
+                "reduced_price": 63.74
+            }
+        }
+    },
+    {
+        "perfume_name": "Saponificio Varesino Eau de Parfum Morado eau de Parfum",
+        "url": "https://www.douglas.de/de/p/m001793139",
+        "prices": {
+            "100 ml": {
+                "original_price": 74.99,
+                "reduced_price": 63.74
+            }
+        }
+    }
+]

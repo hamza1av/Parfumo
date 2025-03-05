@@ -1,0 +1,756 @@
+[
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum Black Opium Glitter",
+        "url": "https://www.douglas.de/de/p/5011699077",
+        "prices": {
+            "30 ml": {
+                "original_price": 79.0,
+                "reduced_price": 62.99
+            },
+            "50 ml": {
+                "original_price": 115.0,
+                "reduced_price": 92.0
+            },
+            "90 ml": {
+                "original_price": 155.0,
+                "reduced_price": 124.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum Black Opium Extreme",
+        "url": "https://www.douglas.de/de/p/5010218439?variant=218433",
+        "prices": {
+            "50 ml": {
+                "original_price": 125.0,
+                "reduced_price": 115.29
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum Y Le Parfum",
+        "url": "https://www.douglas.de/de/p/5009263011?variant=904080",
+        "prices": {
+            "100 ml": {
+                "original_price": 150.0,
+                "reduced_price": 115.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum Black Opium Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/3001005867",
+        "prices": {
+            "30 ml": {
+                "original_price": 79.0,
+                "reduced_price": 50.11
+            },
+            "50 ml": {
+                "original_price": 110.0,
+                "reduced_price": 70.95
+            },
+            "90 ml": {
+                "original_price": 152.0,
+                "reduced_price": 96.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Toilette YSL Klassiker Kouros",
+        "url": "https://www.douglas.de/de/p/1061107304?variant=662742",
+        "prices": {
+            "100 ml": {
+                "original_price": 120.0,
+                "reduced_price": 95.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Toilette La Nuit De L’Homme",
+        "url": "https://www.douglas.de/de/p/3000028814?variant=443129",
+        "prices": {
+            "60 ml": {
+                "original_price": 87.0,
+                "reduced_price": 59.99
+            },
+            "100 ml": {
+                "original_price": 120.0,
+                "reduced_price": 76.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum Cinema",
+        "url": "https://www.douglas.de/de/p/5011590015",
+        "prices": {
+            "80 ml": {
+                "original_price": 140.0,
+                "reduced_price": 112.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Duftset Black Opium EDP Set",
+        "url": "https://www.douglas.de/de/p/5011699075",
+        "prices": {
+            "1 Stück": {
+                "original_price": 84.0,
+                "reduced_price": 67.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Deodorant La Nuit De L’Homme",
+        "url": "https://www.douglas.de/de/p/3000031429",
+        "prices": {
+            "75 g": {
+                "original_price": 36.0,
+                "reduced_price": 28.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Toilette Y",
+        "url": "https://www.douglas.de/de/p/3001038474?variant=474387",
+        "prices": {
+            "60 ml": {
+                "original_price": 87.0,
+                "reduced_price": 69.6
+            },
+            "100 ml": {
+                "original_price": 122.0,
+                "reduced_price": 95.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum Mon Paris",
+        "url": "https://www.douglas.de/de/p/3001030349",
+        "prices": {
+            "30 ml": {
+                "original_price": 82.0,
+                "reduced_price": 54.99
+            },
+            "50 ml": {
+                "original_price": 122.0,
+                "reduced_price": 79.99
+            },
+            "90 ml": {
+                "original_price": 160.0,
+                "reduced_price": 103.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum Libre L’Eau Nue",
+        "url": "https://www.douglas.de/de/p/5011719014",
+        "prices": {
+            "50 ml": {
+                "original_price": 122.0,
+                "reduced_price": null
+            },
+            "90 ml": {
+                "original_price": 165.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Duftset L’Homme Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5011574068",
+        "prices": {
+            "1 Stück": {
+                "original_price": 125.0,
+                "reduced_price": 101.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum YSL Klassiker Parisienne",
+        "url": "https://www.douglas.de/de/p/3000031433",
+        "prices": {
+            "90 ml": {
+                "original_price": 155.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Toilette YSL Klassiker Jazz",
+        "url": "https://www.douglas.de/de/p/3000050792",
+        "prices": {
+            "80 ml": {
+                "original_price": 110.0,
+                "reduced_price": 88.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum Black Opium Illicit Green",
+        "url": "https://www.douglas.de/de/p/5010456002",
+        "prices": {
+            "30 ml": {
+                "original_price": 85.69,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Duftset Black Opium Set",
+        "url": "https://www.douglas.de/de/p/5011389080",
+        "prices": {
+            "": {
+                "original_price": 116.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Parfum Libre Le Parfum",
+        "url": "https://www.douglas.de/de/p/5010712044?variant=1033114",
+        "prices": {
+            "30 ml": {
+                "original_price": 105.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 150.0,
+                "reduced_price": null
+            },
+            "90 ml": {
+                "original_price": 200.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Parfum Y LE PARFUM",
+        "url": "https://www.douglas.de/de/p/5011703086?variant=1217689",
+        "prices": {
+            "40 ml": {
+                "original_price": 95.0,
+                "reduced_price": null
+            },
+            "60 ml": {
+                "original_price": 115.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Duftset Opium Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011564087",
+        "prices": {
+            "1 Stück": {
+                "original_price": 158.0,
+                "reduced_price": 86.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Parfum Libre",
+        "url": "https://www.douglas.de/de/p/5000005003?variant=289690",
+        "prices": {
+            "30 ml": {
+                "original_price": 87.0,
+                "reduced_price": 51.99
+            },
+            "50 ml": {
+                "original_price": 125.0,
+                "reduced_price": 71.23
+            },
+            "90 ml": {
+                "original_price": 170.0,
+                "reduced_price": 100.7
+            },
+            "100 ml - Refill": {
+                "original_price": 145.0,
+                "reduced_price": 105.74
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum YSL Klassiker YSL Paris",
+        "url": "https://www.douglas.de/de/p/1061103295?variant=445112",
+        "prices": {
+            "125 ml": {
+                "original_price": 175.0,
+                "reduced_price": 129.59
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Parfum MYSLF Le Parfum",
+        "url": "https://www.douglas.de/de/p/5011499070?variant=1192223",
+        "prices": {
+            "40 ml": {
+                "original_price": 100.0,
+                "reduced_price": 78.99
+            },
+            "60 ml": {
+                "original_price": 120.0,
+                "reduced_price": 96.0
+            },
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Parfum Libre L'Absolu Platine",
+        "url": "https://www.douglas.de/de/p/5011067024?variant=1113406",
+        "prices": {
+            "50 ml": {
+                "original_price": 150.0,
+                "reduced_price": 120.0
+            },
+            "90 ml": {
+                "original_price": 205.0,
+                "reduced_price": 135.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum Y Intense",
+        "url": "https://www.douglas.de/de/p/5010883031?variant=1078530",
+        "prices": {
+            "60 ml": {
+                "original_price": 105.0,
+                "reduced_price": 84.0
+            },
+            "100 ml": {
+                "original_price": 145.0,
+                "reduced_price": 116.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Duftset Y Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011564091",
+        "prices": {
+            "Eau de Parfum Spray 100 ml + Travel Spray 10 ml": {
+                "original_price": 135.0,
+                "reduced_price": 125.79
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Duftset MYSLF Set",
+        "url": "https://www.douglas.de/de/p/5011699074",
+        "prices": {
+            "1 Stück": {
+                "original_price": 105.0,
+                "reduced_price": 84.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum L’Homme",
+        "url": "https://www.douglas.de/de/p/5010508166?variant=487137",
+        "prices": {
+            "60 ml": {
+                "original_price": 95.0,
+                "reduced_price": 69.99
+            },
+            "100 ml": {
+                "original_price": 135.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum Black Opium Over Red",
+        "url": "https://www.douglas.de/de/p/5011251011",
+        "prices": {
+            "30 ml": {
+                "original_price": 79.0,
+                "reduced_price": 63.2
+            },
+            "50 ml": {
+                "original_price": 115.0,
+                "reduced_price": 89.0
+            },
+            "90 ml": {
+                "original_price": 155.0,
+                "reduced_price": 123.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum Libre Intense",
+        "url": "https://www.douglas.de/de/p/5002803012",
+        "prices": {
+            "30 ml": {
+                "original_price": 97.0,
+                "reduced_price": 57.99
+            },
+            "50 ml": {
+                "original_price": 139.0,
+                "reduced_price": 81.99
+            },
+            "90 ml": {
+                "original_price": 187.0,
+                "reduced_price": 108.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Toilette Opium",
+        "url": "https://www.douglas.de/de/p/3000034874?variant=504238",
+        "prices": {
+            "30 ml": {
+                "original_price": 82.39,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 112.0,
+                "reduced_price": 89.6
+            },
+            "90 ml": {
+                "original_price": 147.0,
+                "reduced_price": 117.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum Elle",
+        "url": "https://www.douglas.de/de/p/5011590016",
+        "prices": {
+            "80 ml": {
+                "original_price": 140.0,
+                "reduced_price": 112.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Deodorant L’Homme",
+        "url": "https://www.douglas.de/de/p/3000010643",
+        "prices": {
+            "75 ml": {
+                "original_price": 36.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum Black Opium Neon",
+        "url": "https://www.douglas.de/de/p/5000377084",
+        "prices": {
+            "30 ml": {
+                "original_price": 87.79,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Toilette YSL Klassiker Opium pour Homme",
+        "url": "https://www.douglas.de/de/p/1061114304?variant=718890",
+        "prices": {
+            "100 ml": {
+                "original_price": 110.0,
+                "reduced_price": 108.49
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum Libre Flowers & Flames",
+        "url": "https://www.douglas.de/de/p/5011499069",
+        "prices": {
+            "30 ml": {
+                "original_price": 89.0,
+                "reduced_price": 56.44
+            },
+            "50 ml": {
+                "original_price": 129.0,
+                "reduced_price": 81.82
+            },
+            "90 ml": {
+                "original_price": 175.0,
+                "reduced_price": 110.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum La Nuit De L’Homme Le Parfum",
+        "url": "https://www.douglas.de/de/p/3000039552?variant=552016",
+        "prices": {
+            "60 ml": {
+                "original_price": 110.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 150.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum Mon Paris IntensÉment",
+        "url": "https://www.douglas.de/de/p/5001768018",
+        "prices": {
+            "50 ml": {
+                "original_price": 130.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Toilette YSL Klassiker M7",
+        "url": "https://www.douglas.de/de/p/3000050793",
+        "prices": {
+            "80 ml": {
+                "original_price": 110.0,
+                "reduced_price": 88.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Toilette Libre",
+        "url": "https://www.douglas.de/de/p/5009868011",
+        "prices": {
+            "30 ml": {
+                "original_price": 69.0,
+                "reduced_price": 55.2
+            },
+            "50 ml": {
+                "original_price": 113.0,
+                "reduced_price": 90.4
+            },
+            "90 ml": {
+                "original_price": 153.0,
+                "reduced_price": 122.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Toilette L’Homme Cologne Bleue",
+        "url": "https://www.douglas.de/de/p/3001043819?variant=995683",
+        "prices": {
+            "100 ml": {
+                "original_price": 115.0,
+                "reduced_price": 103.59
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Duftset Libre Set",
+        "url": "https://www.douglas.de/de/p/5011699073",
+        "prices": {
+            "1 Stück": {
+                "original_price": 130.0,
+                "reduced_price": 104.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Toilette L’Homme",
+        "url": "https://www.douglas.de/de/p/2010005867?variant=262658",
+        "prices": {
+            "60 ml": {
+                "original_price": 87.0,
+                "reduced_price": 69.6
+            },
+            "100 ml": {
+                "original_price": 120.0,
+                "reduced_price": 87.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Duftset Y Le Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011564084",
+        "prices": {
+            "1 Stück": {
+                "original_price": 155.0,
+                "reduced_price": 87.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Toilette YSL Klassiker Y",
+        "url": "https://www.douglas.de/de/p/3000050371",
+        "prices": {
+            "80 ml": {
+                "original_price": 132.0,
+                "reduced_price": 130.59
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum MYSLF",
+        "url": "https://www.douglas.de/de/p/5011047026?variant=1113403",
+        "prices": {
+            "40 ml": {
+                "original_price": 85.0,
+                "reduced_price": null
+            },
+            "60 ml": {
+                "original_price": 100.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 137.0,
+                "reduced_price": null
+            },
+            "150 ml - The Refill": {
+                "original_price": 140.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Parfum Y",
+        "url": "https://www.douglas.de/de/p/3001047078?variant=028601",
+        "prices": {
+            "60 ml": {
+                "original_price": 95.0,
+                "reduced_price": 60.25
+            },
+            "100 ml": {
+                "original_price": 130.0,
+                "reduced_price": 85.45
+            },
+            "150 ml - Refill": {
+                "original_price": 135.0,
+                "reduced_price": 93.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Toilette YSL Klassiker Yvresse",
+        "url": "https://www.douglas.de/de/p/3000050372",
+        "prices": {
+            "80 ml": {
+                "original_price": 132.0,
+                "reduced_price": 105.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Bodyspray Y L'Elixir",
+        "url": "https://www.douglas.de/de/p/5011342016",
+        "prices": {
+            "60 ml": {
+                "original_price": 120.0,
+                "reduced_price": 96.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Parfum Black Opium Le Parfum",
+        "url": "https://www.douglas.de/de/p/5010863007",
+        "prices": {
+            "30 ml": {
+                "original_price": 87.0,
+                "reduced_price": 57.99
+            },
+            "50 ml": {
+                "original_price": 130.0,
+                "reduced_price": 82.0
+            },
+            "90 ml": {
+                "original_price": 172.0,
+                "reduced_price": 109.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Duftset Black Opium",
+        "url": "https://www.douglas.de/de/p/5011589012",
+        "prices": {
+            "1 Stück": {
+                "original_price": 152.0,
+                "reduced_price": 129.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Toilette YSL Klassiker Rive Gauche",
+        "url": "https://www.douglas.de/de/p/3000018421?variant=148955",
+        "prices": {
+            "100 ml": {
+                "original_price": 132.0,
+                "reduced_price": 105.6
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Parfum L’Homme Le Parfum",
+        "url": "https://www.douglas.de/de/p/5002123010?variant=530824",
+        "prices": {
+            "100 ml": {
+                "original_price": 150.0,
+                "reduced_price": 120.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Duftset La Nuit De L’Homme Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5011574065",
+        "prices": {
+            "1 Stück": {
+                "original_price": 125.0,
+                "reduced_price": 99.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum Opium",
+        "url": "https://www.douglas.de/de/p/3000034873?variant=492783",
+        "prices": {
+            "50 ml": {
+                "original_price": 122.0,
+                "reduced_price": 89.0
+            },
+            "90 ml": {
+                "original_price": 160.0,
+                "reduced_price": 115.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Toilette Parisienne",
+        "url": "https://www.douglas.de/de/p/5011590014",
+        "prices": {
+            "80 ml": {
+                "original_price": 140.0,
+                "reduced_price": 112.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Make-up Set Lash Clash Set",
+        "url": "https://www.douglas.de/de/p/5011703007",
+        "prices": {
+            "1 Stück": {
+                "original_price": 43.0,
+                "reduced_price": 42.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum La Nuit De L’Homme",
+        "url": "https://www.douglas.de/de/p/3001056399?variant=076283",
+        "prices": {
+            "100 ml": {
+                "original_price": 145.0,
+                "reduced_price": 116.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Yves Saint Laurent Eau de Parfum YSL Klassiker Elle",
+        "url": "https://www.douglas.de/de/p/2010007173",
+        "prices": {
+            "90 ml": {
+                "original_price": 155.0,
+                "reduced_price": 145.0
+            }
+        }
+    }
+]

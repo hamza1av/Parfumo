@@ -1,0 +1,136 @@
+[
+    {
+        "perfume_name": "Moschino Eau de Toilette Toy 2 Bubble Gum",
+        "url": "https://www.douglas.de/de/p/5009859002?variant=015587",
+        "prices": {
+            "30 ml": {
+                "original_price": 53.0,
+                "reduced_price": 42.4
+            },
+            "50 ml": {
+                "original_price": 78.0,
+                "reduced_price": 62.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Moschino Eau de Parfum Toy 2",
+        "url": "https://www.douglas.de/de/p/5001738167?variant=057210",
+        "prices": {
+            "30 ml": {
+                "original_price": 56.0,
+                "reduced_price": 44.8
+            },
+            "50 ml": {
+                "original_price": 83.0,
+                "reduced_price": 66.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Moschino Eau de Parfum Fresh Gold Couture",
+        "url": "https://www.douglas.de/de/p/3001043110",
+        "prices": {
+            "30 ml": {
+                "original_price": 52.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Moschino Duschgel Toy 2 Bubble Gum",
+        "url": "https://www.douglas.de/de/p/5009864002",
+        "prices": {
+            "200 ml": {
+                "original_price": 33.0,
+                "reduced_price": 26.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Moschino Eau de Toilette Fresh Couture",
+        "url": "https://www.douglas.de/de/p/3001023544",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "50 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Moschino Eau de Toilette So Real Cheap & Chic",
+        "url": "https://www.douglas.de/de/p/5001764254",
+        "prices": {
+            "30 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Moschino Eau de Parfum Toy Boy",
+        "url": "https://www.douglas.de/de/p/5001764914?variant=340019",
+        "prices": {
+            "30 ml": {
+                "original_price": 56.0,
+                "reduced_price": 44.8
+            },
+            "50 ml": {
+                "original_price": 83.0,
+                "reduced_price": 66.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Moschino Eau de Parfum Toy 2 Pearl",
+        "url": "https://www.douglas.de/de/p/5011109140",
+        "prices": {
+            "30 ml": {
+                "original_price": 56.0,
+                "reduced_price": 44.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Moschino Eau de Toilette I Love Love",
+        "url": "https://www.douglas.de/de/p/2001002931?variant=192120",
+        "prices": {
+            "30 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            },
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "100 ml": {
+                "original_price": 86.59,
+                "reduced_price": 51.89
+            }
+        }
+    },
+    {
+        "perfume_name": "Moschino Eau de Toilette Funny",
+        "url": "https://www.douglas.de/de/p/2010006830",
+        "prices": {
+            "50 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Moschino Eau de Toilette Cheap and Chic",
+        "url": "https://www.douglas.de/de/p/3000027573",
+        "prices": {
+            "30 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            }
+        }
+    }
+]

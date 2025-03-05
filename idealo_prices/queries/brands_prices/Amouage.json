@@ -1,0 +1,492 @@
+[
+    {
+        "perfume_name": "Amouage Eau de Parfum Jubilation Xxv Man",
+        "url": "https://www.douglas.de/de/p/5010864020",
+        "prices": {
+            "100 ml": {
+                "original_price": 377.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Library Collection Opus Xiv Royal Tobacco",
+        "url": "https://www.douglas.de/de/p/5010871022",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum The Odyssey Collection Ashore",
+        "url": "https://www.douglas.de/de/p/5011565034",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Reflection Man",
+        "url": "https://www.douglas.de/de/p/5010864026",
+        "prices": {
+            "100 ml": {
+                "original_price": 377.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Secret Garden Collection Love Delight",
+        "url": "https://www.douglas.de/de/p/5011459173",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5010077629",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Epic Woman 56 Extrait",
+        "url": "https://www.douglas.de/de/p/5010855003",
+        "prices": {
+            "100 ml": {
+                "original_price": 490.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Guidance",
+        "url": "https://www.douglas.de/de/p/5010907118",
+        "prices": {
+            "100 ml": {
+                "original_price": 377.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum The Odyssey Collection Search",
+        "url": "https://www.douglas.de/de/p/5010921031",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum 100 ml",
+        "url": "https://www.douglas.de/de/p/5010456097",
+        "prices": {
+            "100 ml": {
+                "original_price": 345.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Portrayal Man",
+        "url": "https://www.douglas.de/de/p/5010864023",
+        "prices": {
+            "100 ml": {
+                "original_price": 366.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Library Collection Opus Vii Reckless Leather",
+        "url": "https://www.douglas.de/de/p/5010871019",
+        "prices": {
+            "100 ml": {
+                "original_price": 366.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Dia Man",
+        "url": "https://www.douglas.de/de/p/5010855007",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Beach Hut Man",
+        "url": "https://www.douglas.de/de/p/5010864022",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "",
+        "url": "https://www.douglas.de/de/p/5011562054",
+        "prices": {}
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Library Collection Opus Xv King Blue",
+        "url": "https://www.douglas.de/de/p/5011152035",
+        "prices": {
+            "100 ml": {
+                "original_price": 490.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Main Line Overture Man",
+        "url": "https://www.douglas.de/de/p/5011373063",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Epic Woman",
+        "url": "https://www.douglas.de/de/p/5010864031",
+        "prices": {
+            "100 ml": {
+                "original_price": 377.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Love Mimosa",
+        "url": "https://www.douglas.de/de/p/5010864024",
+        "prices": {
+            "100 ml": {
+                "original_price": 345.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Library Collection Opus Xii Rose Incense",
+        "url": "https://www.douglas.de/de/p/5010871017",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Main Line Overture Woman",
+        "url": "https://www.douglas.de/de/p/5011373064",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Parfum Honour Woman Honour Woman 43 Extrait",
+        "url": "https://www.douglas.de/de/p/5011531041",
+        "prices": {
+            "100 ml": {
+                "original_price": 490.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Parfum Extrait Collection Jubilation 40 Extrait De Parfum",
+        "url": "https://www.douglas.de/de/p/5011373007",
+        "prices": {
+            "100 ml": {
+                "original_price": 503.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Parfum Extrait Collection Purpose 50",
+        "url": "https://www.douglas.de/de/p/5011721027",
+        "prices": {
+            "100 ml": {
+                "original_price": 490.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Parfum Essences Collection Outlands",
+        "url": "https://www.douglas.de/de/p/5011717023",
+        "prices": {
+            "100 ml": {
+                "original_price": 419.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Parfum Essences Collection Reasons",
+        "url": "https://www.douglas.de/de/p/5011717022",
+        "prices": {
+            "100 ml": {
+                "original_price": 420.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Purpose",
+        "url": "https://www.douglas.de/de/p/5010921030",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Secret Garden Collection Love Tuberose",
+        "url": "https://www.douglas.de/de/p/5011459174",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Reflection Woman",
+        "url": "https://www.douglas.de/de/p/3000070440",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Parfum Extrait Collection Dia 40 Extrait De",
+        "url": "https://www.douglas.de/de/p/5011373062",
+        "prices": {
+            "100 ml": {
+                "original_price": 490.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Interlude Woman",
+        "url": "https://www.douglas.de/de/p/5010864028",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Parfum The Main Man Collection Gold Man Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m001400076?variant=m3420029",
+        "prices": {
+            "100 ml": {
+                "original_price": 327.79,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Secret Garden Collection Blossom Love",
+        "url": "https://www.douglas.de/de/p/5011459176",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Sunshine Woman",
+        "url": "https://www.douglas.de/de/p/5010864021",
+        "prices": {
+            "100 ml": {
+                "original_price": 377.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Honour Man",
+        "url": "https://www.douglas.de/de/p/5010864032",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Honour Woman",
+        "url": "https://www.douglas.de/de/p/3000070426",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Epic Man",
+        "url": "https://www.douglas.de/de/p/5010864027",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Lineage",
+        "url": "https://www.douglas.de/de/p/5010921029",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Parfum Essences Collection Lustre",
+        "url": "https://www.douglas.de/de/p/5011717021",
+        "prices": {
+            "100 ml": {
+                "original_price": 419.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Parfum Reflection Man 45 Extrait",
+        "url": "https://www.douglas.de/de/p/5011548019",
+        "prices": {
+            "100 ml": {
+                "original_price": 503.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Library Collection Opus V Woods Symphony",
+        "url": "https://www.douglas.de/de/p/5010871018",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Parfum Extrait Collection Guidance 46 Extrait",
+        "url": "https://www.douglas.de/de/p/5011534080",
+        "prices": {
+            "100 ml": {
+                "original_price": 490.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Interlude Black Iris",
+        "url": "https://www.douglas.de/de/p/5010864033",
+        "prices": {
+            "100 ml": {
+                "original_price": 377.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Portrayal Woman",
+        "url": "https://www.douglas.de/de/p/5010864017",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Parfum Interlude Man 53 Extrait",
+        "url": "https://www.douglas.de/de/p/5011548020",
+        "prices": {
+            "100 ml": {
+                "original_price": 490.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Interlude Man",
+        "url": "https://www.douglas.de/de/p/5010864019",
+        "prices": {
+            "100 ml": {
+                "original_price": 377.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Gold Woman",
+        "url": "https://www.douglas.de/de/p/5011536001",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Secret Garden Collection Lilac Love",
+        "url": "https://www.douglas.de/de/p/5011459175",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum Library Collection Opus Xiii Silver Oud",
+        "url": "https://www.douglas.de/de/p/5010871020",
+        "prices": {
+            "100 ml": {
+                "original_price": 490.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Amouage Eau de Parfum The Odyssey Collection Material",
+        "url": "https://www.douglas.de/de/p/5011572088",
+        "prices": {
+            "100 ml": {
+                "original_price": 365.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

@@ -1,0 +1,448 @@
+[
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Flowery Nr. 101 Rose Duftwicke Weiße Zeder",
+        "url": "https://www.douglas.de/de/p/5002556031?variant=707931",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Duftset Aquatic Nr. 801 Gischt Zeder Grapefruit",
+        "url": "https://www.douglas.de/de/p/5010586044",
+        "prices": {
+            "200 g": {
+                "original_price": 16.0,
+                "reduced_price": 12.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Flowery 106",
+        "url": "https://www.douglas.de/de/p/5011526022?variant=1085819",
+        "prices": {
+            "15 ml": {
+                "original_price": 29.0,
+                "reduced_price": 23.2
+            },
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Floral-Oriental 304",
+        "url": "https://www.douglas.de/de/p/5011526023",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Woody-Oriental Nr. 301 Sandelholz Ambra Kardamom",
+        "url": "https://www.douglas.de/de/p/5002556044?variant=708040",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 99.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Fruity Nr. 202 Wassermelone Rote Johannisbeere Jasmin",
+        "url": "https://www.douglas.de/de/p/5002556041?variant=708032",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Duftset Citrusy Nr. 003 - Yuzu Veilchenblätter Vetiver",
+        "url": "https://www.douglas.de/de/p/5010588126",
+        "prices": {
+            "1 Set": {
+                "original_price": 65.0,
+                "reduced_price": 58.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Flowery Nr. 102 Tee Kardamom Mimose",
+        "url": "https://www.douglas.de/de/p/5002556034?variant=707933",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 99.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Flowery Nr. 103 Tiareblüte Jasmin Hibiskus",
+        "url": "https://www.douglas.de/de/p/5002556036?variant=707935",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 107.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Floral-Oriental Nr. 302 Amba Iris Sandelholz",
+        "url": "https://www.douglas.de/de/p/5002556047?variant=707947",
+        "prices": {
+            "30 ml": {
+                "original_price": 54.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 99.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Fruity Nr. 201 Grüner Apfel Maiglöckchen Birne",
+        "url": "https://www.douglas.de/de/p/5002556039?variant=707939",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": 39.99
+            },
+            "100 ml": {
+                "original_price": 99.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Woody Nr. 602 Pfeffer Zeder Patschuli",
+        "url": "https://www.douglas.de/de/p/5002556062?variant=707976",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Citrusy Nr. 001 Orangenblüte Petitgrain Bergamotte",
+        "url": "https://www.douglas.de/de/p/5002556029?variant=708004",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Les Privés 903  Baies du Népal, Safran, Oud",
+        "url": "https://www.douglas.de/de/p/5010540677?variant=492590",
+        "prices": {
+            "30 ml": {
+                "original_price": 84.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": 128.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Les Privés 603",
+        "url": "https://www.douglas.de/de/p/5010540679?variant=492585",
+        "prices": {
+            "30 ml": {
+                "original_price": 80.0,
+                "reduced_price": 64.0
+            },
+            "100 ml": {
+                "original_price": 160.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Les Privés 104",
+        "url": "https://www.douglas.de/de/p/5010540680",
+        "prices": {
+            "30 ml": {
+                "original_price": 84.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 160.0,
+                "reduced_price": 128.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Citrusy 004",
+        "url": "https://www.douglas.de/de/p/5010003084?variant=161295",
+        "prices": {
+            "30 ml": {
+                "original_price": 49.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 99.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Mossy-Woody Nr. 902 Armagnac Blonder Tabak Zimt",
+        "url": "https://www.douglas.de/de/p/5002556069?variant=707999",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Duftset Aquatic Nr. 801 Gischt Zeder Grapefruit",
+        "url": "https://www.douglas.de/de/p/5010588124",
+        "prices": {
+            "1 Set": {
+                "original_price": 65.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Woody 702: Incense Lavender Cashmere Wood",
+        "url": "https://www.douglas.de/de/p/5010516102?variant=227419",
+        "prices": {
+            "30 ml": {
+                "original_price": 49.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 99.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Gently Oriental Nr. 901 Muskatnuss Mandel Patschuli",
+        "url": "https://www.douglas.de/de/p/5002556068?variant=708076",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Flowery 106 ROSE DA, DAV, VANILLE",
+        "url": "https://www.douglas.de/de/p/5011562056",
+        "prices": {
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Fruity Nr. 203 Himbeere Vanille Brombeere",
+        "url": "https://www.douglas.de/de/p/5002556043?variant=707943",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Citrusy Nr. 002  Neroli Jasmin Weiße Ambra",
+        "url": "https://www.douglas.de/de/p/5002556023?variant=708011",
+        "prices": {
+            "30 ml": {
+                "original_price": 54.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 99.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Aquatic Nr. 802 Pfingstrose Lotos Bambus",
+        "url": "https://www.douglas.de/de/p/5002556067?variant=707992",
+        "prices": {
+            "30 ml": {
+                "original_price": 49.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Citrusy Nr. 003 Yuzu Veilchenblätter Vetiver",
+        "url": "https://www.douglas.de/de/p/5002556025?variant=708013",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": 39.99
+            },
+            "100 ml": {
+                "original_price": 99.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Oriental Nr. 401  Zeder Kandierte Pflaume Vanille",
+        "url": "https://www.douglas.de/de/p/5002556050?variant=707950",
+        "prices": {
+            "30 ml": {
+                "original_price": 54.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 99.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Aquatic 803",
+        "url": "https://www.douglas.de/de/p/5011526025?variant=1097518",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 99.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Woody Nr. 601 Vetiver Zeder Bergamotte",
+        "url": "https://www.douglas.de/de/p/5002556060?variant=708065",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": 39.99
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Oriental Nr. 501 Praline Lakritze Patschuli",
+        "url": "https://www.douglas.de/de/p/5002556056?variant=707966",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 99.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Aromatic Nr. 701 Eukalyptus Koriander Zypresse",
+        "url": "https://www.douglas.de/de/p/5002556064?variant=708069",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": 39.99
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Aquatic Nr. 801 Gischt Zeder Grapefruit",
+        "url": "https://www.douglas.de/de/p/5002556065?variant=708072",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Bon Parfumeur Eau de Parfum Oriental Nr. 402 Vanille Toffee Sandelholz",
+        "url": "https://www.douglas.de/de/p/5002556053?variant=707963",
+        "prices": {
+            "30 ml": {
+                "original_price": 48.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    }
+]

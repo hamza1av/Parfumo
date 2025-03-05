@@ -1,0 +1,44 @@
+[
+    {
+        "perfume_name": "Acqua Alpes Eau de Parfum 3333 Oud",
+        "url": "https://www.douglas.de/de/p/5010026203?variant=019788",
+        "prices": {
+            "50 ml": {
+                "original_price": 79.0,
+                "reduced_price": 63.2
+            },
+            "100 ml": {
+                "original_price": 99.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua Alpes Eau de Parfum 2334",
+        "url": "https://www.douglas.de/de/p/5010026198?variant=019771",
+        "prices": {
+            "50 ml": {
+                "original_price": 79.0,
+                "reduced_price": 63.2
+            },
+            "100 ml": {
+                "original_price": 99.0,
+                "reduced_price": 79.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Acqua Alpes Eau de Parfum 2828 aufsprühen",
+        "url": "https://www.douglas.de/de/p/5010026197?variant=019751",
+        "prices": {
+            "50 ml": {
+                "original_price": 79.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 99.0,
+                "reduced_price": 79.2
+            }
+        }
+    }
+]

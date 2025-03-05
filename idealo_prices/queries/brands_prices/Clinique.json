@@ -1,0 +1,110 @@
+[
+    {
+        "perfume_name": "Clinique Eau de Parfum Aromatics Elixir Aromatics In White Perfume Spray",
+        "url": "https://www.douglas.de/de/p/3001008254?variant=831443",
+        "prices": {
+            "100 ml": {
+                "original_price": 115.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Clinique Eau de Cologne Happy For Men Köln-Spray",
+        "url": "https://www.douglas.de/de/p/1000816290?variant=040591",
+        "prices": {
+            "50 ml": {
+                "original_price": 69.5,
+                "reduced_price": 55.6
+            },
+            "100 ml": {
+                "original_price": 85.5,
+                "reduced_price": 68.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Clinique Eau de Toilette Aromatics Elixir The Odd Fellow's Bouquet",
+        "url": "https://www.douglas.de/de/p/m000600021?variant=995183",
+        "prices": {
+            "45 ml": {
+                "original_price": 58.0,
+                "reduced_price": 46.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Clinique Eau de Parfum Happy",
+        "url": "https://www.douglas.de/de/p/1000814298?variant=570275",
+        "prices": {
+            "30 ml": {
+                "original_price": 52.0,
+                "reduced_price": 32.99
+            },
+            "50 ml": {
+                "original_price": 73.0,
+                "reduced_price": 58.4
+            },
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 58.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Clinique Eau de Parfum Happy Heart.",
+        "url": "https://www.douglas.de/de/p/5010076286?variant=023053",
+        "prices": {
+            "30 ml": {
+                "original_price": 60.5,
+                "reduced_price": 50.39
+            },
+            "50 ml": {
+                "original_price": 75.5,
+                "reduced_price": 48.69
+            }
+        }
+    },
+    {
+        "perfume_name": "Clinique After Shave Clinique for Men Post-Shave Soother",
+        "url": "https://www.douglas.de/de/p/3000001800",
+        "prices": {
+            "75 ml": {
+                "original_price": 38.0,
+                "reduced_price": 34.75
+            }
+        }
+    },
+    {
+        "perfume_name": "Clinique Eau de Toilette Aromatics Elixir El Perfume",
+        "url": "https://www.douglas.de/de/p/1000809298?variant=030996",
+        "prices": {
+            "10 ml": {
+                "original_price": 42.0,
+                "reduced_price": 33.6
+            },
+            "25 ml": {
+                "original_price": 61.0,
+                "reduced_price": 48.8
+            },
+            "45 ml": {
+                "original_price": 84.0,
+                "reduced_price": 67.2
+            },
+            "100 ml": {
+                "original_price": 115.0,
+                "reduced_price": 92.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Clinique Eau de Parfum Happy Limited Edition",
+        "url": "https://www.douglas.de/de/p/5011376044",
+        "prices": {
+            "100 ml": {
+                "original_price": 91.0,
+                "reduced_price": 69.9
+            }
+        }
+    }
+]

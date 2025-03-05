@@ -1,0 +1,46 @@
+[
+    {
+        "perfume_name": "El Ganso Eau de Toilette Ciao Bella Eau de Toilette Spray",
+        "url": "https://www.douglas.de/de/p/m001997016",
+        "prices": {
+            "30 ml": {
+                "original_price": 30.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "El Ganso Eau de Toilette Limoncello Eau de Toilette Spray",
+        "url": "https://www.douglas.de/de/p/m001991000",
+        "prices": {
+            "125 ml": {
+                "original_price": 63.57,
+                "reduced_price": 54.03
+            }
+        }
+    },
+    {
+        "perfume_name": "El Ganso Eau de Parfum FUN & CHIC",
+        "url": "https://www.douglas.de/de/p/5011406167?variant=1178071",
+        "prices": {
+            "30 ml": {
+                "original_price": 35.0,
+                "reduced_price": 33.89
+            },
+            "50 ml": {
+                "original_price": 55.0,
+                "reduced_price": 44.0
+            }
+        }
+    },
+    {
+        "perfume_name": "El Ganso Eau de Toilette Seniorita Mon Amour Eau de Toilette Spray",
+        "url": "https://www.douglas.de/de/p/m001995014",
+        "prices": {
+            "30 ml": {
+                "original_price": 30.09,
+                "reduced_price": null
+            }
+        }
+    }
+]

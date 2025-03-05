@@ -1,0 +1,52 @@
+[
+    {
+        "perfume_name": "Houbigant Paris Eau de Parfum ORANGERES EN FLEURS",
+        "url": "https://www.douglas.de/de/p/5010081477",
+        "prices": {
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Houbigant Paris Eau de Parfum MOM BOUDOIR COLLECTION PRIVÉE",
+        "url": "https://www.douglas.de/de/p/5010081509",
+        "prices": {
+            "100 ml": {
+                "original_price": 190.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Houbigant Paris Eau de Parfum Quelques Fleurs L'Original Collection Privée",
+        "url": "https://www.douglas.de/de/p/5010081526",
+        "prices": {
+            "100 ml": {
+                "original_price": 190.0,
+                "reduced_price": 178.89
+            }
+        }
+    },
+    {
+        "perfume_name": "Houbigant Paris Eau de Parfum Quelques Fleurs Jardin Geheime Sammlung Privée",
+        "url": "https://www.douglas.de/de/p/5010081514",
+        "prices": {
+            "100 ml": {
+                "original_price": 190.0,
+                "reduced_price": 152.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Houbigant Paris Eau de Parfum ESSENCE RARE COLLECTION PRIVÉE",
+        "url": "https://www.douglas.de/de/p/5010081519",
+        "prices": {
+            "100 ml": {
+                "original_price": 190.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

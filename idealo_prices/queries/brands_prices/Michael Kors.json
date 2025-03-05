@@ -1,0 +1,98 @@
+[
+    {
+        "perfume_name": "Michael Kors Eau de Parfum MIICHAEL KORS POUR FEMME EDP",
+        "url": "https://www.douglas.de/de/p/5011421251",
+        "prices": {
+            "30 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": 79.2
+            },
+            "100 ml": {
+                "original_price": 125.0,
+                "reduced_price": 100.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Michael Kors Eau de Parfum Pour Homme Miichael Kors Edp",
+        "url": "https://www.douglas.de/de/p/5011421252?variant=1187365",
+        "prices": {
+            "30 ml": {
+                "original_price": 69.0,
+                "reduced_price": 55.2
+            },
+            "50 ml": {
+                "original_price": 92.0,
+                "reduced_price": 73.6
+            },
+            "100 ml": {
+                "original_price": 119.0,
+                "reduced_price": 95.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Michael Kors Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5009161129?variant=871970",
+        "prices": {
+            "30 ml": {
+                "original_price": 54.0,
+                "reduced_price": 43.2
+            },
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Michael Kors After Shave Pour Homme",
+        "url": "https://www.douglas.de/de/p/5011496051",
+        "prices": {
+            "100 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Michael Kors Eau de Parfum Wonderlust",
+        "url": "https://www.douglas.de/de/p/3001031485?variant=936017",
+        "prices": {
+            "30 ml": {
+                "original_price": 54.0,
+                "reduced_price": 43.2
+            },
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 76.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Michael Kors Eau de Parfum Sexy Amber",
+        "url": "https://www.douglas.de/de/p/3000068300?variant=767280",
+        "prices": {
+            "50 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            },
+            "100 ml": {
+                "original_price": 90.0,
+                "reduced_price": 72.0
+            }
+        }
+    }
+]

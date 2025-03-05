@@ -1,0 +1,132 @@
+[
+    {
+        "perfume_name": "Maison Tahité Eau de Parfum CAFÉ GOURMAND",
+        "url": "https://www.douglas.de/de/p/5011568095",
+        "prices": {
+            "100 ml": {
+                "original_price": 102.29,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Maison Tahité Eau de Parfum EDP CACAO IN THE SUN",
+        "url": "https://www.douglas.de/de/p/5010906056",
+        "prices": {
+            "Cacao In The Sun 100ml": {
+                "original_price": 102.29,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Maison Tahité Eau de Parfum Carnal Cacao",
+        "url": "https://www.douglas.de/de/p/m000869007",
+        "prices": {
+            "Carnal Cacao 100ml": {
+                "original_price": 109.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Maison Tahité Eau de Parfum VANEXSTASY",
+        "url": "https://www.douglas.de/de/p/5010909020",
+        "prices": {
+            "100 ml": {
+                "original_price": 98.0,
+                "reduced_price": 78.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Maison Tahité Eau de Parfum Cacao Libertine",
+        "url": "https://www.douglas.de/de/p/m000869001",
+        "prices": {
+            "Cacao Libertine 100ml": {
+                "original_price": 109.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Maison Tahité Eau de Parfum Coffee Bomb",
+        "url": "https://www.douglas.de/de/p/m001527223",
+        "prices": {
+            "Coffee Bomb 100ml": {
+                "original_price": 109.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Maison Tahité Eau de Parfum Vicious Cacao",
+        "url": "https://www.douglas.de/de/p/m000869000",
+        "prices": {
+            "Vicious Cacao 100ml": {
+                "original_price": 109.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Maison Tahité Eau de Parfum FLORANILLA                        100 ML",
+        "url": "https://www.douglas.de/de/p/5010904006",
+        "prices": {
+            "100 ml": {
+                "original_price": 102.29,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Maison Tahité Eau de Parfum VANILLA²                          100 ML",
+        "url": "https://www.douglas.de/de/p/5010904007",
+        "prices": {
+            "100 ml": {
+                "original_price": 98.0,
+                "reduced_price": 78.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Maison Tahité Eau de Parfum Cacao²",
+        "url": "https://www.douglas.de/de/p/5010953015",
+        "prices": {
+            "100 ml": {
+                "original_price": 102.29,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Maison Tahité Eau de Parfum VELVET COFFEE",
+        "url": "https://www.douglas.de/de/p/5011565037",
+        "prices": {
+            "100 ml": {
+                "original_price": 102.29,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Maison Tahité Eau de Parfum SEL VANILLE",
+        "url": "https://www.douglas.de/de/p/5010909021",
+        "prices": {
+            "100 ml": {
+                "original_price": 102.29,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Maison Tahité Eau de Parfum Vanillade",
+        "url": "https://www.douglas.de/de/p/5011591047",
+        "prices": {
+            "100 ml": {
+                "original_price": 102.29,
+                "reduced_price": null
+            }
+        }
+    }
+]

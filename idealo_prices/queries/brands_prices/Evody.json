@@ -1,0 +1,120 @@
+[
+    {
+        "perfume_name": "Evody Parfum Desert Nocturne Extrait de Parfum",
+        "url": "https://www.douglas.de/de/p/m000277420",
+        "prices": {
+            "30 ml": {
+                "original_price": 130.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Evody Eau de Parfum Sens Abstrait Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m000087202",
+        "prices": {
+            "100 ml": {
+                "original_price": 200.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Evody Eau de Parfum D´Ame De Pique",
+        "url": "https://www.douglas.de/de/p/3001025040?variant=895233",
+        "prices": {
+            "50 ml": {
+                "original_price": 109.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 169.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Evody Eau de Parfum Onde 7 Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m000262995",
+        "prices": {
+            "100 ml": {
+                "original_price": 170.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Evody Parfum Sable Pourpre Extrait de Parfum",
+        "url": "https://www.douglas.de/de/p/m000277362",
+        "prices": {
+            "30 ml": {
+                "original_price": 130.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Evody Parfum Cité Onirique Extrait de Parfum",
+        "url": "https://www.douglas.de/de/p/m000277363",
+        "prices": {
+            "30 ml": {
+                "original_price": 130.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Evody Eau de Parfum Noir D´Orient",
+        "url": "https://www.douglas.de/de/p/3001025034",
+        "prices": {
+            "100 ml": {
+                "original_price": 169.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Evody Eau de Parfum Zeste d'Or Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m000087427?variant=m1319019",
+        "prices": {
+            "50 ml": {
+                "original_price": 100.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Evody Eau de Parfum Ambre Intense Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m000087343",
+        "prices": {
+            "100 ml": {
+                "original_price": 150.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Evody Eau de Parfum Blanc de Sienne",
+        "url": "https://www.douglas.de/de/p/3001025033",
+        "prices": {
+            "50 ml": {
+                "original_price": 110.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Evody Eau de Parfum Fleur d'Oranger Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/m000087443?variant=m1319062",
+        "prices": {
+            "50 ml": {
+                "original_price": 100.09,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 150.09,
+                "reduced_price": null
+            }
+        }
+    }
+]

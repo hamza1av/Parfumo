@@ -1,0 +1,26 @@
+[
+    {
+        "perfume_name": "Linola Körpercreme LINOLA Schutz-Balsam 100 ml",
+        "url": "https://www.douglas.de/de/p/m000295082?variant=m1366184",
+        "prices": {
+            "1x 50ml": {
+                "original_price": 20.69,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 28.19,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Linola Körpercreme LINOLA PLUS Creme",
+        "url": "https://www.douglas.de/de/p/m000207933",
+        "prices": {
+            "50 ml": {
+                "original_price": 29.29,
+                "reduced_price": null
+            }
+        }
+    }
+]

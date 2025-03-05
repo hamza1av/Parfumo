@@ -1,0 +1,72 @@
+[
+    {
+        "perfume_name": "Poseidon Eau de Toilette Poseidon Classic",
+        "url": "https://www.douglas.de/de/p/5011109145",
+        "prices": {
+            "150 ml": {
+                "original_price": 24.09,
+                "reduced_price": 20.47
+            }
+        }
+    },
+    {
+        "perfume_name": "Poseidon Eau de Toilette Blue",
+        "url": "https://www.douglas.de/de/p/5011254042",
+        "prices": {
+            "150 ml": {
+                "original_price": 28.59,
+                "reduced_price": 24.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Poseidon Eau de Toilette Poseidon Gold Ocean For Men Eau De Toilette Spray",
+        "url": "https://www.douglas.de/de/p/m001009071",
+        "prices": {
+            "150 ml": {
+                "original_price": 23.12,
+                "reduced_price": 19.65
+            }
+        }
+    },
+    {
+        "perfume_name": "Poseidon Duftset King Man Fall",
+        "url": "https://www.douglas.de/de/p/5010955840",
+        "prices": {
+            "150 ml": {
+                "original_price": 27.38,
+                "reduced_price": 22.79
+            }
+        }
+    },
+    {
+        "perfume_name": "Poseidon Eau de Toilette Poseidon Indomito For Men Eau De Toilette Spray",
+        "url": "https://www.douglas.de/de/p/m001009072",
+        "prices": {
+            "150 ml": {
+                "original_price": 25.82,
+                "reduced_price": 21.94
+            }
+        }
+    },
+    {
+        "perfume_name": "Poseidon Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5010991171",
+        "prices": {
+            "150 ml": {
+                "original_price": 28.39,
+                "reduced_price": 23.69
+            }
+        }
+    },
+    {
+        "perfume_name": "Poseidon Eau de Toilette Gold",
+        "url": "https://www.douglas.de/de/p/5011223053",
+        "prices": {
+            "150 ml": {
+                "original_price": 26.59,
+                "reduced_price": 21.69
+            }
+        }
+    }
+]

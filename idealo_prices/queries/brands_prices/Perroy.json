@@ -1,0 +1,152 @@
+[
+    {
+        "perfume_name": "Perroy Eau de Parfum Mood Palette",
+        "url": "https://www.douglas.de/de/p/m002269057",
+        "prices": {
+            "120ml": {
+                "original_price": 149.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Perroy Eau de Parfum Gold Fawn",
+        "url": "https://www.douglas.de/de/p/m002269059",
+        "prices": {
+            "15ml": {
+                "original_price": 24.99,
+                "reduced_price": null
+            },
+            "50ml": {
+                "original_price": 79.99,
+                "reduced_price": null
+            },
+            "100ml": {
+                "original_price": 119.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Perroy Eau de Parfum Azure Blush",
+        "url": "https://www.douglas.de/de/p/m002269063",
+        "prices": {
+            "50ml": {
+                "original_price": 79.99,
+                "reduced_price": null
+            },
+            "100ml": {
+                "original_price": 119.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Perroy Eau de Parfum Tangerine Pearl",
+        "url": "https://www.douglas.de/de/p/m002269061?variant=m3505116",
+        "prices": {
+            "15ml": {
+                "original_price": 24.99,
+                "reduced_price": null
+            },
+            "50ml": {
+                "original_price": 79.99,
+                "reduced_price": null
+            },
+            "100ml": {
+                "original_price": 119.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Perroy Eau de Parfum Mahogany Sun",
+        "url": "https://www.douglas.de/de/p/m002269062?variant=m3505110",
+        "prices": {
+            "15ml": {
+                "original_price": 24.99,
+                "reduced_price": null
+            },
+            "50ml": {
+                "original_price": 79.99,
+                "reduced_price": null
+            },
+            "100ml": {
+                "original_price": 119.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Perroy Eau de Parfum Blue Forrest",
+        "url": "https://www.douglas.de/de/p/m002269058?variant=m3505105",
+        "prices": {
+            "15ml": {
+                "original_price": 24.99,
+                "reduced_price": null
+            },
+            "50ml": {
+                "original_price": 79.99,
+                "reduced_price": null
+            },
+            "100ml": {
+                "original_price": 119.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Perroy Eau de Parfum Blond Purple",
+        "url": "https://www.douglas.de/de/p/m002269060?variant=m3505108",
+        "prices": {
+            "15ml": {
+                "original_price": 24.99,
+                "reduced_price": null
+            },
+            "50ml": {
+                "original_price": 79.99,
+                "reduced_price": null
+            },
+            "100ml": {
+                "original_price": 119.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Perroy Eau de Parfum Ivory Sky",
+        "url": "https://www.douglas.de/de/p/m002269056?variant=m3505106",
+        "prices": {
+            "15ml": {
+                "original_price": 24.99,
+                "reduced_price": null
+            },
+            "50ml": {
+                "original_price": 79.99,
+                "reduced_price": null
+            },
+            "100ml": {
+                "original_price": 119.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Perroy Eau de Parfum Pink Fire",
+        "url": "https://www.douglas.de/de/p/m002269064",
+        "prices": {
+            "15ml": {
+                "original_price": 24.99,
+                "reduced_price": null
+            },
+            "50ml": {
+                "original_price": 79.99,
+                "reduced_price": null
+            },
+            "100ml": {
+                "original_price": 119.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

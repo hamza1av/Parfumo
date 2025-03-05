@@ -1,0 +1,52 @@
+[
+    {
+        "perfume_name": "NIKOS SCULPTURE Eau de Parfum Nikos Sculpture AIR DE LUNE eau de Parfum",
+        "url": "https://www.douglas.de/de/p/m002169022",
+        "prices": {
+            "100ml": {
+                "original_price": 119.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "NIKOS SCULPTURE Eau de Parfum Nikos Sculpture MYKONOS Intense Parfum",
+        "url": "https://www.douglas.de/de/p/m001811104",
+        "prices": {
+            "Nikos Sculpture MYKONOS Intense Parfum 100ml": {
+                "original_price": 89.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "NIKOS SCULPTURE Eau de Parfum Nikos Sculpture VOYAGE EN ORIENT Parfum",
+        "url": "https://www.douglas.de/de/p/m001995000",
+        "prices": {
+            "Nikos Sculpture VOYAGE EN ORIENT Parfum 100ml": {
+                "original_price": 119.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "NIKOS SCULPTURE Eau de Parfum Nikos Sculpture REVERIE eau de Parfum",
+        "url": "https://www.douglas.de/de/p/m002169023",
+        "prices": {
+            "100ml": {
+                "original_price": 119.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "NIKOS SCULPTURE Eau de Parfum Nikos Sculpture Intense Parfum",
+        "url": "https://www.douglas.de/de/p/m001206808",
+        "prices": {
+            "Nikos Sculpture Intense Parfum 100ml": {
+                "original_price": 79.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

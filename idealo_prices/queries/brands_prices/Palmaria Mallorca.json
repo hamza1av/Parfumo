@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "Palmaria Mallorca Eau de Cologne Orange Blossom Eau de Cologne Spray",
+        "url": "https://www.douglas.de/de/p/m001825042",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Palmaria Mallorca Eau de Cologne Vent d´Estiu Eau de Cologne Spray",
+        "url": "https://www.douglas.de/de/p/m001825030",
+        "prices": {
+            "100 ml": {
+                "original_price": 39.99,
+                "reduced_price": null
+            }
+        }
+    }
+]

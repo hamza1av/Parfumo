@@ -1,0 +1,292 @@
+[
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/5011168783",
+        "prices": {
+            "30 ml": {
+                "original_price": 50.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Parfum Signorina",
+        "url": "https://www.douglas.de/de/p/5011406104",
+        "prices": {
+            "30 ml": {
+                "original_price": 57.0,
+                "reduced_price": 38.95
+            },
+            "50 ml": {
+                "original_price": 85.5,
+                "reduced_price": 68.4
+            },
+            "100 ml": {
+                "original_price": 119.0,
+                "reduced_price": 95.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Toilette Bright Leather",
+        "url": "https://www.douglas.de/de/p/5010707013",
+        "prices": {
+            "30 ml": {
+                "original_price": 51.0,
+                "reduced_price": 47.99
+            },
+            "50 ml": {
+                "original_price": 69.0,
+                "reduced_price": 61.89
+            },
+            "100 ml": {
+                "original_price": 98.0,
+                "reduced_price": 92.39
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Parfum Giungle di Seta",
+        "url": "https://www.douglas.de/de/p/5010138000",
+        "prices": {
+            "50 ml": {
+                "original_price": 81.0,
+                "reduced_price": 71.59
+            },
+            "100 ml": {
+                "original_price": 107.0,
+                "reduced_price": 94.29
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Parfum Signorina",
+        "url": "https://www.douglas.de/de/p/3000053466?variant=153347",
+        "prices": {
+            "30 ml": {
+                "original_price": 57.0,
+                "reduced_price": 45.6
+            },
+            "100 ml": {
+                "original_price": 119.0,
+                "reduced_price": 118.59
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Parfum Savane di Seta Savane di Seta E.d.P. Nat. Spray",
+        "url": "https://www.douglas.de/de/p/5010138001?variant=034842",
+        "prices": {
+            "50 ml": {
+                "original_price": 81.0,
+                "reduced_price": 71.59
+            },
+            "100 ml": {
+                "original_price": 107.0,
+                "reduced_price": 99.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Toilette Acqua Essenziale",
+        "url": "https://www.douglas.de/de/p/5010529573",
+        "prices": {
+            "100 ml": {
+                "original_price": 82.0,
+                "reduced_price": 42.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Toilette Uomo",
+        "url": "https://www.douglas.de/de/p/3001031325?variant=940292",
+        "prices": {
+            "30 ml": {
+                "original_price": 49.0,
+                "reduced_price": 39.2
+            },
+            "100 ml": {
+                "original_price": 95.0,
+                "reduced_price": 64.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Toilette Urban Feel",
+        "url": "https://www.douglas.de/de/p/3011043780?variant=266831",
+        "prices": {
+            "100 ml": {
+                "original_price": 89.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Parfum Signorina Eleganza",
+        "url": "https://www.douglas.de/de/p/3001002220?variant=153339",
+        "prices": {
+            "50 ml": {
+                "original_price": 85.5,
+                "reduced_price": 59.5
+            },
+            "100 ml": {
+                "original_price": 119.0,
+                "reduced_price": 81.9
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Parfum Giardini di Seta Giardini di Seta E.d.P. Nat. Spray",
+        "url": "https://www.douglas.de/de/p/5010137015",
+        "prices": {
+            "50 ml": {
+                "original_price": 81.0,
+                "reduced_price": 65.89
+            },
+            "100 ml": {
+                "original_price": 107.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Parfum Foreste di Seta",
+        "url": "https://www.douglas.de/de/p/5010952009",
+        "prices": {
+            "50 ml": {
+                "original_price": 81.0,
+                "reduced_price": 55.35
+            },
+            "100 ml": {
+                "original_price": 107.0,
+                "reduced_price": 82.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Parfum Amo Ferragamo",
+        "url": "https://www.douglas.de/de/p/3001041458",
+        "prices": {
+            "30 ml": {
+                "original_price": 61.0,
+                "reduced_price": 41.69
+            },
+            "100 ml": {
+                "original_price": 118.0,
+                "reduced_price": 94.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Parfum Cieli di Seta",
+        "url": "https://www.douglas.de/de/p/5010952010?variant=1086729",
+        "prices": {
+            "50 ml": {
+                "original_price": 81.0,
+                "reduced_price": 79.99
+            },
+            "100 ml": {
+                "original_price": 107.0,
+                "reduced_price": 93.59
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Parfum Red Leather",
+        "url": "https://www.douglas.de/de/p/5011378023",
+        "prices": {
+            "50 ml": {
+                "original_price": 72.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 103.99,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Toilette Ferragamo",
+        "url": "https://www.douglas.de/de/p/5001698036?variant=473227",
+        "prices": {
+            "50 ml": {
+                "original_price": 69.0,
+                "reduced_price": 47.6
+            },
+            "100 ml": {
+                "original_price": 98.0,
+                "reduced_price": 92.29
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Parfum Oceani di Seta Oceani di Seta E.d.P. Nat. Spray",
+        "url": "https://www.douglas.de/de/p/5010138002",
+        "prices": {
+            "50 ml": {
+                "original_price": 81.0,
+                "reduced_price": 79.99
+            },
+            "100 ml": {
+                "original_price": 107.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Toilette Signiora Ribelle Eau de Parfum Spray",
+        "url": "https://www.douglas.de/de/p/5000007000?variant=310425",
+        "prices": {
+            "50 ml": {
+                "original_price": 86.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 119.0,
+                "reduced_price": 117.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Parfum Signorina Misteriosa",
+        "url": "https://www.douglas.de/de/p/3001026482",
+        "prices": {
+            "30 ml": {
+                "original_price": 57.0,
+                "reduced_price": 42.0
+            },
+            "50 ml": {
+                "original_price": 85.5,
+                "reduced_price": 81.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Toilette F by Ferragamo",
+        "url": "https://www.douglas.de/de/p/3000047053",
+        "prices": {
+            "100 ml": {
+                "original_price": 66.0,
+                "reduced_price": 48.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Salvatore Ferragamo Eau de Parfum Ferragamo Intense Leather",
+        "url": "https://www.douglas.de/de/p/5009972062?variant=015608",
+        "prices": {
+            "30 ml": {
+                "original_price": 54.0,
+                "reduced_price": 50.89
+            },
+            "50 ml": {
+                "original_price": 72.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 104.0,
+                "reduced_price": 97.89
+            }
+        }
+    }
+]

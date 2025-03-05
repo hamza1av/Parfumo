@@ -1,0 +1,22 @@
+[
+    {
+        "perfume_name": "SENSAI Eau de Parfum THE SILK",
+        "url": "https://www.douglas.de/de/p/3001017614",
+        "prices": {
+            "50 ml": {
+                "original_price": 114.4,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "SENSAI Eau de Toilette THE SILK  - Eau de Toilette",
+        "url": "https://www.douglas.de/de/p/3001017613",
+        "prices": {
+            "50 ml": {
+                "original_price": 95.2,
+                "reduced_price": null
+            }
+        }
+    }
+]

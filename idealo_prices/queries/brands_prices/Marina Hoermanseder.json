@@ -1,0 +1,42 @@
+[
+    {
+        "perfume_name": "Marina Hoermanseder Parfum Hoermanseder Berlin Nights",
+        "url": "https://www.douglas.de/de/p/5011434047",
+        "prices": {
+            "100 ml": {
+                "original_price": 49.9,
+                "reduced_price": 39.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Marina Hoermanseder Eau de Parfum HOERMANSEDER MITTE GARDEN",
+        "url": "https://www.douglas.de/de/p/5011014038",
+        "prices": {
+            "100 ml": {
+                "original_price": 49.9,
+                "reduced_price": 39.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Marina Hoermanseder Eau de Parfum HOERMANSEDER ATELIER X-BERG",
+        "url": "https://www.douglas.de/de/p/5010983098",
+        "prices": {
+            "100 ml": {
+                "original_price": 49.9,
+                "reduced_price": 39.92
+            }
+        }
+    },
+    {
+        "perfume_name": "Marina Hoermanseder Parfum Hoermanseder Berlin Mornings",
+        "url": "https://www.douglas.de/de/p/5011442043",
+        "prices": {
+            "100 ml": {
+                "original_price": 49.9,
+                "reduced_price": 39.92
+            }
+        }
+    }
+]

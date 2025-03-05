@@ -1,0 +1,68 @@
+[
+    {
+        "perfume_name": "Sarah Jessica Parker Eau de Parfum Lovely EdP Spray",
+        "url": "https://www.douglas.de/de/p/5010713078?variant=484589",
+        "prices": {
+            "30 ml": {
+                "original_price": 25.49,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 24.39,
+                "reduced_price": 20.73
+            },
+            "100 ml": {
+                "original_price": 37.29,
+                "reduced_price": null
+            },
+            "150 ml": {
+                "original_price": 68.89,
+                "reduced_price": 39.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Sarah Jessica Parker Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5010864036",
+        "prices": {
+            "100 ml": {
+                "original_price": 46.5,
+                "reduced_price": 35.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Sarah Jessica Parker Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5010713106",
+        "prices": {
+            "30 ml": {
+                "original_price": 25.76,
+                "reduced_price": 21.69
+            },
+            "50 ml": {
+                "original_price": 34.95,
+                "reduced_price": 29.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Sarah Jessica Parker Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5010713107",
+        "prices": {
+            "100 ml": {
+                "original_price": 46.5,
+                "reduced_price": 39.19
+            }
+        }
+    },
+    {
+        "perfume_name": "Sarah Jessica Parker Eau de Parfum",
+        "url": "https://www.douglas.de/de/p/5011163311",
+        "prices": {
+            "100 ml": {
+                "original_price": 46.5,
+                "reduced_price": 31.59
+            }
+        }
+    }
+]

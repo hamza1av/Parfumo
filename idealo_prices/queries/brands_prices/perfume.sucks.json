@@ -1,0 +1,130 @@
+[
+    {
+        "perfume_name": "perfume.sucks Eau de Parfum X SASHA FROLOVA G",
+        "url": "https://www.douglas.de/de/p/5011545322",
+        "prices": {
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "perfume.sucks Parfum Conspiracy Line Flash 0021 Extrait de Parfum",
+        "url": "https://www.douglas.de/de/p/m002011125",
+        "prices": {
+            "30 ml": {
+                "original_price": 145.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "perfume.sucks Eau de Parfum GREEN 368C G",
+        "url": "https://www.douglas.de/de/p/5011545316",
+        "prices": {
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "perfume.sucks Parfum Color Collection Yellow 133C Extrait de Parfum",
+        "url": "https://www.douglas.de/de/p/m002014154",
+        "prices": {
+            "30 ml": {
+                "original_price": 73.09,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 99.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "perfume.sucks Parfum Collaboration Series PS X Sasha Frolova Extrait de Parfum",
+        "url": "https://www.douglas.de/de/p/m002014151?variant=m3241285",
+        "prices": {
+            "30 ml": {
+                "original_price": 73.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "perfume.sucks Eau de Parfum CORAL 16-1546C G",
+        "url": "https://www.douglas.de/de/p/5011545317",
+        "prices": {
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "perfume.sucks Eau de Parfum PURPLE 222C K",
+        "url": "https://www.douglas.de/de/p/5011545321",
+        "prices": {
+            "30 ml": {
+                "original_price": 72.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "perfume.sucks Eau de Parfum CORAL 16-1546C K",
+        "url": "https://www.douglas.de/de/p/5011545320",
+        "prices": {
+            "30 ml": {
+                "original_price": 72.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "perfume.sucks Eau de Parfum GREEN 368C K",
+        "url": "https://www.douglas.de/de/p/5011545319",
+        "prices": {
+            "30 ml": {
+                "original_price": 72.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "perfume.sucks Parfum Color Collection Blue 3135C Extrait de Parfum",
+        "url": "https://www.douglas.de/de/p/m002014155?variant=m3241283",
+        "prices": {
+            "50 ml": {
+                "original_price": 99.09,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "perfume.sucks Eau de Parfum Red 198C",
+        "url": "https://www.douglas.de/de/p/5011545171",
+        "prices": {
+            "30 ml": {
+                "original_price": 72.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 99.0,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "perfume.sucks Parfum CONSPIRACY WEALTH",
+        "url": "https://www.douglas.de/de/p/5011545324",
+        "prices": {
+            "30 ml": {
+                "original_price": 145.0,
+                "reduced_price": null
+            }
+        }
+    }
+]

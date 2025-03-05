@@ -1,0 +1,370 @@
+[
+    {
+        "perfume_name": "MUGLER Eau de Parfum Alien Goddess Intense",
+        "url": "https://www.douglas.de/de/p/5010662016?variant=1027917",
+        "prices": {
+            "60 ml": {
+                "original_price": 132.0,
+                "reduced_price": 99.0
+            },
+            "90 ml": {
+                "original_price": 170.0,
+                "reduced_price": 127.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Duftset Angel Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011564078",
+        "prices": {
+            "1 Stück": {
+                "original_price": 82.69,
+                "reduced_price": null
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Duftset Alien Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011727013",
+        "prices": {
+            "1 Stück": {
+                "original_price": 82.0,
+                "reduced_price": 65.6
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Eau de Parfum Alien - nachfüllbar",
+        "url": "https://www.douglas.de/de/p/2001003772?variant=913048",
+        "prices": {
+            "30 ml": {
+                "original_price": 79.0,
+                "reduced_price": 47.95
+            },
+            "60 ml": {
+                "original_price": 120.0,
+                "reduced_price": 76.45
+            },
+            "90 ml": {
+                "original_price": 155.0,
+                "reduced_price": 92.8
+            },
+            "100 ml - Refill": {
+                "original_price": 130.0,
+                "reduced_price": 97.44
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Eau de Toilette A*Men Rubber",
+        "url": "https://www.douglas.de/de/p/5009484011",
+        "prices": {
+            "50 ml": {
+                "original_price": 69.0,
+                "reduced_price": 55.2
+            },
+            "100 ml": {
+                "original_price": 92.0,
+                "reduced_price": 73.6
+            },
+            "100 ml - Refill": {
+                "original_price": 81.0,
+                "reduced_price": 64.8
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Eau de Toilette Angel",
+        "url": "https://www.douglas.de/de/p/3011043766?variant=568417",
+        "prices": {
+            "50 ml": {
+                "original_price": 90.0,
+                "reduced_price": 89.79
+            },
+            "100 ml": {
+                "original_price": 140.0,
+                "reduced_price": 99.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Bodylotion Alien Verschönernde Körperlotion",
+        "url": "https://www.douglas.de/de/p/5010067970",
+        "prices": {
+            "200 ml": {
+                "original_price": 49.0,
+                "reduced_price": 39.2
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Eau de Parfum Angel Nova",
+        "url": "https://www.douglas.de/de/p/5002439027?variant=669018",
+        "prices": {
+            "30 ml": {
+                "original_price": 82.0,
+                "reduced_price": 59.99
+            },
+            "50 ml": {
+                "original_price": 112.0,
+                "reduced_price": 77.99
+            },
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            },
+            "100 ml - Refill": {
+                "original_price": 140.0,
+                "reduced_price": 103.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Bodylotion Angel Perfuming Body Lotion",
+        "url": "https://www.douglas.de/de/p/3001055826?variant=1158847",
+        "prices": {
+            "200 ml": {
+                "original_price": 49.0,
+                "reduced_price": 39.2
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Eau de Parfum Alien Goddess Supra Florale",
+        "url": "https://www.douglas.de/de/p/5010965401?variant=1092372",
+        "prices": {
+            "30 ml": {
+                "original_price": 79.0,
+                "reduced_price": 57.99
+            },
+            "60 ml": {
+                "original_price": 120.0,
+                "reduced_price": 79.99
+            },
+            "90 ml": {
+                "original_price": 155.0,
+                "reduced_price": 124.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Eau de Parfum Angel Refillable",
+        "url": "https://www.douglas.de/de/p/1016601303?variant=833538",
+        "prices": {
+            "25 ml": {
+                "original_price": 79.0,
+                "reduced_price": 57.99
+            },
+            "50 ml": {
+                "original_price": 120.0,
+                "reduced_price": 89.0
+            },
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            },
+            "100 ml - Refill": {
+                "original_price": 140.0,
+                "reduced_price": 107.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Duftset Angel Elixir Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011564076",
+        "prices": {
+            "1 Stück": {
+                "original_price": 125.0,
+                "reduced_price": 86.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Duftset Alien Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011562104",
+        "prices": {
+            "1 Stück": {
+                "original_price": 125.0,
+                "reduced_price": 63.99
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Eau de Parfum A*Men Fantasm",
+        "url": "https://www.douglas.de/de/p/5011455053",
+        "prices": {
+            "50 ml": {
+                "original_price": 75.0,
+                "reduced_price": 60.0
+            },
+            "100 ml": {
+                "original_price": 102.0,
+                "reduced_price": 98.59
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Eau de Toilette Alien",
+        "url": "https://www.douglas.de/de/p/3000031066",
+        "prices": {
+            "30 ml": {
+                "original_price": 69.0,
+                "reduced_price": 55.2
+            },
+            "60 ml": {
+                "original_price": 107.0,
+                "reduced_price": 85.6
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Eau de Parfum Alien Intense",
+        "url": "https://www.douglas.de/de/p/5011699065",
+        "prices": {
+            "30 ml": {
+                "original_price": 87.0,
+                "reduced_price": 69.6
+            },
+            "60 ml": {
+                "original_price": 132.0,
+                "reduced_price": 105.6
+            },
+            "90 ml": {
+                "original_price": 170.0,
+                "reduced_price": 136.0
+            },
+            "100 ml": {
+                "original_price": 143.0,
+                "reduced_price": 114.4
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Duftset Alien Goddess Eau de Parfum Set",
+        "url": "https://www.douglas.de/de/p/5011564071",
+        "prices": {
+            "1 Stück": {
+                "original_price": 125.0,
+                "reduced_price": 94.49
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Eau de Parfum Angel Elixir",
+        "url": "https://www.douglas.de/de/p/5010872008?variant=1073326",
+        "prices": {
+            "25 ml": {
+                "original_price": 79.0,
+                "reduced_price": 63.2
+            },
+            "50 ml": {
+                "original_price": 120.0,
+                "reduced_price": 84.0
+            },
+            "100 ml - Refill": {
+                "original_price": 140.0,
+                "reduced_price": 112.0
+            },
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Eau de Parfum Alien Hypersense",
+        "url": "https://www.douglas.de/de/p/5011277002",
+        "prices": {
+            "30 ml": {
+                "original_price": 79.0,
+                "reduced_price": 63.2
+            },
+            "60 ml": {
+                "original_price": 120.0,
+                "reduced_price": 96.0
+            },
+            "90 ml": {
+                "original_price": 155.0,
+                "reduced_price": 124.0
+            },
+            "100 ml - Refill": {
+                "original_price": 130.0,
+                "reduced_price": 104.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Eau de Parfum Aura Mugler",
+        "url": "https://www.douglas.de/de/p/3001038307?variant=1036503",
+        "prices": {
+            "100 ml - Refill": {
+                "original_price": 130.0,
+                "reduced_price": 104.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Eau de Parfum Angel Fantasm",
+        "url": "https://www.douglas.de/de/p/5011455051?variant=1185996",
+        "prices": {
+            "25 ml": {
+                "original_price": 79.0,
+                "reduced_price": 63.2
+            },
+            "50 ml": {
+                "original_price": 120.0,
+                "reduced_price": 96.0
+            },
+            "100 ml - Refill": {
+                "original_price": 140.0,
+                "reduced_price": 112.0
+            },
+            "100 ml": {
+                "original_price": 165.0,
+                "reduced_price": 132.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Eau de Parfum Alien Goddess",
+        "url": "https://www.douglas.de/de/p/5010138023?variant=218467",
+        "prices": {
+            "30ml": {
+                "original_price": 79.0,
+                "reduced_price": 51.99
+            },
+            "60ml": {
+                "original_price": 120.0,
+                "reduced_price": 77.99
+            },
+            "90ml": {
+                "original_price": 155.0,
+                "reduced_price": 99.0
+            },
+            "100 ml - Refill": {
+                "original_price": 130.0,
+                "reduced_price": 104.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Eau de Parfum Womanity",
+        "url": "https://www.douglas.de/de/p/5009950042?variant=1036502",
+        "prices": {
+            "100 ml - Refill": {
+                "original_price": 105.0,
+                "reduced_price": 84.0
+            }
+        }
+    },
+    {
+        "perfume_name": "MUGLER Deodorant Alien",
+        "url": "https://www.douglas.de/de/p/5010000072",
+        "prices": {
+            "100 ml": {
+                "original_price": 49.0,
+                "reduced_price": 39.2
+            }
+        }
+    }
+]

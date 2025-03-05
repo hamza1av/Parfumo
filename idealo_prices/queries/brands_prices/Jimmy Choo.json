@@ -1,0 +1,296 @@
+[
+    {
+        "perfume_name": "Jimmy Choo Eau de Parfum Fever",
+        "url": "https://www.douglas.de/de/p/3001046371",
+        "prices": {
+            "40 ml": {
+                "original_price": 61.0,
+                "reduced_price": 48.8
+            },
+            "100 ml": {
+                "original_price": 121.0,
+                "reduced_price": 96.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Jimmy Choo Eau de Parfum Pour Femme",
+        "url": "https://www.douglas.de/de/p/3000042728",
+        "prices": {
+            "40 ml": {
+                "original_price": 61.0,
+                "reduced_price": 48.8
+            },
+            "60 ml": {
+                "original_price": 89.0,
+                "reduced_price": 71.2
+            },
+            "100 ml": {
+                "original_price": 121.0,
+                "reduced_price": 96.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Jimmy Choo Eau de Toilette Man Ice",
+        "url": "https://www.douglas.de/de/p/3001035576?variant=960791",
+        "prices": {
+            "30 ml": {
+                "original_price": 49.0,
+                "reduced_price": 39.2
+            },
+            "50 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Jimmy Choo Parfum I Want Choo Le Parfum",
+        "url": "https://www.douglas.de/de/p/5011530056",
+        "prices": {
+            "40 ml": {
+                "original_price": 64.0,
+                "reduced_price": 51.2
+            },
+            "60 ml": {
+                "original_price": 101.0,
+                "reduced_price": 79.99
+            }
+        }
+    },
+    {
+        "perfume_name": "Jimmy Choo Eau de Toilette Man Aqua",
+        "url": "https://www.douglas.de/de/p/5010641211?variant=1001422",
+        "prices": {
+            "30 ml": {
+                "original_price": 51.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 72.0,
+                "reduced_price": 57.6
+            },
+            "100 ml": {
+                "original_price": 99.0,
+                "reduced_price": 79.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Jimmy Choo Eau de Parfum Blossom",
+        "url": "https://www.douglas.de/de/p/3001009918",
+        "prices": {
+            "40 ml": {
+                "original_price": 51.0,
+                "reduced_price": 40.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Jimmy Choo Eau de Toilette Man Blue Blue",
+        "url": "https://www.douglas.de/de/p/3001045295",
+        "prices": {
+            "30 ml": {
+                "original_price": 49.0,
+                "reduced_price": 39.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Jimmy Choo Eau de Toilette Floral",
+        "url": "https://www.douglas.de/de/p/3001054309",
+        "prices": {
+            "40 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "60 ml": {
+                "original_price": 74.0,
+                "reduced_price": 59.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Jimmy Choo Eau de Toilette Pour Femme",
+        "url": "https://www.douglas.de/de/p/3000052070",
+        "prices": {
+            "40 ml": {
+                "original_price": 50.0,
+                "reduced_price": 40.0
+            },
+            "60 ml": {
+                "original_price": 77.0,
+                "reduced_price": 61.6
+            },
+            "100 ml": {
+                "original_price": 111.0,
+                "reduced_price": 88.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Jimmy Choo Eau de Parfum I Want Choo",
+        "url": "https://www.douglas.de/de/p/5009880000",
+        "prices": {
+            "40 ml": {
+                "original_price": 59.0,
+                "reduced_price": 47.2
+            },
+            "60 ml": {
+                "original_price": 93.0,
+                "reduced_price": 74.4
+            },
+            "100 ml": {
+                "original_price": 123.0,
+                "reduced_price": 98.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Jimmy Choo Eau de Parfum Rose Passion",
+        "url": "https://www.douglas.de/de/p/5010906012",
+        "prices": {
+            "40 ml": {
+                "original_price": 59.0,
+                "reduced_price": 47.2
+            },
+            "60 ml": {
+                "original_price": 86.0,
+                "reduced_price": 68.8
+            },
+            "100 ml": {
+                "original_price": 118.0,
+                "reduced_price": 94.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Jimmy Choo Eau de Toilette L'Eau L´Eau",
+        "url": "https://www.douglas.de/de/p/3001035333",
+        "prices": {
+            "40 ml": {
+                "original_price": 48.0,
+                "reduced_price": 38.4
+            },
+            "60 ml": {
+                "original_price": 74.0,
+                "reduced_price": 59.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Jimmy Choo Duftset Pour Femme Pour Femme Set",
+        "url": "https://www.douglas.de/de/p/5010807032",
+        "prices": {
+            "Set": {
+                "original_price": 89.0,
+                "reduced_price": 71.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Jimmy Choo Eau de Parfum I Want Choo Forever",
+        "url": "https://www.douglas.de/de/p/5010717033",
+        "prices": {
+            "40 ml": {
+                "original_price": 59.0,
+                "reduced_price": 47.2
+            },
+            "60 ml": {
+                "original_price": 93.0,
+                "reduced_price": 74.4
+            },
+            "100 ml": {
+                "original_price": 123.0,
+                "reduced_price": 98.4
+            }
+        }
+    },
+    {
+        "perfume_name": "Jimmy Choo Eau de Parfum Urban Hero Gold",
+        "url": "https://www.douglas.de/de/p/5010310067?variant=277714",
+        "prices": {
+            "50 ml": {
+                "original_price": 72.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Jimmy Choo Eau de Toilette Man",
+        "url": "https://www.douglas.de/de/p/3001008940?variant=833114",
+        "prices": {
+            "30 ml": {
+                "original_price": 51.0,
+                "reduced_price": 33.99
+            },
+            "50 ml": {
+                "original_price": 72.99,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 99.0,
+                "reduced_price": 79.2
+            }
+        }
+    },
+    {
+        "perfume_name": "Jimmy Choo Eau de Parfum Urban Hero Urban Hero",
+        "url": "https://www.douglas.de/de/p/5000143355",
+        "prices": {
+            "30 ml": {
+                "original_price": 49.0,
+                "reduced_price": 39.2
+            },
+            "50 ml": {
+                "original_price": 70.0,
+                "reduced_price": 56.0
+            },
+            "100 ml": {
+                "original_price": 96.0,
+                "reduced_price": 76.8
+            }
+        }
+    },
+    {
+        "perfume_name": "Jimmy Choo Eau de Parfum Illicit",
+        "url": "https://www.douglas.de/de/p/3001026985",
+        "prices": {
+            "40 ml": {
+                "original_price": 57.0,
+                "reduced_price": 45.6
+            },
+            "60 ml": {
+                "original_price": 85.0,
+                "reduced_price": 68.0
+            }
+        }
+    },
+    {
+        "perfume_name": "Jimmy Choo Eau de Parfum Man Extreme",
+        "url": "https://www.douglas.de/de/p/5011656161",
+        "prices": {
+            "30 ml": {
+                "original_price": 57.0,
+                "reduced_price": null
+            },
+            "50 ml": {
+                "original_price": 74.0,
+                "reduced_price": null
+            },
+            "100 ml": {
+                "original_price": 107.0,
+                "reduced_price": null
+            }
+        }
+    }
+]
