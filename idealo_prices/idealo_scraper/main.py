@@ -9,17 +9,18 @@ data = {
     'id': [1001, 1002, 1003, 1004, 1005]  # Optional unique identifiers
 }
 
-perfume_df = pd.DataFrame(data)
+# perfume_df = pd.DataFrame(data)
+perfume_df = pd.read_csv('sorted_perfumes.csv')
 
 # Create the scraper instance with checkpointing every 2 perfumes (for demo purposes)
-scraper = PerfumePriceScraper(checkpoint_dir="perfume_checkpoints", checkpoint_interval=2, max_results=5)
+scraper = PerfumePriceScraper(checkpoint_dir="perfume_checkpoints", checkpoint_interval=10, max_results=10)
 
 # Option 1: Process the entire dataset at once
 result_df = scraper.process_perfume_dataset(
     perfume_df, 
-    name_col='perfume_name', 
+    name_col='name', 
     brand_col='brand', 
-    id_col='id'
+    id_col='unique_id'
 )
 
 # Save final results
