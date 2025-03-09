@@ -1,7 +1,3 @@
-# Install required packages
-# pip install duckduckgo-search requests beautifulsoup4 pandas
-
-from duckduckgo_search import DDGS
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -13,12 +9,10 @@ import os
 import json
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
-
-
-EXCLUDED_SITES = ['pinterest', 'instagram', 'twitter', 'facebook', 'youtube', 'fragrantica', 'parfumo']
+import urllib.parse
 
 class PerfumePriceScraper:
-    def __init__(self, checkpoint_dir="checkpoints", checkpoint_interval=10):
+    def __init__(self, checkpoint_dir="checkpoints", checkpoint_interval=10, max_results=5):
         """
         Initialize the perfume price scraper.
         
@@ -26,7 +20,6 @@ class PerfumePriceScraper:
             checkpoint_dir (str): Directory to store checkpoint files
             checkpoint_interval (int): Save progress after this many perfumes
         """
-        self.ddgs = DDGS()
         self.checkpoint_dir = checkpoint_dir
         self.checkpoint_interval = checkpoint_interval
         
@@ -37,6 +30,8 @@ class PerfumePriceScraper:
         # Load processing history if it exists
         self.history_file = os.path.join(checkpoint_dir, "processing_history.json")
         self.processing_history = self._load_history()
+
+        self.max_results = max_results
         
         # User agent rotation list
         self.headers_list = [
@@ -164,127 +159,17 @@ class PerfumePriceScraper:
         """Return a randomly selected header from the list"""
         return random.choice(self.headers_list)
     
-    def search_perfume(self, perfume_name, brand=None, max_results=20):
-        """
-        Search for perfume information using DuckDuckGo.
-        
-        Args:
-            perfume_name (str): Name of the perfume
-            brand (str, optional): Brand name
-            max_results (int, optional): Maximum number of results to return
-            
-        Returns:
-            list: A list of search results
-        """
-        # Construct the search query
+    def search_perfume(self, perfume_name, brand=None):
 
-        query = f"{brand + ' ' if brand else ''}{perfume_name} perfume"
-        results = []
-
-        try:
-            search_results = self.ddgs.text(query, max_results=max_results * 2)
-            for result in search_results:
-                if any(site in result['href'].lower() for site in EXCLUDED_SITES):
-                    continue  # Skip unwanted sites
-
-                if any(ext in result['href'].lower() for ext in ['.pdf', '.doc', '.jpg', '.png']):
-                    continue
-
-                results.append({'title': result['title'], 'description': result['body'], 'url': result['href']})
-                if len(results) >= max_results:
-                    break
-
-            return results
-        except Exception as e:
-            print(f"Error searching for {perfume_name}: {str(e)}")
-            return []
-
-    def extract_sizes_from_text(self, text):
-        """
-        Extract potential perfume sizes from text.
+        query = f'{brand} {perfume_name}'
         
-        Args:
-            text (str): Text to search for sizes
-            
-        Returns:
-            list: List of standardized sizes in ml
-        """
-        # Regular expressions for common size formats
-        size_patterns = [
-            r'(\d+(?:\.\d+)?)\s*ml\b',  # 50ml, 100 ml
-            r'(\d+(?:\.\d+)?)\s*(?:fl\.?\s*oz|oz)\b',  # 1.7 fl oz, 3.4oz
-            r'(\d+(?:\.\d+)?)\s*milliliter\b',  # 50 milliliter
-            r'(\d+(?:\.\d+)?)\s*ounce\b',  # 1 ounce
-        ]
-        
-        found_sizes_ml = []
-        for pattern in size_patterns:
-            matches = re.findall(pattern, text.lower())
-            for match in matches:
-                try:
-                    size_value = float(match)
-                    # Convert to ml if needed
-                    if 'oz' in pattern or 'ounce' in pattern:
-                        size_value *= 29.57  # 1 fl oz ≈ 29.57 ml
-                    found_sizes_ml.append(round(size_value, 2))
-                except ValueError:
-                    continue
-        
-        # Remove duplicates and sort
-        return sorted(list(set(found_sizes_ml)))
+        base_url = 'https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q='
+        formatted_query = urllib.parse.quote_plus(query)
+        url = base_url + formatted_query
 
-    def extract_prices_from_text(self, text):
-        """
-        Extract potential prices from text.
-        
-        Args:
-            text (str): Text to search for prices
-            
-        Returns:
-            list: List of found prices
-        """
-        # Look for price patterns
-        price_patterns = [
-            r'\$\s*(\d+(?:\.\d{1,2})?)',  # $50, $50.99
-            r'(\d+(?:\.\d{1,2})?)\s*\$',  # 50$, 50.99$
-            r'€\s*(\d+(?:,\d{1,2})?)',    # €50, €50,99
-            r'(\d+(?:,\d{1,2})?)\s*€',    # 50€, 50,99€
-            r'£\s*(\d+(?:\.\d{1,2})?)',   # £50, £50.99
-            r'(\d+(?:\.\d{1,2})?)\s*£',   # 50£, 50.99£
-            r'(\d+(?:\.\d{1,2})?)\s*USD',  # 50 USD
-            r'(\d+(?:\.\d{1,2})?)\s*EUR',  # 50 EUR
-            r'(\d+(?:\.\d{1,2})?)\s*GBP'   # 50 GBP
-        ]
-        
-        found_prices = []
-        for pattern in price_patterns:
-            matches = re.findall(pattern, text)
-            for match in matches:
-                # Replace comma with dot for standardization
-                price = match.replace(',', '.')
-                try:
-                    found_prices.append(float(price))
-                except ValueError:
-                    continue
-        
-        return found_prices
+        response = requests.get(url, headers=self._get_random_headers())
 
-    def extract_prices_from_json_ld(self, soup):
-        prices = []
-        try:
-            scripts = soup.find_all("script", type="application/ld+json")
-            for script in scripts:
-                data = json.loads(script.string)
-                if isinstance(data, list):  # Handle multiple JSON-LD blocks
-                    for item in data:
-                        if "offers" in item and "price" in item["offers"]:
-                            prices.append(float(item["offers"]["price"]))
-                elif "offers" in data and "price" in data["offers"]:
-                    prices.append(float(data["offers"]["price"]))
-        except Exception as e:
-            print(f"Error extracting prices from JSON-LD: {e}")
-        
-        return prices
+        return response 
 
     def scrape_website(self, url, timeout=15):
         """
@@ -477,40 +362,17 @@ class PerfumePriceScraper:
             print(f"Using cached results for {brand} {perfume_name}")
             return self.processing_history[str(perfume_id)]['data']
             
-        print(f"Processing {brand} {perfume_name}...")
-        
         # Search for the perfume
-        search_results = self.search_perfume(perfume_name, brand)
-        
-        if not search_results:
-            print(f"No search results found for {brand} {perfume_name}")
-            return {'sizes_and_prices': {}}
-        
-        # Scrape each website
-        scrape_results = self.scrape_websites_parallel(search_results)
-        time.sleep(randint(2,5))
-        
-        # Map sizes to prices
-        size_price_map = self.map_sizes_to_prices(scrape_results)
-        
-        # Filter outliers and calculate statistics
-        result = {}
-        for size, prices in size_price_map.items():
-            if prices:
-                filtered_prices = self.filter_outliers(prices)
-                if filtered_prices:
-                    result[size] = {
-                        'min_price': min(filtered_prices),
-                        'max_price': max(filtered_prices),
-                        'avg_price': round(sum(filtered_prices) / len(filtered_prices), 2),
-                        'price_count': len(filtered_prices)
-                    }
-        
-        # Store results
-        data = {'sizes_and_prices': result}
-        self.mark_as_processed(perfume_id, data)
-        
-        return data
+        response = self.search_perfume(perfume_name, brand) 
+        if response.status_code == 200:
+            result = self.process_perfume_search(response.text, brand, perfume_name, max_results=self.max_results)
+            print(f"\033[32mSuccesfully scraped{brand} {perfume_name}\033[0m")  # Green text
+
+        else:
+            print(f"\033[31mFAILED TO PROCESS {brand} {perfume_name}\033[0m")  # Red text
+            result = []
+
+        return result 
     
     def process_perfume_dataset(self, df, name_col='perfume_name', brand_col='brand', id_col=None):
         """
@@ -541,9 +403,10 @@ class PerfumePriceScraper:
             else:
                 # Get sizes and prices
                 data = self.get_perfume_sizes_and_prices(perfume_name, brand, perfume_id)
+                time.sleep(random.randint(2,5))
             
             # Store results
-            result_df.at[i, 'sizes_and_prices'] = data['sizes_and_prices']
+            result_df.at[i, 'sizes_and_prices'] = data
             
             # Save checkpoint at regular intervals
             if (i + 1) % self.checkpoint_interval == 0:
@@ -560,27 +423,256 @@ class PerfumePriceScraper:
         # Save final history
         self._save_history()
         
-        # Explode the sizes_and_prices into separate rows
-        expanded_rows = []
-        for i, row in result_df.iterrows():
-            base_row = row.to_dict()
-            sizes_and_prices = base_row.pop('sizes_and_prices', {})
-            
-            if not sizes_and_prices:
-                # Keep the original row with no size/price data
-                expanded_rows.append(base_row)
-            else:
-                # Create a new row for each size
-                for size_ml, price_data in sizes_and_prices.items():
-                    new_row = base_row.copy()
-                    new_row['size_ml'] = size_ml
-                    new_row['min_price'] = price_data.get('min_price')
-                    new_row['max_price'] = price_data.get('max_price')
-                    new_row['avg_price'] = price_data.get('avg_price')
-                    new_row['price_count'] = price_data.get('price_count')
-                    expanded_rows.append(new_row)
-        
-        # Create the expanded dataframe
-        expanded_df = pd.DataFrame(expanded_rows)
+        expanded_df = pd.DataFrame(data)
         
         return expanded_df
+
+
+    def extract_perfume_data(self, html_content, brand=None, perfume_name=None, max_results=5):
+        """
+        Extract perfume data from HTML content, including price and bottle size.
+        
+        Parameters:
+        - html_content (str): The HTML content containing perfume search results
+        - brand (str, optional): Brand name that must be contained in the item title
+        - perfume_name (str, optional): Perfume name that must be contained in the item title
+        - max_results (int, optional): Maximum number of results to return, defaults to 5
+        
+        Returns:
+        - list: List of dictionaries containing extracted perfume data
+        """
+        print(f"Received HTML content of length: {len(html_content)}")
+        print(f"Searching for brand: {brand}, perfume_name: {perfume_name}")
+        
+        soup = BeautifulSoup(html_content, 'html.parser')
+        
+        # Find all result items - using a more general approach
+        result_items = soup.find_all('div', {'data-testid': 'resultItem'})
+        print(f"Found {len(result_items)} result items")
+        
+        perfumes = []
+        count = 0
+        
+        for item in result_items:
+            print(f"\nProcessing item {count + 1}")
+            
+            # Extract product title - using a more flexible approach
+            title_element = item.select_one('[data-testid="productSummary__title"]')
+            if not title_element:
+                print("No title element found, skipping")
+                continue
+                
+            title = title_element.text.strip()
+            print(f"Found title: {title}")
+            
+            # Check if both brand and perfume name are in the title (case insensitive)
+            title_lower = title.lower()
+            brand_match = True if brand is None else brand.lower() in title_lower
+            perfume_match = True if perfume_name is None else perfume_name.lower() in title_lower
+            
+            if not (brand_match and perfume_match):
+                print(f"Brand or perfume name not in title, skipping")
+                continue
+            
+            # Extract description for bottle size
+            desc_element = item.select_one('p.sr-productSummary__mainDetailsExpander_BZ5P5')
+            if not desc_element:
+                desc_element = item.select_one('.sr-productSummary__description_Okjc5 span')
+            
+            description = desc_element.text.strip() if desc_element else ""
+            print(f"Description: {description}")
+            
+            # Extract bottle size using regex or from title
+            bottle_size = None
+            # First try to find size in description
+            size_match = re.search(r'Inhalt in ml\s*(\d+(?:\.\d+)?)\s*ml', description)
+            if size_match:
+                bottle_size = size_match.group(1) + " ml"
+            else:
+                # Try to extract from title if it's in parentheses
+                size_match_title = re.search(r'\((\d+(?:\.\d+)?)ml\)', title)
+                if size_match_title:
+                    bottle_size = size_match_title.group(1) + " ml"
+            
+            print(f"Bottle size: {bottle_size}")
+            
+            # Extract price
+            price_element = item.select_one('[data-testid="detailedPriceInfo__price"]')
+            price = None
+            if price_element:
+                price_text = price_element.text.strip()
+                price_match = re.search(r'(\d+(?:\.\d+)?(?:,\d+)?)\s*€', price_text)
+                if price_match:
+                    price = price_match.group(1) + " €"
+            print(f"Price: {price}")
+            
+            # Extract base price per liter (if available)
+            base_price_element = item.select_one('[data-testid="detailedPriceInfo__basePrice"]')
+            base_price = None
+            if base_price_element:
+                base_price_text = base_price_element.text.strip()
+                base_price_match = re.search(r'\((\d+(?:\.\d+)?(?:,\d+)?)\s*€/Liter\)', base_price_text)
+                if base_price_match:
+                    base_price = base_price_match.group(1) + " €/Liter"
+            
+            # Get image URL
+            img_element = item.select_one('img')
+            image_url = img_element.get('src') if img_element else None
+            
+            # Get product URL
+            link_element = item.select_one('a[href]')
+            product_url = link_element.get('href') if link_element else None
+            
+            # Extract number of offers
+            offers_element = item.select_one('.sr-detailedPriceInfo__offerCount_PJByo')
+            offers_count = offers_element.text.strip() if offers_element else None
+            
+            # Create a structured data dictionary
+            perfume_data = {
+                'title': title,
+                'bottle_size': bottle_size,
+                'price': price,
+                'base_price': base_price,
+                'offers_count': offers_count,
+                'image_url': image_url,
+                'product_url': product_url,
+                'description': description
+            }
+            
+            perfumes.append(perfume_data)
+            print(f"Added perfume data: {title}")
+            
+            count += 1
+            if count >= max_results:
+                break
+        
+        print(f"Total perfumes found: {len(perfumes)}")
+        return perfumes
+
+    def extract_perfume_data_alternative(self, html_content, brand=None, perfume_name=None, max_results=5):
+        """
+        Alternative extraction method using direct HTML parsing
+        """
+        soup = BeautifulSoup(html_content, 'html.parser')
+        perfumes = []
+        count = 0
+        
+        # Find all result item links
+        result_items = soup.select('div[data-testid="resultItemLink"]')
+        print(f"Found {len(result_items)} result items with alternative method")
+        
+        for item in result_items:
+            if count >= max_results:
+                break
+                
+            link = item.select_one('a')
+            if not link:
+                continue
+                
+            # Extract product title
+            title_element = link.select_one('[data-testid="productSummary__title"]')
+            if not title_element:
+                continue
+                
+            title = title_element.text.strip()
+            
+            # Check if both brand and perfume name are in the title (case insensitive)
+            title_lower = title.lower()
+            brand_match = True if brand is None else brand.lower() in title_lower
+            perfume_match = True if perfume_name is None else perfume_name.lower() in title_lower
+            
+            if not (brand_match and perfume_match):
+                continue
+            
+            # Extract description
+            description = ""
+            desc_element = link.select_one('.sr-productSummary__mainDetailsExpander_BZ5P5')
+            if desc_element:
+                description = desc_element.text.strip()
+            
+            # Extract bottle size using regex or from title
+            bottle_size = None
+            # First try to find size in description
+            size_match = re.search(r'Inhalt in ml\s*(\d+(?:\.\d+)?)\s*ml', description)
+            if size_match:
+                bottle_size = size_match.group(1) + " ml"
+            else:
+                # Try to extract from title if it's in parentheses
+                size_match_title = re.search(r'\((\d+(?:\.\d+)?)ml\)', title)
+                if size_match_title:
+                    bottle_size = size_match_title.group(1) + " ml"
+            
+            # Extract price
+            price_element = link.select_one('[data-testid="detailedPriceInfo__price"]')
+            price = None
+            if price_element:
+                price_text = price_element.text.strip()
+                price_match = re.search(r'(\d+(?:\.\d+)?(?:,\d+)?)\s*€', price_text)
+                if price_match:
+                    price = price_match.group(1) + " €"
+            
+            # Create a structured data dictionary
+            perfume_data = {
+                'title': title,
+                'bottle_size': bottle_size,
+                'price': price,
+                'url': link.get('href'),
+            }
+            
+            perfumes.append(perfume_data)
+            count += 1
+        
+        return perfumes
+
+    def process_perfume_search(self, html_content, brand=None, perfume_name=None, max_results=5, debug=False):
+        """
+        Process perfume search results and print them in a readable format.
+        
+        Parameters:
+        - html_content (str): The HTML content containing perfume search results
+        - brand (str, optional): Brand name that must be contained in the item title
+        - perfume_name (str, optional): Perfume name that must be contained in the item title
+        - max_results (int, optional): Maximum number of results to return, defaults to 5
+        - debug (bool, optional): Whether to print debug information, defaults to False
+        
+        Returns:
+        - list: List of dictionaries containing extracted perfume data
+        """
+        # Make sure at least brand or perfume_name is provided
+        if not brand and not perfume_name:
+            print("Warning: Neither brand nor perfume_name provided. Will return all results up to max_results.")
+        
+        # Turn off print statements if debug is False
+        if not debug:
+            import contextlib
+            import io
+            f = io.StringIO()
+            with contextlib.redirect_stdout(f):
+                perfumes = self.extract_perfume_data(html_content, brand, perfume_name, max_results)
+                
+                if not perfumes:
+                    perfumes = self.extract_perfume_data_alternative(html_content, brand, perfume_name, max_results)
+        else:
+            # Debug mode - show all print statements
+            perfumes = self.extract_perfume_data(html_content, brand, perfume_name, max_results)
+            
+            if not perfumes:
+                perfumes = self.extract_perfume_data_alternative(html_content, brand, perfume_name, max_results)
+        
+        # Always print the final results
+        if not perfumes:
+            print("No matching perfumes found.")
+            return []
+        
+        print(f"Found {len(perfumes)} matching perfumes:")
+        for i, perfume in enumerate(perfumes, 1):
+            print(f"\n--- Perfume #{i} ---")
+            print(f"Title: {perfume['title']}")
+            print(f"Size: {perfume['bottle_size'] or 'Not specified'}")
+            print(f"Price: {perfume['price'] or 'Not available'}")
+            if 'base_price' in perfume and perfume['base_price']:
+                print(f"Base Price: {perfume['base_price']}")
+            if 'offers_count' in perfume and perfume['offers_count']:
+                print(f"Offers: {perfume['offers_count']}")
+        
+        return perfumes
