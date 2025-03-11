@@ -533,7 +533,7 @@ def main():
 
     parser = argparse.ArgumentParser()
     parser.add_argument("--num_chunks", type=int, default=1)    
-    parser.add_argument("--input", "-i", type=str, default="links.json")    
+    parser.add_argument("--input", "-i", type=str, default="leftover_urls.json")    
     parser.add_argument("--output", "-o", type=str, default='completed_perfumes.json')    
     parser.add_argument("--num_elements", "-n", type=int, default=250)    
     # parser.add_argument("--proxies", "-p", type=str, default='valid_proxies.txt')    

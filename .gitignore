@@ -10,3 +10,9 @@ douglas_preise.xlsx
 data/male_perfumes.json
 data/uni_perfumes.json
 media
+perfume_checkpoints
+Videos/__pycache__
+duckduckgo_prices/__pycache__
+duckduckgo_prices/perfume_checkpoints
+idealo_prices/__pycache__
+idealo_prices/idealo_scraper/perfume_checkpoints
