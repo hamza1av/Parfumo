@@ -83,26 +83,26 @@ class ScatterPlotScene(Scene):
             axis_config={"color": WHITE}
         )
 
-        x_label = Tex(r"Adjusted Price per 100ml (€)", font_size=28).next_to(ax, DOWN, buff=0.5)
-        y_label = Tex(r"Duft Rating", font_size=28)
-        y_label.next_to(ax.y_axis.get_end(), UP, buff=0.3)  # Move above y-axis arrow
+        # x_label = Tex(r"Adjusted Price per 100ml (€)", font_size=28).next_to(ax, DOWN, buff=0.5)
+        # y_label = Tex(r"Duft Rating", font_size=28)
+        # y_label.next_to(ax.y_axis.get_end(), UP, buff=0.3)  # Move above y-axis arrow
 
         # Title
         title = Tex(r"Perfume Price vs. Rating", font_size=36)
         title.to_edge(UP)
 
         # Add tick labels
-        x_labels = VGroup(*[
-            Tex(str(i), font_size=24).next_to(ax.c2p(i, 0), DOWN, buff=0.2)
-            for i in range(0, 501, 50)
-        ])
-        y_labels = VGroup(*[
-            Tex(str(i), font_size=24).next_to(ax.c2p(0, i), LEFT, buff=0.2)
-            for i in range(0, 11, 1)
-        ])
+        # x_labels = VGroup(*[
+        #     Tex(str(i), font_size=24).next_to(ax.c2p(i, 0), DOWN, buff=0.2)
+        #     for i in range(0, 501, 50)
+        # ])
+        # y_labels = VGroup(*[
+        #     Tex(str(i), font_size=24).next_to(ax.c2p(0, i), LEFT, buff=0.2)
+        #     for i in range(0, 11, 1)
+        # ])
 
         # Add elements
-        self.add(ax, x_label, y_label, title, x_labels, y_labels)
+        # self.add(ax, x_label, y_label, title, x_labels, y_labels)
 
         # Scatter Plot Dots (Smaller Size)
         for x, y in df.values:
@@ -111,5 +111,6 @@ class ScatterPlotScene(Scene):
 
 # Execute rendering
 if __name__ == "__main__":
-    # os.system(r"manim -qk -v WARNING -p --disable_caching -o ScatterPlotScene.png Videos/scatterplot.py ScatterPlotScene")
-    os.system(r"manim -qk -v WARNING -p --disable_caching -o ScatterPlotScene.mp4 Videos/scatterplot.py ScatterPlotAnimatedScene")
+    os.system(r"manim -qk -v WARNING -p --disable_caching -o ScatterPlotScene.png Videos/scatterplot.py ScatterPlotScene")
+    # os.system(r"manim -qk -v WARNING -p --disable_caching -o ScatterPlotScene.mp4 Videos/scatterplot.py ScatterPlotAnimatedScene")
+
